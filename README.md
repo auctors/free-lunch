@@ -31,7 +31,7 @@ This is a list of privacy-focused Windows software for normal users, most of whi
         <li><a href="#Screenshot-and-Screen-Recorder">Screenshot and Screen Recorder</a></li>
         <li><a href="#Image">Image</a></li>
         <li><a href="#2D-and-3D">2D and 3D</a></li>
-        <li><a href="#Other-G">Other</a></li>
+        <li><a href="#Other-1">Other</a></li>
       </ul>
     </li>
     <li>
@@ -66,7 +66,7 @@ This is a list of privacy-focused Windows software for normal users, most of whi
       <ul>
         <li><a href="#Office">Office</a></li>
         <li><a href="#Notes">Notes</a></li>
-        <li><a href="#Other-P">Other</a></li>
+        <li><a href="#Other-2">Other</a></li>
       </ul>
     </li>
     <li><a href="#Health-and-Fitness">Health and Fitness</a></li>
@@ -140,14 +140,14 @@ This is a list of privacy-focused Windows software for normal users, most of whi
 - [Piped](https://piped.kavin.rocks) - An alternative privacy-friendly YouTube frontend which is efficient by design. [![repo](icons/repo.svg)](https://github.com/TeamPiped/Piped)
 - [Invidious](https://invidious.io/) - An alternative front-end to YouTube. [![repo](icons/repo.svg)](https://github.com/iv-org/invidious)
 - [pogu.live](https://pogu.live/) - Watch any sub-only Twitch VOD for free. [![repo](icons/repo.svg)](https://github.com/Alissonsleal/TwitchSubVod)
-- [LBRY](https://lbry.com/) - A decentralized video sharing network. [![repo](icons/repo.svg)](https://github.com/lbryio)  
+- [LBRY](https://lbry.com/) - A decentralized video sharing network. [![repo](icons/repo.svg)](https://github.com/lbryio)
 - [PeerTube](https://joinpeertube.org/) - A free, decentralized and federated video platform developed as an alternative to other platforms that centralize our data and attention, such as YouTube, Dailymotion or Vimeo. [![repo](icons/repo.svg)](https://github.com/Chocobozzz/PeerTube)
 - [Popcorn Time](https://popcorntime.app/) - A free BitTorrent client that includes an integrated media player. [![repo](icons/repo.svg)](https://github.com/popcorn-official/popcorn-desktop) 
 - [MotionMonkey](https://omega.gg/MotionMonkey) - A semantic video player designed to stream Internet videos from a single query. [![store](icons/store.svg)](https://www.microsoft.com/store/productId/9N7BZ2P6ZCZT)
 - [Syncplay](https://syncplay.pl/) - Syncplay synchronises the position and play state of multiple media players so that the viewers can watch the same thing at the same time. [![repo](icons/repo.svg)](https://github.com/Syncplay/syncplay)
 - [Metastream](https://getmetastream.com/) - Watch streaming media with friends. [![repo](icons/repo.svg)](https://github.com/samuelmaddock/metastream)
 - [OpenTogetherTube](https://opentogethertube.com/) - The easy way to watch videos with your friends. [![repo](icons/repo.svg)](https://github.com/dyc3/opentogethertube)
-- [WatchParty](https://www.watchparty.me/) - An website for watching videos together. [![repo](icons/repo.svg)](https://github.com/howardchung/watchparty)
+- [WatchParty](https://www.watchparty.me/) - A website for watching videos together. [![repo](icons/repo.svg)](https://github.com/howardchung/watchparty)
 - [Pennywise](https://github.com/kamranahmedse/pennywise) -  Cross-platform application to open any website or media in a floating window.
 
 ### Video Editor
@@ -255,7 +255,7 @@ This is a list of privacy-focused Windows software for normal users, most of whi
 - [Sweet Home 3D](https://www.sweethome3d.com/) - A free interior design application which helps you draw the plan of your house, arrange furniture on it and visit the results in 3D.
 - [F3D](https://f3d-app.github.io/f3d/) - A fast and minimalist 3D viewer. [![repo](icons/repo.svg)](https://github.com/f3d-app/f3d)
 
-### Other <a name="Other-G"></a>
+### Other
 
 - [Graphviz](https://graphviz.org/) - Open source graph visualization software. [![repo](icons/repo.svg)](https://gitlab.com/graphviz/graphviz)
 - [Gephi](https://gephi.org/) - Gephi is the leading visualization and exploration software for all kinds of graphs and networks. [![repo](icons/repo.svg)](https://github.com/gephi/gephi)
@@ -524,7 +524,7 @@ This is a list of privacy-focused Windows software for normal users, most of whi
 - [Xournal++](https://xournalpp.github.io/) - A handwriting notetaking software with PDF annotation support. [![repo](icons/repo.svg)](https://github.com/xournalpp/xournalpp)
 - [Microsoft journal](https://www.microsoft.com/store/productId/9N318R854RHH) - Microsoft Journal is a notetaking application that focuses on the inking experience.
 
-### Other <a name="Other-P"></a>
+### Other
 
 - [Manuskript](http://www.theologeek.ch/manuskript) - A open-source tool for writers. [![repo](icons/repo.svg)](https://github.com/olivierkes/manuskript)
 - [bibisco](https://bibisco.com/) - An open source application for writing novels. [![repo](icons/repo.svg)](https://github.com/andreafeccomandi/bibisco)
