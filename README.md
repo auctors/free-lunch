@@ -1,5 +1,4 @@
 # Free Lunch
-**A curated list of free privacy-conscious Windows software, online services and resources.**
 
 This is a list of privacy-focused Windows software for normal users, most of which is open source software. This list includes the great built-in apps in Windows.
 
@@ -10,74 +9,81 @@ This is a list of privacy-focused Windows software for normal users, most of whi
 - ![microsoft store](icons/store.svg) - Microsoft Store.
 - ![repository](icons/repo.svg) - Repository.
 
-## TABLE OF CONTENTS
+## Mirrors
+
+- Github: https://github.com/auctors/free-lunch
+- Codeberg: https://codeberg.org/auctor/free-lunch
+- Qua: https://qua.name/auctor/free-lunch
+
+## Contents
+
 <details>
   <summary>Click to expand!</summary>
   <ol>
     <li>
-      <a href="#Audio">Audio</a>
+      <a href="#audio">Audio</a>
     </li>
     <li>
-      <a href="#Video">Video</a>
+      <a href="#video">Video</a>
       <ul>
-        <li><a href="#Video-Player">Video Player</a></li>
-        <li><a href="#Video-Editor">Video Editor</a></li>
-        <li><a href="#Other">Other</a></li>
+        <li><a href="#video-player">Video Player</a></li>
+        <li><a href="#video-editor">Video Editor</a></li>
+        <li><a href="#other">Other</a></li>
       </ul>
     </li>
     <li>
-      <a href="#Graphics">Graphics</a>
+      <a href="#graphics">Graphics</a>
       <ul>
-        <li><a href="#Screenshot-and-Screen-Recorder">Screenshot and Screen Recorder</a></li>
-        <li><a href="#Image">Image</a></li>
-        <li><a href="#2D-and-3D">2D and 3D</a></li>
-        <li><a href="#Other-1">Other</a></li>
+        <li><a href="#screenshot-and-screen-recorder">Screenshot and Screen Recorder</a></li>
+        <li><a href="#image">Image</a></li>
+        <li><a href="#2d-and-3d">2D and 3D</a></li>
+        <li><a href="#other-1">Other</a></li>
       </ul>
     </li>
     <li>
-      <a href="#Browser-and-Extension">Browser and Extension</a>
+      <a href="#browser-and-extension">Browser and Extension</a>
       <ul>
-        <li><a href="#Browser">Browser</a></li>
-        <li><a href="#Extension">Extension</a></li>
+        <li><a href="#browser">Browser</a></li>
+        <li><a href="#extension">Extension</a></li>
       </ul>
     </li>
     <li>
-      <a href="#Communications">Communications</a>
+      <a href="#communications">Communications</a>
       <ul>
-        <li><a href="#Email">Email</a></li>
-        <li><a href="#IM">IM</a></li>
-        <li><a href="#Social-Media">Social Media</a></li>
+        <li><a href="#email">Email</a></li>
+        <li><a href="#iM">IM</a></li>
+        <li><a href="#social-media">Social Media</a></li>
       </ul>
     </li>
-    <li><a href="#Downloader">Downloader</a></li>
+    <li><a href="#downloader">Downloader</a></li>
     <li>
-      <a href="#News-and-Books">News and Books</a>
+      <a href="#news-and-books">News and Books</a>
       <ul>
-        <li><a href="#News">News</a></li>
-        <li><a href="#Books">Books</a></li>
+        <li><a href="#news">News</a></li>
+        <li><a href="#books">Books</a></li>
       </ul>
     </li>
-    <li><a href="#Games">Games</a></li>
-    <li><a href="#File-Management">File Management</a></li>
-    <li><a href="#Backup-and-Sync">Backup and Sync</a></li>
-    <li><a href="#File-Sharing">File Sharing</a></li>
+    <li><a href="#games">Games</a></li>
+    <li><a href="#file-management">File Management</a></li>
+    <li><a href="#backup-and-sync">Backup and Sync</a></li>
+    <li><a href="#file-sharing">File Sharing</a></li>
     <li>
-      <a href="#Productivity">Productivity</a>
+      <a href="#productivity">Productivity</a>
       <ul>
-        <li><a href="#Office">Office</a></li>
-        <li><a href="#Notes">Notes</a></li>
-        <li><a href="#Other-2">Other</a></li>
+        <li><a href="#office">Office</a></li>
+        <li><a href="#notes">Notes</a></li>
+        <li><a href="#other-2">Other</a></li>
       </ul>
     </li>
-    <li><a href="#Health-and-Fitness">Health and Fitness</a></li>
-    <li><a href="#Personal-Finance">Personal Finance</a></li>
-    <li><a href="#Education">Education</a></li>
-    <li><a href="#Personalization">Personalization</a></li>
-    <li><a href="#Network-and-Admin">Network and Admin</a></li>
-    <li><a href="#Development">Development</a></li>
-    <li><a href="#Utilities">Utilities</a></li>
-    <li><a href="#Privacy-and-Security">Privacy and Security</a></li>
-    <li><a href="#Online-Services">Online Services</a></li>
+    <li><a href="#health-and-fitness">Health and Fitness</a></li>
+    <li><a href="#personal-finance">Personal Finance</a></li>
+    <li><a href="#education">Education</a></li>
+    <li><a href="#personalization">Personalization</a></li>
+    <li><a href="#network-and-admin">Network and Admin</a></li>
+    <li><a href="#development">Development</a></li>
+    <li><a href="#utilities">Utilities</a></li>
+    <li><a href="#privacy-and-security">Privacy and Security</a></li>
+    <li><a href="#online-services">Online Services</a></li>
   </ol>
 </details>
 
@@ -148,7 +154,7 @@ This is a list of privacy-focused Windows software for normal users, most of whi
 - [Metastream](https://getmetastream.com/) - Watch streaming media with friends. [![repo](icons/repo.svg)](https://github.com/samuelmaddock/metastream)
 - [OpenTogetherTube](https://opentogethertube.com/) - The easy way to watch videos with your friends. [![repo](icons/repo.svg)](https://github.com/dyc3/opentogethertube)
 - [WatchParty](https://www.watchparty.me/) - A website for watching videos together. [![repo](icons/repo.svg)](https://github.com/howardchung/watchparty)
-- [Pennywise](https://github.com/kamranahmedse/pennywise) -  Cross-platform application to open any website or media in a floating window.
+- [Pennywise](https://github.com/kamranahmedse/pennywise) - Cross-platform application to open any website or media in a floating window.
 
 ### Video Editor
 
@@ -226,7 +232,7 @@ This is a list of privacy-focused Windows software for normal users, most of whi
 - [Screenshot.rocks](https://screenshot.rocks/) - An online tool which allows you to create beautiful mobile & browser mockups from screenshots. [![repo](icons/repo.svg)](https://github.com/daveearley/screenshot.rocks)
 - [Cleanup.Picture](https://cleanup.pictures/) - A free web application that lets you quickly cleanup or remove objects in any image.
 - [BackgroundRemover](https://backgroundremover.app) - A free web application that lets you Remove Background from images and video. [![repo](icons/repo.svg)](https://github.com/nadermx/backgroundremover)
-- [Remove.bg](https://www.remove.bg/) - Remove background from images 100% automatically in 5 seconds without a single click.
+- ~~[Remove.bg](https://www.remove.bg/) - Remove background from images 100% automatically in 5 seconds without a single click.~~
 - [darktable](https://www.darktable.org/) - An open source photography workflow application and raw developer. [![repo](icons/repo.svg)](https://github.com/darktable-org/darktable)
 - [RawTherapee](http://rawtherapee.com/) - A powerful cross-platform raw photo processing program. [![repo](icons/repo.svg)](https://github.com/Beep6581/RawTherapee)
 - [Filmulator](https://filmulator.org/) - Simplified raw editing with the power of film. [![repo](icons/repo.svg)](https://github.com/CarVac/filmulator-gui)
@@ -252,6 +258,8 @@ This is a list of privacy-focused Windows software for normal users, most of whi
 - [Wick Editor](https://www.wickeditor.com/) - A free and open-source tool for creating games, animations and everything in-between! [![repo](icons/repo.svg)](https://github.com/wicklets/wick-editor)
 - [Blender](https://www.blender.org/) - Free and Open Source 3D creation suite. [![store](icons/store.svg)](https://www.microsoft.com/store/productId/9PP3C07GTVRH)
 - [FreeCAD](https://www.freecadweb.org/) - An open-source parametric 3D modeler made primarily to design real-life objects of any size. [![repo](icons/repo.svg)](https://github.com/FreeCAD/FreeCAD)
+- [OpenSCAD](https://www.openscad.org/) - The Programmers Solid 3D CAD Modeller. [![repo](icons/repo.svg)](https://github.com/openscad/openscad/)
+- [MeshLab](http://www.meshlab.net/) - The open source mesh processing system. [![repo](icons/repo.svg)](https://github.com/cnr-isti-vclab/meshlab)
 - [Sweet Home 3D](https://www.sweethome3d.com/) - A free interior design application which helps you draw the plan of your house, arrange furniture on it and visit the results in 3D.
 - [F3D](https://f3d-app.github.io/f3d/) - A fast and minimalist 3D viewer. [![repo](icons/repo.svg)](https://github.com/f3d-app/f3d)
 
@@ -276,8 +284,9 @@ This is a list of privacy-focused Windows software for normal users, most of whi
 
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Get the browser that protects what’s important. [![store](icons/store.svg)](https://www.microsoft.com/store/productId/9NZVDKPMR9RD)
 - [Brave](https://www.brave.com/) - A fast, private and secure web browser. [![repo](icons/repo.svg)](https://github.com/brave/brave-browser)
-- [Chrome](https://www.google.com/chrome/) - A web browser built for speed, stability and security.
+- [Chromium](https://chromium.woolyss.com/) - The free and open-source project behind Google Chrome.
 - [Tor Browser](https://www.torproject.org/) - A web broswer that anonymizes your web traffic using the Tor network.
+- ~~[Chrome](https://www.google.com/chrome/) - A web browser built for speed, stability and security.~~
 - ~~[Min](https://minbrowser.org/) - A fast, minimal browser that protects your privacy. [![repo](icons/repo.svg)](https://github.com/minbrowser/min)~~
 
 ### Extension
@@ -315,6 +324,7 @@ This is a list of privacy-focused Windows software for normal users, most of whi
 - [Mailspring](https://getmailspring.com/) - A beautiful, fast and fully open source mail client. [![repo](icons/repo.svg)](https://github.com/Foundry376/Mailspring)
 - [AnonAddy](https://anonaddy.com/) - Anonymous Email Forwarding. [![repo](icons/repo.svg)](https://github.com/anonaddy)
 - [SimpleLogin](https://simplelogin.io/) - Receive and send emails anonymously. [![repo](icons/repo.svg)](https://github.com/simple-login)
+- [Burner.kiwi](https://burner.kiwi/) - No bullshit temporary mail service written in Go. [![repo](icons/repo.svg)](https://github.com/haydenwoodhead/burner.kiwi)
 - [MailDrop](https://maildrop.cc/) - A quick, disposable email. [![repo](icons/repo.svg)](https://gitlab.com/markbeeson/maildrop)
 - [Guerrilla Mail](https://www.guerrillamail.com/) - A disposable email.
 
@@ -332,6 +342,7 @@ This is a list of privacy-focused Windows software for normal users, most of whi
 
 - [Mastodon](https://joinmastodon.org/) - Globally interconnected microblogging community. [![repo](icons/repo.svg)](https://github.com/mastodon/mastodon)
 - [Lemmy](https://join-lemmy.org/) - A link aggregator / Reddit clone for the fediverse. [![repo](icons/repo.svg)](https://github.com/LemmyNet/lemmy)
+- [WriteFreely](https://writefreely.org/) - A clean, simple publishing platform made for writers. [![repo](icons/repo.svg)](https://github.com/writefreely/writefreely)
 
 ## Downloader
 
@@ -430,6 +441,10 @@ This is a list of privacy-focused Windows software for normal users, most of whi
 - [Far Manager](https://farmanager.com/) - A program for managing files and archives in Windows operating systems. [![repo](icons/repo.svg)](https://github.com/FarGroup/FarManager)
 - [Everything](https://www.voidtools.com/) - Locate files and folders by name instantly.
 - [EverythingToolbar](https://github.com/stnkl/EverythingToolbar) - Everything integration for the Windows taskbar.
+- [Orange](https://0-range.github.io/) - A cross-platform desktop application for searching local files. [![repo](icons/repo.svg)](https://github.com/naaive/orange)
+- [Czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
+- [dupeGuru](https://dupeguru.voltaicideas.net/) - A cross-platform GUI tool to find duplicate files in a system. [![repo](icons/repo.svg)](https://github.com/arsenetar/dupeguru)
+- [Video Duplicate Finder](https://github.com/0x90d/videoduplicatefinder) - A cross-platform software to find duplicated video (and image) files on hard disk based on similiarity.
 - [Ant Renamer](https://www.antp.be/software/renamer) - A free program that makes easier the renaming of lots of files and folders by using specified settings.
 - [File Renamer Diff](https://github.com/soi013/FileRenamerDiff) - A File Renamer App featuring a difference display before and after the change for Windows. [![store](icons/store.svg)](https://www.microsoft.com/store/productId/9PH9DKV5XVDB)
 - [WinMerge](https://winmerge.org/) - An Open Source differencing and merging tool for Windows. [![repo](icons/repo.svg)](https://github.com/WinMerge/winmerge)
@@ -440,9 +455,9 @@ This is a list of privacy-focused Windows software for normal users, most of whi
 
 ## Backup and Sync
 
-- [Dropbox](https://www.dropbox.com/) - A file hosting service.
-- [Google Drive](https://drive.google.com/) - A file storage and synchronization service developed by Google.
-- OneDrive - A file hosting service operated by Microsoft.
+- ~~[Dropbox](https://www.dropbox.com/) - A file hosting service.~~
+- ~~[Google Drive](https://drive.google.com/) - A file storage and synchronization service developed by Google.~~
+- ~~OneDrive - A file hosting service operated by Microsoft.~~
 - [Nextcloud](https://nextcloud.com/) - A suite of client-server software for creating and using file hosting services. [![repo](icons/repo.svg)](https://github.com/nextcloud/desktop)
 - [MEGA](https://mega.nz/) - A secure, user-controlled end-to-end encrypted cloud storage and communications service with 20 GB free storage space. [![repo](icons/repo.svg)](https://github.com/meganz)
 - [Sync](https://www.sync.com/) - A file storage and document collaboration platform.
@@ -466,10 +481,10 @@ This is a list of privacy-focused Windows software for normal users, most of whi
 - OpenSSH - Windows Optional Features. OpenSSH is a complete implementation of the SSH protocol (version 2) for secure remote login, command execution and file transfer.
 - [SFTPGo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support.
 - [LANDrop](https://landrop.app/) - A cross-platform tool that you can use to conveniently transfer photos, videos, and other types of files to other devices on the same local network. [![repo](icons/repo.svg)](https://github.com/LANDrop/LANDrop)
-- [Flying Carpet](https://github.com/spieglt/FlyingCarpet) - Wireless, encrypted file transfer over automatically configured ad hoc networking.
-- [miniserve](https://github.com/svenstaro/miniserve) - A CLI tool to serve files and dirs over HTTP.
 - [Sharik](https://github.com/marchellodev/sharik) - An open-source, cross-platform solution for sharing files via Wi-Fi or Mobile Hotspot. [![store](icons/store.svg)](https://www.microsoft.com/store/productId/9NGCLB7JSPR9)
 - [Winpinator](https://winpinator.swisz.cz/) - Send and receive files across a local network. [![repo](icons/repo.svg)](https://github.com/swiszczoo/winpinator)
+- [Flying Carpet](https://github.com/spieglt/FlyingCarpet) - Wireless, encrypted file transfer over automatically configured ad hoc networking.
+- [miniserve](https://github.com/svenstaro/miniserve) - A CLI tool to serve files and dirs over HTTP.
 - [OnionShare](https://onionshare.org/) - An open source tool that lets you securely and anonymously share files, host websites, and chat with friends using the Tor network. [![repo](icons/repo.svg)](https://github.com/micahflee/onionshare)
 - [croc](https://schollz.com/software/croc6) - A CLI file-transfer tool. [![repo](icons/repo.svg)](https://github.com/schollz/croc)
 - [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) - Get things from one computer to another, safely.
@@ -494,9 +509,10 @@ This is a list of privacy-focused Windows software for normal users, most of whi
 ### Office
 
 - [LibreOffice](https://www.libreoffice.org/) - A free and powerful office suite.
-- [Google Docs](https://docs.google.com/) - Free online document editor.
-- [Microsoft Office Online](https://www.office.com) - Collaborate for free with online versions of Microsoft Word, PowerPoint, Excel, and OneNote.
+- ~~[Google Docs](https://docs.google.com/) - Free online document editor.~~
+- ~~[Microsoft Office Online](https://www.office.com) - Collaborate for free with online versions of Microsoft Word, PowerPoint, Excel, and OneNote.~~
 - [CryptPad](https://cryptpad.fr/) - A collaboration suite that is end-to-end-encrypted and open-source.[![repo](icons/repo.svg)](https://github.com/xwiki-labs/cryptpad)
+- [Grist](https://www.getgrist.com/) - Grist is a modern relational spreadsheet. [![repo](icons/repo.svg)](https://github.com/gristlabs/grist-core/)
 - [Sozi](http://sozi.baierouge.fr/) - A presentation tool for SVG documents. [![repo](icons/repo.svg)](https://github.com/sozi-projects/Sozi)
 
 ### Notes
@@ -545,8 +561,8 @@ This is a list of privacy-focused Windows software for normal users, most of whi
 - [ASCIIFlow](https://asciiflow.com/) - A client-side only web based application for drawing ASCII diagrams. [![repo](icons/repo.svg)](https://github.com/lewish/asciiflow)
 - [Datawrapper](https://datawrapper.de/) - An open source tool helping everyone to create simple, correct and embeddable charts in minutes.
 - [RAWGraphs](https://rawgraphs.io/) - An open web tool to create custom vector-based visualizations on top of the amazing d3.js library.
-- [Google Data Studio](https://datastudio.google.com/) - Data visualization and business intelligence (BI) platform.
-- [Microsoft Power BI](https://www.microsoft.com/store/productId/9NTXR16HNW1T) - With this powerful authoring tool, you can create interactive data visualizations and reports.
+- ~~[Google Data Studio](https://datastudio.google.com/) - Data visualization and business intelligence (BI) platform.~~
+- ~~[Microsoft Power BI](https://www.microsoft.com/store/productId/9NTXR16HNW1T) - With this powerful authoring tool, you can create interactive data visualizations and reports.~~
 - [Reactive Resume](https://rxresu.me/) - A free and open source resume builder. [![repo](icons/repo.svg)](https://github.com/AmruthPillai/Reactive-Resume)
 - [Resumake](https://resumake.io/) - A website for automatically generating elegant LaTeX resumes. [![repo](icons/repo.svg)](https://github.com/saadq/resumake.io)
 - [ueli](https://ueli.app/) - This is a keystroke launcher for Windows and macOS. [![repo](icons/repo.svg)](https://github.com/oliverschwendener/ueli)
@@ -568,10 +584,10 @@ This is a list of privacy-focused Windows software for normal users, most of whi
 
 ## Health and Fitness
 
+- [Ambie](https://ambieapp.com/) - The best white noise app on Windows. [![repo](icons/repo.svg)](https://github.com/jenius-apps/ambie) [![store](icons/store.svg)](https://www.microsoft.com/store/productId/9P07XNM5CHP0)
 - [f.lux](https://justgetflux.com/) - f.lux warms up your screen at night to help you relax and wind down before bed. [![store](icons/store.svg)](https://www.microsoft.com/store/productId/9N9KDPHV91JT)
 - [LightBulb](https://github.com/Tyrrrz/LightBulb) - An application that reduces eyestrain produced by staring at a computer screen when working late hours.
 - [Eyes Guard](https://github.avestura.dev/EyesGuard) - A Windows application for protecting your eyes when you are working with your PC or Laptop. [![repo](icons/repo.svg)](https://github.com/avestura/EyesGuard) [![store](icons/store.svg)](https://www.microsoft.com/store/productId/9PHW0XFKZD7J)
-- [Ambie](https://ambieapp.com/) - The best white noise app on Windows. [![repo](icons/repo.svg)](https://github.com/jenius-apps/ambie) [![store](icons/store.svg)](https://www.microsoft.com/store/productId/9P07XNM5CHP0)
 - [Workrave](https://www.workrave.org/) - A free program that assists in the recovery and prevention of Repetitive Strain Injury (RSI).
 - [Pomatez](https://roldanjr.github.io/pomatez) - An open-source Pomodoro timer application aimed for simplicity and productivity. [![repo](icons/repo.svg)](https://github.com/roldanjr/pomatez)
 - [Pomotroid](https://splode.github.io/pomotroid/) - Simple and visually-pleasing Pomodoro timer. [![repo](icons/repo.svg)](https://github.com/Splode/pomotroid)
@@ -585,11 +601,11 @@ This is a list of privacy-focused Windows software for normal users, most of whi
 ## Personal Finance
 
 - [Money](https://money.neptuo.com/) - Personal Expense Manager. [![repo](icons/repo.svg)](https://github.com/maraf/Money) [![store](icons/store.svg)](https://www.microsoft.com/store/productId/9N50XHGW891S)
-- [grocy](https://grocy.info/) - A web-based self-hosted groceries & household management solution for your home. [![store](icons/store.svg)](https://www.microsoft.com/store/productId/9NWB1TRNNKSF)
 - [My Budget](https://github.com/reZach/my-budget) - Free, open source offline cross-platform budgeting solution built with Electron.
 - [Money Manager Ex](http://moneymanagerex.org/) - A free, open-source, cross-platform, easy-to-use personal finance software. [![repo](icons/repo.svg)](https://github.com/moneymanagerex/moneymanagerex)
 - [GnuCash](http://www.gnucash.org/) - GnuCash is personal and small-business financial-accounting software. [![repo](icons/repo.svg)](https://github.com/Gnucash/gnucash)
 - [KMyMoney](https://kmymoney.org/) - A cross-platform personal finance manager.
+- [grocy](https://grocy.info/) - A web-based self-hosted groceries & household management solution for your home. [![store](icons/store.svg)](https://www.microsoft.com/store/productId/9NWB1TRNNKSF)
 - [CryptoTracker](https://ismaelestalayo.com/projects/CryptoTracker/) - Simple yet powerful cryptocurrency portfolio tracker designed with simplicity and functionality in mind. [![store](icons/store.svg)](https://www.microsoft.com/store/productId/9N3B47HBVBLC)
 - [rotki](https://rotki.com/) - A portfolio tracking, analytics, accounting and tax reporting application that protects your privacy. [![repo](icons/repo.svg)](https://github.com/rotki/rotki)
 
@@ -689,6 +705,7 @@ This is a list of privacy-focused Windows software for normal users, most of whi
 
 - [Notepads](https://www.notepadsapp.com/) - A modern, lightweight text editor with a minimalist design. [![repo](icons/repo.svg)](https://github.com/JasonStein/Notepads) [![store](icons/store.svg)](https://www.microsoft.com/store/productId/9NHL4NSC67WM)
 - [Notepad++](https://notepad-plus-plus.org/) - A free source code editor and Notepad replacement that supports several languages. [![repo](icons/repo.svg)](https://github.com/notepad-plus-plus/notepad-plus-plus)
+- [Kate](https://kate-editor.org/) - A multi-document text editor. [![store](icons/store.svg)](https://www.microsoft.com/store/productId/9NWMW7BB59HW)
 - [Lapce](http://lapce.dev/) - Lightning-fast and Powerful Code Editor written in Rust. [![repo](icons/repo.svg)](https://github.com/lapce/lapce)
 - [Visual Studio Code](https://code.visualstudio.com/) - A free, lightweight, and extensible code editor. [![repo](icons/repo.svg)](https://github.com/microsoft/vscode) [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/visual-studio-code/XP9KHM4BK9FZ7Q)
 - [VSCodium](https://vscodium.com/) - VSCodium is a community-driven, freely-licensed binary distribution of Microsoft’s editor VS Code. [![repo](icons/repo.svg)](https://github.com/VSCodium/vscodium)
@@ -728,7 +745,7 @@ AngularJS-powered HTML5 Markdown editor. [![repo](icons/repo.svg)](https://githu
 - [Etcher](https://etcher.io/) - A powerful OS image flasher. [![repo](icons/repo.svg)](https://github.com/balena-io/etcher)
 - [UNetbootin](http://unetbootin.github.io/) - UNetbootin allows you to create bootable Live USB drives for Ubuntu and other Linux distributions without burning a CD. [![repo](icons/repo.svg)](https://github.com/unetbootin/unetbootin)
 - [USBImager](https://gitlab.com/bztsrc/usbimager) - A very minimal GUI app that can write compressed disk images to USB drives.
-- [Macrium Reflect](https://www.macrium.com/) - The complete backup solution for personal use.
+- [Macrium Reflect Free](https://www.macrium.com/) - The complete backup solution for personal use.
 - [Veeam Agent for Microsoft Windows Free](https://www.veeam.com/) & [Veeam Backup & Replication Community Edition](https://www.veeam.com/) - The free backup software to protect virtual, physical and cloud workloads.
 - [UUP Media Creator](https://github.com/gus33000/UUPMediaCreator) - An utility to convert Unified Update Platform file sets into Windows Media files. [![store](icons/store.svg)](https://www.microsoft.com/store/productId/9N1Z0JXB224X)
 - [UUP dump](https://uupdump.net/) - Download UUP files from Windows Update servers with ease. [![repo](icons/repo.svg)](https://github.com/uup-dump)
@@ -736,6 +753,7 @@ AngularJS-powered HTML5 Markdown editor. [![repo](icons/repo.svg)](https://githu
 - [Sysinternals Suite](https://www.microsoft.com/store/productId/9P7KNL5RWT25) - A bundle of the Sysinternals utilities including Process Explorer, Process Monitor, Sysmon, Autoruns, ProcDump, all of the PsTools, and many more.
 - [Process Hacker](https://processhacker.sourceforge.io/) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. [![repo](icons/repo.svg)](https://github.com/processhacker/processhacker)
 - [NSudo](https://nsudo.m2team.org/) - NSudo is a system management tool for advanced users to launch programs with full privileges. [![repo](icons/repo.svg)](https://github.com/M2Team/NSudo)
+- [FontForge](http://fontforge.org/) - Free (libre) font editor for Windows, Mac OS X and GNU+Linux. [![repo](icons/repo.svg)](https://github.com/fontforge/fontforge)
 - [Shutdown Timer Classic](https://github.com/lukaslangrock/ShutdownTimerClassic) - Pick a time and let your computer shutdown itself. [![store](icons/store.svg)](https://www.microsoft.com/store/productId/9NTDG6C9BTTW)
 - [Barrier](https://github.com/debauchee/barrier) - Open-source KVM software.
 - [X-Mouse Controls](https://joelpurra.com/projects/X-Mouse_Controls/) - Windows utility to enable or disable active window tracking, raising and also the delay in milliseconds. [![repo](icons/repo.svg)](https://github.com/joelpurra/xmouse-controls)
@@ -753,9 +771,6 @@ AngularJS-powered HTML5 Markdown editor. [![repo](icons/repo.svg)](https://githu
 - [TestDisk](https://www.cgsecurity.org/) - A powerful free data recovery software. [![repo](icons/repo.svg)](https://github.com/cgsecurity/testdisk)
 - [Windows File Recovery](https://www.microsoft.com/store/productId/9N26S50LN705) - A command-line software utility from Microsoft to recover deleted files.
 - [DMDE](https://dmde.com/) - A powerful tool for data searching, editing, and recovery on disks.
-- [Czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
-- [dupeGuru](https://dupeguru.voltaicideas.net/) - A cross-platform GUI tool to find duplicate files in a system. [![repo](icons/repo.svg)](https://github.com/arsenetar/dupeguru)
-- [Video Duplicate Finder](https://github.com/0x90d/videoduplicatefinder) - A cross-platform software to find duplicated video (and image) files on hard disk based on similiarity.
 - [TreeSize Free](http://jam-software.com/) - The disk space manager TreeSize Free tells you where precious disk space has gone. [![store](icons/store.svg)](https://www.microsoft.com/store/productId/9NBLGGH40881)
 - [WizTree](https://wiztreefree.com/) - The fastest disk space analyzer.
 - [Filelight](https://apps.kde.org/filelight/) - An application to visualize the disk usage on your computer. [![store](icons/store.svg)](https://www.microsoft.com/store/productId/9PFXCD722M2C)
@@ -816,6 +831,7 @@ AngularJS-powered HTML5 Markdown editor. [![repo](icons/repo.svg)](https://githu
 
 - [Kutt](https://kutt.it) - A modern URL shortener with support for custom domains. [![repo](icons/repo.svg)](https://github.com/thedevs-network/kutt)
 - [anon.to](https://anon.to/) - An anonymous URL redirector and shortener. [![repo](icons/repo.svg)](https://github.com/bhutanio/anon.to)
+- [Lstu](https://lstu.fr/) - A nice and open source url shortener. [![repo](icons/repo.svg)](https://framagit.org/fiat-tux/hat-softwares/lstu)
 - [LimeSurvey](https://www.limesurvey.org/) - The most popular FOSS online survey tool on the web. [![repo](icons/repo.svg)](https://github.com/LimeSurvey/LimeSurvey)
 - [Framaforms](https://framaforms.org) - Design your online surveys easily while respecting your audience.
 - [Framadate](https://framadate.org/) - Schedule a meeting or create an opinion poll.
