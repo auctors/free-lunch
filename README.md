@@ -1,6 +1,8 @@
 # Free Lunch
 
-This is a list of privacy-focused Windows software for normal users, most of which is open source software. This list includes the great built-in apps in Windows.
+This is a list of free Windows software for normal users, most of which is open source software. This list includes the great built-in apps in Windows. Hope it can help someone!
+
+The word "privacy-conscious" in the tagline is misleading, so i removed it to avoid arguments. Thanks for advice!
 
 *Please note the following points:*
 - Strikethrough text is used to show that something is not recommended. These apps aren't private or reliable enough compared to similar apps.
@@ -79,10 +81,31 @@ This is a list of privacy-focused Windows software for normal users, most of whi
     <li><a href="#personal-finance">Personal Finance</a></li>
     <li><a href="#education">Education</a></li>
     <li><a href="#personalization">Personalization</a></li>
-    <li><a href="#network-and-admin">Network and Admin</a></li>
+    <li>
+      <a href="#network-and-admin">Network and Admin</a>
+      <ul>
+        <li><a href="#remote-desktop">Remote Desktop</a></li>
+        <li><a href="#network-monitors">Network Monitors</a></li>
+        <li><a href="#other-3">Other</a></li>
+      </ul>
+    </li>
     <li><a href="#development">Development</a></li>
-    <li><a href="#utilities">Utilities</a></li>
-    <li><a href="#privacy-and-security">Privacy and Security</a></li>
+    <li>
+      <a href="#utilities">Utilities</a>
+      <ul>
+        <li><a href="#package-managers">Package Managers</a></li>
+        <li><a href="#hardware-monitoring">Hardware Monitoring</a></li>
+        <li><a href="#other-4">Other</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#privacy-and-security">Privacy and Security</a>
+      <ul>
+        <li><a href="#encryption-tools">Encryption Tools</a></li>
+        <li><a href="#password-managers">Password Managers</a></li>
+        <li><a href="#other-5">Other</a></li>
+      </ul>
+    </li>
     <li><a href="#online-services">Online Services</a></li>
   </ol>
 </details>
@@ -191,6 +214,7 @@ This is a list of privacy-focused Windows software for normal users, most of whi
 - [SubSync](https://subsync.online/) - An automatic movie subtitle synchronization tool. [![repo](icons/repo.svg)](https://github.com/sc0ty/subsync)
 - [Subliminal](http://subliminal.readthedocs.org/) - A command line tool to search and download subtitles. [![repo](icons/repo.svg)](https://github.com/Diaoul/subliminal)
 - [Mediarepo](https://mediarepo.trivernis.dev/) - A tool for managing media files. [![repo](icons/repo.svg)](https://github.com/Trivernis/mediarepo)
+- [Stash](https://stashapp.cc/) - An organizer for your porn, written in Go. [![repo](icons/repo.svg)](https://github.com/stashapp/stash)
 - [IPTV](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world.
 - [Glimesh](https://glimesh.tv/) - A next generation live streaming platform built by the community, for the community. [![repo](icons/repo.svg)](https://github.com/Glimesh/glimesh.tv)
 
@@ -283,11 +307,12 @@ This is a list of privacy-focused Windows software for normal users, most of whi
 ### Browser
 
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Get the browser that protects what’s important. [![store](icons/store.svg)](https://www.microsoft.com/store/productId/9NZVDKPMR9RD)
+- [LibreWolf](https://librewolf.net/) - A fork of Firefox, focused on privacy, security and freedom.
 - [Brave](https://www.brave.com/) - A fast, private and secure web browser. [![repo](icons/repo.svg)](https://github.com/brave/brave-browser)
 - [Chromium](https://chromium.woolyss.com/) - The free and open-source project behind Google Chrome.
 - [Tor Browser](https://www.torproject.org/) - A web broswer that anonymizes your web traffic using the Tor network.
 - ~~[Chrome](https://www.google.com/chrome/) - A web browser built for speed, stability and security.~~
-- ~~[Min](https://minbrowser.org/) - A fast, minimal browser that protects your privacy. [![repo](icons/repo.svg)](https://github.com/minbrowser/min)~~
+- ~~[Min](https://minbrowser.org/) - A fast, minimal browser that protects your privacy.~~ [![repo](icons/repo.svg)](https://github.com/minbrowser/min)
 
 ### Extension
 
@@ -471,6 +496,8 @@ This is a list of privacy-focused Windows software for normal users, most of whi
 - [Syncthing](https://forum.syncthing.net/) - A continuous file synchronization program. [![repo](icons/repo.svg)](https://github.com/syncthing/syncthing)
 - [Cyberduck](https://cyberduck.io/) - A libre FTP, SFTP, WebDAV, S3, Backblaze B2, Azure & OpenStack Swift browser. [![repo](icons/repo.svg)](https://github.com/iterate-ch/cyberduck)
 - [UrBackup](http://www.urbackup.org/) - UrBackup is an easy to setup Open Source client/server backup system, that through a combination of image and file backups accomplishes both data safety and a fast restoration time. [![repo](icons/repo.svg)](https://github.com/uroni)
+- [Macrium Reflect Free](https://www.macrium.com/) - The complete backup solution for personal use.
+- [Veeam Agent for Microsoft Windows Free](https://www.veeam.com/) & [Veeam Backup & Replication Community Edition](https://www.veeam.com/) - The free backup software to protect virtual, physical and cloud workloads.
 - [Ludusavi](https://github.com/mtkennerly/ludusavi) - A tool for backing up your PC video game save data.
 - [ChoEazyCopy](https://github.com/Cinchoo/ChoEazyCopy) - Simple and powerful RoboCopy GUI.
 - [Ultracopier](https://ultracopier.first-world.info/) - Ultracopier acts as a replacement for files copy dialogs. [![repo](icons/repo.svg)](https://github.com/alphaonex86/Ultracopier)
@@ -595,7 +622,7 @@ This is a list of privacy-focused Windows software for normal users, most of whi
 - [ActivityWatch](https://activitywatch.net/) - The best free and open-source automated time tracker. [![repo](icons/repo.svg)](https://github.com/ActivityWatch/activitywatch)
 - [Strategr](https://khrykin.github.io/strategr/) - No-Fuss Time Management App. [![repo](icons/repo.svg)](https://github.com/khrykin/StrategrDesktop)
 - [Nomie](https://nomie.app/) - Open-source mood and life tracking. [![repo](icons/repo.svg)](https://github.com/open-nomie/nomie5)
-- ~~[Habitica](https://habitica.com/) - A habit tracker app which treats your goals like a Role Playing Game. [![repo](icons/repo.svg)](https://github.com/HabitRPG/habitica)~~
+- ~~[Habitica](https://habitica.com/) - A habit tracker app which treats your goals like a Role Playing Game.~~ [![repo](icons/repo.svg)](https://github.com/HabitRPG/habitica)
 - [QMapShack](https://github.com/Maproom/qmapshack) - An intuitive and efficient tool for route planning and GPS recordings visualization.
 
 ## Personal Finance
@@ -673,11 +700,14 @@ This is a list of privacy-focused Windows software for normal users, most of whi
 
 ## Network and Admin
 
+### Remote Desktop
+
 - [Chrome Remote Desktop](https://remotedesktop.google.com/) - The easy way to remotely connect with your home or work computer, or share your screen with others.
 - [DWService](https://www.dwservice.net/) - Remotely access your devices from a Web browser.
 - [AnyDesk](https://anydesk.com/) - Your Remote Desktop Software for Windows.
 - Quick Assist - Quick Assist is a new app in Windows 10 that enables you to receive or provide assistance over a remote connection.
 - [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device.
+- [adb](https://developer.android.com/studio/releases/platform-tools) - A versatile command-line tool that lets you communicate with a device.
 - [Microsoft Remote Desktop](https://www.microsoft.com/store/productId/9WZDNCRFJ3PS) - Use the Microsoft Remote Desktop app to connect to a remote PC or virtual apps and desktops made available by your admin.
 - [TightVNC](https://www.tightvnc.com/) - A free remote desktop application.
 - [TigerVNC](https://tigervnc.org/) - TigerVNC is a high-performance, platform-neutral implementation of VNC, a client/server application that allows users to launch and interact with graphical applications on remote machines. [![repo](icons/repo.svg)](https://github.com/TigerVNC/tigervnc)
@@ -691,12 +721,17 @@ This is a list of privacy-focused Windows software for normal users, most of whi
 - [PRemoteM](https://github.com/VShawn/PRemoteM) - A modern personal remote session manager and launcher. [![store](icons/store.svg)](https://www.microsoft.com/store/productId/9PNMNF92JNFP)
 - [mRemoteNG](https://mremoteng.org/) - An open source, multi-protocol, tabbed remote connections manager. [![repo](icons/repo.svg)](https://github.com/mRemoteNG/mRemoteNG)
 - [Veyon](https://veyon.io/) - Cross-platform computer monitoring and classroom management. [![repo](icons/repo.svg)](https://github.com/veyon/veyon)
+
+### Network Monitors
+
 - [Wireshark](https://www.wireshark.org/) - The world’s foremost and widely-used network protocol analyzer.
 - [GlassWire](https://www.glasswire.com/) - A network security monitoring tool and analyzer.
 - [Fiddler](https://www.telerik.com/fiddler) - A Web Debugging Proxy which logs all HTTP(S) traffic between your computer and the Internet.
 - [NETworkManager](https://borntoberoot.net/NETworkManager/) - A powerful tool for managing networks and troubleshoot network problems. [![repo](icons/repo.svg)](https://github.com/BornToBeRoot/NETworkManager)
 - [Angry IP Scanner](http://angryip.org/) - Fast and friendly network scanner. [![repo](icons/repo.svg)](https://github.com/angryip/ipscan)
-- [adb](https://developer.android.com/studio/releases/platform-tools) - A versatile command-line tool that lets you communicate with a device.
+
+### Other
+
 - [SwitchHosts](https://swh.app/) - SwitchHosts is an App for managing hosts file. [![repo](icons/repo.svg)](https://github.com/oldj/SwitchHosts)
 - [Wifinian](https://github.com/emoacht/Wifinian) - A Windows desktop tool to enable user to actively control Wi-Fi connections. [![store](icons/store.svg)](https://www.microsoft.com/store/productId/9PNGFQPS4FLH)
 - [LibreSpeed](https://librespeed.org/) - This is a very lightweight Speedtest implemented in Javascript, using XMLHttpRequest and Web Workers. [![repo](icons/repo.svg)](https://github.com/librespeed/speedtest)
@@ -732,6 +767,8 @@ AngularJS-powered HTML5 Markdown editor. [![repo](icons/repo.svg)](https://githu
 
 ## Utilities
 
+### Package Managers
+
 - [Chocolatey](https://chocolatey.org/) - The package manager for Windows. [![repo](icons/repo.svg)](https://github.com/chocolatey/choco)
 - [Chocolatey GUI](https://github.com/chocolatey/ChocolateyGUI) - A delicious GUI for Chocolatey.
 - [Scoop](https://scoop.sh/) - A command-line installer for Windows. [![repo](icons/repo.svg)](https://github.com/lukesampson/scoop)
@@ -740,13 +777,24 @@ AngularJS-powered HTML5 Markdown editor. [![repo](icons/repo.svg)](https://githu
 - [PortableApps.com](https://portableapps.com/) - A website offering many free, commonly used Windows applications that have been specially packaged for portability.
 - [GeekUninstaller](https://geekuninstaller.com/) - A portable software uninstaller.
 - [BCUninstaller](https://www.bcuninstaller.com/) - A free program uninstaller. [![repo](icons/repo.svg)](https://github.com/Klocman/Bulk-Crap-Uninstaller)
+
+### Hardware Monitoring
+
+- [CrystalDiskMark](https://crystalmark.info/) - A simple storage benchmark.
+- [GSmartControl](https://gsmartcontrol.shaduri.dev/) - Hard disk drive and SSD health inspection tool. [![repo](icons/repo.svg)](https://github.com/ashaduri/gsmartcontrol)
+- [Fan Control](https://github.com/Rem0o/FanControl.Releases) - A focused, highly customizable fan controlling software for Windows.
+- [NBFC](https://github.com/hirschmann/nbfc) - A cross-platform fan control service for notebooks.
+- [Sidebar Diagnostics](https://github.com/ArcadeRenegade/SidebarDiagnostics) - A simple sidebar for Windows desktop that displays hardware diagnostic information.
+- [Open Hardware Monitor](https://openhardwaremonitor.org/) - The Open Hardware Monitor is a free open source software that monitors temperature sensors, fan speeds, voltages, load and clock speeds of a computer.
+- [Libre Hardware Monitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - A fork of Open Hardware Monitor.
+
+### Other
+
 - [Rufus](https://rufus.ie/) - A utility that helps format and create bootable USB flash drives. [![repo](icons/repo.svg)](https://github.com/pbatard/rufus) [![store](icons/store.svg)](https://www.microsoft.com/store/productId/9PC3H3V7Q9CH)
 - [Ventoy](https://www.ventoy.net/) - A Multiboot Bootable USB Creation Tool. [![repo](icons/repo.svg)](https://github.com/ventoy/Ventoy)
 - [Etcher](https://etcher.io/) - A powerful OS image flasher. [![repo](icons/repo.svg)](https://github.com/balena-io/etcher)
 - [UNetbootin](http://unetbootin.github.io/) - UNetbootin allows you to create bootable Live USB drives for Ubuntu and other Linux distributions without burning a CD. [![repo](icons/repo.svg)](https://github.com/unetbootin/unetbootin)
 - [USBImager](https://gitlab.com/bztsrc/usbimager) - A very minimal GUI app that can write compressed disk images to USB drives.
-- [Macrium Reflect Free](https://www.macrium.com/) - The complete backup solution for personal use.
-- [Veeam Agent for Microsoft Windows Free](https://www.veeam.com/) & [Veeam Backup & Replication Community Edition](https://www.veeam.com/) - The free backup software to protect virtual, physical and cloud workloads.
 - [UUP Media Creator](https://github.com/gus33000/UUPMediaCreator) - An utility to convert Unified Update Platform file sets into Windows Media files. [![store](icons/store.svg)](https://www.microsoft.com/store/productId/9N1Z0JXB224X)
 - [UUP dump](https://uupdump.net/) - Download UUP files from Windows Update servers with ease. [![repo](icons/repo.svg)](https://github.com/uup-dump)
 - [Driver Store Explorer](https://github.com/lostindark/DriverStoreExplorer) - Driver Store Explorer [RAPR] makes it easier to deal with Windows driver store.
@@ -775,23 +823,11 @@ AngularJS-powered HTML5 Markdown editor. [![repo](icons/repo.svg)](https://githu
 - [WizTree](https://wiztreefree.com/) - The fastest disk space analyzer.
 - [Filelight](https://apps.kde.org/filelight/) - An application to visualize the disk usage on your computer. [![store](icons/store.svg)](https://www.microsoft.com/store/productId/9PFXCD722M2C)
 - [CompactGUI](https://github.com/ImminentFate/CompactGUI) - Visual Interface for the Windows 10 Compact Function.
-- [CrystalDiskMark](https://crystalmark.info/) - A simple storage benchmark.
-- [GSmartControl](https://gsmartcontrol.shaduri.dev/) - Hard disk drive and SSD health inspection tool. [![repo](icons/repo.svg)](https://github.com/ashaduri/gsmartcontrol)
-- [Fan Control](https://github.com/Rem0o/FanControl.Releases) - A focused, highly customizable fan controlling software for Windows.
-- [NBFC](https://github.com/hirschmann/nbfc) - A cross-platform fan control service for notebooks.
-- [Sidebar Diagnostics](https://github.com/ArcadeRenegade/SidebarDiagnostics) - A simple sidebar for Windows desktop that displays hardware diagnostic information.
-- [Open Hardware Monitor](https://openhardwaremonitor.org/) - The Open Hardware Monitor is a free open source software that monitors temperature sensors, fan speeds, voltages, load and clock speeds of a computer.
-- [Libre Hardware Monitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - A fork of Open Hardware Monitor.
 
 ## Privacy and Security
 
-- Windows Security - Windows 10 and 11 include Windows Security, which provides the latest antivirus protection.
-- [VirusTotal](https://www.virustotal.com/) - Free online malware detection service for analyzing suspicious files and URLs.
-- Windows Defender Firewall - Windows Defender Firewall is a stateful host firewall.
-- [Simplewall](https://www.henrypp.org/product/simplewall) - Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer. [![repo](icons/repo.svg)](https://github.com/henrypp/simplewall)
-- [Portmaster](https://safing.io/) - Monitor all network activity. [![repo](icons/repo.svg)](https://github.com/safing/portmaster)
-- [O&O ShutUp10++](https://www.oo-software.com/en/shutup10) - Free antispy tool for Windows 10 and 11.
-- [Privatezilla](https://www.builtbybel.com/ms-apps/privatezilla) - Performs a privacy & security check of Windows 10. [![repo](icons/repo.svg)](https://github.com/builtbybel/privatezilla)
+### Encryption Tools
+
 - Bitlocker - BitLocker is capable of encrypting entire hard drives, including both system and data drives.
 - [VeraCrypt](https://www.veracrypt.fr/) - Disk encryption with strong security based on TrueCrypt. [![repo](icons/repo.svg)](https://github.com/veracrypt/VeraCrypt)
 - [Hat.sh](https://hat.sh/) - Encrypt and Decrypt files securely in your browser. [![repo](icons/repo.svg)](https://github.com/sh-dv/hat.sh)
@@ -807,11 +843,24 @@ AngularJS-powered HTML5 Markdown editor. [![repo](icons/repo.svg)](https://githu
 - [Horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted horcruxes so that you don't need to remember a passcode.
 - [OpenStego](https://www.openstego.com/) - OpenStego is a tool implemented in Java for generic steganography, with support for password-based encryption of the data. [![repo](icons/repo.svg)](https://github.com/syvaidya/openstego)
 - [StegCloak](https://stegcloak.surge.sh/) - Hide secrets with invisible characters in plain text securely using passwords. [![repo](icons/repo.svg)](https://github.com/KuroLabs/stegcloak)
+
+### Password Managers
+
 - [Bitwarden](https://bitwarden.com/) - Bitwarden is the easiest and safest way to store all of your logins and passwords while conveniently keeping them synced between all of your devices. [![repo](icons/repo.svg)](https://github.com/bitwarden/desktop) [![store](icons/store.svg)](https://www.microsoft.com/store/productId/9PJSDV0VPK04)
 - [KeePassXC](https://keepassxc.org/) - KeePassXC is a modern, secure, and open-source password manager that stores and manages your most sensitive information. [![repo](icons/repo.svg)](https://github.com/keepassxreboot/keepassxc)
 - [KeeWeb](https://app.keeweb.info) - This webapp is a browser and desktop password manager compatible with KeePass databases. [![repo](icons/repo.svg)](https://github.com/keeweb/keeweb)
 - ~~[LessPass](https://www.lesspass.com/) - A stateless password manager. [![repo](icons/repo.svg)](https://github.com/lesspass/lesspass)~~
 - [Diceware Passphrase Generator](https://www.rempe.us/diceware/) - A tool for generating strong Diceware passwords, with entropy and crack time estimates. [![repo](icons/repo.svg)](https://github.com/grempe/diceware)
+
+### Other
+
+- Windows Security - Windows 10 and 11 include Windows Security, which provides the latest antivirus protection.
+- [VirusTotal](https://www.virustotal.com/) - Free online malware detection service for analyzing suspicious files and URLs.
+- Windows Defender Firewall - Windows Defender Firewall is a stateful host firewall.
+- [Simplewall](https://www.henrypp.org/product/simplewall) - Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer. [![repo](icons/repo.svg)](https://github.com/henrypp/simplewall)
+- [Portmaster](https://safing.io/) - Monitor all network activity. [![repo](icons/repo.svg)](https://github.com/safing/portmaster)
+- [O&O ShutUp10++](https://www.oo-software.com/en/shutup10) - Free antispy tool for Windows 10 and 11.
+- [Privatezilla](https://www.builtbybel.com/ms-apps/privatezilla) - Performs a privacy & security check of Windows 10. [![repo](icons/repo.svg)](https://github.com/builtbybel/privatezilla)
 - [ProtonVPN](https://protonvpn.com/) - High-speed Swiss VPN that safeguards your privacy. [![repo](icons/repo.svg)](https://github.com/ProtonVPN/win-app)
 - [Windscribe](https://windscribe.com/) - Free VPN and Ad Blocker. [![repo](icons/repo.svg)](https://github.com/Windscribe/Desktop-App)
 - [ExifCleaner](https://exifcleaner.com/) - Cross-platform desktop GUI app to clean image metadata. [![repo](icons/repo.svg)](https://github.com/szTheory/exifcleaner)
@@ -855,7 +904,7 @@ AngularJS-powered HTML5 Markdown editor. [![repo](icons/repo.svg)](https://githu
 
 ## References & Acknowledgements
 
-***🔝[back to top](#table-of-contents)🔝***
+***🔝[back to top](#contents)🔝***
 
 - [GitHub](https://github.com/)
 - [AlternativeTo](https://alternativeto.net/)
