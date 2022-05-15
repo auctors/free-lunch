@@ -531,6 +531,7 @@
 - [File Converter](http://www.file-converter.org/) - A very simple tool which allows you to convert and compress one or several file(s) using the context menu of windows explorer. [![repo](icons/repo.svg)](https://github.com/Tichau/FileConverter)
 - [Dangerzone](https://dangerzone.rocks/) - Take potentially dangerous PDFs, office documents, or images and convert them to a safe PDF. [![repo](icons/repo.svg)](https://github.com/firstlookmedia/dangerzone)
 - [Convertio](https://convertio.co) - Easy tool to convert files online.
+- [MConverter](https://mconverter.eu/) - Convert any file type in bulk with ease. If installed from the Microsoft Store, you can convert files from Windows Explorer's Share context menu option. [![store](icons/store.svg)](https://www.microsoft.com/store/apps/9N4F69HXK2LP)
 
 ## Backup and Sync
 
