@@ -507,6 +507,7 @@
 - [SuperTuxKart](https://supertuxkart.net/) - A free kart racing game. [![repo](icons/repo.svg)](https://github.com/supertuxkart/stk-code)
 - [Xonotic](http://www.xonotic.org/) - An addictive, arena-style first person shooter with crisp movement and a wide array of weapons.
 - [FlightGear](https://www.flightgear.org/) - An open-source flight simulator.
+- [Rigs of Rods](https://www.rigsofrods.org/) - An open-source soft-body vehicle simulator. [![repo](icons/repo.svg)](https://github.com/RigsOfRods/rigs-of-rods)
 - [Endless Sky](https://endless-sky.github.io/) - A space exploration and combat game similar to Escape Velocity. [![repo](icons/repo.svg)](https://github.com/endless-sky/endless-sky)
 - [osu!](https://osu.ppy.sh/) - A free-to-win rhythm game. Rhythm is just a click away! [![repo](icons/repo.svg)](https://github.com/ppy)
 - [Lichess](https://lichess.org/) - The complete chess experience, play and compete with friends and others around the world. [![repo](icons/repo.svg)](https://github.com/lichess-org)
