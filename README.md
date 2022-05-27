@@ -1,6 +1,6 @@
 <h1 align="center">Free Lunch</h1></br>
 
-<p align="center"><b>List of free Windows software for normal users.</b></p></br>
+<p align="center"><b>List of free Windows software for normal users. It will be updated from time to time.</b></p></br>
 
 *Please note the following points:*
 
@@ -10,6 +10,47 @@
 - Microsoft Store Apps may not have all the features of Desktop Apps.
 - ![microsoft store](icons/store.svg) - Microsoft Store.
 - ![repository](icons/repo.svg) - Repository.
+
+**CHANGELOG 2022-05-27:**
+
+- [Audio](#audio)
+  - [Others](#others)
+    - Added [SpleeterGUI](https://github.com/boy1dr/SpleeterGui)
+  - [Audio Players](#audio-players)
+    - Removed [Google Play Music™ Desktop Player](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-)
+- [Video](#video)
+  - [Others](#others-1)
+    - Added [QPrompt](https://qprompt.app/)
+  - [Video Players](#video-players)
+    - Removed [pogu.live](https://github.com/Alissonsleal/TwitchSubVod)
+- [Graphics](#graphics)
+  - [2D and 3D](#2d-and-3d)
+    - Added [Enve](https://github.com/MaurycyLiebner/enve)
+  - [Others](#others-2)
+    - Added [Capture2text](https://sourceforge.net/projects/capture2text/)
+    - Added [NormCap](https://github.com/dynobo/normcap/)
+- [Games](#games)
+  - Added [Rigs of Rods](https://www.rigsofrods.org/)
+  - Added [OpenTDD](https://www.openttd.org/)
+- [Productivity](#productivity)
+  - [Writing Tools](#writing-tools)
+    - Added [ghostwriter](https://github.com/wereturtle/ghostwriter)
+  - [Time Tracking](#time-tracking)
+    - Added [Tockler](https://github.com/MayGo/tockler)
+  - [File Search](#file-search)
+    - Added [grepWin](https://github.com/stefankueng/grepWin)
+    - Added [dnGrep](https://github.com/dnGrep/dnGrep)
+  - [Markdown Editors](#markdown-editors)
+    - Removed [Notable](https://github.com/notable/notable)
+  - [Health and Fitness](#health-and-fitness)
+    - Added [OpenStreetMap](https://www.openstreetmap.org/)
+- [Development](#development)
+  - Added [Atom](https://github.com/atom/atom)
+  - Added [WindTerm](https://github.com/kingToolbox/WindTerm)
+- [Utilities](#others-5)
+  - [Others](#others-5)
+    - Added [Ten Hands](https://github.com/saisandeepvaddi/ten-hands)
+    - Added [workspacer](https://github.com/workspacer/workspacer)
 
 ## Mirrors
 
@@ -28,7 +69,7 @@
         <li><a href="#audio-players">Audio Players</a></li>
         <li><a href="#audio-editors">Audio Editors</a></li>
         <li><a href="#music-production">Music Production</a></li>
-        <li><a href="#other">Other</a></li>
+        <li><a href="#others">Others</a></li>
       </ul>
     </li>
     <li>
@@ -36,7 +77,7 @@
       <ul>
         <li><a href="#video-players">Video Players</a></li>
         <li><a href="#video-editors">Video Editors</a></li>
-        <li><a href="#other-1">Other</a></li>
+        <li><a href="#others-1">Others</a></li>
       </ul>
     </li>
     <li>
@@ -48,7 +89,7 @@
         <li><a href="#image-editors">Image Editors</a></li>
         <li><a href="#pixel-editors">Pixel Editors</a></li>
         <li><a href="#2d-and-3d">2D and 3D</a></li>
-        <li><a href="#other-2">Other</a></li>
+        <li><a href="#others-2">Others</a></li>
       </ul>
     </li>
     <li>
@@ -59,7 +100,7 @@
       </ul>
     </li>
     <li>
-      <a href="#communications">Communications</a>
+      <a href="#communication">Communication</a>
       <ul>
         <li><a href="#email">Email</a></li>
         <li><a href="#im">IM</a></li>
@@ -86,11 +127,12 @@
         <li><a href="#writing-tools">Writing Tools</a></li>
         <li><a href="#markdown-editors">Markdown Editors</a></li>
         <li><a href="#task-management">Task Management</a></li>
+        <li><a href="#time-tracking">Time Tracking</a></li>
         <li><a href="#clipboard-managers">Clipboard Managers</a></li>
         <li><a href="#file-search">File Search</a></li>
         <li><a href="#mind-mapping">Mind Mapping</a></li>
         <li><a href="#automation">Automation</a></li>
-        <li><a href="#other-3">Other</a></li>
+        <li><a href="#others-3">Others</a></li>
       </ul>
     </li>
     <li><a href="#health-and-fitness">Health and Fitness</a></li>
@@ -103,7 +145,7 @@
         <li><a href="#virtualization">Virtualization</a></li>
         <li><a href="#remote-desktop">Remote Desktop</a></li>
         <li><a href="#network-monitors">Network Monitors</a></li>
-        <li><a href="#other-4">Other</a></li>
+        <li><a href="#others-4">Others</a></li>
       </ul>
     </li>
     <li><a href="#development">Development</a></li>
@@ -117,7 +159,7 @@
         <li><a href="#disk-usage-analyzers">Disk Usage Analyzers</a></li>
         <li><a href="#hardware-monitoring">Hardware Monitoring</a></li>
         <li><a href="#system-administration">System Administration</a></li>
-        <li><a href="#other-5">Other</a></li>
+        <li><a href="#others-5">Others</a></li>
       </ul>
     </li>
     <li>
@@ -127,7 +169,7 @@
         <li><a href="#password-managers">Password Managers</a></li>
         <li><a href="#system-tweakers">System Tweakers</a></li>
         <li><a href="#firewall">Firewall</a></li>
-        <li><a href="#other-6">Other</a></li>
+        <li><a href="#others-6">Others</a></li>
       </ul>
     </li>
     <li><a href="#online-services">Online Services</a></li>
@@ -136,7 +178,7 @@
         <li><a href="#url-shorteners">URL Shorteners</a></li>
         <li><a href="#survey-tools">Survey Tools</a></li>
         <li><a href="#search-engines">Search Engines</a></li>
-        <li><a href="#other-7">Other</a></li>
+        <li><a href="#others-7">Others</a></li>
       </ul>
   </ol>
 </details>
@@ -157,7 +199,6 @@
 - [DeaDBeeF](https://deadbeef.sourceforge.io/) - A modular cross-platform audio player. [![repo](icons/repo.svg)](https://github.com/DeaDBeeF-Player/deadbeef)
 - [CPOD](https://github.com/z-------------/CPod) - A simple, beautiful podcast app.
 - [nuclear](https://nuclear.js.org/) - Streaming music player that finds free music for you. [![repo](icons/repo.svg)](https://github.com/nukeop/nuclear)
-- [Google Play Music™ Desktop Player](https://www.googleplaymusicdesktopplayer.com/) - A beautiful cross platform Desktop Player for Google Play Music. [![repo](icons/repo.svg)](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-)
 - [YouTube Music Desktop App](https://ytmdesktop.app/) - A Desktop App for YouTube Music. [![repo](icons/repo.svg)](https://github.com/ytmdesktop/ytmdesktop)
 - [Cider](https://cider.sh/) - An open source and community oriented Apple Music client. [![repo](icons/repo.svg)](https://github.com/ciderapp/Cider)
 - [Spotube](https://github.com/KRTirtho/spotube) - A lightweight free Spotify crossplatform-client which handles playback manually, streams music using Youtube & no Spotify premium account is needed.
@@ -178,7 +219,7 @@
 - [Sonic Pi](https://sonic-pi.net/) - A code-based music creation and performance tool. [![repo](icons/repo.svg)](https://github.com/sonic-pi-net/sonic-pi)
 - [AudioStellar](https://audiostellar.xyz/) - Open source data-driven musical instrument for latent sound structure discovery and music experimentation. [![repo](icons/repo.svg)](https://gitlab.com/ayrsd/audiostellar/)
 
-### Other
+### Others
 
 - [projectM](https://github.com/projectM-visualizer/projectm) - The most advanced open-source music visualizer. [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9NDCVH0VCWJN)
 - [Friture](https://friture.org/) - An application to visualize and analyze live audio data in real-time. [![repo](icons/repo.svg)](https://github.com/tlecomte/friture) [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9PH4BL3F5Q2H)
@@ -189,6 +230,7 @@
 - [Equalizer APO](https://sourceforge.net/projects/equalizerapo/) - A system-wide equalizer.
 - [Peace Equalizer](https://sourceforge.net/projects/peace-equalizer-apo-extension/) - A Windows PC interface for Equalizer APO.
 - [Real-time Noise Suppression Plugin](https://github.com/werman/noise-suppression-for-voice) - Noise suppression plugin based on Xiph's RNNoise.
+- [SpleeterGUI](https://github.com/boy1dr/SpleeterGui) - Music source separation desktop app.
 - [SoundSwitch](https://soundswitch.aaflalo.me/) - SoundSwitch offers you the opportunity to switch your playback and recording devices using simple hotkeys. [![repo](icons/repo.svg)](https://github.com/Belphemur/SoundSwitch)
 - [Audio Band](https://github.com/AudioBand/AudioBand) - Display and control songs from the Windows taskbar.
 - [MicMute](https://github.com/SaifAqqad/AHK_MicMute) - Control your microphone using keyboard and mouse hotkeys.
@@ -212,7 +254,6 @@
 - [FreeTube](https://freetubeapp.io/) - An Open Source YouTube app for privacy. [![repo](icons/repo.svg)](https://github.com/FreeTubeApp/FreeTube)
 - [Piped](https://piped.kavin.rocks) - An alternative privacy-friendly YouTube frontend which is efficient by design. [![repo](icons/repo.svg)](https://github.com/TeamPiped/Piped)
 - [Invidious](https://invidious.io/) - An alternative front-end to YouTube. [![repo](icons/repo.svg)](https://github.com/iv-org/invidious)
-- [pogu.live](https://pogu.live/) - Watch any sub-only Twitch VOD for free. [![repo](icons/repo.svg)](https://github.com/Alissonsleal/TwitchSubVod)
 - [Popcorn Time](https://popcorntime.app/) - A free BitTorrent client that includes an integrated media player. [![repo](icons/repo.svg)](https://github.com/popcorn-official/popcorn-desktop) 
 - [MotionMonkey](https://omega.gg/MotionMonkey) - A semantic video player designed to stream Internet videos from a single query. [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9N7BZ2P6ZCZT)
 - [Syncplay](https://syncplay.pl/) - Syncplay synchronises the position and play state of multiple media players so that the viewers can watch the same thing at the same time. [![repo](icons/repo.svg)](https://github.com/Syncplay/syncplay)
@@ -242,8 +283,9 @@
 - [MKVToolNix](https://mkvtoolnix.download/) - A set of tools to create, alter and inspect Matroska files under Linux, other Unices and Windows.
 - [av-converter](https://av-converter.com/) - Convert audio/video files to another format. [![repo](icons/repo.svg)](https://github.com/CrypticSignal/av-converter)
 
-### Other
+### Others
 
+- [QPrompt](https://qprompt.app/) - Personal teleprompter software for all video creators. [![repo](icons/repo.svg)](https://github.com/Cuperino/QPrompt)
 - [Kodi](https://kodi.tv/) - An award-winning free and open source software media player and entertainment hub for digital media for HTPCs (Home theater PCs). [![repo](icons/repo.svg)](https://github.com/xbmc/xbmc) [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9NBLGGH4T892)
 - [Jellyfin](https://jellyfin.org/) - A personal media server and client. [![repo](icons/repo.svg)](https://github.com/jellyfin)
 - [Universal Media Server](https://www.universalmediaserver.com/) - A DLNA, UPnP and HTTP(S) Media Server. [![repo](icons/repo.svg)](https://github.com/UniversalMediaServer/UniversalMediaServer)
@@ -281,6 +323,7 @@
 - [Inkscape](https://inkscape.org/) - A free and open-source vector graphics editor. [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9PD9BHGLFC7H)
 - [Krita](https://www.krita.org/) - A free and open source digital painting application. [![repo](icons/repo.svg)](https://github.com/KDE/krita)
 - [Pinta](https://www.pinta-project.com/) - A free, open source program for drawing and image editing. [![repo](icons/repo.svg)](https://github.com/PintaProject/Pinta)
+- [Milton](https://www.miltonpaint.com/) - A free and open-source infinite canvas paint program. [![repo](icons/repo.svg)](https://github.com/serge-rgb/milton)
 - [Drawpile](http://drawpile.net/) - A collaborative drawing program. [![repo](icons/repo.svg)](https://github.com/drawpile/Drawpile)
 - [tldraw](https://tldraw.com/) - A tiny little drawing app. [![repo](icons/repo.svg)](https://github.com/tldraw/tldraw)
 - [AutoDraw](https://www.autodraw.com/) - An intuitive drawing tool for everyone.
@@ -308,7 +351,6 @@
 - [miniPaint](http://viliusle.github.io/miniPaint/) - Online image editor lets you create, edit images using HTML5 technologies. [![repo](icons/repo.svg)](https://github.com/viliusle/miniPaint)
 - [FotoSketcher](https://fotosketcher.com/) - Turn your photos into beautiful paintings, sketches or drawings in seconds.
 - [Polotno Studio](https://studio.polotno.dev/) - Free online design editor. [![repo](icons/repo.svg)](https://github.com/polotno-project/polotno-studio)
-- [Milton](https://www.miltonpaint.com/) - A free and open-source infinite canvas paint program. [![repo](icons/repo.svg)](https://github.com/serge-rgb/milton)
 - [Screenshot.rocks](https://screenshot.rocks/) - An online tool which allows you to create beautiful mobile & browser mockups from screenshots. [![repo](icons/repo.svg)](https://github.com/daveearley/screenshot.rocks)
 - [Rembg](https://github.com/danielgatis/rembg) - A command line tool to remove images background.
 - [Cleanup.Picture](https://cleanup.pictures/) - A free web application that lets you quickly cleanup or remove objects in any image.
@@ -336,6 +378,7 @@
 - [Synfig Studio](https://synfig.org/) - A free and open-source 2D animation software. [![repo](icons/repo.svg)](https://github.com/synfig/synfig)
 - [OpenToonz](https://opentoonz.github.io/) - An open-source full-featured 2D animation creation software. [![repo](icons/repo.svg)](https://github.com/opentoonz/opentoonz)
 - [Pencil2D](http://pencil2d.org/) - An easy, intuitive tool to make 2D hand-drawn animations. [![repo](icons/repo.svg)](https://github.com/pencil2d/pencil)
+- [Enve](https://maurycyliebner.github.io/) - Open-source 2D animation software. [![repo](icons/repo.svg)](https://github.com/MaurycyLiebner/enve)
 - [Wick Editor](https://www.wickeditor.com/) - A free and open-source tool for creating games, animations and everything in-between! [![repo](icons/repo.svg)](https://github.com/wicklets/wick-editor)
 - [Blender](https://www.blender.org/) - Free and Open Source 3D creation suite. [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9PP3C07GTVRH)
 - [FreeCAD](https://www.freecadweb.org/) - An open-source parametric 3D modeler made primarily to design real-life objects of any size. [![repo](icons/repo.svg)](https://github.com/FreeCAD/FreeCAD)
@@ -344,7 +387,7 @@
 - [Sweet Home 3D](https://www.sweethome3d.com/) - A free interior design application which helps you draw the plan of your house, arrange furniture on it and visit the results in 3D.
 - [F3D](https://f3d-app.github.io/f3d/) - A fast and minimalist 3D viewer. [![repo](icons/repo.svg)](https://github.com/f3d-app/f3d)
 
-### Other
+### Others
 
 - [Graphviz](https://graphviz.org/) - Open source graph visualization software. [![repo](icons/repo.svg)](https://gitlab.com/graphviz/graphviz)
 - [Gephi](https://gephi.org/) - Gephi is the leading visualization and exploration software for all kinds of graphs and networks. [![repo](icons/repo.svg)](https://github.com/gephi/gephi)
@@ -352,6 +395,8 @@
 - [LiveDraw](https://github.com/antfu/live-draw) - A tool allows you to draw on screen real-time.
 - [Storyboarder](https://wonderunit.com/storyboarder) - Storyboarder makes it easy to visualize a story as fast you can draw stick figures. [![repo](icons/repo.svg)](https://github.com/wonderunit/storyboarder)
 - [gImageReader](https://github.com/manisandro/gImageReader) - A simple Gtk/Qt front-end to tesseract-ocr.
+- [Capture2Text](https://sourceforge.net/projects/capture2text/) - Quickly OCR part of the screen and save resulting text to clipboard.
+- [NormCap](https://dynobo.github.io/normcap/) - OCR powered screen-capture tool to capture information instead of images. [![repo](icons/repo.svg)](https://github.com/dynobo/normcap/)
 - [Colorpicker](https://colorpicker.fr/) - A mininal but complete colorpicker desktop app. [![repo](icons/repo.svg)](https://github.com/Toinane/colorpicker)
 - [Avataaars generator](https://getavataaars.com/) - Simple generator React app for avataaars. [![repo](icons/repo.svg)](https://github.com/fangpenlin/avataaars-generator)
 - [Personas by Draftbit](https://personas.draftbit.com/) - A delightful avatar generator by the folks at Draftbit. [![repo](icons/repo.svg)](https://github.com/draftbit/avatar-generator)
@@ -392,7 +437,7 @@
 - [Floccus](https://floccus.org/) - Sync your bookmarks privately across browsers. [![repo](icons/repo.svg)](https://github.com/floccusaddon/floccus)
 - [Gesturefy](https://github.com/Robbendebiene/Gesturefy) - Navigate, operate, and browse faster with mouse gestures! A customizable Firefox mouse gesture add-on with a variety of different commands.
 
-## Communications
+## Communication
 
 ### Email
 
@@ -620,11 +665,11 @@
 - [Manuskript](http://www.theologeek.ch/manuskript) - A open-source tool for writers. [![repo](icons/repo.svg)](https://github.com/olivierkes/manuskript)
 - [bibisco](https://bibisco.com/) - An open source application for writing novels. [![repo](icons/repo.svg)](https://github.com/andreafeccomandi/bibisco)
 - [novelWriter](https://novelwriter.io/) - An open source plain text editor designed for writing novels. [![repo](icons/repo.svg)](https://github.com/vkbo/novelWriter)
+- [ghostwriter](https://github.com/wereturtle/ghostwriter) - A cross-platform, aesthetic, distraction-free Markdown editor.
 - [KIT Scenarist](https://kitscenarist.ru/en/) - Simple and powerful application for writing screenplays. [![repo](icons/repo.svg)](https://github.com/dimkanovikov/KITScenarist)
 
 ### Markdown Editors
 
-- [Notable](https://notable.app/) - The Markdown-based note-taking app. [![repo](icons/repo.svg)](https://github.com/notable/notable)
 - [MarkText](https://marktext.app/) - A simple and elegant markdown editor. [![repo](icons/repo.svg)](https://github.com/marktext/marktext)
 - [Abricotine](http://abricotine.brrd.fr/) - Markdown editor with inline preview. [![repo](icons/repo.svg)](https://github.com/brrd/abricotine)
 - [PanWriter](https://panwriter.com/) - Markdown editor with pandoc integration and paginated preview. [![repo](icons/repo.svg)](https://github.com/mb21/panwriter)
@@ -638,6 +683,14 @@ AngularJS-powered HTML5 Markdown editor. [![repo](icons/repo.svg)](https://githu
 - [Focalboard](https://www.focalboard.com/) - An open source, self-hosted alternative to Trello, Notion, and Asana. [![repo](icons/repo.svg)](https://github.com/mattermost/focalboard) [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9NLN2T0SX9VF)
 - [Kanban Tasker](https://github.com/hjohnson12/Kanban-Tasker) - A simple personal kanban board. [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9NMKTDZ3L9LQ)
 - [sleek](https://github.com/ransome1/sleek) - A todo app based on todo.txt. [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9NWM2WXF60KR)
+
+### Time Tracking
+
+- [ActivityWatch](https://activitywatch.net/) - The best free and open-source automated time tracker. [![repo](icons/repo.svg)](https://github.com/ActivityWatch/activitywatch)
+- [Strategr](https://khrykin.github.io/strategr/) - No-Fuss Time Management App. [![repo](icons/repo.svg)](https://github.com/khrykin/StrategrDesktop)
+- [Tockler](https://tockler.io/) - An application that tracks your time by monitoring your active window title and idle time. [![repo](icons/repo.svg)](https://github.com/MayGo/tockler)
+- [Nomie](https://nomie.app/) - Open-source mood and life tracking. [![repo](icons/repo.svg)](https://github.com/open-nomie/nomie5)
+- ~~[Habitica](https://habitica.com/) - A habit tracker app which treats your goals like a Role Playing Game.~~ [![repo](icons/repo.svg)](https://github.com/HabitRPG/habitica)
 
 ### Clipboard Managers
 
@@ -655,6 +708,8 @@ AngularJS-powered HTML5 Markdown editor. [![repo](icons/repo.svg)](https://githu
 - [Flow launcher](https://flowlauncher.com/) - Quick file search & app launcher for Windows with community-made plugins. [![repo](icons/repo.svg)](https://github.com/Flow-Launcher/Flow.Launcher)
 - [Cerebro](https://cerebroapp.com/) - Open-source productivity booster with a brain. [![repo](icons/repo.svg)](https://github.com/cerebroapp/cerebro)
 - [SystemTrayMenu](http://hofknecht.eu/systemtraymenu/) - Browse and open your files easily. [![repo](icons/repo.svg)](https://github.com/Hofknecht/SystemTrayMenu) [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9N24F8ZBJMT1)
+- [grepWin](https://tools.stefankueng.com/grepWin.html) - A powerful and fast search tool using regular expressions. [![repo](icons/repo.svg)](https://github.com/stefankueng/grepWin)
+- [dnGrep](https://dngrep.github.io/) - dnGrep allows you to search across files with easy-to-read results. [![repo](icons/repo.svg)](https://github.com/dnGrep/dnGrep)
 
 ### Mind Mapping
 
@@ -676,7 +731,7 @@ AngularJS-powered HTML5 Markdown editor. [![repo](icons/repo.svg)](https://githu
 - [Mouse Jiggler](https://github.com/arkane-systems/mousejiggler) - A very simple piece of software whose sole function is to "fake" mouse input to Windows, and jiggle the mouse pointer back and forth.
 - [Shutdown Timer Classic](https://github.com/lukaslangrock/ShutdownTimerClassic) - Pick a time and let your computer shutdown itself. [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9NTDG6C9BTTW)
 
-### Other
+### Others
 
 - [Scribus](https://www.scribus.net/) - An open source desktop publishing software.
 - [TeXstudio](https://www.texstudio.org/) - A fully featured LaTeX editor. [![repo](icons/repo.svg)](https://github.com/texstudio-org/texstudio)
@@ -702,11 +757,8 @@ AngularJS-powered HTML5 Markdown editor. [![repo](icons/repo.svg)](https://githu
 - [Pomatez](https://roldanjr.github.io/pomatez) - An open-source Pomodoro timer application aimed for simplicity and productivity. [![repo](icons/repo.svg)](https://github.com/roldanjr/pomatez)
 - [Pomotroid](https://splode.github.io/pomotroid/) - Simple and visually-pleasing Pomodoro timer. [![repo](icons/repo.svg)](https://github.com/Splode/pomotroid)
 - [Stretchly](https://hovancik.net/stretchly) - The break time reminder app. [![repo](icons/repo.svg)](https://github.com/hovancik/stretchly)
-- [ActivityWatch](https://activitywatch.net/) - The best free and open-source automated time tracker. [![repo](icons/repo.svg)](https://github.com/ActivityWatch/activitywatch)
-- [Strategr](https://khrykin.github.io/strategr/) - No-Fuss Time Management App. [![repo](icons/repo.svg)](https://github.com/khrykin/StrategrDesktop)
-- [Nomie](https://nomie.app/) - Open-source mood and life tracking. [![repo](icons/repo.svg)](https://github.com/open-nomie/nomie5)
-- ~~[Habitica](https://habitica.com/) - A habit tracker app which treats your goals like a Role Playing Game.~~ [![repo](icons/repo.svg)](https://github.com/HabitRPG/habitica)
 - [QMapShack](https://github.com/Maproom/qmapshack) - An intuitive and efficient tool for route planning and GPS recordings visualization.
+- [OpenStreetMap](https://www.openstreetmap.org/) - A collaborative project to create a free editable map of the world.
 
 ## Personal Finance
 
@@ -767,7 +819,7 @@ AngularJS-powered HTML5 Markdown editor. [![repo](icons/repo.svg)](https://githu
 - [ElevenClock](https://www.somepythonthings.tk/programs/elevenclock/) - Have a customizable clock on your Windows 11 displays. [![repo](icons/repo.svg)](https://github.com/martinet101/ElevenClock) [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/elevenclock/XP89HZ8SVWTT0M)
 - [Taskbar Groups](https://github.com/tjackenpacken/taskbar-groups) - Lightweight utility for organizing the taskbar through groups.
 - [RunCat_for_windows](https://github.com/Kyome22/RunCat_for_windows) - A cute running cat animation on your windows taskbar.
-- [Desktop Pet (eSheep)](https://adrianotiger.github.io/desktopPet/) - This project gives you the possibility to add a pet to your desktop. [![repo](icons/repo.svg)](https://github.com/Adrianotiger/desktopPet)
+- [Desktop Pet (eSheep)](https://adrianotiger.github.io/desktopPet/) - This project gives you the possibility to add a pet to your desktop. [![repo](icons/repo.svg)](https://github.com/Adrianotiger/desktopPet) [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/esheep-64bit/9MX2V0TQT6RM)
 - [Custom Context Menu](https://github.com/ikas-mc/ContextMenuForWindows11) - Add Custom Context Menu For Windows11. [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9PC7BZZ28G0X)
 - [ContextMenuManager](https://bluepointlilac.github.io/ContextMenuManager) - A program to manage the Windows right-click context menu. [![repo](icons/repo.svg)](https://github.com/BluePointLilac/ContextMenuManager)
 - [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows.
@@ -819,7 +871,7 @@ AngularJS-powered HTML5 Markdown editor. [![repo](icons/repo.svg)](https://githu
 - [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - A network monitoring suspension window software on Windows platform.
 - [OpenNetMeter](https://github.com/Ashfaaq18/OpenNetMeter) - A simple program to monitor your network/data usage.
 
-### Other
+### Others
 
 - [SwitchHosts](https://swh.app/) - An App for managing hosts file. [![repo](icons/repo.svg)](https://github.com/oldj/SwitchHosts)
 - [Wifinian](https://github.com/emoacht/Wifinian) - A Windows desktop tool to enable user to actively control Wi-Fi connections. [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9PNGFQPS4FLH)
@@ -833,11 +885,13 @@ AngularJS-powered HTML5 Markdown editor. [![repo](icons/repo.svg)](https://githu
 - [Lapce](http://lapce.dev/) - Lightning-fast and Powerful Code Editor written in Rust. [![repo](icons/repo.svg)](https://github.com/lapce/lapce)
 - [Visual Studio Code](https://code.visualstudio.com/) - A free, lightweight, and extensible code editor. [![repo](icons/repo.svg)](https://github.com/microsoft/vscode) [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/visual-studio-code/XP9KHM4BK9FZ7Q)
 - [VSCodium](https://vscodium.com/) - A community-driven, freely-licensed binary distribution of Microsoft’s editor VS Code. [![repo](icons/repo.svg)](https://github.com/VSCodium/vscodium)
+- [Atom](https://atom.io/) - The hackable text editor. [![repo](icons/repo.svg)](https://github.com/atom/atom)
 - [DevToys](https://devtoys.app/) - A Swiss Army knife for developers. [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9PGCV4V3BK4W)
 - Windows Terminal - A modern, fast, efficient, powerful, and productive terminal application for users of command-line tools and shells like Command Prompt, PowerShell, and WSL.
 - [Fluent Terminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies. [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9P2KRLMFXF9T)
 - [PowerShell](https://apps.microsoft.com/store/detail/9MZ1SNWT0N5D) - A task-based command-line shell and scripting language built on .NET.
 - [Tabby](https://tabby.sh/) - A highly configurable terminal emulator, SSH and serial client. [![repo](icons/repo.svg)](https://github.com/Eugeny/tabby)
+- [WindTerm](https://kingtoolbox.github.io/) - A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal. [![repo](icons/repo.svg)](https://github.com/kingToolbox/WindTerm)
 - [adb](https://developer.android.com/studio/releases/platform-tools) - A programming tool used for the debugging of Android-based devices.
 - [freeCodeCamp.org](https://www.freecodecamp.org/) - Learn to code for free with millions of other people around the world. [![repo](icons/repo.svg)](https://github.com/freeCodeCamp/)
 - [The Odin Project](https://www.theodinproject.com/) - An open-source curriculum for learning full-stack web development. [![repo](icons/repo.svg)](https://github.com/TheOdinProject)
@@ -909,10 +963,11 @@ AngularJS-powered HTML5 Markdown editor. [![repo](icons/repo.svg)](https://githu
 - [Process Hacker](https://processhacker.sourceforge.io/) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. [![repo](icons/repo.svg)](https://github.com/processhacker/processhacker)
 - [NSudo](https://nsudo.m2team.org/) - A system management tool for advanced users to launch programs with full privileges. [![repo](icons/repo.svg)](https://github.com/M2Team/NSudo)
 
-### Other
+### Others
 
 - [Driver Store Explorer](https://github.com/lostindark/DriverStoreExplorer) - Driver Store Explorer [RAPR] makes it easier to deal with Windows driver store.
 - [FontForge](http://fontforge.org/) - Free (libre) font editor for Windows, Mac OS X and GNU+Linux. [![repo](icons/repo.svg)](https://github.com/fontforge/fontforge)
+- [Ten Hands](https://tenhands.app/) - Simplest way to organize and run command-line tasks. [![repo](icons/repo.svg)](https://github.com/saisandeepvaddi/ten-hands)
 - [Barrier](https://github.com/debauchee/barrier) - Open-source KVM software.
 - [X-Mouse Controls](https://joelpurra.com/projects/X-Mouse_Controls/) - Windows utility to enable or disable active window tracking, raising and also the delay in milliseconds. [![repo](icons/repo.svg)](https://github.com/joelpurra/xmouse-controls)
 - [SharpKeys](http://www.randyrants.com/) - A utility that manages a Registry key that allows Windows to remap one key to any other key. [![repo](icons/repo.svg)](https://github.com/randyrants/sharpkeys)
@@ -921,6 +976,7 @@ AngularJS-powered HTML5 Markdown editor. [![repo](icons/repo.svg)](https://githu
 - [Scanner](https://github.com/simon-knuth/scanner) - An all-in-one scanner app built for the Universal Windows Platform. [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9N438MZHD3ZF)
 - [WinCompose](http://wincompose.info/) - A compose key for Windows. [![repo](icons/repo.svg)](https://github.com/samhocevar/wincompose)
 - [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity. [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD)
+- [workspacer](https://workspacer.org/) - A tiling window manager for Windows. [![repo](icons/repo.svg)](https://github.com/workspacer/workspacer)
 - [AltSnap](https://github.com/RamonUnch/AltSnap) - Easily drag windows when pressing the alt key.
 - [CompactGUI](https://github.com/ImminentFate/CompactGUI) - Visual Interface for the Windows 10 Compact Function.
 - [AltStore](https://altstore.io/) - An alternative app store for non-jailbroken iOS devices. [![repo](icons/repo.svg)](https://github.com/rileytestut/AltStore)
@@ -967,7 +1023,7 @@ AngularJS-powered HTML5 Markdown editor. [![repo](icons/repo.svg)](https://githu
 - [Simplewall](https://www.henrypp.org/product/simplewall) - Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer. [![repo](icons/repo.svg)](https://github.com/henrypp/simplewall)
 - [Portmaster](https://safing.io/) - Monitor all network activity. [![repo](icons/repo.svg)](https://github.com/safing/portmaster)
 
-### Other
+### Others
 
 - Windows Security - Windows 10 and 11 include Windows Security, which provides the latest antivirus protection.
 - [VirusTotal](https://www.virustotal.com/) - Free online malware detection service for analyzing suspicious files and URLs.
@@ -1011,7 +1067,7 @@ AngularJS-powered HTML5 Markdown editor. [![repo](icons/repo.svg)](https://githu
 - [Searx](https://searx.github.io/searx/) - Privacy-respecting metasearch engine. [![repo](icons/repo.svg)](https://github.com/searx/searx)
 - [Whoogle search](https://pypi.org/project/whoogle-search/) - A self-hosted, ad-free, privacy-respecting metasearch engine. [![repo](icons/repo.svg)](https://github.com/benbusby/whoogle-search)
 
-### Other
+### Others
 
 - [fediverse.party](https://fediverse.party/) - A quick look into Fediverse networks.
 - [AlternativeTo](https://alternativeto.net/) - A website which lists alternatives to web-based software, desktop computer software, and mobile apps.
@@ -1030,7 +1086,7 @@ AngularJS-powered HTML5 Markdown editor. [![repo](icons/repo.svg)](https://githu
 
 ## References & Acknowledgements
 
-***🔝[back to top](#contents)🔝***
+***⬆️[back to top](#contents)⬆️***
 
 - [GitHub](https://github.com/)
 - [AlternativeTo](https://alternativeto.net/)
