@@ -529,7 +529,7 @@
 - [File Renamer Diff](https://github.com/soi013/FileRenamerDiff) - A File Renamer App featuring a difference display before and after the change for Windows. [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9PH9DKV5XVDB)
 - [WinMerge](https://winmerge.org/) - An Open Source differencing and merging tool for Windows. [![repo](icons/repo.svg)](https://github.com/WinMerge/winmerge)
 - [Pandoc](https://pandoc.org/) - Universal markup converter. [![repo](icons/repo.svg)](https://github.com/jgm/pandoc)
-- [File Converter](http://www.file-converter.org/) - A very simple tool which allows you to convert and compress one or several file(s) using the context menu of windows explorer. [![repo](icons/repo.svg)](https://github.com/Tichau/FileConverter)
+- [File Converter](https://file-converter.org/) - A very simple tool which allows you to convert and compress one or several file(s) using the context menu of windows explorer. [![repo](icons/repo.svg)](https://github.com/Tichau/FileConverter)
 - [Dangerzone](https://dangerzone.rocks/) - Take potentially dangerous PDFs, office documents, or images and convert them to a safe PDF. [![repo](icons/repo.svg)](https://github.com/firstlookmedia/dangerzone)
 - [Convertio](https://convertio.co) - Easy tool to convert files online.
 
