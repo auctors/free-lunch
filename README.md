@@ -1049,6 +1049,6 @@ AngularJS-powered HTML5 Markdown editor. [![repo](icons/repo.svg)](https://githu
 - [Awesome Humane Tech](https://community.humanetech.com/) - Promoting Solutions that Improve Wellbeing, Freedom and Society. [![repo](icons/repo.svg)](https://github.com/humanetech-community/awesome-humane-tech)
 - [ethical.net](https://ethical.net/) - A not-for-profit project building a collaborative, online directory of ethical companies of all kinds.
 
-## LISENCE
+## LICENSE
 
 - The assets in `icons/` made by [Paweł Kuna](https://github.com/codecalm) from https://tabler-icons.io is licensed by [MIT](https://github.com/tabler/tabler-icons/blob/master/LICENSE)
