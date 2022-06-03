@@ -317,6 +317,7 @@
 - [Streamlabs](https://streamlabs.com/) - Free and open source streaming software built on OBS and Electron. [![repo](icons/repo.svg)](https://github.com/stream-labs/streamlabs-obs)
 - [Captura](https://mathewsachin.github.io/Captura/) - Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes. [![repo](icons/repo.svg)](https://github.com/MathewSachin/Captura)
 - [ScreenREC](https://screen-rec.vercel.app/) - A really simple web screen recorder. [![repo](icons/repo.svg)](https://github.com/heysagnik/screenREC)
+- [LICEcap](https://www.cockos.com/licecap/) - LICEcap simple animated screen capture tool for Windows (gif recorder) [![repo](icons/repo.svg)](https://github.com/justinfrankel/licecap)
 
 ### Digital Painting
 
