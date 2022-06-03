@@ -1,56 +1,30 @@
 <h1 align="center">Free Lunch</h1></br>
 
-<p align="center"><b>List of free Windows software for normal users. It will be updated from time to time.</b></p></br>
+<p align="center"><b>This is a list of free Windows software for normal users. It will be updated from time to time.</b></p></br>
 
 *Please note the following points:*
 
 - This list contains the great built-in apps in Windows.
-- Strikethrough text is used to show that something is not recommended. These apps aren't private or reliable enough compared to similar apps.
+- Strikethrough text is used to show that something is not recommended. These apps aren't private or reliable enough compared to similar apps, although they are cool!
 - Some apps could possibly infringe copyright or other laws.
 - Microsoft Store Apps may not have all the features of Desktop Apps.
 - ![microsoft store](icons/store.svg) - Microsoft Store.
 - ![repository](icons/repo.svg) - Repository.
 
-**CHANGELOG 2022-05-27:**
+**CHANGELOG 2022-06-03:**
 
 - [Audio](#audio)
-  - [Others](#others)
-    - Added [SpleeterGUI](https://github.com/boy1dr/SpleeterGui)
-  - [Audio Players](#audio-players)
-    - Removed [Google Play Music™ Desktop Player](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-)
-- [Video](#video)
-  - [Others](#others-1)
-    - Added [QPrompt](https://qprompt.app/)
-  - [Video Players](#video-players)
-    - Removed [pogu.live](https://github.com/Alissonsleal/TwitchSubVod)
+  - [Audio Editors](#audio-editors)
+    - Added [Mp3tag](https://mp3tag.de/en)
 - [Graphics](#graphics)
-  - [2D and 3D](#2d-and-3d)
-    - Added [Enve](https://github.com/MaurycyLiebner/enve)
-  - [Others](#others-2)
-    - Added [Capture2text](https://sourceforge.net/projects/capture2text/)
-    - Added [NormCap](https://github.com/dynobo/normcap/)
-- [Games](#games)
-  - Added [Rigs of Rods](https://www.rigsofrods.org/)
-  - Added [OpenTTD](https://www.openttd.org/)
-- [Productivity](#productivity)
-  - [Writing Tools](#writing-tools)
-    - Added [ghostwriter](https://github.com/wereturtle/ghostwriter)
-  - [Time Tracking](#time-tracking)
-    - Added [Tockler](https://github.com/MayGo/tockler)
-  - [File Search](#file-search)
-    - Added [grepWin](https://github.com/stefankueng/grepWin)
-    - Added [dnGrep](https://github.com/dnGrep/dnGrep)
-  - [Markdown Editors](#markdown-editors)
-    - Removed [Notable](https://github.com/notable/notable)
-  - [Health and Fitness](#health-and-fitness)
-    - Added [OpenStreetMap](https://www.openstreetmap.org/)
-- [Development](#development)
-  - Added [Atom](https://github.com/atom/atom)
-  - Added [WindTerm](https://github.com/kingToolbox/WindTerm)
-- [Utilities](#others-5)
-  - [Others](#others-5)
-    - Added [Ten Hands](https://github.com/saisandeepvaddi/ten-hands)
-    - Added [workspacer](https://github.com/workspacer/workspacer)
+  - [Screenshot and Screen Recorder](#screenshot-and-screen-recorder)
+    - Added [LICEcap](https://www.cockos.com/licecap/)
+    - Added [gifcap](https://gifcap.dev/)
+  - [Image Editors](#image-editors)
+    - Added [Pixelitor](https://pixelitor.sourceforge.io/)
+- [Browsers and Extensions](#browsers-and-extensions)
+  - [Extensions](#extensions)
+    - Added [BetterViewer](https://github.com/Ademking/BetterViewer)
 
 ## Mirrors
 
@@ -209,6 +183,7 @@
 - [Tenacity](https://tenacityaudio.org/) - An easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder. [![repo](icons/repo.svg)](https://github.com/tenacityteam/tenacity)
 - [fre:ac](https://www.freac.org/) - A free audio converter and CD ripper with support for various popular formats and encoders. [![repo](icons/repo.svg)](https://github.com/enzo1982/freac) [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9P1XD8ZQJ7JD)
 - [MusicBrainz Picard](https://picard.musicbrainz.org/) - An open-source cross-platform music tagger. [![repo](icons/repo.svg)](https://github.com/metabrainz/picard) [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9NJ9Q3JR29L2)
+- [Mp3tag](https://mp3tag.de/en) - A powerful and easy-to-use tool to edit metadata of audio files. [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/mp3tag/9NN77TCQ1NC8)
 
 ### Music Production
 
@@ -232,6 +207,7 @@
 - [Real-time Noise Suppression Plugin](https://github.com/werman/noise-suppression-for-voice) - Noise suppression plugin based on Xiph's RNNoise.
 - [SpleeterGUI](https://github.com/boy1dr/SpleeterGui) - Music source separation desktop app.
 - [SoundSwitch](https://soundswitch.aaflalo.me/) - SoundSwitch offers you the opportunity to switch your playback and recording devices using simple hotkeys. [![repo](icons/repo.svg)](https://github.com/Belphemur/SoundSwitch)
+- [EarTrumpet](https://eartrumpet.app/) - A powerful volume control app for Windows. [![repo](icons/repo.svg)](https://github.com/File-New-Project/EarTrumpet) [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9NBLGGH516XP)
 - [Audio Band](https://github.com/AudioBand/AudioBand) - Display and control songs from the Windows taskbar.
 - [MicMute](https://github.com/SaifAqqad/AHK_MicMute) - Control your microphone using keyboard and mouse hotkeys.
 - [Mechvibes](https://mechvibes.com/) - Adds sound feedback any keyboard. [![repo](icons/repo.svg)](https://github.com/hainguyents13/mechvibes)
@@ -317,7 +293,8 @@
 - [Streamlabs](https://streamlabs.com/) - Free and open source streaming software built on OBS and Electron. [![repo](icons/repo.svg)](https://github.com/stream-labs/streamlabs-obs)
 - [Captura](https://mathewsachin.github.io/Captura/) - Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes. [![repo](icons/repo.svg)](https://github.com/MathewSachin/Captura)
 - [ScreenREC](https://screen-rec.vercel.app/) - A really simple web screen recorder. [![repo](icons/repo.svg)](https://github.com/heysagnik/screenREC)
-- [LICEcap](https://www.cockos.com/licecap/) - LICEcap simple animated screen capture tool for Windows (gif recorder) [![repo](icons/repo.svg)](https://github.com/justinfrankel/licecap)
+- [LICEcap](https://www.cockos.com/licecap/) - LICEcap simple animated screen capture tool for Windows (gif recorder). [![repo](icons/repo.svg)](https://github.com/justinfrankel/licecap)
+- [gifcap](https://gifcap.dev/) - Capture your screen to a GIF in your browser. [![repo](icons/repo.svg)](https://github.com/joaomoreno/gifcap)
 
 ### Digital Painting
 
@@ -348,6 +325,7 @@
 - [Paint.NET](https://www.getpaint.net/) - Free image and photo editing software.
 - [ImageMagick](https://imagemagick.org/) - A software suite to create, edit, and compose bitmap images. [![repo](icons/repo.svg)](https://github.com/ImageMagick/ImageMagick)
 - [PhotoDemon](https://photodemon.org/) - A portable photo editor. [![repo](icons/repo.svg)](https://github.com/tannerhelland/PhotoDemon)
+- [Pixelitor](https://pixelitor.sourceforge.io/) - A desktop image editor. [![repo](icons/repo.svg)](https://github.com/lbalazscs/Pixelitor)
 - [Photopea](https://www.photopea.com/) - Online photo editor.
 - [miniPaint](http://viliusle.github.io/miniPaint/) - Online image editor lets you create, edit images using HTML5 technologies. [![repo](icons/repo.svg)](https://github.com/viliusle/miniPaint)
 - [FotoSketcher](https://fotosketcher.com/) - Turn your photos into beautiful paintings, sketches or drawings in seconds.
@@ -436,13 +414,14 @@
 - [nightTab](https://zombiefox.github.io/nightTab/) - A neutral new tab page accented with a chosen colour. [![repo](icons/repo.svg)](https://github.com/zombieFox/nightTab)
 - [xBrowserSync](https://www.xbrowsersync.org/) - Free and open source tool for syncing your browser data between browsers and devices whilst maintaining your privacy and anonymity. [![repo](icons/repo.svg)](https://github.com/xBrowserSync)
 - [Floccus](https://floccus.org/) - Sync your bookmarks privately across browsers. [![repo](icons/repo.svg)](https://github.com/floccusaddon/floccus)
-- [Gesturefy](https://github.com/Robbendebiene/Gesturefy) - Navigate, operate, and browse faster with mouse gestures! A customizable Firefox mouse gesture add-on with a variety of different commands.
+- [Gesturefy](https://github.com/Robbendebiene/Gesturefy) - A customizable Firefox mouse gesture add-on with a variety of different commands.
+- [BetterViewer](https://github.com/Ademking/BetterViewer) - A replacement for the image viewing mode built into Firefox and Chrome-based web browsers.
 
 ## Communication
 
 ### Email
 
-- [Protonmail](https://protonmail.com/) - An email provider/service that respects privacy and puts people first. [![repo](icons/repo.svg)](https://github.com/ProtonMail)
+- [Protonmail](https://proton.me/) - An email provider/service that respects privacy and puts people first. [![repo](icons/repo.svg)](https://github.com/ProtonMail)
 - [Tutanota](https://tutanota.com/) - A secure email service. [![repo](icons/repo.svg)](https://github.com/tutao/tutanota)
 - [Thunderbird](https://www.thunderbird.net/) - A free email application that’s easy to set up and customize.
 - [Delta Chat](https://delta.chat/) - Chat over e-mail. [![repo](icons/repo.svg)](https://github.com/deltachat/deltachat-desktop) [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9PJTXX7HN3PK)
@@ -557,7 +536,7 @@
 - [Endless Sky](https://endless-sky.github.io/) - A space exploration and combat game similar to Escape Velocity. [![repo](icons/repo.svg)](https://github.com/endless-sky/endless-sky)
 - [osu!](https://osu.ppy.sh/) - A free-to-win rhythm game. Rhythm is just a click away! [![repo](icons/repo.svg)](https://github.com/ppy)
 - [Lichess](https://lichess.org/) - The complete chess experience, play and compete with friends and others around the world. [![repo](icons/repo.svg)](https://github.com/lichess-org)
-- [OpenTTD](https://www.openttd.org/) - OpenTTD is a business simulation game in which players try to earn money by transporting passengers and freight via road, rail, water and air. [![repo](icons/repo.svg)](https://github.com/OpenTTD/OpenTTD)
+- [OpenTDD](https://www.openttd.org/) - OpenTTD is a business simulation game in which players try to earn money by transporting passengers and freight via road, rail, water and air. [![repo](icons/repo.svg)](https://github.com/OpenTTD/OpenTTD)
 
 ## File Management
 
@@ -634,7 +613,7 @@
 - [LibreOffice](https://www.libreoffice.org/) - A free and powerful office suite.
 - ~~[Google Docs](https://docs.google.com/) - Free online document editor.~~
 - ~~[Microsoft Office Online](https://www.office.com) - Collaborate for free with online versions of Microsoft Word, PowerPoint, Excel, and OneNote.~~
-- [CryptPad](https://cryptpad.fr/) - A collaboration suite that is end-to-end-encrypted and open-source.[![repo](icons/repo.svg)](https://github.com/xwiki-labs/cryptpad)
+- [CryptPad](https://cryptpad.fr/) - A collaboration suite that is end-to-end-encrypted and open-source. [![repo](icons/repo.svg)](https://github.com/xwiki-labs/cryptpad)
 - [Grist](https://www.getgrist.com/) - A modern relational spreadsheet. [![repo](icons/repo.svg)](https://github.com/gristlabs/grist-core/)
 - [Sozi](http://sozi.baierouge.fr/) - A presentation tool for SVG documents. [![repo](icons/repo.svg)](https://github.com/sozi-projects/Sozi)
 
@@ -814,7 +793,6 @@ AngularJS-powered HTML5 Markdown editor. [![repo](icons/repo.svg)](https://githu
 - [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - TranslucentTB offers you control over the appearance of your taskbar. [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9PF4KZ2VN4W9)
 - [RoundedTB](https://github.com/torchgm/RoundedTB) - Add margins, rounded corners and segments to your taskbars! [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9MTFTXSJ9M7F)
 - [TaskbarX](https://chrisandriessen.nl/) - TaskbarX gives you control over the position of your taskbar icons. [![repo](icons/repo.svg)](https://github.com/ChrisAnd1998/TaskbarX)
-- [EarTrumpet](https://eartrumpet.app/) - A powerful volume control app for Windows. [![repo](icons/repo.svg)](https://github.com/File-New-Project/EarTrumpet) [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9NBLGGH516XP)
 - [TileIconifier](https://github.com/Jonno12345/TileIconifier) - Creates tiles for most Windows 8.1 and 10 start menu icons.
 - [ModernFlyouts](https://modernflyouts-community.github.io/) - A modern Fluent Design replacement for the old Metro themed flyouts present in Windows. [![repo](icons/repo.svg)](https://github.com/ModernFlyouts-Community/ModernFlyouts) [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9MT60QV066RP)
 - [ElevenClock](https://www.somepythonthings.tk/programs/elevenclock/) - Have a customizable clock on your Windows 11 displays. [![repo](icons/repo.svg)](https://github.com/martinet101/ElevenClock) [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/elevenclock/XP89HZ8SVWTT0M)
