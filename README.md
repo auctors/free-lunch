@@ -31,7 +31,7 @@
     - Added [NormCap](https://github.com/dynobo/normcap/)
 - [Games](#games)
   - Added [Rigs of Rods](https://www.rigsofrods.org/)
-  - Added [OpenTDD](https://www.openttd.org/)
+  - Added [OpenTTD](https://www.openttd.org/)
 - [Productivity](#productivity)
   - [Writing Tools](#writing-tools)
     - Added [ghostwriter](https://github.com/wereturtle/ghostwriter)
@@ -557,7 +557,7 @@
 - [Endless Sky](https://endless-sky.github.io/) - A space exploration and combat game similar to Escape Velocity. [![repo](icons/repo.svg)](https://github.com/endless-sky/endless-sky)
 - [osu!](https://osu.ppy.sh/) - A free-to-win rhythm game. Rhythm is just a click away! [![repo](icons/repo.svg)](https://github.com/ppy)
 - [Lichess](https://lichess.org/) - The complete chess experience, play and compete with friends and others around the world. [![repo](icons/repo.svg)](https://github.com/lichess-org)
-- [OpenTDD](https://www.openttd.org/) - OpenTTD is a business simulation game in which players try to earn money by transporting passengers and freight via road, rail, water and air. [![repo](icons/repo.svg)](https://github.com/OpenTTD/OpenTTD)
+- [OpenTTD](https://www.openttd.org/) - OpenTTD is a business simulation game in which players try to earn money by transporting passengers and freight via road, rail, water and air. [![repo](icons/repo.svg)](https://github.com/OpenTTD/OpenTTD)
 
 ## File Management
 
