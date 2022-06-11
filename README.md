@@ -8,23 +8,44 @@
 - Strikethrough text is used to show that something is not recommended. These apps aren't private or reliable enough compared to similar apps, although they are cool!
 - Some apps could possibly infringe copyright or other laws.
 - Microsoft Store Apps may not have all the features of Desktop Apps.
-- ![microsoft store](icons/store.svg) - Microsoft Store.
-- ![repository](icons/repo.svg) - Repository.
+- ![microsoft store](icons/store.svg) - Microsoft Store
+- ![repository](icons/repo.svg) - Repository
 
-**CHANGELOG 2022-06-03:**
+**CHANGELOG 2022-06-11:**
 
 - [Audio](#audio)
+  - [Audio Players](#audio-players)
+    - Added [Lofi](https://github.com/dvx/lofi)
   - [Audio Editors](#audio-editors)
-    - Added [Mp3tag](https://mp3tag.de/en)
+    - Added [Kid3](https://kid3.kde.org/)
+  - [Others](#others)
+    - Added [AudioPlaybackConnector](https://github.com/ysc3839/AudioPlaybackConnector)
 - [Graphics](#graphics)
-  - [Screenshot and Screen Recorder](#screenshot-and-screen-recorder)
-    - Added [LICEcap](https://www.cockos.com/licecap/)
-    - Added [gifcap](https://gifcap.dev/)
-  - [Image Editors](#image-editors)
-    - Added [Pixelitor](https://pixelitor.sourceforge.io/)
+  - [Others](#others-2)
+    - Added [Pensela](https://github.com/weiameili/Pensela)
 - [Browsers and Extensions](#browsers-and-extensions)
   - [Extensions](#extensions)
-    - Added [BetterViewer](https://github.com/Ademking/BetterViewer)
+    - Added [FastForward](https://github.com/FastForwardTeam/FastForward)
+- [Downloader](#downloader)
+  - Added [Open Video Downloader](https://github.com/jely2002/youtube-dl-gui)
+- [File Sharing](#file-sharing)
+  - Added [libcimbar](https://cimbar.org/)
+- [Productivity](#productivity)
+  - [File Search](#file-search)
+    - Added [Pinpoint](https://github.com/dkgv/pinpoint)
+  - [Automation](#automation)
+    - Added [SikuliX](https://github.com/RaiMan/SikuliX1)
+    - Added [Macro Deck](https://macrodeck.org/)
+- [Personal Finance](#personal-finance)
+  - Added [Budget Badger](https://budgetbadger.io/)
+- [Personalization](#personalization)
+  - Added [Mica for Everyone](https://github.com/MicaForEveryone/MicaForEveryone)
+- [Network and Admin](#network-and-admin)
+  - [Remote Desktop](#remote-desktop)
+    - Added [Sunshine](https://github.com/loki-47-6F-64/sunshine)
+- [Utilities](#utilities)
+  - [Others](#others-5)
+    - Added [Nyrna](https://github.com/Merrit/nyrna)
 
 ## Mirrors
 
@@ -176,6 +197,7 @@
 - [YouTube Music Desktop App](https://ytmdesktop.app/) - A Desktop App for YouTube Music. [![repo](icons/repo.svg)](https://github.com/ytmdesktop/ytmdesktop)
 - [Cider](https://cider.sh/) - An open source and community oriented Apple Music client. [![repo](icons/repo.svg)](https://github.com/ciderapp/Cider)
 - [Spotube](https://github.com/KRTirtho/spotube) - A lightweight free Spotify crossplatform-client which handles playback manually, streams music using Youtube & no Spotify premium account is needed.
+- [Lofi](https://www.lofi.rocks/) - A mini Spotify player with WebGL visualizations. [![repo](icons/repo.svg)](https://github.com/dvx/lofi)
 
 ### Audio Editors
 
@@ -184,6 +206,7 @@
 - [fre:ac](https://www.freac.org/) - A free audio converter and CD ripper with support for various popular formats and encoders. [![repo](icons/repo.svg)](https://github.com/enzo1982/freac) [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9P1XD8ZQJ7JD)
 - [MusicBrainz Picard](https://picard.musicbrainz.org/) - An open-source cross-platform music tagger. [![repo](icons/repo.svg)](https://github.com/metabrainz/picard) [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9NJ9Q3JR29L2)
 - [Mp3tag](https://mp3tag.de/en) - A powerful and easy-to-use tool to edit metadata of audio files. [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/mp3tag/9NN77TCQ1NC8)
+- [Kid3](https://kid3.kde.org/) - An open-source cross-platform audio tag editor for many audio file formats.
 
 ### Music Production
 
@@ -211,6 +234,8 @@
 - [Audio Band](https://github.com/AudioBand/AudioBand) - Display and control songs from the Windows taskbar.
 - [MicMute](https://github.com/SaifAqqad/AHK_MicMute) - Control your microphone using keyboard and mouse hotkeys.
 - [Mechvibes](https://mechvibes.com/) - Adds sound feedback any keyboard. [![repo](icons/repo.svg)](https://github.com/hainguyents13/mechvibes)
+- [AudioPlaybackConnector](https://github.com/ysc3839/AudioPlaybackConnector) - Bluetooth audio playback (A2DP Sink) connector for Windows 10 2004+.
+- [AirPodsDesktop](https://github.com/SpriteOvO/AirPodsDesktop) - AirPods desktop user experience enhancement program.
 - [AirConnect](https://github.com/philippe44/AirConnect) - Use AirPlay to stream to UPnP/Sonos & Chromecast devices.
 
 ## Video
@@ -372,6 +397,7 @@
 - [Gephi](https://gephi.org/) - Gephi is the leading visualization and exploration software for all kinds of graphs and networks. [![repo](icons/repo.svg)](https://github.com/gephi/gephi)
 - [gInk](https://github.com/geovens/gInk) - An easy to use on-screen annotation software inspired by Epic Pen.
 - [LiveDraw](https://github.com/antfu/live-draw) - A tool allows you to draw on screen real-time.
+- [Pensela](https://github.com/weiameili/Pensela) - The Swiss Army Knife of Screen Annotation Tools.
 - [Storyboarder](https://wonderunit.com/storyboarder) - Storyboarder makes it easy to visualize a story as fast you can draw stick figures. [![repo](icons/repo.svg)](https://github.com/wonderunit/storyboarder)
 - [gImageReader](https://github.com/manisandro/gImageReader) - A simple Gtk/Qt front-end to tesseract-ocr.
 - [Capture2Text](https://sourceforge.net/projects/capture2text/) - Quickly OCR part of the screen and save resulting text to clipboard.
@@ -397,6 +423,7 @@
 - [uBlock Origin](https://github.com/gorhill/uBlock) - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [AdNauseam](https://adnauseam.io/) - Fight back against advertising surveillance. [![repo](icons/repo.svg)](https://github.com/dhowe/AdNauseam)
 - [ClearURLs](http://docs.clearurls.xyz/) - This extension will automatically remove tracking elements from URLs to help protect your privacy when browsing the Internet. [![repo](icons/repo.svg)](https://github.com/ClearURLs/Addon)
+- [FastForward](https://fastforward.team/) - FastForward automatically skips annoying link shorteners. [![repo](icons/repo.svg)](https://github.com/FastForwardTeam/FastForward)
 - [LocalCDN](https://www.localcdn.org/) - A web browser extension that emulates Content Delivery Networks to improve your online privacy. [![repo](icons/repo.svg)](https://codeberg.org/nobody/LocalCDN)
 - [LibRedirect](https://libredirect.github.io/) - A web extension that redirects popular sites to alternative privacy-friendly frontends and backends. [![repo](icons/repo.svg)](https://github.com/libredirect/libredirect)
 - [Mailvelope](https://github.com/mailvelope/mailvelope) - Browser extension for OpenPGP encryption with Webmail.
@@ -458,6 +485,7 @@
 - [YT-DLP](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes.
 - [You-Get](https://you-get.org/) - A tiny command-line utility to download media contents (videos, audios, images) from the Web. [![repo](icons/repo.svg)](https://github.com/soimort/you-get)
 - [Lux](https://github.com/iawia002/lux) - A fast and simple video downloader built with Go.
+- [Open Video Downloader](https://github.com/jely2002/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Electron and node.js.
 - [Tartube](https://github.com/axcore/tartube) - A GUI front-end for youtube-dl.
 - [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - Desktop utility to download images/videos/music/text from various websites, and more.
 - [Video Downloader](https://github.com/mayeaux/videodownloader) - A video and channel downloader that supports 110 websites.
@@ -602,6 +630,7 @@
 - [FilePizza](https://file.pizza/) - Peer-to-peer file transfers in your browser. [![repo](icons/repo.svg)](https://github.com/kern/filepizza)
 - [Blaze](https://blaze.vercel.app/) - A P2P file sharing web app. [![repo](icons/repo.svg)](https://github.com/blenderskool/blaze)
 - [Wormhole](https://wormhole.app/) - Simple, private file sharing.
+- [libcimbar](https://cimbar.org/) - Optimized implementation for color-icon-matrix barcodes. [![repo](icons/repo.svg)](https://github.com/sz3/libcimbar)
 - [I2P](https://geti2p.net/) - The Invisible Internet Project (I2P) is a fully encrypted private network layer.
 - [Freenet](https://freenetproject.org/) - A peer-to-peer platform for censorship-resistant and privacy-respecting publishing and communication.
 - [IPFS](https://ipfs.io/) - A peer-to-peer hypermedia protocol to make the web faster, safer, and more open. [![repo](icons/repo.svg)](https://github.com/ipfs/ipfs)
@@ -687,6 +716,7 @@ AngularJS-powered HTML5 Markdown editor. [![repo](icons/repo.svg)](https://githu
 - [ueli](https://ueli.app/) - A keystroke launcher for Windows and macOS. [![repo](icons/repo.svg)](https://github.com/oliverschwendener/ueli)
 - [Flow launcher](https://flowlauncher.com/) - Quick file search & app launcher for Windows with community-made plugins. [![repo](icons/repo.svg)](https://github.com/Flow-Launcher/Flow.Launcher)
 - [Cerebro](https://cerebroapp.com/) - Open-source productivity booster with a brain. [![repo](icons/repo.svg)](https://github.com/cerebroapp/cerebro)
+- [Pinpoint](https://github.com/dkgv/pinpoint) - Keystroke launcher and productivity tool.
 - [SystemTrayMenu](http://hofknecht.eu/systemtraymenu/) - Browse and open your files easily. [![repo](icons/repo.svg)](https://github.com/Hofknecht/SystemTrayMenu) [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9N24F8ZBJMT1)
 - [grepWin](https://tools.stefankueng.com/grepWin.html) - A powerful and fast search tool using regular expressions. [![repo](icons/repo.svg)](https://github.com/stefankueng/grepWin)
 - [dnGrep](https://dngrep.github.io/) - dnGrep allows you to search across files with easy-to-read results. [![repo](icons/repo.svg)](https://github.com/dnGrep/dnGrep)
@@ -706,8 +736,10 @@ AngularJS-powered HTML5 Markdown editor. [![repo](icons/repo.svg)](https://githu
 - [espanso](https://espanso.org/) - A cross-platform Text Expander written in Rust. [![repo](icons/repo.svg)](https://github.com/federico-terzi/espanso)
 - [Beeftext](https://beeftext.org/) - A text snippet tool for Windows. [![repo](icons/repo.svg)](https://github.com/xmichelo/Beeftext)
 - [AutoHotkey](https://autohotkey.com/) - A free, open source macro-creation and automation software utility that allows users to automate repetitive tasks. [![repo](icons/repo.svg)](https://github.com/Lexikos/AutoHotkey_L)
+- [SikuliX](https://sikulix.github.io/) - SikuliX automates anything you see on the screen of your desktop computer running Windows, Mac or some Linux/Unix. [![repo](icons/repo.svg)](https://github.com/RaiMan/SikuliX1)
 - [Power Automate](https://apps.microsoft.com/store/detail/9NFTCH6J7FHV) - Power Automate allows you to automate web and desktop applications on your Windows desktop by mimicking the user interface actions like clicks, and keyboard input.
-- [AutoActions](https://github.com/Codectory/AutoActions) - Application-based actions to change Windows settings ( display, audio) or run any program or action.
+- [AutoActions](https://github.com/Codectory/AutoActions) - Application-based actions to change Windows settings (display, audio) or run any program or action.
+- [Macro Deck](https://macrodeck.org/) - A open source software to use your smartphone, tablet or almost any touch screen device with a internet browser as a simple macro pad or even as an powerful automation solution for streaming, gaming, content creation and more. [![repo](icons/repo.svg)](https://github.com/Macro-Deck-org/Macro-Deck)
 - [Mouse Jiggler](https://github.com/arkane-systems/mousejiggler) - A very simple piece of software whose sole function is to "fake" mouse input to Windows, and jiggle the mouse pointer back and forth.
 - [Shutdown Timer Classic](https://github.com/lukaslangrock/ShutdownTimerClassic) - Pick a time and let your computer shutdown itself. [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9NTDG6C9BTTW)
 
@@ -742,6 +774,7 @@ AngularJS-powered HTML5 Markdown editor. [![repo](icons/repo.svg)](https://githu
 
 ## Personal Finance
 
+- [Budget Badger](https://budgetbadger.io/) - A simple Personal Budgeting cross-platform app built on top of Xamarin.Forms. [![repo](icons/repo.svg)](https://github.com/baywolf-studios/BudgetBadger) [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/budget-badger-expense-tracker/9NPS726FKXTT)
 - [Money](https://money.neptuo.com/) - Personal Expense Manager. [![repo](icons/repo.svg)](https://github.com/maraf/Money) [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9N50XHGW891S)
 - [My Budget](https://github.com/reZach/my-budget) - Free, open source offline cross-platform budgeting solution built with Electron.
 - [Money Manager Ex](http://moneymanagerex.org/) - A free, open-source, cross-platform, easy-to-use personal finance software. [![repo](icons/repo.svg)](https://github.com/moneymanagerex/moneymanagerex)
@@ -802,6 +835,7 @@ AngularJS-powered HTML5 Markdown editor. [![repo](icons/repo.svg)](https://githu
 - [Custom Context Menu](https://github.com/ikas-mc/ContextMenuForWindows11) - Add Custom Context Menu For Windows11. [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9PC7BZZ28G0X)
 - [ContextMenuManager](https://bluepointlilac.github.io/ContextMenuManager) - A program to manage the Windows right-click context menu. [![repo](icons/repo.svg)](https://github.com/BluePointLilac/ContextMenuManager)
 - [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows.
+- [Mica for Everyone](https://github.com/MicaForEveryone/MicaForEveryone) - A tool to enable backdrop effect on titlebar of win32 apps on Windows 11.
 
 ## Network and Admin
 
@@ -830,6 +864,7 @@ AngularJS-powered HTML5 Markdown editor. [![repo](icons/repo.svg)](https://githu
 - [TigerVNC](https://tigervnc.org/) - A free remote desktop software server and client application. [![repo](icons/repo.svg)](https://github.com/TigerVNC/tigervnc)
 - [Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
 - [Moonlight](https://moonlight-stream.org/) - An open source implementation of NVIDIA's GameStream. [![repo](icons/repo.svg)](https://github.com/moonlight-stream/moonlight-qt)
+- [Sunshine](https://github.com/loki-47-6F-64/sunshine) - Host for Moonlight Streaming Client.
 - [ZeroTier](https://www.zerotier.com/) - A smart programmable Ethernet switch for planet Earth. [![repo](icons/repo.svg)](https://github.com/zerotier/ZeroTierOne)
 - [Tailscale](https://tailscale.com/) - A mesh VPN alternative that makes it easy to connect your devices. [![repo](icons/repo.svg)](https://github.com/tailscale/tailscale)
 - [ScreenTask](https://screentask.me/) - Share your screen across local devices without internet. [![repo](icons/repo.svg)](https://github.com/EslaMx7/ScreenTask)
@@ -934,7 +969,6 @@ AngularJS-powered HTML5 Markdown editor. [![repo](icons/repo.svg)](https://githu
 - [NBFC](https://github.com/hirschmann/nbfc) - A cross-platform fan control service for notebooks.
 - [Twinkle Tray](https://twinkletray.com/) - Easily manage the brightness of your monitors in Windows from the system tray. [![repo](icons/repo.svg)](https://github.com/xanderfrangos/twinkle-tray) [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9PLJWWSV01LK)
 - [Monitorian](https://github.com/emoacht/Monitorian) - A Windows desktop tool to adjust the brightness of multiple monitors with ease. [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9NW33J738BL0)
-- [AirPodsDesktop](https://github.com/SpriteOvO/AirPodsDesktop) - AirPods desktop user experience enhancement program.
 
 ### System Administration
 
@@ -947,6 +981,7 @@ AngularJS-powered HTML5 Markdown editor. [![repo](icons/repo.svg)](https://githu
 - [Driver Store Explorer](https://github.com/lostindark/DriverStoreExplorer) - Driver Store Explorer [RAPR] makes it easier to deal with Windows driver store.
 - [FontForge](http://fontforge.org/) - Free (libre) font editor for Windows, Mac OS X and GNU+Linux. [![repo](icons/repo.svg)](https://github.com/fontforge/fontforge)
 - [Ten Hands](https://tenhands.app/) - Simplest way to organize and run command-line tasks. [![repo](icons/repo.svg)](https://github.com/saisandeepvaddi/ten-hands)
+- [Nyrna](https://nyrna.merritt.codes/) - Suspend games and applications. [![repo](icons/repo.svg)](https://github.com/Merrit/nyrna)
 - [Barrier](https://github.com/debauchee/barrier) - Open-source KVM software.
 - [X-Mouse Controls](https://joelpurra.com/projects/X-Mouse_Controls/) - Windows utility to enable or disable active window tracking, raising and also the delay in milliseconds. [![repo](icons/repo.svg)](https://github.com/joelpurra/xmouse-controls)
 - [SharpKeys](http://www.randyrants.com/) - A utility that manages a Registry key that allows Windows to remap one key to any other key. [![repo](icons/repo.svg)](https://github.com/randyrants/sharpkeys)
