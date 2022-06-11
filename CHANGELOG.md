@@ -1,3 +1,39 @@
+## 2022-06-11
+
+- Audio
+  - Audio Players
+    - Added [Lofi](https://github.com/dvx/lofi)
+  - Audio Editors
+    - Added [Kid3](https://kid3.kde.org/)
+  - Others
+    - Added [AudioPlaybackConnector](https://github.com/ysc3839/AudioPlaybackConnector)
+- Graphics
+  - Others
+    - Added [Pensela](https://github.com/weiameili/Pensela)
+- Browsers and Extensions
+  - Extensions
+    - Added [FastForward](https://github.com/FastForwardTeam/FastForward)
+- Downloader
+  - Added [Open Video Downloader](https://github.com/jely2002/youtube-dl-gui)
+- File Sharing
+  - Added [libcimbar](https://cimbar.org/)
+- Productivity
+  - File Search
+    - Added [Pinpoint](https://github.com/dkgv/pinpoint)
+  - Automation
+    - Added [SikuliX](https://github.com/RaiMan/SikuliX1)
+    - Added [Macro Deck](https://macrodeck.org/)
+- Personal Finance
+  - Added [Budget Badger](https://budgetbadger.io/)
+- Personalization
+  - Added [Mica for Everyone](https://github.com/MicaForEveryone/MicaForEveryone)
+- Network and Admin
+  - Remote Desktop
+    - Added [Sunshine](https://github.com/loki-47-6F-64/sunshine)
+- Utilities
+  - Others
+    - Added [Nyrna](https://github.com/Merrit/nyrna)
+
 ## 2022-06-03
 
 - Audio
@@ -53,4 +89,3 @@
   - Others
     - Added [Ten Hands](https://github.com/saisandeepvaddi/ten-hands)
     - Added [workspacer](https://github.com/workspacer/workspacer)
-
