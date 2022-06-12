@@ -11,41 +11,29 @@
 - ![microsoft store](icons/store.svg) - Microsoft Store
 - ![repository](icons/repo.svg) - Repository
 
-**CHANGELOG 2022-06-11:**
+**CHANGELOG 2022-06-12:**
 
 - [Audio](#audio)
-  - [Audio Players](#audio-players)
-    - Added [Lofi](https://github.com/dvx/lofi)
-  - [Audio Editors](#audio-editors)
-    - Added [Kid3](https://kid3.kde.org/)
   - [Others](#others)
-    - Added [AudioPlaybackConnector](https://github.com/ysc3839/AudioPlaybackConnector)
+    - Added [WinMute](https://github.com/lx-s/WinMute/)
+    - Added [swyh-rs](https://github.com/dheijl/swyh-rs)
+- [Video](#video)
+  - [Others](#others-1)
+    - Added [Go2TV](https://github.com/alexballas/go2tv)
 - [Graphics](#graphics)
-  - [Others](#others-2)
-    - Added [Pensela](https://github.com/weiameili/Pensela)
-- [Browsers and Extensions](#browsers-and-extensions)
-  - [Extensions](#extensions)
-    - Added [FastForward](https://github.com/FastForwardTeam/FastForward)
-- [Downloader](#downloader)
-  - Added [Open Video Downloader](https://github.com/jely2002/youtube-dl-gui)
-- [File Sharing](#file-sharing)
-  - Added [libcimbar](https://cimbar.org/)
-- [Productivity](#productivity)
-  - [File Search](#file-search)
-    - Added [Pinpoint](https://github.com/dkgv/pinpoint)
-  - [Automation](#automation)
-    - Added [SikuliX](https://github.com/RaiMan/SikuliX1)
-    - Added [Macro Deck](https://macrodeck.org/)
-- [Personal Finance](#personal-finance)
-  - Added [Budget Badger](https://budgetbadger.io/)
+  - [Image Viewer](#image-viewer)
+    - Added [qimgv](https://github.com/easymodo/qimgv)
+- [Health and Fitness](#health-and-fitness)
+  - Added [UBPM](https://codeberg.org/LazyT/ubpm)
 - [Personalization](#personalization)
-  - Added [Mica for Everyone](https://github.com/MicaForEveryone/MicaForEveryone)
-- [Network and Admin](#network-and-admin)
-  - [Remote Desktop](#remote-desktop)
-    - Added [Sunshine](https://github.com/loki-47-6F-64/sunshine)
+  - Added [AutoWall](https://github.com/SegoCode/AutoWall)
 - [Utilities](#utilities)
+  - [Hardware Monitoring](#hardware-monitoring)
+    - Added [Winfetch](https://github.com/kiedtl/winfetch)
   - [Others](#others-5)
-    - Added [Nyrna](https://github.com/Merrit/nyrna)
+    - Added [Plover](https://www.openstenoproject.org/plover/)
+    - Added [Screen Ruler](https://sourceforge.net/projects/screenruler/)
+    - Added [Key'n'Stroke](https://github.com/Phaiax/Key-n-Stroke)
 
 ## Mirrors
 
@@ -233,10 +221,12 @@
 - [EarTrumpet](https://eartrumpet.app/) - A powerful volume control app for Windows. [![repo](icons/repo.svg)](https://github.com/File-New-Project/EarTrumpet) [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9NBLGGH516XP)
 - [Audio Band](https://github.com/AudioBand/AudioBand) - Display and control songs from the Windows taskbar.
 - [MicMute](https://github.com/SaifAqqad/AHK_MicMute) - Control your microphone using keyboard and mouse hotkeys.
+- [WinMute](https://github.com/lx-s/WinMute/) - WinMute can automatically mute all sound devices on your PC.
 - [Mechvibes](https://mechvibes.com/) - Adds sound feedback any keyboard. [![repo](icons/repo.svg)](https://github.com/hainguyents13/mechvibes)
 - [AudioPlaybackConnector](https://github.com/ysc3839/AudioPlaybackConnector) - Bluetooth audio playback (A2DP Sink) connector for Windows 10 2004+.
 - [AirPodsDesktop](https://github.com/SpriteOvO/AirPodsDesktop) - AirPods desktop user experience enhancement program.
 - [AirConnect](https://github.com/philippe44/AirConnect) - Use AirPlay to stream to UPnP/Sonos & Chromecast devices.
+- [swyh-rs](https://github.com/dheijl/swyh-rs) - Stream What You Hear written in rust, inspired by SWYH.
 
 ## Video
 
@@ -291,6 +281,7 @@
 - [Jellyfin](https://jellyfin.org/) - A personal media server and client. [![repo](icons/repo.svg)](https://github.com/jellyfin)
 - [Universal Media Server](https://www.universalmediaserver.com/) - A DLNA, UPnP and HTTP(S) Media Server. [![repo](icons/repo.svg)](https://github.com/UniversalMediaServer/UniversalMediaServer)
 - [Macast](https://xfangfang.github.io/Macast/) - A menu bar application using mpv as DLNA Media Renderer. [![repo](icons/repo.svg)](https://github.com/xfangfang/Macast)
+- [Go2TV](https://github.com/alexballas/go2tv) - Cast media files to UPnP/DLNA Media Renderers and Smart TVs.
 - [Webcamoid](https://webcamoid.github.io/) - A full featured and multiplatform webcam suite. [![repo](icons/repo.svg)](https://github.com/webcamoid/webcamoid)
 - [Mini Video Me](https://github.com/maykbrito/mini-video-me) - A small webcam player focused on providing an easy way to add and control your webcam during recordings.
 - [Anime4KCPP](https://github.com/TianZerL/Anime4KCPP) - A high performance anime upscaler.
@@ -342,6 +333,7 @@
 - [NeeView](https://bitbucket.org/neelabo/neeview) - A Free and Open Source, modern and powerful image viewer and a manga/comic reader. [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9P24Z53HC1JR)
 - [Quick Picture Viewer](https://moduleart.github.io/quick-picture-viewer) - Lightweight, versatile desktop image viewer. [![repo](icons/repo.svg)](https://github.com/ModuleArt/quick-picture-viewer) [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9PJQQRXSVWR1)
 - [qView](https://interversehq.com/qview/) - Practical and minimal image viewer. [![repo](icons/repo.svg)](https://github.com/jurplel/qView)
+- [qimgv](https://github.com/easymodo/qimgv) - Image viewer. Fast, easy to use.
 
 ### Image Editors
 
@@ -761,6 +753,7 @@ AngularJS-powered HTML5 Markdown editor. [![repo](icons/repo.svg)](https://githu
 
 ## Health and Fitness
 
+- [UBPM](https://codeberg.org/LazyT/ubpm) - Manage your blood pressure data on Windows/Linux/macOS.
 - [Ambie](https://ambieapp.com/) - The best white noise app on Windows. [![repo](icons/repo.svg)](https://github.com/jenius-apps/ambie) [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9P07XNM5CHP0)
 - [f.lux](https://justgetflux.com/) - f.lux warms up your screen at night to help you relax and wind down before bed. [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9N9KDPHV91JT)
 - [LightBulb](https://github.com/Tyrrrz/LightBulb) - An application that reduces eyestrain produced by staring at a computer screen when working late hours.
@@ -819,6 +812,7 @@ AngularJS-powered HTML5 Markdown editor. [![repo](icons/repo.svg)](https://githu
 - [Open-Shell-Menu](https://github.com/Open-Shell/Open-Shell-Menu) - Classic Shell Reborn.
 - [Lively Wallpaper](https://livelywallpaper.net/) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers. [![repo](icons/repo.svg)](https://github.com/rocksdanister/lively) [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9NTM2QC6QWS7)
 - [ScreenPlay](https://screen-play.app/) - Modern, Cross Plattform, Live Wallpaper, Widgets and AppDrawer! [![repo](icons/repo.svg)](https://gitlab.com/kelteseth/ScreenPlay)
+- [AutoWall](https://github.com/SegoCode/AutoWall) - Live wallpapers on Windows 10/11 using open-source wallpaper engine.
 - [WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) - WinDynamicDesktop ports the Dynamic Desktop feature from macOS Mojave to Windows 10. [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9NM8N7DQ3Z5F)
 - [SpaceEye](https://spaceeye.app/) - Make live satellite imagery your desktop background with SpaceEye. [![repo](icons/repo.svg)](https://github.com/KYDronePilot/SpaceEye) [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9NF3WZ8TT6MN)
 - [Superpaper](https://github.com/hhannine/superpaper) - A cross-platform multi monitor wallpaper manager.
@@ -962,6 +956,7 @@ AngularJS-powered HTML5 Markdown editor. [![repo](icons/repo.svg)](https://githu
 - [GSmartControl](https://gsmartcontrol.shaduri.dev/) - Hard disk drive and SSD health inspection tool. [![repo](icons/repo.svg)](https://github.com/ashaduri/gsmartcontrol)
 - [HWiNFO](https://www.hwinfo.com/) - Comprehensive Hardware Analysis, Monitoring and Reporting for Windows and DOS.
 - [Sidebar Diagnostics](https://github.com/ArcadeRenegade/SidebarDiagnostics) - A simple sidebar for Windows desktop that displays hardware diagnostic information.
+- [Winfetch](https://github.com/kiedtl/winfetch) - A command-line system information utility written in PowerShell.
 - [Radiograph](https://dev.lepo.co/) - Universal tool for managing your computer. [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9NH1P86H06CG)
 - [Open Hardware Monitor](https://openhardwaremonitor.org/) - A free open source software that monitors temperature sensors, fan speeds, voltages, load and clock speeds of a computer.
 - [Libre Hardware Monitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - A fork of Open Hardware Monitor.
@@ -980,6 +975,9 @@ AngularJS-powered HTML5 Markdown editor. [![repo](icons/repo.svg)](https://githu
 
 - [Driver Store Explorer](https://github.com/lostindark/DriverStoreExplorer) - Driver Store Explorer [RAPR] makes it easier to deal with Windows driver store.
 - [FontForge](http://fontforge.org/) - Free (libre) font editor for Windows, Mac OS X and GNU+Linux. [![repo](icons/repo.svg)](https://github.com/fontforge/fontforge)
+- [Plover](https://www.openstenoproject.org/plover/) - Open source stenotype engine. [![repo](icons/repo.svg)](https://github.com/openstenoproject/plover)
+- [Screen Ruler](https://sourceforge.net/projects/screenruler/) - A lightweight and configurable ruler tool for Windows Desktop. [![repo](icons/repo.svg)](https://github.com/Bluegrams/ScreenRuler)
+- [Key'n'Stroke](https://github.com/Phaiax/Key-n-Stroke) - Displays Keystrokes in an overlay window and visualize mouse clicks.
 - [Ten Hands](https://tenhands.app/) - Simplest way to organize and run command-line tasks. [![repo](icons/repo.svg)](https://github.com/saisandeepvaddi/ten-hands)
 - [Nyrna](https://nyrna.merritt.codes/) - Suspend games and applications. [![repo](icons/repo.svg)](https://github.com/Merrit/nyrna)
 - [Barrier](https://github.com/debauchee/barrier) - Open-source KVM software.
