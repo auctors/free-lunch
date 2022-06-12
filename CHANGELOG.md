@@ -1,3 +1,27 @@
+## 2022-06-12
+
+- Audio
+  - Others
+    - Added [WinMute](https://github.com/lx-s/WinMute/)
+    - Added [swyh-rs](https://github.com/dheijl/swyh-rs)
+- Video
+  - Others
+    - Added [Go2TV](https://github.com/alexballas/go2tv)
+- Graphics
+  - Image Viewer
+    - Added [qimgv](https://github.com/easymodo/qimgv)
+- Health and Fitness
+  - Added [UBPM](https://codeberg.org/LazyT/ubpm)
+- Personalization
+  - Added [AutoWall](https://github.com/SegoCode/AutoWall)
+- Utilities
+  - Hardware Monitoring
+    - Added [Winfetch](https://github.com/kiedtl/winfetch)
+  - Others
+    - Added [Plover](https://www.openstenoproject.org/plover/)
+    - Added [Screen Ruler](https://sourceforge.net/projects/screenruler/)
+    - Added [Key'n'Stroke](https://github.com/Phaiax/Key-n-Stroke)
+
 ## 2022-06-11
 
 - Audio
