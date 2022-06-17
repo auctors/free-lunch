@@ -11,29 +11,18 @@
 - ![microsoft store](icons/store.svg) - Microsoft Store
 - ![repository](icons/repo.svg) - Repository
 
-**CHANGELOG 2022-06-12:**
+**CHANGELOG 2022-06-17:**
 
-- [Audio](#audio)
-  - [Others](#others)
-    - Added [WinMute](https://github.com/lx-s/WinMute/)
-    - Added [swyh-rs](https://github.com/dheijl/swyh-rs)
-- [Video](#video)
-  - [Others](#others-1)
-    - Added [Go2TV](https://github.com/alexballas/go2tv)
-- [Graphics](#graphics)
-  - [Image Viewer](#image-viewer)
-    - Added [qimgv](https://github.com/easymodo/qimgv)
-- [Health and Fitness](#health-and-fitness)
-  - Added [UBPM](https://codeberg.org/LazyT/ubpm)
+- Browsers and Extensions
+  - [Extensions](#extensions)
+    - Added [Tabliss](https://tabliss.io/)
 - [Personalization](#personalization)
-  - Added [AutoWall](https://github.com/SegoCode/AutoWall)
-- [Utilities](#utilities)
-  - [Hardware Monitoring](#hardware-monitoring)
-    - Added [Winfetch](https://github.com/kiedtl/winfetch)
-  - [Others](#others-5)
-    - Added [Plover](https://www.openstenoproject.org/plover/)
-    - Added [Screen Ruler](https://sourceforge.net/projects/screenruler/)
-    - Added [Key'n'Stroke](https://github.com/Phaiax/Key-n-Stroke)
+  - Added [Bibata Cursor](https://github.com/ful1e5/Bibata_Cursor)
+- Utilities
+  - [Window Managers](#window-managers)
+    - Added [Amethyst Windows](https://amethystwindows.com/)
+    - Added [SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu)
+    - Added [RBTray](https://github.com/benbuck/rbtray)
 
 ## Mirrors
 
@@ -142,6 +131,7 @@
         <li><a href="#disk-usage-analyzers">Disk Usage Analyzers</a></li>
         <li><a href="#hardware-monitoring">Hardware Monitoring</a></li>
         <li><a href="#system-administration">System Administration</a></li>
+        <li><a href="#window-managers">Window Managers</a></li>
         <li><a href="#others-5">Others</a></li>
       </ul>
     </li>
@@ -431,6 +421,7 @@
 - [Screenity](https://github.com/alyssaxuu/screenity) - The most powerful screen recorder & annotation tool for Chrome.
 - [Marinara](https://github.com/schmich/marinara) - A time management assistant for Chrome that follows the Pomodoro Technique.
 - [nightTab](https://zombiefox.github.io/nightTab/) - A neutral new tab page accented with a chosen colour. [![repo](icons/repo.svg)](https://github.com/zombieFox/nightTab)
+- [Tabliss](https://tabliss.io/) - A beautiful, customisable New Tab page for Firefox and Chrome. [![repo](icons/repo.svg)](https://github.com/joelshepherd/tabliss)
 - [xBrowserSync](https://www.xbrowsersync.org/) - Free and open source tool for syncing your browser data between browsers and devices whilst maintaining your privacy and anonymity. [![repo](icons/repo.svg)](https://github.com/xBrowserSync)
 - [Floccus](https://floccus.org/) - Sync your bookmarks privately across browsers. [![repo](icons/repo.svg)](https://github.com/floccusaddon/floccus)
 - [Gesturefy](https://github.com/Robbendebiene/Gesturefy) - A customizable Firefox mouse gesture add-on with a variety of different commands.
@@ -775,7 +766,7 @@ AngularJS-powered HTML5 Markdown editor. [![repo](icons/repo.svg)](https://githu
 - [KMyMoney](https://kmymoney.org/) - A cross-platform personal finance manager.
 - [grocy](https://grocy.info/) - A web-based self-hosted groceries & household management solution for your home. [![repo](icons/repo.svg)](https://github.com/grocy/grocy) [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9NWB1TRNNKSF)
 - [Frappe Books](https://frappebooks.com/) - Free Desktop book-keeping software for small businesses and freelancers. [![repo](icons/repo.svg)](https://github.com/frappe/books)
-- [CryptoTracker](https://ismaelestalayo.com/projects/CryptoTracker/) - Simple yet powerful cryptocurrency portfolio tracker designed with simplicity and functionality in mind. [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9N3B47HBVBLC)
+- [CryptoTracker](https://ismaelestalayo.com/projects/CryptoTracker/) - Simple yet powerful cryptocurrency portfolio tracker designed with simplicity and functionality in mind. [![repo](icons/repo.svg)](https://github.com/ismaelestalayo/CryptoTracker) [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9N3B47HBVBLC)
 - [rotki](https://rotki.com/) - A portfolio tracking, analytics, accounting and tax reporting application that protects your privacy. [![repo](icons/repo.svg)](https://github.com/rotki/rotki)
 
 ## Education
@@ -830,6 +821,7 @@ AngularJS-powered HTML5 Markdown editor. [![repo](icons/repo.svg)](https://githu
 - [ContextMenuManager](https://bluepointlilac.github.io/ContextMenuManager) - A program to manage the Windows right-click context menu. [![repo](icons/repo.svg)](https://github.com/BluePointLilac/ContextMenuManager)
 - [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows.
 - [Mica for Everyone](https://github.com/MicaForEveryone/MicaForEveryone) - A tool to enable backdrop effect on titlebar of win32 apps on Windows 11.
+- [Bibata Cursor](https://github.com/ful1e5/Bibata_Cursor) - Opensource, compact, and material-designed cursor set.
 
 ## Network and Admin
 
@@ -971,6 +963,15 @@ AngularJS-powered HTML5 Markdown editor. [![repo](icons/repo.svg)](https://githu
 - [Process Hacker](https://processhacker.sourceforge.io/) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. [![repo](icons/repo.svg)](https://github.com/processhacker/processhacker)
 - [NSudo](https://nsudo.m2team.org/) - A system management tool for advanced users to launch programs with full privileges. [![repo](icons/repo.svg)](https://github.com/M2Team/NSudo)
 
+### Window Managers
+
+- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity. [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD)
+- [workspacer](https://workspacer.org/) - A tiling window manager for Windows. [![repo](icons/repo.svg)](https://github.com/workspacer/workspacer)
+- [Amethyst Windows](https://amethystwindows.com/) - Automatic tiling window manager for Windows 10/11. [![repo](icons/repo.svg)](https://github.com/glsorre/amethystwindows)
+- [AltSnap](https://github.com/RamonUnch/AltSnap) - Easily drag windows when pressing the alt key.
+- [SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) - SmartSystemMenu extends system menu of all windows in the system.
+- [RBTray](https://github.com/benbuck/rbtray) - RBTray allows almost any program to be minimized to the system tray by right clicking its minimize button.
+
 ### Others
 
 - [Driver Store Explorer](https://github.com/lostindark/DriverStoreExplorer) - Driver Store Explorer [RAPR] makes it easier to deal with Windows driver store.
@@ -987,9 +988,6 @@ AngularJS-powered HTML5 Markdown editor. [![repo](icons/repo.svg)](https://githu
 - [NVDA](https://www.nvaccess.org/) - The free and open source Screen Reader for Microsoft Windows.
 - [Scanner](https://github.com/simon-knuth/scanner) - An all-in-one scanner app built for the Universal Windows Platform. [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9N438MZHD3ZF)
 - [WinCompose](http://wincompose.info/) - A compose key for Windows. [![repo](icons/repo.svg)](https://github.com/samhocevar/wincompose)
-- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity. [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD)
-- [workspacer](https://workspacer.org/) - A tiling window manager for Windows. [![repo](icons/repo.svg)](https://github.com/workspacer/workspacer)
-- [AltSnap](https://github.com/RamonUnch/AltSnap) - Easily drag windows when pressing the alt key.
 - [CompactGUI](https://github.com/ImminentFate/CompactGUI) - Visual Interface for the Windows 10 Compact Function.
 - [AltStore](https://altstore.io/) - An alternative app store for non-jailbroken iOS devices. [![repo](icons/repo.svg)](https://github.com/rileytestut/AltStore)
 - [Universal Android Debloater GUI](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices.
