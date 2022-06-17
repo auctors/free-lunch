@@ -1,3 +1,16 @@
+## 2022-06-17
+
+- Browsers and Extensions
+  - Extensions
+    - Added [Tabliss](https://tabliss.io/)
+- Personalization
+  - Added [Bibata Cursor](https://github.com/ful1e5/Bibata_Cursor)
+- Utilities
+  - Window Managers
+    - Added [Amethyst Windows](https://amethystwindows.com/)
+    - Added [SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu)
+    - Added [RBTray](https://github.com/benbuck/rbtray)
+
 ## 2022-06-12
 
 - Audio
