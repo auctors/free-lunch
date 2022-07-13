@@ -194,7 +194,7 @@
 - [Helio Workstation](https://helio.fm/) - One music sequencer for all major platforms, desktop and mobile. [![repo](icons/repo.svg)](https://github.com/helio-fm/helio-workstation)
 - [Sonic Pi](https://sonic-pi.net/) - A code-based music creation and performance tool. [![repo](icons/repo.svg)](https://github.com/sonic-pi-net/sonic-pi)
 - [AudioStellar](https://audiostellar.xyz/) - Open source data-driven musical instrument for latent sound structure discovery and music experimentation. [![repo](icons/repo.svg)](https://gitlab.com/ayrsd/audiostellar/)
-- [OpenMPT (ModPlug Tracker)](https://openmpt.org) - Sample-based music production program in the style of trackers such as Impulse Tracker and FastTracker. [![repo](icons/repo.svg)](https://github.com/openmpt/openmpt)
+- [OpenMPT (ModPlug Tracker)](https://openmpt.org) - Sample-based music production program with VST plugin support, in the style of trackers such as Impulse Tracker and FastTracker. [![repo](icons/repo.svg)](https://github.com/openmpt/openmpt)
 
 ### Others
 
