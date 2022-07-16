@@ -11,18 +11,26 @@
 - ![microsoft store](icons/store.svg) - Microsoft Store
 - ![repository](icons/repo.svg) - Repository
 
-**CHANGELOG 2022-06-17:**
+**CHANGELOG 2022-07-16:**
 
-- Browsers and Extensions
-  - [Extensions](#extensions)
-    - Added [Tabliss](https://tabliss.io/)
-- [Personalization](#personalization)
-  - Added [Bibata Cursor](https://github.com/ful1e5/Bibata_Cursor)
-- Utilities
-  - [Window Managers](#window-managers)
-    - Added [Amethyst Windows](https://amethystwindows.com/)
-    - Added [SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu)
-    - Added [RBTray](https://github.com/benbuck/rbtray)
+- Audio
+  - [Music Tag Editors](#music-tag-editors)
+    - Added [OneTagger](https://onetagger.github.io/)
+  - [Music Production](#music-production)
+    - Added [OpenMPT (ModPlug Tracker)](https://openmpt.org)
+- Video
+  - [Video Players](#video-players)
+    - Added [GridPlayer](https://github.com/vzhd1701/gridplayer)
+    - Added [IPTVnator](https://iptvnator.vercel.app/)
+- Graphics
+  - [VTuber](#vtuber)
+    - Added [SysMocap](https://github.com/xianfei/SysMocap)
+    - Added [Vignette](https://www.vignetteapp.org/)
+    - Added [Kalidoface](https://kalidoface.com/)
+    - Added [Kalidoface 3D](https://3d.kalidoface.com/)
+- Privacy and Security
+  - [Others](#others-6)
+    - Added [jExifToolGUI](https://hvdwolf.github.io/jExifToolGUI/)
 
 ## Mirrors
 
@@ -40,6 +48,7 @@
       <ul>
         <li><a href="#audio-players">Audio Players</a></li>
         <li><a href="#audio-editors">Audio Editors</a></li>
+        <li><a href="#music-tag-editors">Music Tag Editors</a></li>
         <li><a href="#music-production">Music Production</a></li>
         <li><a href="#others">Others</a></li>
       </ul>
@@ -61,6 +70,7 @@
         <li><a href="#image-editors">Image Editors</a></li>
         <li><a href="#pixel-editors">Pixel Editors</a></li>
         <li><a href="#2d-and-3d">2D and 3D</a></li>
+        <li><a href="#vtuber">VTuber</a></li>
         <li><a href="#others-2">Others</a></li>
       </ul>
     </li>
@@ -182,9 +192,13 @@
 - [Audacity](https://www.audacityteam.org/) - An easy-to-use, multi-track audio editor and recorder. [![repo](icons/repo.svg)](https://github.com/audacity/audacity)
 - [Tenacity](https://tenacityaudio.org/) - An easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder. [![repo](icons/repo.svg)](https://github.com/tenacityteam/tenacity)
 - [fre:ac](https://www.freac.org/) - A free audio converter and CD ripper with support for various popular formats and encoders. [![repo](icons/repo.svg)](https://github.com/enzo1982/freac) [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9P1XD8ZQJ7JD)
+
+### Music Tag Editors
+
 - [MusicBrainz Picard](https://picard.musicbrainz.org/) - An open-source cross-platform music tagger. [![repo](icons/repo.svg)](https://github.com/metabrainz/picard) [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9NJ9Q3JR29L2)
 - [Mp3tag](https://mp3tag.de/en) - A powerful and easy-to-use tool to edit metadata of audio files. [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/mp3tag/9NN77TCQ1NC8)
 - [Kid3](https://kid3.kde.org/) - An open-source cross-platform audio tag editor for many audio file formats.
+- [OneTagger](https://onetagger.github.io/) - The ultimate music tagger for DJs. [![repo](icons/repo.svg)](https://github.com/Marekkon5/onetagger)
 
 ### Music Production
 
@@ -194,7 +208,7 @@
 - [Helio Workstation](https://helio.fm/) - One music sequencer for all major platforms, desktop and mobile. [![repo](icons/repo.svg)](https://github.com/helio-fm/helio-workstation)
 - [Sonic Pi](https://sonic-pi.net/) - A code-based music creation and performance tool. [![repo](icons/repo.svg)](https://github.com/sonic-pi-net/sonic-pi)
 - [AudioStellar](https://audiostellar.xyz/) - Open source data-driven musical instrument for latent sound structure discovery and music experimentation. [![repo](icons/repo.svg)](https://gitlab.com/ayrsd/audiostellar/)
-- [OpenMPT (ModPlug Tracker)](https://openmpt.org) - Sample-based music production program with VST plugin support, in the style of trackers such as Impulse Tracker and FastTracker. [![repo](icons/repo.svg)](https://github.com/openmpt/openmpt)
+- [OpenMPT (ModPlug Tracker)](https://openmpt.org) - Sample-based music production program in the style of trackers such as Impulse Tracker and FastTracker. [![repo](icons/repo.svg)](https://github.com/openmpt/openmpt)
 
 ### Others
 
@@ -232,6 +246,8 @@
 - [mpv.net](https://github.com/stax76/mpv.net) - A modern media player for Windows based on the popular mpv player. [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9N64SQZTB3LM)
 - [SMPlayer](https://www.smplayer.info/) - Free Media Player with built-in codecs. [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9N80Q5M0QXW6)
 - [Kawaii-Player](https://github.com/kanishka-linux/kawaii-player) - Multimedia player, media library manager and portable media server with PC-To-PC casting feature.
+- [GridPlayer](https://github.com/vzhd1701/gridplayer) - Simple VLC-based media player that can play multiple videos at the same time.
+- [IPTVnator](https://iptvnator.vercel.app/) - A video player application that provides support for the playback of IPTV playlists (m3u, m3u8). [![repo](icons/repo.svg)](https://github.com/4gray/iptvnator)
 - [Streamlink Twitch GUI](https://streamlink.github.io/streamlink-twitch-gui/) - A multi platform Twitch.tv browser for Streamlink. [![repo](icons/repo.svg)](https://github.com/streamlink/streamlink-twitch-gui)
 - [FreeTube](https://freetubeapp.io/) - An Open Source YouTube app for privacy. [![repo](icons/repo.svg)](https://github.com/FreeTubeApp/FreeTube)
 - [Piped](https://piped.kavin.rocks) - An alternative privacy-friendly YouTube frontend which is efficient by design. [![repo](icons/repo.svg)](https://github.com/TeamPiped/Piped)
@@ -374,6 +390,13 @@
 - [Sweet Home 3D](https://www.sweethome3d.com/) - A free interior design application which helps you draw the plan of your house, arrange furniture on it and visit the results in 3D.
 - [F3D](https://f3d-app.github.io/f3d/) - A fast and minimalist 3D viewer. [![repo](icons/repo.svg)](https://github.com/f3d-app/f3d)
 
+### VTuber
+
+- [SysMocap](https://github.com/xianfei/SysMocap) - A real-time motion capture system for 3D virtual character animating.
+- [Vignette](https://www.vignetteapp.org/) - The open source VTuber software. [![repo](icons/repo.svg)](https://github.com/vignetteapp/vignette)
+- [Kalidoface](https://kalidoface.com/) - Become a virtual character with just your webcam! [![repo](icons/repo.svg)](https://github.com/yeemachine/kalidoface)
+- [Kalidoface 3D](https://3d.kalidoface.com/) - A web app that brings support for 3D Vtuber avatars. [![repo](icons/repo.svg)](https://github.com/yeemachine/kalidoface-3d)
+
 ### Others
 
 - [Graphviz](https://graphviz.org/) - Open source graph visualization software. [![repo](icons/repo.svg)](https://gitlab.com/graphviz/graphviz)
@@ -396,7 +419,7 @@
 
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Get the browser that protects what’s important. [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9NZVDKPMR9RD)
 - [LibreWolf](https://librewolf.net/) - A fork of Firefox, focused on privacy, security and freedom.
-- [Brave](https://www.brave.com/) - A fast, private and secure web browser. [![repo](icons/repo.svg)](https://github.com/brave/brave-browser)
+- [Brave](https://www.brave.com/) - A fast, private and secure web browser. [![repo](icons/repo.svg)](https://github.com/brave/brave-browser) [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/brave-browser/XP8C9QZMS2PC1T)
 - [Chromium](https://chromium.woolyss.com/) - The free and open-source project behind Google Chrome.
 - [Tor Browser](https://www.torproject.org/) - A web broswer that anonymizes your web traffic using the Tor network.
 - ~~[Min](https://minbrowser.org/) - A fast, minimal browser that protects your privacy.~~ [![repo](icons/repo.svg)](https://github.com/minbrowser/min)
@@ -961,7 +984,7 @@ AngularJS-powered HTML5 Markdown editor. [![repo](icons/repo.svg)](https://githu
 ### System Administration
 
 - [Sysinternals Suite](https://apps.microsoft.com/store/detail/9P7KNL5RWT25) - A bundle of the Sysinternals utilities including Process Explorer, Process Monitor, Sysmon, Autoruns, ProcDump, all of the PsTools, and many more.
-- [Process Hacker](https://processhacker.sourceforge.io/) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. [![repo](icons/repo.svg)](https://github.com/processhacker/processhacker)
+- [System Informer](https://processhacker.sourceforge.io/) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. [![repo](icons/repo.svg)](https://github.com/winsiderss/systeminformer)
 - [NSudo](https://nsudo.m2team.org/) - A system management tool for advanced users to launch programs with full privileges. [![repo](icons/repo.svg)](https://github.com/M2Team/NSudo)
 
 ### Window Managers
@@ -1041,6 +1064,7 @@ AngularJS-powered HTML5 Markdown editor. [![repo](icons/repo.svg)](https://githu
 - [ProtonVPN](https://protonvpn.com/) - High-speed Swiss VPN that safeguards your privacy. [![repo](icons/repo.svg)](https://github.com/ProtonVPN/win-app)
 - [Windscribe](https://windscribe.com/) - Free VPN and Ad Blocker. [![repo](icons/repo.svg)](https://github.com/Windscribe/Desktop-App)
 - [ExifCleaner](https://exifcleaner.com/) - Cross-platform desktop GUI app to clean image metadata. [![repo](icons/repo.svg)](https://github.com/szTheory/exifcleaner)
+- [jExifToolGUI](https://hvdwolf.github.io/jExifToolGUI/) - Graphical frontend for the excellent command-line ExifTool by Phil Harvey. [![repo](icons/repo.svg)](https://github.com/hvdwolf/jExifToolGUI)
 - [Image Scrubber](https://everestpipkin.github.io/image-scrubber/) - This is a tool for anonymizing photographs taken at protests. [![repo](icons/repo.svg)](https://github.com/everestpipkin/image-scrubber)
 - [Blacklight](https://themarkup.org/blacklight) - A Real-Time Website Privacy Inspector.
 - [Privacy Guides](https://privacyguides.org/) - Protect your data against global mass surveillance programs. [![repo](icons/repo.svg)](https://github.com/privacyguides/privacyguides.org)
