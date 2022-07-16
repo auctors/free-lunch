@@ -15,6 +15,8 @@
     - Added [Vignette](https://www.vignetteapp.org/)
     - Added [Kalidoface](https://kalidoface.com/)
     - Added [Kalidoface 3D](https://3d.kalidoface.com/)
+- Personalization
+  - Added [TaskbarXI](https://chrisandriessen.nl/)
 - Privacy and Security
   - Others
     - Added [jExifToolGUI](https://hvdwolf.github.io/jExifToolGUI/)
