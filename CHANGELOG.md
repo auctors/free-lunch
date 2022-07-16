@@ -1,3 +1,24 @@
+## 2022-07-16
+
+- Audio
+  - Music Tag Editors
+    - Added [OneTagger](https://onetagger.github.io/)
+  - Music Production
+    - Added [OpenMPT (ModPlug Tracker)](https://openmpt.org)
+- Video
+  - Video Players
+    - Added [GridPlayer](https://github.com/vzhd1701/gridplayer)
+    - Added [IPTVnator](https://iptvnator.vercel.app/)
+- Graphics
+  - VTuber
+    - Added [SysMocap](https://github.com/xianfei/SysMocap)
+    - Added [Vignette](https://www.vignetteapp.org/)
+    - Added [Kalidoface](https://kalidoface.com/)
+    - Added [Kalidoface 3D](https://3d.kalidoface.com/)
+- Privacy and Security
+  - Others
+    - Added [jExifToolGUI](https://hvdwolf.github.io/jExifToolGUI/)
+
 ## 2022-06-17
 
 - Browsers and Extensions
