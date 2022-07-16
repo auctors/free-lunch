@@ -28,6 +28,8 @@
     - Added [Vignette](https://www.vignetteapp.org/)
     - Added [Kalidoface](https://kalidoface.com/)
     - Added [Kalidoface 3D](https://3d.kalidoface.com/)
+- [Personalization](#personalization)
+  - Added [TaskbarXI](https://chrisandriessen.nl/)
 - Privacy and Security
   - [Others](#others-6)
     - Added [jExifToolGUI](https://hvdwolf.github.io/jExifToolGUI/)
@@ -835,6 +837,7 @@ AngularJS-powered HTML5 Markdown editor. [![repo](icons/repo.svg)](https://githu
 - [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - TranslucentTB offers you control over the appearance of your taskbar. [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9PF4KZ2VN4W9)
 - [RoundedTB](https://github.com/torchgm/RoundedTB) - Add margins, rounded corners and segments to your taskbars! [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9MTFTXSJ9M7F)
 - [TaskbarX](https://chrisandriessen.nl/) - TaskbarX gives you control over the position of your taskbar icons. [![repo](icons/repo.svg)](https://github.com/ChrisAnd1998/TaskbarX)
+- [TaskbarXI](https://chrisandriessen.nl/) - An application written in C++ to modify the Windows 11 Taskbar. [![repo](icons/repo.svg)](https://github.com/ChrisAnd1998/TaskbarXI)
 - [TileIconifier](https://github.com/Jonno12345/TileIconifier) - Creates tiles for most Windows 8.1 and 10 start menu icons.
 - [ModernFlyouts](https://modernflyouts-community.github.io/) - A modern Fluent Design replacement for the old Metro themed flyouts present in Windows. [![repo](icons/repo.svg)](https://github.com/ModernFlyouts-Community/ModernFlyouts) [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9MT60QV066RP)
 - [ElevenClock](https://www.somepythonthings.tk/programs/elevenclock/) - Have a customizable clock on your Windows 11 displays. [![repo](icons/repo.svg)](https://github.com/martinet101/ElevenClock) [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/elevenclock/XP89HZ8SVWTT0M)
