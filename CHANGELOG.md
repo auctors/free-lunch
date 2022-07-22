@@ -1,3 +1,19 @@
+## 2022-07-22
+
+- Games
+  - Added [CrossOver](https://lacymorrow.github.io/crossover)
+- File Sharing
+  - Added [RiftShare](https://riftshare.app/)
+- Personal Finance
+  - Added [HomeBank](http://homebank.free.fr/)
+- Utilities
+  - Context Menu Managers
+    - Added [Shell](https://nilesoft.org/)
+- Online Services
+  - Others
+    - Added [Awesome Fediverse](https://github.com/emilebosch/awesome-fediverse)
+    - Removed [fediverse.party](https://fediverse.party/)
+
 ## 2022-07-16
 
 - Audio
