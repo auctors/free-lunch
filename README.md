@@ -11,28 +11,21 @@
 - ![microsoft store](icons/store.svg) - Microsoft Store
 - ![repository](icons/repo.svg) - Repository
 
-**CHANGELOG 2022-07-16:**
+**CHANGELOG 2022-07-22:**
 
-- Audio
-  - [Music Tag Editors](#music-tag-editors)
-    - Added [OneTagger](https://onetagger.github.io/)
-  - [Music Production](#music-production)
-    - Added [OpenMPT (ModPlug Tracker)](https://openmpt.org)
-- Video
-  - [Video Players](#video-players)
-    - Added [GridPlayer](https://github.com/vzhd1701/gridplayer)
-    - Added [IPTVnator](https://iptvnator.vercel.app/)
-- Graphics
-  - [VTuber](#vtuber)
-    - Added [SysMocap](https://github.com/xianfei/SysMocap)
-    - Added [Vignette](https://www.vignetteapp.org/)
-    - Added [Kalidoface](https://kalidoface.com/)
-    - Added [Kalidoface 3D](https://3d.kalidoface.com/)
-- [Personalization](#personalization)
-  - Added [TaskbarXI](https://chrisandriessen.nl/)
-- Privacy and Security
-  - [Others](#others-6)
-    - Added [jExifToolGUI](https://hvdwolf.github.io/jExifToolGUI/)
+- [Games](#games)
+  - Added [CrossOver](https://lacymorrow.github.io/crossover)
+- [File Sharing](#file-sharing)
+  - Added [RiftShare](https://riftshare.app/)
+- [Personal Finance](#personal-finance)
+  - Added [HomeBank](http://homebank.free.fr/)
+- Utilities
+  - [Context Menu Managers](#context-menu-managers)
+    - Added [Shell](https://nilesoft.org/)
+- Online Services
+  - [Others](#others-7)
+    - Added [Awesome Fediverse](https://github.com/emilebosch/awesome-fediverse)
+    - Removed [fediverse.party](https://fediverse.party/)
 
 ## Mirrors
 
@@ -144,6 +137,7 @@
         <li><a href="#hardware-monitoring">Hardware Monitoring</a></li>
         <li><a href="#system-administration">System Administration</a></li>
         <li><a href="#window-managers">Window Managers</a></li>
+        <li><a href="#context-menu-managers">Context Menu Managers</a></li>
         <li><a href="#others-5">Others</a></li>
       </ul>
     </li>
@@ -494,7 +488,7 @@
 - [YT-DLP](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes.
 - [You-Get](https://you-get.org/) - A tiny command-line utility to download media contents (videos, audios, images) from the Web. [![repo](icons/repo.svg)](https://github.com/soimort/you-get)
 - [Lux](https://github.com/iawia002/lux) - A fast and simple video downloader built with Go.
-- [Open Video Downloader](https://github.com/jely2002/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Electron and node.js.
+- [Open Video Downloader](https://github.com/jely2002/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Electron and node.js. [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/open-video-downloader/9P53S4T9ZNJ5)
 - [Tartube](https://github.com/axcore/tartube) - A GUI front-end for youtube-dl.
 - [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - Desktop utility to download images/videos/music/text from various websites, and more.
 - [Video Downloader](https://github.com/mayeaux/videodownloader) - A video and channel downloader that supports 110 websites.
@@ -557,6 +551,7 @@
 - [GOG GALAXY](https://www.gog.com/) - Truly gamer friendly, DRM-free online gaming platform.
 - [Playnite](https://playnite.link/) - An open source video game library manager and launcher with support for 3rd party libraries like Steam, GOG, Origin, Battle.net and Uplay. [![repo](icons/repo.svg)](https://github.com/JosefNemec/Playnite)
 - [RetroArch](https://www.retroarch.com/) - A frontend for emulators, game engines and media players. [![repo](icons/repo.svg)](https://github.com/libretro/RetroArch)
+- [CrossOver](https://lacymorrow.github.io/crossover) - A Crosshair Overlay for any screen. [![repo](icons/repo.svg)](https://github.com/lacymorrow/crossover) [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/crossover-crosshair-overlay/9MTD5ZLN7NL1)
 - [Minetest](https://www.minetest.net/) - An open source voxel game engine. [![repo](icons/repo.svg)](https://github.com/minetest)
 - [Warzone 2100](https://wz2100.net/) - A ground-breaking and innovative 3D real-time strategy game. [![repo](icons/repo.svg)](https://github.com/Warzone2100/warzone2100)
 - [0 A.D.](https://play0ad.com/) - A free, open-source game of ancient warfare.
@@ -628,6 +623,7 @@
 - [croc](https://schollz.com/software/croc6) - A CLI file-transfer tool. [![repo](icons/repo.svg)](https://github.com/schollz/croc)
 - [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) - Get things from one computer to another, safely.
 - [Rymdport](https://github.com/Jacalz/rymdport) - A GUI for the Magic Wormhole.
+- [RiftShare](https://riftshare.app/) - Easy, Secure, and Free file sharing for everyone. [![repo](icons/repo.svg)](https://github.com/achhabra2/riftshare) [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/riftshare/9P564W951H6N)
 - [Tresorit Send](https://send.tresorit.com) - Send big files up to 5 GB securely.
 - [Send](https://send.vis.ee/) -  Simple, private file sharing. [![repo](icons/repo.svg)](https://github.com/timvisee/send)
 - [Disroot Upload](https://upload.disroot.org/) - Anonymous file sharing services with temporary storage.
@@ -732,7 +728,7 @@ AngularJS-powered HTML5 Markdown editor. [![repo](icons/repo.svg)](https://githu
 
 ### Mind Mapping
 
-- [drawio-desktop](https://www.diagrams.net/) - An open source technology stack for building diagramming applications. [![repo](icons/repo.svg)](https://github.com/jgraph/drawio-desktop)
+- [drawio-desktop](https://www.diagrams.net/) - An open source technology stack for building diagramming applications. [![repo](icons/repo.svg)](https://github.com/jgraph/drawio-desktop) [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/drawio-diagrams/9MVVSZK43QQW)
 - [draw.io](https://app.diagrams.net/) - Free online diagram software.
 - [Heimer](https://github.com/juzzlin/Heimer) - A simple cross-platform mind map, diagram, and note-taking tool written in Qt.
 - [My Mind](https://my-mind.github.io/) - A web application for creating and managing Mind maps. [![repo](icons/repo.svg)](https://github.com/ondras/my-mind)
@@ -790,11 +786,11 @@ AngularJS-powered HTML5 Markdown editor. [![repo](icons/repo.svg)](https://githu
 - [Money Manager Ex](http://moneymanagerex.org/) - A free, open-source, cross-platform, easy-to-use personal finance software. [![repo](icons/repo.svg)](https://github.com/moneymanagerex/moneymanagerex)
 - [GnuCash](http://www.gnucash.org/) - A personal and small-business finance manager. [![repo](icons/repo.svg)](https://github.com/Gnucash/gnucash)
 - [KMyMoney](https://kmymoney.org/) - A cross-platform personal finance manager.
+- [HomeBank](http://homebank.free.fr/en/) - Free personal finance software, money management for everyone. [![repo](icons/repo.svg)](https://launchpad.net/homebank)
 - [grocy](https://grocy.info/) - A web-based self-hosted groceries & household management solution for your home. [![repo](icons/repo.svg)](https://github.com/grocy/grocy) [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9NWB1TRNNKSF)
 - [Frappe Books](https://frappebooks.com/) - Free Desktop book-keeping software for small businesses and freelancers. [![repo](icons/repo.svg)](https://github.com/frappe/books)
 - [CryptoTracker](https://ismaelestalayo.com/projects/CryptoTracker/) - Simple yet powerful cryptocurrency portfolio tracker designed with simplicity and functionality in mind. [![repo](icons/repo.svg)](https://github.com/ismaelestalayo/CryptoTracker) [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9N3B47HBVBLC)
 - [rotki](https://rotki.com/) - A portfolio tracking, analytics, accounting and tax reporting application that protects your privacy. [![repo](icons/repo.svg)](https://github.com/rotki/rotki)
-- [HomeBank](http://homebank.free.fr/en/) - Free personal finance software, money management for everyone. [![repo](icons/repo.svg)](https://launchpad.net/homebank)
 
 ## Education
 
@@ -845,8 +841,6 @@ AngularJS-powered HTML5 Markdown editor. [![repo](icons/repo.svg)](https://githu
 - [Taskbar Groups](https://github.com/tjackenpacken/taskbar-groups) - Lightweight utility for organizing the taskbar through groups.
 - [RunCat_for_windows](https://github.com/Kyome22/RunCat_for_windows) - A cute running cat animation on your windows taskbar.
 - [Desktop Pet (eSheep)](https://adrianotiger.github.io/desktopPet/) - This project gives you the possibility to add a pet to your desktop. [![repo](icons/repo.svg)](https://github.com/Adrianotiger/desktopPet) [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/esheep-64bit/9MX2V0TQT6RM)
-- [Custom Context Menu](https://github.com/ikas-mc/ContextMenuForWindows11) - Add Custom Context Menu For Windows11. [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9PC7BZZ28G0X)
-- [ContextMenuManager](https://bluepointlilac.github.io/ContextMenuManager) - A program to manage the Windows right-click context menu. [![repo](icons/repo.svg)](https://github.com/BluePointLilac/ContextMenuManager)
 - [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows.
 - [Mica for Everyone](https://github.com/MicaForEveryone/MicaForEveryone) - A tool to enable backdrop effect on titlebar of win32 apps on Windows 11.
 - [Bibata Cursor](https://github.com/ful1e5/Bibata_Cursor) - Opensource, compact, and material-designed cursor set.
@@ -914,12 +908,12 @@ AngularJS-powered HTML5 Markdown editor. [![repo](icons/repo.svg)](https://githu
 - [Visual Studio Code](https://code.visualstudio.com/) - A free, lightweight, and extensible code editor. [![repo](icons/repo.svg)](https://github.com/microsoft/vscode) [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/visual-studio-code/XP9KHM4BK9FZ7Q)
 - [VSCodium](https://vscodium.com/) - A community-driven, freely-licensed binary distribution of Microsoft’s editor VS Code. [![repo](icons/repo.svg)](https://github.com/VSCodium/vscodium)
 - [Atom](https://atom.io/) - The hackable text editor. [![repo](icons/repo.svg)](https://github.com/atom/atom)
-- [DevToys](https://devtoys.app/) - A Swiss Army knife for developers. [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9PGCV4V3BK4W)
 - Windows Terminal - A modern, fast, efficient, powerful, and productive terminal application for users of command-line tools and shells like Command Prompt, PowerShell, and WSL.
 - [Fluent Terminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies. [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9P2KRLMFXF9T)
 - [PowerShell](https://apps.microsoft.com/store/detail/9MZ1SNWT0N5D) - A task-based command-line shell and scripting language built on .NET.
 - [Tabby](https://tabby.sh/) - A highly configurable terminal emulator, SSH and serial client. [![repo](icons/repo.svg)](https://github.com/Eugeny/tabby)
 - [WindTerm](https://kingtoolbox.github.io/) - A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal. [![repo](icons/repo.svg)](https://github.com/kingToolbox/WindTerm)
+- [DevToys](https://devtoys.app/) - A Swiss Army knife for developers. [![repo](icons/repo.svg)](https://github.com/veler/DevToys) [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9PGCV4V3BK4W)
 - [adb](https://developer.android.com/studio/releases/platform-tools) - A programming tool used for the debugging of Android-based devices.
 - [freeCodeCamp.org](https://www.freecodecamp.org/) - Learn to code for free with millions of other people around the world. [![repo](icons/repo.svg)](https://github.com/freeCodeCamp/)
 - [The Odin Project](https://www.theodinproject.com/) - An open-source curriculum for learning full-stack web development. [![repo](icons/repo.svg)](https://github.com/TheOdinProject)
@@ -999,6 +993,12 @@ AngularJS-powered HTML5 Markdown editor. [![repo](icons/repo.svg)](https://githu
 - [AltSnap](https://github.com/RamonUnch/AltSnap) - Easily drag windows when pressing the alt key.
 - [SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) - SmartSystemMenu extends system menu of all windows in the system.
 - [RBTray](https://github.com/benbuck/rbtray) - RBTray allows almost any program to be minimized to the system tray by right clicking its minimize button.
+
+### Context Menu Managers
+
+- [Custom Context Menu](https://github.com/ikas-mc/ContextMenuForWindows11) - Add Custom Context Menu For Windows11. [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9PC7BZZ28G0X)
+- [ContextMenuManager](https://bluepointlilac.github.io/ContextMenuManager) - A program to manage the Windows right-click context menu. [![repo](icons/repo.svg)](https://github.com/BluePointLilac/ContextMenuManager)
+- [Shell](https://nilesoft.org/) - Powerful context menu manager for Windows File Explorer. [![repo](icons/repo.svg)](https://github.com/moudey/shell)
 
 ### Others
 
@@ -1108,7 +1108,6 @@ AngularJS-powered HTML5 Markdown editor. [![repo](icons/repo.svg)](https://githu
 
 ### Others
 
-- [fediverse.party](https://fediverse.party/) - A quick look into Fediverse networks.
 - [AlternativeTo](https://alternativeto.net/) - A website which lists alternatives to web-based software, desktop computer software, and mobile apps.
 - [Product Hunt](https://www.producthunt.com/) - A website that lets users share and discover new products.
 - [Slant](https://www.slant.co/) - A product recommendation community with the goal of making it effortless to find the best product, app or game for you.
@@ -1119,6 +1118,7 @@ AngularJS-powered HTML5 Markdown editor. [![repo](icons/repo.svg)](https://githu
 - [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links.
 - [Piracy Index](https://piracy.vercel.app/) - This website is a collection of the best digital piracy resources. [![repo](icons/repo.svg)](https://gitlab.com/piracy/piracy)
 - [degoogle](https://degoogle.jmoore.dev/) - A huge list of alternatives to Google products. [![repo](icons/repo.svg)](https://github.com/tycrek/degoogle)
+- [Awesome Fediverse](https://github.com/emilebosch/awesome-fediverse) - A curated, collaborative list of awesome Fediverse resources.
 - [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers.
 
 ---
