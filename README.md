@@ -794,6 +794,7 @@ AngularJS-powered HTML5 Markdown editor. [![repo](icons/repo.svg)](https://githu
 - [Frappe Books](https://frappebooks.com/) - Free Desktop book-keeping software for small businesses and freelancers. [![repo](icons/repo.svg)](https://github.com/frappe/books)
 - [CryptoTracker](https://ismaelestalayo.com/projects/CryptoTracker/) - Simple yet powerful cryptocurrency portfolio tracker designed with simplicity and functionality in mind. [![repo](icons/repo.svg)](https://github.com/ismaelestalayo/CryptoTracker) [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9N3B47HBVBLC)
 - [rotki](https://rotki.com/) - A portfolio tracking, analytics, accounting and tax reporting application that protects your privacy. [![repo](icons/repo.svg)](https://github.com/rotki/rotki)
+- [HomeBank](http://homebank.free.fr/en/) - Free personal finance software, money management for everyone. [![repo](icons/repo.svg)](https://launchpad.net/homebank)
 
 ## Education
 
