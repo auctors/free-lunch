@@ -1,3 +1,56 @@
+## 2022-08-12
+
+- Audio
+  - Audio Editors
+    - Added [AudioMass](https://audiomass.co/)
+  - Volume Control
+    - Added [Volumey](https://github.com/G-Stas/Volumey)
+  - Others
+    - Added [Piano Trainer](https://zaneh.itch.io/piano-trainer)
+    - Added [Neothesia](https://github.com/PolyMeilex/Neothesia)
+- Video
+  - Video Players
+    - Added [QMPlay2](https://github.com/zaps166/QMPlay2)
+- Graphics
+  - Remove Image Background
+    - Added [BgSub](https://bgsub.com/webapp/)
+  - 2D and 3D
+    - Added [Seamly2D](https://github.com/FashionFreedom/Seamly2D)
+    - Added [Blockbench](https://www.blockbench.net/)
+  - Others
+    - Added [Allusion](https://github.com/allusion-app/Allusion)
+- Downloaders
+  - Media Downloaders
+    - Added [Media Downloader](https://github.com/mhogomchungu/media-downloader)
+    - Added [gallery-dl](https://github.com/mikf/gallery-dl)
+- File Management
+  - File Renamers
+    - Added [Szyszka](https://github.com/qarmin/szyszka)
+- File Sharing
+  - Replaced [Disroot Upload](https://upload.disroot.org/) by [Lufi](https://alt.framasoft.org/en/framadrop/)
+- Productivity
+  - Note Taking
+    - Added [Notesnook](https://notesnook.com/)
+    - Added [Butterfly](https://docs.butterfly.linwood.dev/)
+- Personalization
+  - Added [AlbumPaper](https://github.com/jac0b-w/AlbumPaper)
+- Development
+  - Text Editors
+    - Added [Lite XL](https://lite-xl.com/)
+  - Others
+    - Added [massCode](https://masscode.io/)
+- Utilities
+  - Package Managers
+    - Added [Fluent Store](https://github.com/yoshiask/FluentStore)
+  - Others
+    - Added [GestureSign](https://github.com/TransposonY/GestureSign)
+- Online Services
+  - Search Engines
+    - Replaced [Searx](https://searx.github.io/searx/) by [SearXNG](https://docs.searxng.org/)
+  - Others
+    - Added [Disroot](https://disroot.org/)
+    - Added [Framasoft](https://framasoft.org)
+    
 ## 2022-07-22
 
 - Games
@@ -165,3 +218,4 @@
   - Others
     - Added [Ten Hands](https://github.com/saisandeepvaddi/ten-hands)
     - Added [workspacer](https://github.com/workspacer/workspacer)
+
