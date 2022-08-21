@@ -1,3 +1,15 @@
+## 2022-08-21
+
+- Audio
+  - Others
+    - Added [Sunamu](https://github.com/NyaomiDEV/Sunamu)
+- Communication
+  - IM
+    - Replaced [Franz](http://meetfranz.com/) by [Ferdium](https://ferdium.org/)
+- Productivity
+  - Task Management
+    - Added [WeekToDo](https://weektodo.me/)
+
 ## 2022-08-12
 
 - Audio

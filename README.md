@@ -11,64 +11,22 @@
 - ![microsoft store](icons/store.svg) - Microsoft Store
 - ![repository](icons/repo.svg) - Repository
 
-**CHANGELOG 2022-08-12:**
+**CHANGELOG 2022-08-21:**
 
 - Audio
-  - [Audio Editors](#audio-editors)
-    - Added [AudioMass](https://audiomass.co/)
-  - [Volume Control](#volume-control)
-    - Added [Volumey](https://github.com/G-Stas/Volumey)
   - [Others](#others)
-    - Added [Piano Trainer](https://zaneh.itch.io/piano-trainer)
-    - Added [Neothesia](https://github.com/PolyMeilex/Neothesia)
-- Video
-  - [Video Players](#video-players)
-    - Added [QMPlay2](https://github.com/zaps166/QMPlay2)
-- Graphics
-  - [Remove Image Background](#remove-image-background)
-    - Added [BgSub](https://bgsub.com/webapp/)
-  - [2D and 3D](#2d-and-3d)
-    - Added [Seamly2D](https://github.com/FashionFreedom/Seamly2D)
-    - Added [Blockbench](https://www.blockbench.net/)
-  - [Others](#others-2)
-    - Added [Allusion](https://github.com/allusion-app/Allusion)
-- Downloaders
-  - [Media Downloaders](#media-downloaders)
-    - Added [Media Downloader](https://github.com/mhogomchungu/media-downloader)
-    - Added [gallery-dl](https://github.com/mikf/gallery-dl)
-- File Management
-  - [File Renamers](#file-renamers)
-    - Added [Szyszka](https://github.com/qarmin/szyszka)
-- [File Sharing](#file-sharing)
-  - Replaced [Disroot Upload](https://upload.disroot.org/) by [Lufi](https://alt.framasoft.org/en/framadrop/)
+    - Added [Sunamu](https://github.com/NyaomiDEV/Sunamu)
+- Communication
+  - [IM](#im)
+    - Replaced [Franz](http://meetfranz.com/) by [Ferdium](https://ferdium.org/)
 - Productivity
-  - [Note Taking](#note-taking)
-    - Added [Notesnook](https://notesnook.com/)
-    - Added [Butterfly](https://docs.butterfly.linwood.dev/)
-- [Personalization](#personalization)
-  - Added [AlbumPaper](https://github.com/jac0b-w/AlbumPaper)
-- Development
-  - [Text Editors](#text-editors)
-    - Added [Lite XL](https://lite-xl.com/)
-  - [Others](#others-6)
-    - Added [massCode](https://masscode.io/)
-- Utilities
-  - [Package Managers](#package-managers)
-    - Added [Fluent Store](https://github.com/yoshiask/FluentStore)
-  - [Others](#others-7)
-    - Added [GestureSign](https://github.com/TransposonY/GestureSign)
-- Online Services
-  - [Search Engines](#search-engines)
-    - Replaced [Searx](https://searx.github.io/searx/) by [SearXNG](https://docs.searxng.org/)
-  - [Others](#others-9)
-    - Added [Disroot](https://disroot.org/)
-    - Added [Framasoft](https://framasoft.org)
+  - [Task Management](#task-management)
+    - Added [WeekToDo](https://weektodo.me/)
 
 ## Mirrors
 
 - Github: https://github.com/auctors/free-lunch
 - Codeberg: https://codeberg.org/auctor/free-lunch
-- Qua: https://qua.name/auctor/free-lunch
 
 ## Contents
 
@@ -305,6 +263,7 @@
 - [Real-time Noise Suppression Plugin](https://github.com/werman/noise-suppression-for-voice) - Noise suppression plugin based on Xiph's RNNoise.
 - [SpleeterGUI](https://github.com/boy1dr/SpleeterGui) - Music source separation desktop app.
 - [Audio Band](https://github.com/AudioBand/AudioBand) - Display and control songs from the Windows taskbar.
+- [Sunamu](https://github.com/NyaomiDEV/Sunamu) - Show your currently playing song in a stylish way!
 - [MicMute](https://github.com/SaifAqqad/AHK_MicMute) - Control your microphone using keyboard and mouse hotkeys.
 - [Mechvibes](https://mechvibes.com/) - Adds sound feedback any keyboard. [![repo](icons/repo.svg)](https://github.com/hainguyents13/mechvibes)
 - [AudioPlaybackConnector](https://github.com/ysc3839/AudioPlaybackConnector) - Bluetooth audio playback (A2DP Sink) connector for Windows 10 2004+.
@@ -573,7 +532,7 @@
 - [Signal](https://signal.org/) - A messaging app with an unexpected focus on privacy, combined with all the features expected from a modern IM app. [![repo](icons/repo.svg)](https://github.com/signalapp)
 - [Element](https://element.io/) - Secure and independent communication, connected via Matrix. [![repo](icons/repo.svg)](https://github.com/vector-im/element-desktop)
 - [Session](https://getsession.org/) - An end-to-end encrypted messenger. [![repo](icons/repo.svg)](https://github.com/loki-project/session-desktop)
-- [Franz](http://meetfranz.com/) - Messaging app for WhatsApp, Slack, Telegram, HipChat, Hangouts and many many more. [![repo](icons/repo.svg)](https://github.com/meetfranz/franz)
+- [Ferdium](https://ferdium.org/) - A desktop app that helps you organize how you use your favourite apps by combining them into one application. [![repo](icons/repo.svg)](https://github.com/ferdium/ferdium-app)
 - [Hamsket](https://github.com/TheGoddessInari/hamsket) - Free messaging and emailing app that combines common web applications into one.
 - [Jitsi Meet](https://meet.jit.si) - Free Jitsi Meet instance, provising state-of-the-art video conferencing. [![repo](icons/repo.svg)](https://github.com/jitsi)
 - [Revolt](http://revolt.chat/) - User-first chat platform built with modern web technologies. [![repo](icons/repo.svg)](https://github.com/revoltchat)
@@ -868,6 +827,7 @@ AngularJS-powered HTML5 Markdown editor. [![repo](icons/repo.svg)](https://githu
 - [Focalboard](https://www.focalboard.com/) - An open source, self-hosted alternative to Trello, Notion, and Asana. [![repo](icons/repo.svg)](https://github.com/mattermost/focalboard) [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9NLN2T0SX9VF)
 - [Kanban Tasker](https://github.com/hjohnson12/Kanban-Tasker) - A simple personal kanban board. [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9NMKTDZ3L9LQ)
 - [sleek](https://github.com/ransome1/sleek) - A todo app based on todo.txt. [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/9NWM2WXF60KR)
+- [WeekToDo](https://weektodo.me/) - A free minimalist weekly planner app focused on privacy. [![repo](icons/repo.svg)](https://github.com/manuelernestog/weektodo-web)
 
 ### Time Tracking
 
