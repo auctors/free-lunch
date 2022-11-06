@@ -261,8 +261,8 @@
 - [Friture](https://friture.org/) - An application to visualize and analyze live audio data in real-time. [![repo][repo.svg]](https://github.com/tlecomte/friture) [![store][store.svg]](https://apps.microsoft.com/store/detail/9PH4BL3F5Q2H) ![open][open.svg]
 - [Mechvibes](https://mechvibes.com/) - Adds sound feedback any keyboard. [![repo][repo.svg]](https://github.com/hainguyents13/mechvibes)
 - [MicMute](https://github.com/SaifAqqad/AHK_MicMute) - Control your microphone using keyboard and mouse hotkeys. [![repo][repo.svg]](https://github.com/SaifAqqad/AHK_MicMute)
-- [Neothesia](https://github.com/PolyMeilex/Neothesia) - Flashy Synthesia Like Software For Linux, Windows and macOS. [![repo][repo.svg]](https://github.com/PolyMeilex/Neothesia)
-- [Peace Equalizer](https://sourceforge.net/projects/peace-equalizer-apo-extension/) - A Windows PC interface for Equalizer APO.
+- [Neothesia](https://github.com/PolyMeilex/Neothesia) - Flashy Synthesia Like Software For Linux, Windows and macOS. [![repo][repo.svg]](https://github.com/PolyMeilex/Neothesia) ![open][open.svg]
+- [Peace Equalizer](https://sourceforge.net/projects/peace-equalizer-apo-extension/) - A Windows PC interface for Equalizer APO. [![repo][repo.svg]](https://sourceforge.net/projects/peace-equalizer-apo-extension/) ![open][open.svg]
 - [Piano Trainer](https://zaneh.itch.io/piano-trainer) - A music practice program w/ MIDI support. [![repo][repo.svg]](https://github.com/ZaneH/piano-trainer)
 - [projectM](https://github.com/projectM-visualizer/projectm) - The most advanced open-source music visualizer. [![store][store.svg]](https://apps.microsoft.com/store/detail/9NDCVH0VCWJN) [![repo][repo.svg]](https://github.com/projectM-visualizer/projectm)
 - [Real-time Noise Suppression Plugin](https://github.com/werman/noise-suppression-for-voice) - Noise suppression plugin based on Xiph's RNNoise. [![repo][repo.svg]](https://github.com/werman/noise-suppression-for-voice)
