@@ -10,7 +10,7 @@
 - Microsoft Store Apps may not have all the features of Desktop Apps.
 - ![microsoft store][store.svg] - Microsoft Store
 - ![repository][repo.svg] - Repository
-- ![open][open.svg] - ![Open Source](https://opensource.org/licenses) license compliant
+- ![open][open.svg] - [Open Source](https://opensource.org/licenses/alphabetical) license compliant
 
 **CHANGELOG 2022-11-06:**
 
@@ -202,7 +202,7 @@
 - [DeaDBeeF](https://deadbeef.sourceforge.io/) - A modular cross-platform audio player. [![repo][repo.svg]](https://github.com/DeaDBeeF-Player/deadbeef)
 - [Dopamine](https://www.digimezzo.com/) - An elegant audio player which tries to make organizing and listening to music as simple and pretty as possible. [![repo][repo.svg]](https://github.com/digimezzo/dopamine) ![open][open.svg]
 - [foobar2000](https://www.foobar2000.org/) - An advanced freeware audio player. [![store][store.svg]](https://apps.microsoft.com/store/detail/9PDJ8X9SPF2K)
-- [Harmonoid](https://github.com/harmonoid/harmonoid) - Elegant music app to play & manage music library.
+- [Harmonoid](https://harmonoid.com/) - Elegant music app to play & manage music library. [![repo][repo.svg]](https://github.com/harmonoid/harmonoid)
 - [Museeks](https://museeks.io/) - A simple, clean and cross-platform music player. [![repo][repo.svg]](https://github.com/martpie/museeks) ![open][open.svg]
 - [MusicBee](https://www.getmusicbee.com/) - A music manager and player. [![store][store.svg]](https://apps.microsoft.com/store/detail/9P4CLT2RJ1RS)
 - [Strawberry Music Player](https://www.strawberrymusicplayer.org/) - A music player and music collection organizer. [![repo][repo.svg]](https://github.com/strawberrymusicplayer/strawberry) ![open][open.svg]
@@ -210,44 +210,44 @@
 
 ### Music Streaming
 
-- [Cider](https://cider.sh/) - An open source and community oriented Apple Music client. [![repo][repo.svg]](https://github.com/ciderapp/Cider)
-- [Lofi](https://www.lofi.rocks/) - A mini Spotify player with WebGL visualizations. [![repo][repo.svg]](https://github.com/dvx/lofi)
-- [nuclear](https://nuclear.js.org/) - Streaming music player that finds free music for you. [![repo][repo.svg]](https://github.com/nukeop/nuclear)
-- [Spotube](https://github.com/KRTirtho/spotube) - A lightweight free Spotify crossplatform-client which handles playback manually, streams music using Youtube & no Spotify premium account is needed.
+- [Cider](https://cider.sh/) - An open source and community oriented Apple Music client. [![repo][repo.svg]](https://github.com/ciderapp/Cider) ![open][open.svg]
+- [Lofi](https://www.lofi.rocks/) - A mini Spotify player with WebGL visualizations. [![repo][repo.svg]](https://github.com/dvx/lofi) ![open][open.svg]
+- [nuclear](https://nuclear.js.org/) - Streaming music player that finds free music for you. [![repo][repo.svg]](https://github.com/nukeop/nuclear) ![open][open.svg]
+- [Spotube](https://spotube.netlify.app/) - A lightweight free Spotify crossplatform-client which handles playback manually, streams music using Youtube & no Spotify premium account is needed. [![repo][repo.svg]](https://github.com/KRTirtho/spotube)
 - [YouTube Music Desktop App](https://ytmdesktop.app/) - A Desktop App for YouTube Music. [![repo][repo.svg]](https://github.com/ytmdesktop/ytmdesktop)
 
 ### Audio Editors
 
 - [Audacity](https://www.audacityteam.org/) - An easy-to-use, multi-track audio editor and recorder. [![repo][repo.svg]](https://github.com/audacity/audacity)
-- [AudioMass](https://audiomass.co/) - Free full-featured web-based audio & waveform editing tool.
-- [fre:ac](https://www.freac.org/) - A free audio converter and CD ripper with support for various popular formats and encoders. [![repo][repo.svg]](https://github.com/enzo1982/freac) [![store][store.svg]](https://apps.microsoft.com/store/detail/9P1XD8ZQJ7JD)
-- [Tenacity](https://tenacityaudio.org/) - An easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder. [![repo][repo.svg]](https://github.com/tenacityteam/tenacity)
+- [AudioMass](https://audiomass.co/) - Free full-featured web-based audio & waveform editing tool. [![repo][repo.svg]](https://github.com/pkalogiros/audiomass) ![open][open.svg]
+- [fre:ac](https://www.freac.org/) - A free audio converter and CD ripper with support for various popular formats and encoders. [![repo][repo.svg]](https://github.com/enzo1982/freac) [![store][store.svg]](https://apps.microsoft.com/store/detail/9P1XD8ZQJ7JD) ![open][open.svg]
+- [Tenacity](https://tenacityaudio.org/) - An easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder. [![repo][repo.svg]](https://github.com/tenacityteam/tenacity) ![open][open.svg]
 
 ### Music Tag Editors
 
-- [Kid3](https://kid3.kde.org/) - An open-source cross-platform audio tag editor for many audio file formats.
+- [Kid3](https://kid3.kde.org/) - An open-source cross-platform audio tag editor for many audio file formats. [![repo][repo.svg]](https://sourceforge.net/projects/kid3/) ![open][open.svg]
 - [Mp3tag](https://mp3tag.de/en) - A powerful and easy-to-use tool to edit metadata of audio files. [![store][store.svg]](https://apps.microsoft.com/store/detail/mp3tag/9NN77TCQ1NC8)
-- [MusicBrainz Picard](https://picard.musicbrainz.org/) - An open-source cross-platform music tagger. [![repo][repo.svg]](https://github.com/metabrainz/picard) [![store][store.svg]](https://apps.microsoft.com/store/detail/9NJ9Q3JR29L2)
-- [OneTagger](https://onetagger.github.io/) - The ultimate music tagger for DJs. [![repo][repo.svg]](https://github.com/Marekkon5/onetagger)
+- [MusicBrainz Picard](https://picard.musicbrainz.org/) - An open-source cross-platform music tagger. [![repo][repo.svg]](https://github.com/metabrainz/picard) [![store][store.svg]](https://apps.microsoft.com/store/detail/9NJ9Q3JR29L2) ![open][open.svg]
+- [OneTagger](https://onetagger.github.io/) - The ultimate music tagger for DJs. [![repo][repo.svg]](https://github.com/Marekkon5/onetagger) ![open][open.svg]
 
 ### Music Production
 
-- [AudioStellar](https://audiostellar.xyz/) - Open source data-driven musical instrument for latent sound structure discovery and music experimentation. [![repo][repo.svg]](https://gitlab.com/ayrsd/audiostellar/)
-- [BeepBox](https://beepbox.co/) - An online tool for sketching and sharing instrumental melodies. [![repo][repo.svg]](https://github.com/johnnesky/beepbox)
-- [Helio Workstation](https://helio.fm/) - One music sequencer for all major platforms, desktop and mobile. [![repo][repo.svg]](https://github.com/helio-fm/helio-workstation)
-- [Jamulus](https://jamulus.io/) - A networked music performance software allowing musicians to rehearse, perform and play in real-time.
-- [LMMS](https://lmms.io/) - Cross-platform music production software. [![repo][repo.svg]](https://github.com/LMMS/lmms)
+- [AudioStellar](https://audiostellar.xyz/) - Open source data-driven musical instrument for latent sound structure discovery and music experimentation. [![repo][repo.svg]](https://gitlab.com/ayrsd/audiostellar/) ![open][open.svg]
+- [BeepBox](https://beepbox.co/) - An online tool for sketching and sharing instrumental melodies. [![repo][repo.svg]](https://github.com/johnnesky/beepbox) ![open][open.svg]
+- [Helio Workstation](https://helio.fm/) - One music sequencer for all major platforms, desktop and mobile. [![repo][repo.svg]](https://github.com/helio-fm/helio-workstation) ![open][open.svg]
+- [Jamulus](https://jamulus.io/) - A networked music performance software allowing musicians to rehearse, perform and play in real-time. [![repo][repo.svg]](https://github.com/jamulussoftware/jamulus)
+- [LMMS](https://lmms.io/) - Cross-platform music production software. [![repo][repo.svg]](https://github.com/LMMS/lmms) ![open][open.svg]
 - [Mixxx](https://mixxx.org/) - Free DJ software that gives you everything you need to perform live mixes. [![repo][repo.svg]](https://github.com/mixxxdj/mixxx)
 - [MuseScore](https://musescore.org/) - Create, playback, and print sheet music for free. [![repo][repo.svg]](https://github.com/musescore/MuseScore) [![store][store.svg]](https://apps.microsoft.com/store/detail/9P0CNR9RWZSX)
-- [OpenMPT (ModPlug Tracker)](https://openmpt.org) - Sample-based music production program in the style of trackers such as Impulse Tracker and FastTracker. [![repo][repo.svg]](https://github.com/openmpt/openmpt)
-- [Sonic Pi](https://sonic-pi.net/) - A code-based music creation and performance tool. [![repo][repo.svg]](https://github.com/sonic-pi-net/sonic-pi)
+- [OpenMPT (ModPlug Tracker)](https://openmpt.org) - Sample-based music production program in the style of trackers such as Impulse Tracker and FastTracker. [![repo][repo.svg]](https://github.com/openmpt/openmpt) ![open][open.svg]
+- [Sonic Pi](https://sonic-pi.net/) - A code-based music creation and performance tool. [![repo][repo.svg]](https://github.com/sonic-pi-net/sonic-pi) ![open][open.svg]
 
 ### Volume Control
 
-- [EarTrumpet](https://eartrumpet.app/) - A powerful volume control app for Windows. [![repo][repo.svg]](https://github.com/File-New-Project/EarTrumpet) [![store][store.svg]](https://apps.microsoft.com/store/detail/9NBLGGH516XP)
-- [SoundSwitch](https://soundswitch.aaflalo.me/) - SoundSwitch offers you the opportunity to switch your playback and recording devices using simple hotkeys. [![repo][repo.svg]](https://github.com/Belphemur/SoundSwitch)
-- [Volumey](https://github.com/G-Stas/Volumey) - Volume mixer that allows you to set up global hotkeys to control your Windows audio system. [![store][store.svg]](https://apps.microsoft.com/store/detail/9MZCQ03MX0S3)
-- [WinMute](https://github.com/lx-s/WinMute/) - WinMute can automatically mute all sound devices on your PC.
+- [EarTrumpet](https://eartrumpet.app/) - A powerful volume control app for Windows. [![repo][repo.svg]](https://github.com/File-New-Project/EarTrumpet) [![store][store.svg]](https://apps.microsoft.com/store/detail/9NBLGGH516XP) ![open][open.svg]
+- [SoundSwitch](https://soundswitch.aaflalo.me/) - SoundSwitch offers you the opportunity to switch your playback and recording devices using simple hotkeys. [![repo][repo.svg]](https://github.com/Belphemur/SoundSwitch) ![open][open.svg]
+- [Volumey](https://github.com/G-Stas/Volumey) - Volume mixer that allows you to set up global hotkeys to control your Windows audio system. [![store][store.svg]](https://apps.microsoft.com/store/detail/9MZCQ03MX0S3) ![open][open.svg]
+- [WinMute](https://github.com/lx-s/WinMute/) - WinMute can automatically mute all sound devices on your PC. ![open][open.svg]
 
 ### Others
 
