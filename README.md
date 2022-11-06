@@ -10,7 +10,7 @@
 - Microsoft Store Apps may not have all the features of Desktop Apps.
 - ![microsoft store][store.svg] - Microsoft Store
 - ![repository][repo.svg] - Repository
-- ![open][open.svg] - Open Source license
+- ![open][open.svg] - ![Open Source](https://opensource.org/licenses) license compliant
 
 **CHANGELOG 2022-11-06:**
 
@@ -200,13 +200,13 @@
 - [AIMP](https://www.aimp.ru/) - A full-featured music player. [![store][store.svg]](https://apps.microsoft.com/store/detail/9PCLLLH15SMT)
 - [CPOD](https://github.com/z-------------/CPod) - A simple, beautiful podcast app.
 - [DeaDBeeF](https://deadbeef.sourceforge.io/) - A modular cross-platform audio player. [![repo][repo.svg]](https://github.com/DeaDBeeF-Player/deadbeef)
-- [Dopamine](https://www.digimezzo.com/) - An elegant audio player which tries to make organizing and listening to music as simple and pretty as possible. [![repo][repo.svg]](https://github.com/digimezzo/dopamine)
+- [Dopamine](https://www.digimezzo.com/) - An elegant audio player which tries to make organizing and listening to music as simple and pretty as possible. [![repo][repo.svg]](https://github.com/digimezzo/dopamine) ![open][open.svg]
 - [foobar2000](https://www.foobar2000.org/) - An advanced freeware audio player. [![store][store.svg]](https://apps.microsoft.com/store/detail/9PDJ8X9SPF2K)
 - [Harmonoid](https://github.com/harmonoid/harmonoid) - Elegant music app to play & manage music library.
-- [Museeks](https://museeks.io/) - A simple, clean and cross-platform music player. [![repo][repo.svg]](https://github.com/martpie/museeks)
+- [Museeks](https://museeks.io/) - A simple, clean and cross-platform music player. [![repo][repo.svg]](https://github.com/martpie/museeks) ![open][open.svg]
 - [MusicBee](https://www.getmusicbee.com/) - A music manager and player. [![store][store.svg]](https://apps.microsoft.com/store/detail/9P4CLT2RJ1RS)
-- [Strawberry Music Player](https://www.strawberrymusicplayer.org/) - A music player and music collection organizer. [![repo][repo.svg]](https://github.com/strawberrymusicplayer/strawberry)
-- [Tauon Music Box](https://tauonmusicbox.rocks/) - The desktop music player from the future! [![repo][repo.svg]](https://github.com/Taiko2k/TauonMusicBox)
+- [Strawberry Music Player](https://www.strawberrymusicplayer.org/) - A music player and music collection organizer. [![repo][repo.svg]](https://github.com/strawberrymusicplayer/strawberry) ![open][open.svg]
+- [Tauon Music Box](https://tauonmusicbox.rocks/) - The desktop music player from the future! [![repo][repo.svg]](https://github.com/Taiko2k/TauonMusicBox) ![open][open.svg]
 
 ### Music Streaming
 
