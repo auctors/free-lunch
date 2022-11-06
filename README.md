@@ -270,6 +270,9 @@
 - [AirPodsDesktop](https://github.com/SpriteOvO/AirPodsDesktop) - AirPods desktop user experience enhancement program.
 - [AirConnect](https://github.com/philippe44/AirConnect) - Use AirPlay to stream to UPnP/Sonos & Chromecast devices.
 - [swyh-rs](https://github.com/dheijl/swyh-rs) - Stream What You Hear written in rust, inspired by SWYH.
+- [Spek](http://spek.cc/) - Free Acoustic Spectrum Analyser. [![repo](icons/repo.svg)](https://github.com/alexkay/spek)
+- [Sonic Visualiser](https://www.sonicvisualiser.org/) - Visualisation, analysis, and annotation of music audio recordings. [![repo](icons/repo.svg)](https://github.com/sonic-visualiser/sonic-visualiser)
+- [VB-CABLE Virtual Audio Device](https://vb-audio.com/Cable/index.htm) - VB-CABLE is a virtual audio device working as virtual audio cable.
 
 ## Video
 
@@ -473,6 +476,7 @@
 - [Avataaars generator](https://getavataaars.com/) - Simple generator React app for avataaars. [![repo](icons/repo.svg)](https://github.com/fangpenlin/avataaars-generator)
 - [Personas by Draftbit](https://personas.draftbit.com/) - A delightful avatar generator by the folks at Draftbit. [![repo](icons/repo.svg)](https://github.com/draftbit/avatar-generator)
 - [macOS Big Sur - Replacements Icons](https://macosicons.com/) - Replacement icons for popular apps in the style of macOS Big Sur. [![repo](icons/repo.svg)](https://github.com/elrumo/macOS_Big_Sur_icons_replacements)
+- [ExifTool](https://exiftool.org/) - ExifTool is a platform-independent Perl library plus a command-line application for reading, writing and editing meta information in a wide variety of files.
 
 ## Browsers and Extensions
 
@@ -697,6 +701,7 @@
 - [Ludusavi](https://github.com/mtkennerly/ludusavi) - A tool for backing up your PC video game save data.
 - [ChoEazyCopy](https://github.com/Cinchoo/ChoEazyCopy) - Simple and powerful RoboCopy GUI.
 - [Ultracopier](https://ultracopier.first-world.info/) - Ultracopier acts as a replacement for files copy dialogs. [![repo](icons/repo.svg)](https://github.com/alphaonex86/Ultracopier)
+- [FreeFileSync](https://freefilesync.org/download.php) - Folder comparison and synchronization software that creates and manages backup copies of all your important files.
 
 ## File Sharing
 
@@ -908,6 +913,14 @@ AngularJS-powered HTML5 Markdown editor. [![repo](icons/repo.svg)](https://githu
 - [Khan Academy](https://www.khanacademy.org/) - A personalized learning resource for all ages.
 - [Coursera](https://www.coursera.org/) - Free and paid courses on a wide variety of subjects from scholastic to technical and more.
 
+## Statistical software
+
+- [RStudio](https://www.rstudio.com/) - RStudio provides open source and enterprise-ready professional software for data science. [![repo](icons/repo.svg)](https://github.com/rstudio/rstudio)
+- [gretl](https://gretl.sourceforge.net/index.html) - Is a cross-platform software package for econometric analysis, written in the C programming language. It is free, open-source software. [![repo](icons/repo.svg)](https://sourceforge.net/p/gretl/git/ci/master/tree/)
+- [GNU PSPP](https://www.gnu.org/software/pspp/) - Is a program for statistical analysis of sampled data. It is a free as in freedom replacement for the proprietary program SPSS.
+- [jamovi](https://www.jamovi.org/) - Is a new “3rd generation” statistical spreadsheet. designed from the ground up to be easy to use, jamovi is a compelling alternative to costly statistical products such as SPSS and SAS. [![repo](icons/repo.svg)](https://github.com/jamovi/jamovi)
+- [JASP](https://jasp-stats.org/) - JASP is an open-source statistics program that is free, friendly, and flexible. [![repo](icons/repo.svg)](https://github.com/jasp-stats/jasp-desktop)
+
 ## Personalization
 
 - [Rainmeter](https://rainmeter.net/) - Desktop customization tool for Windows. [![repo](icons/repo.svg)](https://github.com/rainmeter/rainmeter)
@@ -1000,6 +1013,8 @@ AngularJS-powered HTML5 Markdown editor. [![repo](icons/repo.svg)](https://githu
 - [Visual Studio Code](https://code.visualstudio.com/) - A free, lightweight, and extensible code editor. [![repo](icons/repo.svg)](https://github.com/microsoft/vscode) [![store](icons/store.svg)](https://apps.microsoft.com/store/detail/visual-studio-code/XP9KHM4BK9FZ7Q)
 - [VSCodium](https://vscodium.com/) - A community-driven, freely-licensed binary distribution of Microsoft’s editor VS Code. [![repo](icons/repo.svg)](https://github.com/VSCodium/vscodium)
 - [Atom](https://atom.io/) - The hackable text editor. [![repo](icons/repo.svg)](https://github.com/atom/atom)
+- [GNU Emacs](https://www.gnu.org/software/emacs/) - An extensible, customizable, free/libre text editor — and more.
+- [Brackets](https://brackets.io/) - Brackets is a modern text editor that makes it easy to design in the browser. [![repo](icons/repo.svg)](https://github.com/brackets-cont/brackets)
 
 ### Terminal Emulators
 
