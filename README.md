@@ -10,6 +10,7 @@
 - Microsoft Store Apps may not have all the features of Desktop Apps.
 - ![microsoft store][store.svg] - Microsoft Store
 - ![repository][repo.svg] - Repository
+- ![open][open.svg] - Open Source license
 
 **CHANGELOG 2022-11-06:**
 
@@ -1298,3 +1299,4 @@ AngularJS-powered HTML5 Markdown editor. [![repo][repo.svg]](https://github.com/
 
 [store.svg]: icons/store.svg
 [repo.svg]: icons/repo.svg
+[open.svg]: icons/open.svg
