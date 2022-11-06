@@ -198,7 +198,7 @@
 ### Audio Players
 
 - [AIMP](https://www.aimp.ru/) - A full-featured music player. [![store][store.svg]](https://apps.microsoft.com/store/detail/9PCLLLH15SMT)
-- [CPOD](https://github.com/z-------------/CPod) - A simple, beautiful podcast app.
+- [CPOD](https://github.com/z-------------/CPod) - A simple, beautiful podcast app. [![repo][repo.svg]](https://github.com/z-------------/CPod) ![open][open.svg]
 - [DeaDBeeF](https://deadbeef.sourceforge.io/) - A modular cross-platform audio player. [![repo][repo.svg]](https://github.com/DeaDBeeF-Player/deadbeef)
 - [Dopamine](https://www.digimezzo.com/) - An elegant audio player which tries to make organizing and listening to music as simple and pretty as possible. [![repo][repo.svg]](https://github.com/digimezzo/dopamine) ![open][open.svg]
 - [foobar2000](https://www.foobar2000.org/) - An advanced freeware audio player. [![store][store.svg]](https://apps.microsoft.com/store/detail/9PDJ8X9SPF2K)
