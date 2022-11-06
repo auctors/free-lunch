@@ -218,7 +218,7 @@
 
 ### Audio Editors
 
-- [Audacity](https://www.audacityteam.org/) - An easy-to-use, multi-track audio editor and recorder. [![repo][repo.svg]](https://github.com/audacity/audacity)
+- [Audacity](https://www.audacityteam.org/) - An easy-to-use, multi-track audio editor and recorder. [![repo][repo.svg]](https://github.com/audacity/audacity) ![open][open.svg]
 - [AudioMass](https://audiomass.co/) - Free full-featured web-based audio & waveform editing tool. [![repo][repo.svg]](https://github.com/pkalogiros/audiomass) ![open][open.svg]
 - [fre:ac](https://www.freac.org/) - A free audio converter and CD ripper with support for various popular formats and encoders. [![repo][repo.svg]](https://github.com/enzo1982/freac) [![store][store.svg]](https://apps.microsoft.com/store/detail/9P1XD8ZQJ7JD) ![open][open.svg]
 - [Tenacity](https://tenacityaudio.org/) - An easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder. [![repo][repo.svg]](https://github.com/tenacityteam/tenacity) ![open][open.svg]
