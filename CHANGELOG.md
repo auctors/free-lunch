@@ -1,3 +1,77 @@
+## 2022-11-06
+
+### Added
+
+- Audio
+  - Audio Players
+    - Added [Tauon Music Box](https://tauonmusicbox.rocks/)
+  - Music Production
+    - Added [BeepBox](https://beepbox.co/)
+  - Others
+    - Added [SonoBus](https://sonobus.net/)
+    - Added [Spek](http://spek.cc/)
+    - Added [Sonic Visualiser](https://www.sonicvisualiser.org/)
+    - Added [VB-CABLE](https://vb-audio.com/Cable/)
+- Video
+  - Video Players
+    - Added [Vodon Pro](https://vodon.gg/)
+  - Others
+    - Added [pyTranscriber](https://pytranscriber.github.io/)
+- Graphics
+  - Design Tools
+    - Added [Design Editor](https://editor.layerhub.io/)
+    - Added [Penpot](https://penpot.app/)
+  - Others
+    - Added [Upscayl](https://github.com/upscayl/upscayl)
+    - Added [Stable Diffusion UI](https://stable-diffusion-ui.github.io/)
+    - Added [Tropy](https://tropy.org/)
+- Games
+  - Added [AntiMicroX](https://github.com/AntiMicroX/antimicroX)
+  - Added [Cockatrice](https://cockatrice.github.io/)
+- Backup and Sync
+  - Added [FreeFileSync](https://freefilesync.org/) 
+- Productivity
+  - Automation
+    - Added [Auto Screen Capture](https://autoscreen.sourceforge.io/)
+  - File Search
+    - Added [Spyglass](https://docs.spyglass.fyi/)
+  - Mind Mapping
+    - Added [Gaphor](https://gaphor.org/)
+  - Note Taking
+    - Added [Notes](https://www.get-notes.com/)
+  - Others
+    - Added [ClickPaste](https://github.com/Collective-Software/ClickPaste)
+- Personalization
+  - Added [Aerial](https://github.com/OrangeJedi/Aerial)
+- Development
+  - Text Editors
+    - Added [GNU Emacs](https://www.gnu.org/software/emacs/)
+    - Added [Brackets](https://brackets.io/)
+  - Statistical Analysis
+    - Added [RStudio](https://posit.co/)
+    - Added [gretl](https://gretl.sourceforge.net)
+    - Added [GNU PSPP](https://www.gnu.org/software/pspp/)
+    - Added [jamovi](https://www.jamovi.org/)
+    - Added [JASP](https://jasp-stats.org/)
+- Utilities
+  - Others
+    - Added [Keyviz](https://mularahul.github.io/keyviz)
+- Privacy and Security
+  - Remove EXIF Data
+    - Added [ExifTool](https://exiftool.org/)
+- Online Services
+  - Search Engines
+    - Added [Brave Search](https://search.brave.com/)
+
+### Removed
+
+- Network and Admin
+  - Remote Desktop
+    - Removed [AnyDesk](https://anydesk.com/)
+- Development
+  - Text Editors
+    - Removed [Atom](https://atom.io/)
+
 ## 2022-08-21
 
 - Audio
@@ -230,4 +304,3 @@
   - Others
     - Added [Ten Hands](https://github.com/saisandeepvaddi/ten-hands)
     - Added [workspacer](https://github.com/workspacer/workspacer)
-
