@@ -263,27 +263,27 @@
 - [MicMute](https://github.com/SaifAqqad/AHK_MicMute) - Control your microphone using keyboard and mouse hotkeys. [![repo][repo.svg]](https://github.com/SaifAqqad/AHK_MicMute)
 - [Neothesia](https://github.com/PolyMeilex/Neothesia) - Flashy Synthesia Like Software For Linux, Windows and macOS. [![repo][repo.svg]](https://github.com/PolyMeilex/Neothesia) ![open][open.svg]
 - [Peace Equalizer](https://sourceforge.net/projects/peace-equalizer-apo-extension/) - A Windows PC interface for Equalizer APO. [![repo][repo.svg]](https://sourceforge.net/projects/peace-equalizer-apo-extension/) ![open][open.svg]
-- [Piano Trainer](https://zaneh.itch.io/piano-trainer) - A music practice program w/ MIDI support. [![repo][repo.svg]](https://github.com/ZaneH/piano-trainer)
-- [projectM](https://github.com/projectM-visualizer/projectm) - The most advanced open-source music visualizer. [![store][store.svg]](https://apps.microsoft.com/store/detail/9NDCVH0VCWJN) [![repo][repo.svg]](https://github.com/projectM-visualizer/projectm)
-- [Real-time Noise Suppression Plugin](https://github.com/werman/noise-suppression-for-voice) - Noise suppression plugin based on Xiph's RNNoise. [![repo][repo.svg]](https://github.com/werman/noise-suppression-for-voice)
-- [Sonic Visualiser](https://www.sonicvisualiser.org/) - Visualisation, analysis, and annotation of music audio recordings. [![repo][repo.svg]](https://github.com/sonic-visualiser/sonic-visualiser)
-- [SonoBus](https://sonobus.net/) - A real-time network audio streaming collaboration tool. [![repo][repo.svg]](https://github.com/sonosaurus/sonobus)
-- [Soundux](https://soundux.rocks/) - A cross-platform soundboard that features a simple user interface. [![repo][repo.svg]](https://github.com/Soundux/Soundux)
-- [Spek](http://spek.cc/) - Free Acoustic Spectrum Analyser. [![repo][repo.svg]](https://github.com/alexkay/spek)
-- [SpleeterGUI](https://github.com/boy1dr/SpleeterGui) - Music source separation desktop app.
-- [Sunamu](https://github.com/NyaomiDEV/Sunamu) - Show your currently playing song in a stylish way!
-- [swyh-rs](https://github.com/dheijl/swyh-rs) - Stream What You Hear written in rust, inspired by SWYH.
+- [Piano Trainer](https://zaneh.itch.io/piano-trainer) - A music practice program w/ MIDI support. [![repo][repo.svg]](https://github.com/ZaneH/piano-trainer) ![open][open.svg]
+- [projectM](https://github.com/projectM-visualizer/projectm) - The most advanced open-source music visualizer. [![repo][repo.svg]](https://github.com/projectM-visualizer/projectm) [![store][store.svg]](https://apps.microsoft.com/store/detail/9NDCVH0VCWJN)
+- [Real-time Noise Suppression Plugin](https://github.com/werman/noise-suppression-for-voice) - Noise suppression plugin based on Xiph's RNNoise. [![repo][repo.svg]](https://github.com/werman/noise-suppression-for-voice) ![open][open.svg]
+- [Sonic Visualiser](https://www.sonicvisualiser.org/) - Visualisation, analysis, and annotation of music audio recordings. [![repo][repo.svg]](https://github.com/sonic-visualiser/sonic-visualiser) ![open][open.svg]
+- [SonoBus](https://sonobus.net/) - A real-time network audio streaming collaboration tool. [![repo][repo.svg]](https://github.com/sonosaurus/sonobus) ![open][open.svg]
+- [Soundux](https://soundux.rocks/) - A cross-platform soundboard that features a simple user interface. [![repo][repo.svg]](https://github.com/Soundux/Soundux) ![open][open.svg]
+- [Spek](http://spek.cc/) - Free Acoustic Spectrum Analyser. [![repo][repo.svg]](https://github.com/alexkay/spek) ![open][open.svg]
+- [SpleeterGUI](https://github.com/boy1dr/SpleeterGui) - Music source separation desktop app. [![repo][repo.svg]](https://github.com/boy1dr/SpleeterGui) ![open][open.svg]
+- [Sunamu](https://github.com/NyaomiDEV/Sunamu) - Show your currently playing song in a stylish way! [![repo][repo.svg]](https://github.com/NyaomiDEV/Sunamu) ![open][open.svg]
+- [swyh-rs](https://github.com/dheijl/swyh-rs) - Stream What You Hear written in rust, inspired by SWYH. [![repo][repo.svg]](https://github.com/dheijl/swyh-rs) ![open][open.svg]
 - [VB-CABLE](https://vb-audio.com/Cable/) - VB-CABLE is a virtual audio device working as virtual audio cable.
 
 ## Video
 
 ### Video Players
 
-- [GridPlayer](https://github.com/vzhd1701/gridplayer) - Simple VLC-based media player that can play multiple videos at the same time.
-- [IPTVnator](https://iptvnator.vercel.app/) - A video player application that provides support for the playback of IPTV playlists (m3u, m3u8). [![repo][repo.svg]](https://github.com/4gray/iptvnator)
-- [Kawaii-Player](https://github.com/kanishka-linux/kawaii-player) - Multimedia player, media library manager and portable media server with PC-To-PC casting feature.
-- [MPC-BE](https://sourceforge.net/projects/mpcbe/) - A free and open source audio and video player.
-- [MPC-HC](https://github.com/clsid2/mpc-hc) - A free and open-source video and audio player.
+- [GridPlayer](https://github.com/vzhd1701/gridplayer) - Simple VLC-based media player that can play multiple videos at the same time. [![repo][repo.svg]](https://github.com/vzhd1701/gridplayer) ![open][open.svg]
+- [IPTVnator](https://iptvnator.vercel.app/) - A video player application that provides support for the playback of IPTV playlists (m3u, m3u8). [![repo][repo.svg]](https://github.com/4gray/iptvnator) ![open][open.svg]
+- [Kawaii-Player](https://github.com/kanishka-linux/kawaii-player) - Multimedia player, media library manager and portable media server with PC-To-PC casting feature. [![repo][repo.svg]](https://github.com/kanishka-linux/kawaii-player) ![open][open.svg]
+- [MPC-BE](https://sourceforge.net/projects/mpcbe/) - A free and open source audio and video player. [![repo][repo.svg]](https://sourceforge.net/projects/mpcbe/) ![open][open.svg]
+- [MPC-HC](https://github.com/clsid2/mpc-hc) - A free and open-source video and audio player. [![repo][repo.svg]](https://github.com/clsid2/mpc-hc) ![open][open.svg]
 - [mpv.net](https://github.com/stax76/mpv.net) - A modern media player for Windows based on the popular mpv player. [![store][store.svg]](https://apps.microsoft.com/store/detail/9N64SQZTB3LM)
 - [mpv](https://mpv.io/) - A free, open source, and cross-platform media player. [![repo][repo.svg]](https://github.com/mpv-player/mpv)
 - [Pennywise](https://github.com/kamranahmedse/pennywise) - Cross-platform application to open any website or media in a floating window.
