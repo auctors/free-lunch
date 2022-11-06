@@ -730,7 +730,6 @@
 - [Blaze](https://blaze.vercel.app/) - A P2P file sharing web app. [![repo](icons/repo.svg)](https://github.com/blenderskool/blaze)
 - [Wormhole](https://wormhole.app/) - Simple, private file sharing.
 - [libcimbar](https://cimbar.org/) - Optimized implementation for color-icon-matrix barcodes. [![repo](icons/repo.svg)](https://github.com/sz3/libcimbar)
-- [FileZilla](https://filezilla-project.org/) - The free FTP solution. The FileZilla Client not only supports FTP, but also FTP over TLS (FTPS) and SFTP.
 
 ## Productivity
 
@@ -921,7 +920,6 @@ AngularJS-powered HTML5 Markdown editor. [![repo](icons/repo.svg)](https://githu
 - [GNU PSPP](https://www.gnu.org/software/pspp/) - Is a program for statistical analysis of sampled data. It is a free as in freedom replacement for the proprietary program SPSS.
 - [jamovi](https://www.jamovi.org/) - Is a new “3rd generation” statistical spreadsheet. designed from the ground up to be easy to use, jamovi is a compelling alternative to costly statistical products such as SPSS and SAS. [![repo](icons/repo.svg)](https://github.com/jamovi/jamovi)
 - [JASP](https://jasp-stats.org/) - JASP is an open-source statistics program that is free, friendly, and flexible. [![repo](icons/repo.svg)](https://github.com/jasp-stats/jasp-desktop)
-- [JMulTi](http://www.jmulti.de/) - JMulTi is an interactive software designed for univariate and multivariate time series analysis.
 
 ## Personalization
 
