@@ -246,26 +246,26 @@
 
 - [EarTrumpet](https://eartrumpet.app/) - A powerful volume control app for Windows. [![repo][repo.svg]](https://github.com/File-New-Project/EarTrumpet) [![store][store.svg]](https://apps.microsoft.com/store/detail/9NBLGGH516XP) ![open][open.svg]
 - [SoundSwitch](https://soundswitch.aaflalo.me/) - SoundSwitch offers you the opportunity to switch your playback and recording devices using simple hotkeys. [![repo][repo.svg]](https://github.com/Belphemur/SoundSwitch) ![open][open.svg]
-- [Volumey](https://github.com/G-Stas/Volumey) - Volume mixer that allows you to set up global hotkeys to control your Windows audio system. [![store][store.svg]](https://apps.microsoft.com/store/detail/9MZCQ03MX0S3) ![open][open.svg]
-- [WinMute](https://github.com/lx-s/WinMute/) - WinMute can automatically mute all sound devices on your PC. ![open][open.svg]
+- [Volumey](https://github.com/G-Stas/Volumey) - Volume mixer that allows you to set up global hotkeys to control your Windows audio system. [![repo][repo.svg]](https://github.com/G-Stas/Volumey) [![store][store.svg]](https://apps.microsoft.com/store/detail/9MZCQ03MX0S3) ![open][open.svg]
+- [WinMute](https://github.com/lx-s/WinMute/) - WinMute can automatically mute all sound devices on your PC. [![repo][repo.svg]](https://github.com/lx-s/WinMute/) ![open][open.svg]
 
 ### Others
 
-- [AirConnect](https://github.com/philippe44/AirConnect) - Use AirPlay to stream to UPnP/Sonos & Chromecast devices.
-- [AirPodsDesktop](https://github.com/SpriteOvO/AirPodsDesktop) - AirPods desktop user experience enhancement program.
-- [Audio Band](https://github.com/AudioBand/AudioBand) - Display and control songs from the Windows taskbar.
-- [AudioPlaybackConnector](https://github.com/ysc3839/AudioPlaybackConnector) - Bluetooth audio playback (A2DP Sink) connector for Windows 10 2004+.
-- [Carla](https://kx.studio/carla) - A fully-featured audio plugin host, with support for many audio drivers and plugin formats. [![repo][repo.svg]](https://github.com/falkTX/Carla)
+- [AirConnect](https://github.com/philippe44/AirConnect) - Use AirPlay to stream to UPnP/Sonos & Chromecast devices. [![repo][repo.svg]](https://github.com/philippe44/AirConnect)
+- [AirPodsDesktop](https://github.com/SpriteOvO/AirPodsDesktop) - AirPods desktop user experience enhancement program. [![repo][repo.svg]](https://github.com/SpriteOvO/AirPodsDesktop) ![open][open.svg]
+- [Audio Band](https://github.com/AudioBand/AudioBand) - Display and control songs from the Windows taskbar. [![repo][repo.svg]](https://github.com/AudioBand/AudioBand) ![open][open.svg]
+- [AudioPlaybackConnector](https://github.com/ysc3839/AudioPlaybackConnector) - Bluetooth audio playback (A2DP Sink) connector for Windows 10 2004+. [![repo][repo.svg]](https://github.com/ysc3839/AudioPlaybackConnector) ![open][open.svg]
+- [Carla](https://kx.studio/carla) - A fully-featured audio plugin host, with support for many audio drivers and plugin formats. [![repo][repo.svg]](https://github.com/falkTX/Carla) ![open][open.svg]
 - [Equalizer APO](https://sourceforge.net/projects/equalizerapo/) - A system-wide equalizer.
-- [Figaro](https://github.com/symphonly/figaro) - Real-time open-source voice modification program & sound board.
-- [Friture](https://friture.org/) - An application to visualize and analyze live audio data in real-time. [![repo][repo.svg]](https://github.com/tlecomte/friture) [![store][store.svg]](https://apps.microsoft.com/store/detail/9PH4BL3F5Q2H)
+- [Figaro](https://github.com/symphonly/figaro) - Real-time open-source voice modification program & sound board. [![repo][repo.svg]](https://github.com/symphonly/figaro) ![open][open.svg]
+- [Friture](https://friture.org/) - An application to visualize and analyze live audio data in real-time. [![repo][repo.svg]](https://github.com/tlecomte/friture) [![store][store.svg]](https://apps.microsoft.com/store/detail/9PH4BL3F5Q2H) ![open][open.svg]
 - [Mechvibes](https://mechvibes.com/) - Adds sound feedback any keyboard. [![repo][repo.svg]](https://github.com/hainguyents13/mechvibes)
-- [MicMute](https://github.com/SaifAqqad/AHK_MicMute) - Control your microphone using keyboard and mouse hotkeys.
-- [Neothesia](https://github.com/PolyMeilex/Neothesia) - Flashy Synthesia Like Software For Linux, Windows and macOS.
+- [MicMute](https://github.com/SaifAqqad/AHK_MicMute) - Control your microphone using keyboard and mouse hotkeys. [![repo][repo.svg]](https://github.com/SaifAqqad/AHK_MicMute)
+- [Neothesia](https://github.com/PolyMeilex/Neothesia) - Flashy Synthesia Like Software For Linux, Windows and macOS. [![repo][repo.svg]](https://github.com/PolyMeilex/Neothesia)
 - [Peace Equalizer](https://sourceforge.net/projects/peace-equalizer-apo-extension/) - A Windows PC interface for Equalizer APO.
 - [Piano Trainer](https://zaneh.itch.io/piano-trainer) - A music practice program w/ MIDI support. [![repo][repo.svg]](https://github.com/ZaneH/piano-trainer)
-- [projectM](https://github.com/projectM-visualizer/projectm) - The most advanced open-source music visualizer. [![store][store.svg]](https://apps.microsoft.com/store/detail/9NDCVH0VCWJN)
-- [Real-time Noise Suppression Plugin](https://github.com/werman/noise-suppression-for-voice) - Noise suppression plugin based on Xiph's RNNoise.
+- [projectM](https://github.com/projectM-visualizer/projectm) - The most advanced open-source music visualizer. [![store][store.svg]](https://apps.microsoft.com/store/detail/9NDCVH0VCWJN) [![repo][repo.svg]](https://github.com/projectM-visualizer/projectm)
+- [Real-time Noise Suppression Plugin](https://github.com/werman/noise-suppression-for-voice) - Noise suppression plugin based on Xiph's RNNoise. [![repo][repo.svg]](https://github.com/werman/noise-suppression-for-voice)
 - [Sonic Visualiser](https://www.sonicvisualiser.org/) - Visualisation, analysis, and annotation of music audio recordings. [![repo][repo.svg]](https://github.com/sonic-visualiser/sonic-visualiser)
 - [SonoBus](https://sonobus.net/) - A real-time network audio streaming collaboration tool. [![repo][repo.svg]](https://github.com/sonosaurus/sonobus)
 - [Soundux](https://soundux.rocks/) - A cross-platform soundboard that features a simple user interface. [![repo][repo.svg]](https://github.com/Soundux/Soundux)
