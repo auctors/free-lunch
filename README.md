@@ -256,7 +256,7 @@
 - [Audio Band](https://github.com/AudioBand/AudioBand) - Display and control songs from the Windows taskbar. [![repo][repo.svg]](https://github.com/AudioBand/AudioBand) ![open][open.svg]
 - [AudioPlaybackConnector](https://github.com/ysc3839/AudioPlaybackConnector) - Bluetooth audio playback (A2DP Sink) connector for Windows 10 2004+. [![repo][repo.svg]](https://github.com/ysc3839/AudioPlaybackConnector) ![open][open.svg]
 - [Carla](https://kx.studio/carla) - A fully-featured audio plugin host, with support for many audio drivers and plugin formats. [![repo][repo.svg]](https://github.com/falkTX/Carla) ![open][open.svg]
-- [Equalizer APO](https://sourceforge.net/projects/equalizerapo/) - A system-wide equalizer.
+- [Equalizer APO](https://sourceforge.net/projects/equalizerapo/) - A system-wide equalizer. [![repo][repo.svg]](https://sourceforge.net/projects/equalizerapo/) ![open][open.svg]
 - [Figaro](https://github.com/symphonly/figaro) - Real-time open-source voice modification program & sound board. [![repo][repo.svg]](https://github.com/symphonly/figaro) ![open][open.svg]
 - [Friture](https://friture.org/) - An application to visualize and analyze live audio data in real-time. [![repo][repo.svg]](https://github.com/tlecomte/friture) [![store][store.svg]](https://apps.microsoft.com/store/detail/9PH4BL3F5Q2H) ![open][open.svg]
 - [Mechvibes](https://mechvibes.com/) - Adds sound feedback any keyboard. [![repo][repo.svg]](https://github.com/hainguyents13/mechvibes)
