@@ -687,8 +687,8 @@
 ### File Converters
 
 - [Convertio](https://convertio.co) - Easy tool to convert files online.
-- [Dangerzone](https://dangerzone.rocks/) - Take potentially dangerous PDFs, office documents, or images and convert them to a safe PDF. [![repo][repo.svg]](https://github.com/firstlookmedia/dangerzone)
-- [File Converter](https://file-converter.org/) - A very simple tool which allows you to convert and compress one or several file(s) using the context menu of windows explorer. [![repo][repo.svg]](https://github.com/Tichau/FileConverter)
+- [Dangerzone](https://dangerzone.rocks/) - Take potentially dangerous PDFs, office documents, or images and convert them to a safe PDF. [![repo][repo.svg]](https://github.com/firstlookmedia/dangerzone) ![open][open.svg]
+- [File Converter](https://file-converter.org/) - A very simple tool which allows you to convert and compress one or several file(s) using the context menu of windows explorer. [![repo][repo.svg]](https://github.com/Tichau/FileConverter) ![open][open.svg]
 - [Pandoc](https://pandoc.org/) - Universal markup converter. [![repo][repo.svg]](https://github.com/jgm/pandoc)
 
 ## Backup and Sync
@@ -703,43 +703,43 @@
 
 ### Others
 
-- [ChoEazyCopy](https://github.com/Cinchoo/ChoEazyCopy) - Simple and powerful RoboCopy GUI.
-- [Cyberduck](https://cyberduck.io/) - A libre FTP, SFTP, WebDAV, S3, Backblaze B2, Azure & OpenStack Swift browser. [![repo][repo.svg]](https://github.com/iterate-ch/cyberduck)
+- [ChoEazyCopy](https://github.com/Cinchoo/ChoEazyCopy) - Simple and powerful RoboCopy GUI. [![repo][repo.svg]](https://github.com/Cinchoo/ChoEazyCopy) ![open][open.svg]
+- [Cyberduck](https://cyberduck.io/) - A libre FTP, SFTP, WebDAV, S3, Backblaze B2, Azure & OpenStack Swift browser. [![repo][repo.svg]](https://github.com/iterate-ch/cyberduck) ![open][open.svg]
 - [Duplicacy](https://duplicacy.com/) - A new generation cloud backup tool. [![repo][repo.svg]](https://github.com/gilbertchen/duplicacy)
-- [Duplicati](https://github.com/duplicati/duplicati) -  Store securely encrypted backups in the cloud!
+- [Duplicati](https://github.com/duplicati/duplicati) -  Store securely encrypted backups in the cloud! [![repo][repo.svg]](https://github.com/duplicati/duplicati) ![open][open.svg]
 - [FreeFileSync](https://freefilesync.org/) - Folder comparison and synchronization software that creates and manages backup copies of all your important files.
-- [Kopia](https://kopia.io/) - A simple, cross-platform tool for managing encrypted backups in the cloud. [![repo][repo.svg]](https://github.com/kopia/kopia)
-- [Ludusavi](https://github.com/mtkennerly/ludusavi) - A tool for backing up your PC video game save data.
-- [Rclone](https://rclone.org/) - A command-line program to sync files and directories to and from different cloud storage providers. [![repo][repo.svg]](https://github.com/rclone/rclone)
-- [restic](https://restic.net/) - Fast, secure, efficient backup program. [![repo][repo.svg]](https://github.com/restic/restic)
-- [Syncthing](https://forum.syncthing.net/) - A continuous file synchronization program. [![repo][repo.svg]](https://github.com/syncthing/syncthing)
-- [Ultracopier](https://ultracopier.first-world.info/) - Ultracopier acts as a replacement for files copy dialogs. [![repo][repo.svg]](https://github.com/alphaonex86/Ultracopier)
+- [Kopia](https://kopia.io/) - A simple, cross-platform tool for managing encrypted backups in the cloud. [![repo][repo.svg]](https://github.com/kopia/kopia) ![open][open.svg]
+- [Ludusavi](https://github.com/mtkennerly/ludusavi) - A tool for backing up your PC video game save data. [![repo][repo.svg]](https://github.com/mtkennerly/ludusavi) ![open][open.svg]
+- [Rclone](https://rclone.org/) - A command-line program to sync files and directories to and from different cloud storage providers. [![repo][repo.svg]](https://github.com/rclone/rclone) ![open][open.svg]
+- [restic](https://restic.net/) - Fast, secure, efficient backup program. [![repo][repo.svg]](https://github.com/restic/restic) ![open][open.svg]
+- [Syncthing](https://forum.syncthing.net/) - A continuous file synchronization program. [![repo][repo.svg]](https://github.com/syncthing/syncthing) ![open][open.svg]
+- [Ultracopier](https://ultracopier.first-world.info/) - Ultracopier acts as a replacement for files copy dialogs. [![repo][repo.svg]](https://github.com/alphaonex86/Ultracopier) ![open][open.svg]
 
 ## File Sharing
 
-- [Blaze](https://blaze.vercel.app/) - A P2P file sharing web app. [![repo][repo.svg]](https://github.com/blenderskool/blaze)
-- [croc](https://schollz.com/software/croc6) - A CLI file-transfer tool. [![repo][repo.svg]](https://github.com/schollz/croc)
+- [Blaze](https://blaze.vercel.app/) - A P2P file sharing web app. [![repo][repo.svg]](https://github.com/blenderskool/blaze) ![open][open.svg]
+- [croc](https://schollz.com/software/croc6) - A CLI file-transfer tool. [![repo][repo.svg]](https://github.com/schollz/croc) ![open][open.svg]
 - [FilePizza](https://file.pizza/) - Peer-to-peer file transfers in your browser. [![repo][repo.svg]](https://github.com/kern/filepizza)
-- [FileSend](https://filesend.standardnotes.org/) - Simple, encrypted file sharing.
-- [Flying Carpet](https://github.com/spieglt/FlyingCarpet) - Wireless, encrypted file transfer over automatically configured ad hoc networking.
+- [FileSend](https://filesend.standardnotes.org/) - Simple, encrypted file sharing. [![repo][repo.svg]](https://github.com/standardnotes/filesend) ![open][open.svg]
+- [Flying Carpet](https://github.com/spieglt/FlyingCarpet) - Wireless, encrypted file transfer over automatically configured ad hoc networking. [![repo][repo.svg]](https://github.com/spieglt/FlyingCarpet) ![open][open.svg]
 - [LANDrop](https://landrop.app/) - A cross-platform tool that you can use to conveniently transfer photos, videos, and other types of files to other devices on the same local network. [![repo][repo.svg]](https://github.com/LANDrop/LANDrop)
-- [libcimbar](https://cimbar.org/) - Optimized implementation for color-icon-matrix barcodes. [![repo][repo.svg]](https://github.com/sz3/libcimbar)
-- [Lufi](https://alt.framasoft.org/en/framadrop/) - Anonymous file sharing services with temporary storage. [![repo][repo.svg]](https://framagit.org/fiat-tux/hat-softwares/lufi)
-- [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) - Get things from one computer to another, safely.
-- [miniserve](https://github.com/svenstaro/miniserve) - A CLI tool to serve files and dirs over HTTP.
+- [libcimbar](https://cimbar.org/) - Optimized implementation for color-icon-matrix barcodes. [![repo][repo.svg]](https://github.com/sz3/libcimbar) ![open][open.svg]
+- [Lufi](https://alt.framasoft.org/en/framadrop/) - Anonymous file sharing services with temporary storage. [![repo][repo.svg]](https://framagit.org/fiat-tux/hat-softwares/lufi) ![open][open.svg]
+- [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) - Get things from one computer to another, safely. [![repo][repo.svg]](https://github.com/magic-wormhole/magic-wormhole) ![open][open.svg]
+- [miniserve](https://github.com/svenstaro/miniserve) - A CLI tool to serve files and dirs over HTTP. [![repo][repo.svg]](https://github.com/svenstaro/miniserve) ![open][open.svg]
 - [OnionShare](https://onionshare.org/) - An open source tool that lets you securely and anonymously share files, host websites, and chat with friends using the Tor network. [![repo][repo.svg]](https://github.com/micahflee/onionshare)
 - [pic.infini](https://pic.infini.fr/) - A free and anonymous image hosting service.
-- [RiftShare](https://riftshare.app/) - Easy, Secure, and Free file sharing for everyone. [![repo][repo.svg]](https://github.com/achhabra2/riftshare) [![store][store.svg]](https://apps.microsoft.com/store/detail/riftshare/9P564W951H6N)
-- [Rymdport](https://github.com/Jacalz/rymdport) - A GUI for the Magic Wormhole.
-- [Send](https://send.vis.ee/) -  Simple, private file sharing. [![repo][repo.svg]](https://github.com/timvisee/send)
-- [SFTPGo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support.
-- [ShareDrop](https://www.sharedrop.io/) - Easy P2P file transfer powered by WebRTC. [![repo][repo.svg]](https://github.com/szimek/sharedrop)
-- [Sharik](https://github.com/marchellodev/sharik) - An open-source, cross-platform solution for sharing files via Wi-Fi or Mobile Hotspot. [![store][store.svg]](https://apps.microsoft.com/store/detail/9NGCLB7JSPR9)
-- [Snapdrop](https://snapdrop.net) - A Progressive Web App for local file sharing. [![repo][repo.svg]](https://github.com/RobinLinus/snapdrop)
+- [RiftShare](https://riftshare.app/) - Easy, Secure, and Free file sharing for everyone. [![repo][repo.svg]](https://github.com/achhabra2/riftshare) [![store][store.svg]](https://apps.microsoft.com/store/detail/riftshare/9P564W951H6N) ![open][open.svg]
+- [Rymdport](https://github.com/Jacalz/rymdport) - A GUI for the Magic Wormhole. [![repo][repo.svg]](https://github.com/Jacalz/rymdport) ![open][open.svg]
+- [Send](https://send.vis.ee/) -  Simple, private file sharing. [![repo][repo.svg]](https://github.com/timvisee/send) ![open][open.svg]
+- [SFTPGo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support. [![repo][repo.svg]](https://github.com/drakkan/sftpgo) ![open][open.svg]
+- [ShareDrop](https://www.sharedrop.io/) - Easy P2P file transfer powered by WebRTC. [![repo][repo.svg]](https://github.com/szimek/sharedrop) ![open][open.svg]
+- [Sharik](https://github.com/marchellodev/sharik) - An open-source, cross-platform solution for sharing files via Wi-Fi or Mobile Hotspot. [![store][store.svg]](https://apps.microsoft.com/store/detail/9NGCLB7JSPR9) [![repo][repo.svg]](https://github.com/marchellodev/sharik) ![open][open.svg]
+- [Snapdrop](https://snapdrop.net) - A Progressive Web App for local file sharing. [![repo][repo.svg]](https://github.com/RobinLinus/snapdrop) ![open][open.svg]
 - [SwissTransfer](https://www.swisstransfer.com) - Send files up to 50 GB free of charge.
 - [Tresorit Send](https://send.tresorit.com) - Send big files up to 5 GB securely.
-- [Winpinator](https://winpinator.swisz.cz/) - Send and receive files across a local network. [![repo][repo.svg]](https://github.com/swiszczoo/winpinator)
-- [WinSCP](https://winscp.net/) - A popular free SFTP and FTP client for Windows. [![repo][repo.svg]](https://github.com/winscp/winscp)
+- [Winpinator](https://winpinator.swisz.cz/) - Send and receive files across a local network. [![repo][repo.svg]](https://github.com/swiszczoo/winpinator) ![open][open.svg]
+- [WinSCP](https://winscp.net/) - A popular free SFTP and FTP client for Windows. [![repo][repo.svg]](https://github.com/winscp/winscp) ![open][open.svg]
 - [Wormhole](https://wormhole.app/) - Simple, private file sharing.
 - OpenSSH - Windows Optional Features. OpenSSH is a complete implementation of the SSH protocol (version 2) for secure remote login, command execution and file transfer.
 
@@ -747,20 +747,20 @@
 
 ### Automation
 
-- [Auto Screen Capture](https://autoscreen.sourceforge.io/) - Automated screen capture utility. [![repo][repo.svg]](https://github.com/gavinkendall/autoscreen)
-- [AutoActions](https://github.com/Codectory/AutoActions) - Application-based actions to change Windows settings (display, audio) or run any program or action.
-- [AutoHotkey](https://autohotkey.com/) - A free, open source macro-creation and automation software utility that allows users to automate repetitive tasks. [![repo][repo.svg]](https://github.com/Lexikos/AutoHotkey_L)
-- [Beeftext](https://beeftext.org/) - A text snippet tool for Windows. [![repo][repo.svg]](https://github.com/xmichelo/Beeftext)
-- [espanso](https://espanso.org/) - A cross-platform Text Expander written in Rust. [![repo][repo.svg]](https://github.com/federico-terzi/espanso)
-- [Macro Deck](https://macrodeck.org/) - A open source software to use your smartphone, tablet or almost any touch screen device with a internet browser as a simple macro pad or even as an powerful automation solution for streaming, gaming, content creation and more. [![repo][repo.svg]](https://github.com/Macro-Deck-org/Macro-Deck)
-- [Mouse Jiggler](https://github.com/arkane-systems/mousejiggler) - A very simple piece of software whose sole function is to "fake" mouse input to Windows, and jiggle the mouse pointer back and forth.
+- [Auto Screen Capture](https://autoscreen.sourceforge.io/) - Automated screen capture utility. [![repo][repo.svg]](https://github.com/gavinkendall/autoscreen) ![open][open.svg]
+- [AutoActions](https://github.com/Codectory/AutoActions) - Application-based actions to change Windows settings (display, audio) or run any program or action. [![repo][repo.svg]](https://github.com/Codectory/AutoActions) ![open][open.svg]
+- [AutoHotkey](https://autohotkey.com/) - A free, open source macro-creation and automation software utility that allows users to automate repetitive tasks. [![repo][repo.svg]](https://github.com/Lexikos/AutoHotkey_L) ![open][open.svg]
+- [Beeftext](https://beeftext.org/) - A text snippet tool for Windows. [![repo][repo.svg]](https://github.com/xmichelo/Beeftext) ![open][open.svg]
+- [espanso](https://espanso.org/) - A cross-platform Text Expander written in Rust. [![repo][repo.svg]](https://github.com/federico-terzi/espanso) ![open][open.svg]
+- [Macro Deck](https://macrodeck.org/) - A open source software to use your smartphone, tablet or almost any touch screen device with a internet browser as a simple macro pad or even as an powerful automation solution for streaming, gaming, content creation and more. [![repo][repo.svg]](https://github.com/Macro-Deck-org/Macro-Deck) ![open][open.svg]
+- [Mouse Jiggler](https://github.com/arkane-systems/mousejiggler) - A very simple piece of software whose sole function is to "fake" mouse input to Windows, and jiggle the mouse pointer back and forth. [![repo][repo.svg]](https://github.com/arkane-systems/mousejiggler) ![open][open.svg]
 - [Power Automate](https://apps.microsoft.com/store/detail/9NFTCH6J7FHV) - Power Automate allows you to automate web and desktop applications on your Windows desktop by mimicking the user interface actions like clicks, and keyboard input.
-- [Shutdown Timer Classic](https://github.com/lukaslangrock/ShutdownTimerClassic) - Pick a time and let your computer shutdown itself. [![store][store.svg]](https://apps.microsoft.com/store/detail/9NTDG6C9BTTW)
-- [SikuliX](https://sikulix.github.io/) - SikuliX automates anything you see on the screen of your desktop computer running Windows, Mac or some Linux/Unix. [![repo][repo.svg]](https://github.com/RaiMan/SikuliX1)
+- [Shutdown Timer Classic](https://github.com/lukaslangrock/ShutdownTimerClassic) - Pick a time and let your computer shutdown itself. [![repo][repo.svg]](https://github.com/lukaslangrock/ShutdownTimerClassic) [![store][store.svg]](https://apps.microsoft.com/store/detail/9NTDG6C9BTTW) ![open][open.svg]
+- [SikuliX](https://sikulix.github.io/) - SikuliX automates anything you see on the screen of your desktop computer running Windows, Mac or some Linux/Unix. [![repo][repo.svg]](https://github.com/RaiMan/SikuliX1) ![open][open.svg]
 
 ### Clipboard Managers
 
-- [Clipboard Canvas](https://github.com/d2dyno1/ClipboardCanvas) - A tool that helps you be productive, preview multiple files on Infinite Canvas, save storage space with smart Reference Files, and work uninterruptibly with Autopaste. [![store][store.svg]](https://apps.microsoft.com/store/detail/9NN2NZG8RLTB)
+- [Clipboard Canvas](https://github.com/d2dyno1/ClipboardCanvas) - A tool that helps you be productive, preview multiple files on Infinite Canvas, save storage space with smart Reference Files, and work uninterruptibly with Autopaste. [![repo][repo.svg]](https://github.com/d2dyno1/ClipboardCanvas) [![store][store.svg]](https://apps.microsoft.com/store/detail/9NN2NZG8RLTB) ![open][open.svg]
 - [CopyQ](https://hluk.github.io/CopyQ/) - An advanced clipboard manager with powerful editing and scripting features. [![repo][repo.svg]](https://github.com/hluk/CopyQ)
 - [Ditto](https://ditto-cp.sourceforge.io/) - An extension to the standard windows clipboard. [![store][store.svg]](https://apps.microsoft.com/store/detail/9NBLGGH3ZBJQ)
 - [XClipper](https://kaustubhpatange.github.io/XClipper) - A clipboard manager for Windows & Android which helps to track clipboard activities and makes it easier to interact with them. [![repo][repo.svg]](https://github.com/KaustubhPatange/XClipper)
