@@ -635,28 +635,28 @@
 ## Games
 
 - [0 A.D.](https://play0ad.com/) - A free, open-source game of ancient warfare.
-- [AntiMicroX](https://github.com/AntiMicroX/antimicroX) - Graphical program used to map keyboard buttons and mouse controls to a gamepad.
+- [AntiMicroX](https://github.com/AntiMicroX/antimicroX) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. [![repo][repo.svg]](https://github.com/AntiMicroX/antimicroX) ![open][open.svg]
 - [Cataclysm: Dark Days Ahead](https://cataclysmdda.org/) - A turn-based survival game set in a post-apocalyptic world. [![repo][repo.svg]](https://github.com/CleverRaven/Cataclysm-DDA)
-- [Cockatrice](https://cockatrice.github.io/) - A cross-platform virtual tabletop for multiplayer card games. [![repo][repo.svg]](https://github.com/Cockatrice/Cockatrice)
+- [Cockatrice](https://cockatrice.github.io/) - A cross-platform virtual tabletop for multiplayer card games. [![repo][repo.svg]](https://github.com/Cockatrice/Cockatrice) ![open][open.svg]
 - [CrossOver](https://lacymorrow.github.io/crossover) - A Crosshair Overlay for any screen. [![repo][repo.svg]](https://github.com/lacymorrow/crossover) [![store][store.svg]](https://apps.microsoft.com/store/detail/crossover-crosshair-overlay/9MTD5ZLN7NL1)
-- [Endless Sky](https://endless-sky.github.io/) - A space exploration and combat game similar to Escape Velocity. [![repo][repo.svg]](https://github.com/endless-sky/endless-sky)
+- [Endless Sky](https://endless-sky.github.io/) - A space exploration and combat game similar to Escape Velocity. [![repo][repo.svg]](https://github.com/endless-sky/endless-sky) ![open][open.svg]
 - [FlightGear](https://www.flightgear.org/) - An open-source flight simulator.
 - [GOG GALAXY](https://www.gog.com/) - Truly gamer friendly, DRM-free online gaming platform.
-- [itch.io](https://itch.io/) - An online game marketplace and community. [![repo][repo.svg]](https://github.com/itchio/itch)
+- [itch.io](https://itch.io/) - An online game marketplace and community. [![repo][repo.svg]](https://github.com/itchio/itch) ![open][open.svg]
 - [Lichess](https://lichess.org/) - The complete chess experience, play and compete with friends and others around the world. [![repo][repo.svg]](https://github.com/lichess-org)
-- [Mindustry](https://mindustrygame.github.io/) - A sandbox tower defense game written in Java. [![repo][repo.svg]](https://github.com/Anuken/Mindustry)
+- [Mindustry](https://mindustrygame.github.io/) - A sandbox tower defense game written in Java. [![repo][repo.svg]](https://github.com/Anuken/Mindustry) ![open][open.svg]
 - [Minetest](https://www.minetest.net/) - An open source voxel game engine. [![repo][repo.svg]](https://github.com/minetest)
-- [OpenTDD](https://www.openttd.org/) - OpenTTD is a business simulation game in which players try to earn money by transporting passengers and freight via road, rail, water and air. [![repo][repo.svg]](https://github.com/OpenTTD/OpenTTD)
-- [osu!](https://osu.ppy.sh/) - A free-to-win rhythm game. Rhythm is just a click away! [![repo][repo.svg]](https://github.com/ppy)
-- [Playnite](https://playnite.link/) - An open source video game library manager and launcher with support for 3rd party libraries like Steam, GOG, Origin, Battle.net and Uplay. [![repo][repo.svg]](https://github.com/JosefNemec/Playnite)
-- [RetroArch](https://www.retroarch.com/) - A frontend for emulators, game engines and media players. [![repo][repo.svg]](https://github.com/libretro/RetroArch)
-- [Rigs of Rods](https://www.rigsofrods.org/) - An open-source soft-body vehicle simulator. [![repo][repo.svg]](https://github.com/RigsOfRods/rigs-of-rods)
+- [OpenTDD](https://www.openttd.org/) - OpenTTD is a business simulation game in which players try to earn money by transporting passengers and freight via road, rail, water and air. [![repo][repo.svg]](https://github.com/OpenTTD/OpenTTD) ![open][open.svg]
+- [osu!](https://osu.ppy.sh/) - A free-to-win rhythm game. Rhythm is just a click away! [![repo][repo.svg]](https://github.com/ppy) ![open][open.svg]
+- [Playnite](https://playnite.link/) - An open source video game library manager and launcher with support for 3rd party libraries like Steam, GOG, Origin, Battle.net and Uplay. [![repo][repo.svg]](https://github.com/JosefNemec/Playnite) ![open][open.svg]
+- [RetroArch](https://www.retroarch.com/) - A frontend for emulators, game engines and media players. [![repo][repo.svg]](https://github.com/libretro/RetroArch) ![open][open.svg]
+- [Rigs of Rods](https://www.rigsofrods.org/) - An open-source soft-body vehicle simulator. [![repo][repo.svg]](https://github.com/RigsOfRods/rigs-of-rods) ![open][open.svg]
 - [SuperTuxKart](https://supertuxkart.net/) - A free kart racing game. [![repo][repo.svg]](https://github.com/supertuxkart/stk-code)
 - [Thrive](https://revolutionarygamesstudio.com/) - A free, open-source game about the evolution of life. [![repo][repo.svg]](https://github.com/Revolutionary-Games)
-- [Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V.
+- [Unciv](https://github.com/yairm210/Unciv) - Open-source Android/Desktop remake of Civ V. [![repo][repo.svg]](https://github.com/yairm210/Unciv) ![open][open.svg]
 - [Warzone 2100](https://wz2100.net/) - A ground-breaking and innovative 3D real-time strategy game. [![repo][repo.svg]](https://github.com/Warzone2100/warzone2100)
-- [Wesnoth](https://www.wesnoth.org/) - An open source, turn-based strategy game with a high fantasy theme. [![repo][repo.svg]](https://github.com/wesnoth/wesnoth)
-- [Widelands](https://www.widelands.org/) - A free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. [![repo][repo.svg]](https://github.com/widelands/widelands)
+- [Wesnoth](https://www.wesnoth.org/) - An open source, turn-based strategy game with a high fantasy theme. [![repo][repo.svg]](https://github.com/wesnoth/wesnoth) ![open][open.svg]
+- [Widelands](https://www.widelands.org/) - A free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. [![repo][repo.svg]](https://github.com/widelands/widelands) ![open][open.svg]
 - [Xonotic](http://www.xonotic.org/) - An addictive, arena-style first person shooter with crisp movement and a wide array of weapons.
 
 ## File Management
@@ -665,24 +665,24 @@
 
 - [7-Zip](https://www.7-zip.org/) - A file archiver with a high compression ratio.
 - [Double Commander](https://doublecmd.sourceforge.io/) - A free cross platform open source file manager with two panels side by side. [![repo][repo.svg]](https://github.com/doublecmd/doublecmd)
-- [Far Manager](https://farmanager.com/) - A program for managing files and archives in Windows operating systems. [![repo][repo.svg]](https://github.com/FarGroup/FarManager)
-- [Files](https://files.community/) - A modern file manager. [![repo][repo.svg]](https://github.com/files-community/Files) [![store][store.svg]](https://apps.microsoft.com/store/detail/9NGHP3DX8HDX)
-- [NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience. [![store][store.svg]](https://apps.microsoft.com/store/detail/9N8G7TSCL18R)
-- [PeaZip](https://peazip.github.io/) - A free file manager and file archiver. [![repo][repo.svg]](https://github.com/peazip/PeaZip)
-- [Sigma File Manager](https://github.com/aleksey-hoffman/sigma-file-manager) - A free, open-source, quickly evolving, modern file manager app.
-- [Xplorer](https://xplorer.space/) - A customizable, modern and cross-platform File Explorer. [![repo][repo.svg]](https://github.com/kimlimjustin/xplorer)
+- [Far Manager](https://farmanager.com/) - A program for managing files and archives in Windows operating systems. [![repo][repo.svg]](https://github.com/FarGroup/FarManager) ![open][open.svg]
+- [Files](https://files.community/) - A modern file manager. [![repo][repo.svg]](https://github.com/files-community/Files) [![store][store.svg]](https://apps.microsoft.com/store/detail/9NGHP3DX8HDX) ![open][open.svg]
+- [NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience. [![repo][repo.svg]](https://github.com/M2Team/NanaZip) [![store][store.svg]](https://apps.microsoft.com/store/detail/9N8G7TSCL18R)
+- [PeaZip](https://peazip.github.io/) - A free file manager and file archiver. [![repo][repo.svg]](https://github.com/peazip/PeaZip) ![open][open.svg]
+- [Sigma File Manager](https://github.com/aleksey-hoffman/sigma-file-manager) - A free, open-source, quickly evolving, modern file manager app. [![repo][repo.svg]](https://github.com/aleksey-hoffman/sigma-file-manager)
+- [Xplorer](https://xplorer.space/) - A customizable, modern and cross-platform File Explorer. [![repo][repo.svg]](https://github.com/kimlimjustin/xplorer) ![open][open.svg]
 
 ### Duplicate File Finders
 
-- [Czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
-- [dupeGuru](https://dupeguru.voltaicideas.net/) - A cross-platform GUI tool to find duplicate files in a system. [![repo][repo.svg]](https://github.com/arsenetar/dupeguru)
-- [Video Duplicate Finder](https://github.com/0x90d/videoduplicatefinder) - A cross-platform software to find duplicated video (and image) files on hard disk based on similiarity.
+- [Czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc. [![repo][repo.svg]](https://github.com/qarmin/czkawka)
+- [dupeGuru](https://dupeguru.voltaicideas.net/) - A cross-platform GUI tool to find duplicate files in a system. [![repo][repo.svg]](https://github.com/arsenetar/dupeguru) ![open][open.svg]
+- [Video Duplicate Finder](https://github.com/0x90d/videoduplicatefinder) - A cross-platform software to find duplicated video (and image) files on hard disk based on similiarity. [![repo][repo.svg]](https://github.com/0x90d/videoduplicatefinder)
 
 ### File Renamers
 
 - [Ant Renamer](https://www.antp.be/software/renamer) - A free program that makes easier the renaming of lots of files and folders by using specified settings.
-- [File Renamer Diff](https://github.com/soi013/FileRenamerDiff) - A File Renamer App featuring a difference display before and after the change for Windows. [![store][store.svg]](https://apps.microsoft.com/store/detail/9PH9DKV5XVDB)
-- [Szyszka](https://github.com/qarmin/szyszka) - A simple but powerful and fast bulk file renamer.
+- [File Renamer Diff](https://github.com/soi013/FileRenamerDiff) - A File Renamer App featuring a difference display before and after the change for Windows. [![repo][repo.svg]](https://github.com/soi013/FileRenamerDiff) [![store][store.svg]](https://apps.microsoft.com/store/detail/9PH9DKV5XVDB) ![open][open.svg]
+- [Szyszka](https://github.com/qarmin/szyszka) - A simple but powerful and fast bulk file renamer. [![repo][repo.svg]](https://github.com/qarmin/szyszka) ![open][open.svg]
 
 ### File Converters
 
