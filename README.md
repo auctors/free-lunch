@@ -582,54 +582,54 @@
 - [Media Downloader](https://github.com/mhogomchungu/media-downloader) - A Qt/C++ front end to youtube-dl. [![repo][repo.svg]](https://github.com/mhogomchungu/media-downloader)
 - [N_m3u8DL-CLI](https://nilaoda.github.io/N_m3u8DL-CLI/) - A command line tool for downloading m3u8. [![repo][repo.svg]](https://github.com/nilaoda/N_m3u8DL-CLI) ![open][open.svg]
 - [Open Video Downloader](https://jely2002.github.io/youtube-dl-gui/) - A cross-platform GUI for youtube-dl made in Electron and node.js. [![repo][repo.svg]](https://github.com/jely2002/youtube-dl-gui) [![store][store.svg]](https://apps.microsoft.com/store/detail/open-video-downloader/9P53S4T9ZNJ5) ![open][open.svg]
-- [SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader ,supports Spotify, Youtube, Gaana, Jio-Saavn and SoundCloud.
-- [Streamlink](https://streamlink.github.io/) - A CLI utility which pipes video streams from various services into a video player. [![repo][repo.svg]](https://github.com/streamlink/streamlink)
-- [Tartube](https://github.com/axcore/tartube) - A GUI front-end for youtube-dl.
-- [Twitch Leecher](https://github.com/Franiac/TwitchLeecher) - An extremely fast and easy to use Twitch VOD downloader.
-- [Video Downloader](https://github.com/mayeaux/videodownloader) - A video and channel downloader that supports 110 websites.
-- [You-Get](https://you-get.org/) - A tiny command-line utility to download media contents (videos, audios, images) from the Web. [![repo][repo.svg]](https://github.com/soimort/you-get)
+- [SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader ,supports Spotify, Youtube, Gaana, Jio-Saavn and SoundCloud. [![repo][repo.svg]](https://github.com/Shabinder/SpotiFlyer) ![open][open.svg]
+- [Streamlink](https://streamlink.github.io/) - A CLI utility which pipes video streams from various services into a video player. [![repo][repo.svg]](https://github.com/streamlink/streamlink) ![open][open.svg]
+- [Tartube](https://github.com/axcore/tartube) - A GUI front-end for youtube-dl. [![repo][repo.svg]](https://github.com/axcore/tartube) ![open][open.svg]
+- [Twitch Leecher](https://github.com/Franiac/TwitchLeecher) - An extremely fast and easy to use Twitch VOD downloader. [![repo][repo.svg]](https://github.com/Franiac/TwitchLeecher) ![open][open.svg]
+- [Video Downloader](https://github.com/mayeaux/videodownloader) - A video and channel downloader that supports 110 websites. [![repo][repo.svg]](https://github.com/mayeaux/videodownloader)
+- [You-Get](https://you-get.org/) - A tiny command-line utility to download media contents (videos, audios, images) from the Web. [![repo][repo.svg]](https://github.com/soimort/you-get) ![open][open.svg]
 - [youtube-dl](http://ytdl-org.github.io/youtube-dl/) - Command-line program to download videos from YouTube.com and other video sites. [![repo][repo.svg]](https://github.com/ytdl-org/youtube-dl)
-- [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - An application that lets you download videos from YouTube.
-- [YT-DLP](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes.
-- [Ytmdl](https://ytmdl.deepjyoti30.dev/) - A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, Spotify, LastFM, Deezer, Gaana etc. [![repo][repo.svg]](https://github.com/deepjyoti30/ytmdl)
+- [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - An application that lets you download videos from YouTube. [![repo][repo.svg]](https://github.com/Tyrrrz/YoutubeDownloader) ![open][open.svg]
+- [YT-DLP](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes. [![repo][repo.svg]](https://github.com/yt-dlp/yt-dlp)
+- [Ytmdl](https://ytmdl.deepjyoti30.dev/) - A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, Spotify, LastFM, Deezer, Gaana etc. [![repo][repo.svg]](https://github.com/deepjyoti30/ytmdl) ![open][open.svg]
 
 ### Torrent Clients
 
-- [Instant.io](https://instant.io/) - Streaming file transfer over WebTorrent (torrents on the web). [![repo][repo.svg]](https://github.com/webtorrent/instant.io)
+- [Instant.io](https://instant.io/) - Streaming file transfer over WebTorrent (torrents on the web). [![repo][repo.svg]](https://github.com/webtorrent/instant.io) ![open][open.svg]
 - [PicoTorrent](https://picotorrent.org/) - A tiny and minimal BitTorrent client. [![repo][repo.svg]](https://github.com/picotorrent)
-- [qBittorrent](https://www.qbittorrent.org/) - qBittorrent aims to be a good alternative to all other bittorrent clients out there. [![repo][repo.svg]](https://github.com/qbittorrent/qBittorrent)
+- [qBittorrent](https://www.qbittorrent.org/) - qBittorrent aims to be a good alternative to all other bittorrent clients out there. [![repo][repo.svg]](https://github.com/qbittorrent/qBittorrent) ![open][open.svg]
 - [Transmission](https://transmissionbt.com/) - A fast, easy, and free BitTorrent client. [![repo][repo.svg]](https://github.com/transmission/transmission)
-- [WebTorrent](https://webtorrent.io/desktop) - The streaming torrent app. [![repo][repo.svg]](https://github.com/webtorrent/webtorrent-desktop)
+- [WebTorrent](https://webtorrent.io/desktop) - The streaming torrent app. [![repo][repo.svg]](https://github.com/webtorrent/webtorrent-desktop) ![open][open.svg]
 
 ## News and Books
 
 ### News
 
-- [Fluent Reader](https://hyliu.me/fluent-reader/) - Modern desktop RSS reader. [![repo][repo.svg]](https://github.com/yang991178/fluent-reader) [![store][store.svg]](https://apps.microsoft.com/store/detail/9P71FC94LRH8)
-- [QuiteRSS](https://quiterss.org/) - Free news feeds reader. [![repo][repo.svg]](https://github.com/QuiteRSS/quiterss)
-- [Raven Reader](https://ravenreader.app/) - A open source desktop news reader with flexible settings to optimize your experience. [![repo][repo.svg]](https://github.com/hello-efficiency-inc/raven-reader)
-- [RSS Guard](https://github.com/martinrotter/rssguard) - Feed reader which supports RSS/ATOM/JSON and many web-based feed services.
+- [Fluent Reader](https://hyliu.me/fluent-reader/) - Modern desktop RSS reader. [![repo][repo.svg]](https://github.com/yang991178/fluent-reader) [![store][store.svg]](https://apps.microsoft.com/store/detail/9P71FC94LRH8) ![open][open.svg]
+- [QuiteRSS](https://quiterss.org/) - Free news feeds reader. [![repo][repo.svg]](https://github.com/QuiteRSS/quiterss) ![open][open.svg]
+- [Raven Reader](https://ravenreader.app/) - A open source desktop news reader with flexible settings to optimize your experience. [![repo][repo.svg]](https://github.com/hello-efficiency-inc/raven-reader) ![open][open.svg]
+- [RSS Guard](https://github.com/martinrotter/rssguard) - Feed reader which supports RSS/ATOM/JSON and many web-based feed services. [![repo][repo.svg]](https://github.com/martinrotter/rssguard) ![open][open.svg]
 
 ### Books
 
-- [AudiobookSuite](https://gitlab.com/HammelGammel/AudiobookSuite) - A WPF application with the goal of providing an easy to use local audiobook library and player for modern Windows systems.
-- [Books](https://github.com/learn-anything/books) - Awesome Book Lists.
-- [calibre](https://calibre-ebook.com/) - An e-book manager. [![repo][repo.svg]](https://github.com/kovidgoyal/calibre)
+- [AudiobookSuite](https://gitlab.com/HammelGammel/AudiobookSuite) - A WPF application with the goal of providing an easy to use local audiobook library and player for modern Windows systems. [![repo][repo.svg]](https://gitlab.com/HammelGammel/AudiobookSuite) ![open][open.svg]
+- [Books](https://github.com/learn-anything/books) - Awesome Book Lists. [![repo][repo.svg]](https://github.com/learn-anything/books)
+- [calibre](https://calibre-ebook.com/) - An e-book manager. [![repo][repo.svg]](https://github.com/kovidgoyal/calibre) ![open][open.svg]
 - [Internet Archive](https://archive.org/) -  A non-profit library of millions of free books, movies, software, music, websites, and more.
-- [Kiwix](https://www.kiwix.org) -  An offline reader for online content like Wikipedia, Project Gutenberg, or TED Talks. [![repo][repo.svg]](https://github.com/kiwix/kiwix-desktop) [![store][store.svg]](https://apps.microsoft.com/store/detail/9P8SLZ4J979J)
-- [Koodo Reader](https://koodo.960960.xyz/) - A modern ebook manager and reader. [![repo][repo.svg]](https://github.com/troyeguo/koodo-reader)
-- [Libation](https://github.com/rmcrackan/Libation) - Audible audiobook manager.
+- [Kiwix](https://www.kiwix.org) -  An offline reader for online content like Wikipedia, Project Gutenberg, or TED Talks. [![repo][repo.svg]](https://github.com/kiwix/kiwix-desktop) [![store][store.svg]](https://apps.microsoft.com/store/detail/9P8SLZ4J979J) ![open][open.svg]
+- [Koodo Reader](https://koodo.960960.xyz/) - A modern ebook manager and reader. [![repo][repo.svg]](https://github.com/troyeguo/koodo-reader) ![open][open.svg]
+- [Libation](https://github.com/rmcrackan/Libation) - Audible audiobook manager. [![repo][repo.svg]](https://github.com/rmcrackan/Libation) ![open][open.svg]
 - [Library Genesis](https://libgen.fun/) - A file-sharing based shadow library website.
 - [Mind Expanding Books](https://books.vishnuks.com/) - Books everyone should read! [![repo][repo.svg]](https://github.com/hackerkid/Mind-Expanding-Books)
 - [Okular](https://okular.kde.org/) - A universal document viewer. [![store][store.svg]](https://apps.microsoft.com/store/detail/9N41MSQ1WNM8)
 - [Open Library](https://openlibrary.org) -  An open, editable library catalog.
 - [Project Gutenberg](https://www.gutenberg.org/) - A library of over 60,000 free eBooks.
 - [Sci-Hub](https://sci-hub.st/) - A shadow library website that provides free access to millions of research papers and books.
-- [Sigil](https://github.com/Sigil-Ebook/Sigil) - A multi-platform EPUB ebook editor.
-- [Sioyek](https://sioyek.info/) - A PDF viewer designed for reading research papers and technical books. [![repo][repo.svg]](https://github.com/ahrm/sioyek)
+- [Sigil](https://github.com/Sigil-Ebook/Sigil) - A multi-platform EPUB ebook editor. [![repo][repo.svg]](https://github.com/Sigil-Ebook/Sigil) ![open][open.svg]
+- [Sioyek](https://sioyek.info/) - A PDF viewer designed for reading research papers and technical books. [![repo][repo.svg]](https://github.com/ahrm/sioyek) ![open][open.svg]
 - [Sumatra PDF](http://www.sumatrapdfreader.org/) - A free PDF, eBook (ePub, Mobi), XPS, DjVu, CHM, Comic Book (CBZ and CBR) viewer. [![repo][repo.svg]](https://github.com/sumatrapdfreader/sumatrapdf)
-- [Thorium Reader](https://www.edrlab.org/software/thorium-reader/) - The best free reading application for EPUB, PDF and DAISY 3 ebooks, audiobooks and digital comics. [![repo][repo.svg]](https://github.com/edrlab/thorium-reader) [![store][store.svg]](https://apps.microsoft.com/store/detail/9NFZP1G7M2SC)
-- [YACReader](https://www.yacreader.com/) - Yet another comic reader. [![repo][repo.svg]](https://github.com/YACReader/yacreader)
+- [Thorium Reader](https://www.edrlab.org/software/thorium-reader/) - The best free reading application for EPUB, PDF and DAISY 3 ebooks, audiobooks and digital comics. [![repo][repo.svg]](https://github.com/edrlab/thorium-reader) [![store][store.svg]](https://apps.microsoft.com/store/detail/9NFZP1G7M2SC) ![open][open.svg]
+- [YACReader](https://www.yacreader.com/) - Yet another comic reader. [![repo][repo.svg]](https://github.com/YACReader/yacreader) ![open][open.svg]
 - [ZLibrary](https://b-ok.cc/) - The world's largest ebook library.
 
 ## Games
