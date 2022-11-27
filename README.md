@@ -501,22 +501,22 @@
 
 ### Extensions
 
-- [AdNauseam](https://adnauseam.io/) - Fight back against advertising surveillance. [![repo][repo.svg]](https://github.com/dhowe/AdNauseam)
+- [AdNauseam](https://adnauseam.io/) - Fight back against advertising surveillance. [![repo][repo.svg]](https://github.com/dhowe/AdNauseam) ![open][open.svg]
 - [Automa](http://automa.site/) - A chrome extension for automating your browser by connecting blocks. [![repo][repo.svg]](https://github.com/Kholid060/automa)
-- [BetterViewer](https://github.com/Ademking/BetterViewer) - A replacement for the image viewing mode built into Firefox and Chrome-based web browsers.
-- [Bypass Paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome) - A web browser extension to help bypass paywalls for selected sites.
-- [ClearURLs](http://docs.clearurls.xyz/) - This extension will automatically remove tracking elements from URLs to help protect your privacy when browsing the Internet. [![repo][repo.svg]](https://github.com/ClearURLs/Addon)
-- [Dark Reader](https://darkreader.org/) - Dark Reader analyzes web pages and aims to reduce eyestrain while browsing the web. [![repo][repo.svg]](https://github.com/darkreader/darkreader)
+- [BetterViewer](https://github.com/Ademking/BetterViewer) - A replacement for the image viewing mode built into Firefox and Chrome-based web browsers. [![repo][repo.svg]](https://github.com/Ademking/BetterViewer) ![open][open.svg]
+- [Bypass Paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome) - A web browser extension to help bypass paywalls for selected sites. [![repo][repo.svg]](https://github.com/iamadamdev/bypass-paywalls-chrome)
+- [ClearURLs](http://docs.clearurls.xyz/) - This extension will automatically remove tracking elements from URLs to help protect your privacy when browsing the Internet. [![repo][repo.svg]](https://github.com/ClearURLs/Addon) ![open][open.svg]
+- [Dark Reader](https://darkreader.org/) - Dark Reader analyzes web pages and aims to reduce eyestrain while browsing the web. [![repo][repo.svg]](https://github.com/darkreader/darkreader) ![open][open.svg]
 - [FastForward](https://fastforward.team/) - FastForward automatically skips annoying link shorteners. [![repo][repo.svg]](https://github.com/FastForwardTeam/FastForward)
-- [Floccus](https://floccus.org/) - Sync your bookmarks privately across browsers. [![repo][repo.svg]](https://github.com/floccusaddon/floccus)
-- [Gesturefy](https://github.com/Robbendebiene/Gesturefy) - A customizable Firefox mouse gesture add-on with a variety of different commands.
-- [LibRedirect](https://libredirect.github.io/) - A web extension that redirects popular sites to alternative privacy-friendly frontends and backends. [![repo][repo.svg]](https://github.com/libredirect/libredirect)
-- [LocalCDN](https://www.localcdn.org/) - A web browser extension that emulates Content Delivery Networks to improve your online privacy. [![repo][repo.svg]](https://codeberg.org/nobody/LocalCDN)
-- [Mailvelope](https://github.com/mailvelope/mailvelope) - Browser extension for OpenPGP encryption with Webmail.
-- [Marinara](https://github.com/schmich/marinara) - A time management assistant for Chrome that follows the Pomodoro Technique.
+- [Floccus](https://floccus.org/) - Sync your bookmarks privately across browsers. [![repo][repo.svg]](https://github.com/floccusaddon/floccus) ![open][open.svg]
+- [Gesturefy](https://github.com/Robbendebiene/Gesturefy) - A customizable Firefox mouse gesture add-on with a variety of different commands. [![repo][repo.svg]](https://github.com/Robbendebiene/Gesturefy) ![open][open.svg]
+- [LibRedirect](https://libredirect.github.io/) - A web extension that redirects popular sites to alternative privacy-friendly frontends and backends. [![repo][repo.svg]](https://github.com/libredirect/libredirect) ![open][open.svg]
+- [LocalCDN](https://www.localcdn.org/) - A web browser extension that emulates Content Delivery Networks to improve your online privacy. [![repo][repo.svg]](https://codeberg.org/nobody/LocalCDN) ![open][open.svg]
+- [Mailvelope](https://github.com/mailvelope/mailvelope) - Browser extension for OpenPGP encryption with Webmail. [![repo][repo.svg]](https://github.com/mailvelope/mailvelope) ![open][open.svg]
+- [Marinara](https://github.com/schmich/marinara) - A time management assistant for Chrome that follows the Pomodoro Technique. [![repo][repo.svg]](https://github.com/schmich/marinara) ![open][open.svg]
 - [Memex](https://worldbrain.io/) - Browser Extension to full-text search your browsing history & bookmarks. [![repo][repo.svg]](https://github.com/WorldBrain/Memex)
-- [nightTab](https://zombiefox.github.io/nightTab/) - A neutral new tab page accented with a chosen colour. [![repo][repo.svg]](https://github.com/zombieFox/nightTab)
-- [Omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity keyboard.
+- [nightTab](https://zombiefox.github.io/nightTab/) - A neutral new tab page accented with a chosen colour. [![repo][repo.svg]](https://github.com/zombieFox/nightTab) ![open][open.svg]
+- [Omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity keyboard. [![repo][repo.svg]](https://github.com/alyssaxuu/omni) ![open][open.svg]
 - [Read Aloud](https://readaloud.app/) - A Text to Speech Voice Reader extension for your browser! [![repo][repo.svg]](https://github.com/ken107/read-aloud)
 - [Screenity](https://github.com/alyssaxuu/screenity) - The most powerful screen recorder & annotation tool for Chrome.
 - [Search by Image](https://github.com/dessant/search-by-image) - A browser extension that makes effortless reverse image searches possible, and comes with support for more than 30 search engines.
