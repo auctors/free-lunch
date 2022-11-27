@@ -355,35 +355,35 @@
 
 ### Screenshot and Screen Recorder
 
-- [Captura](https://mathewsachin.github.io/Captura/) - Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes. [![repo][repo.svg]](https://github.com/MathewSachin/Captura)
-- [Flameshot](https://flameshot.org/) - Powerful yet simple to use screenshot software. [![repo][repo.svg]](https://github.com/flameshot-org/flameshot)
-- [Fluent Screen Recorder](https://github.com/MarcAnt01/Fluent-Screen-Recorder) - A simple screen recorder built with UWP and featuring Fluent Design. [![store][store.svg]](https://apps.microsoft.com/store/detail/9MWV79XLFQH7)
-- [gifcap](https://gifcap.dev/) - Capture your screen to a GIF in your browser. [![repo][repo.svg]](https://github.com/joaomoreno/gifcap)
-- [gInk](https://github.com/geovens/gInk) - An easy to use on-screen annotation software inspired by Epic Pen.
-- [Greenshot](https://getgreenshot.org/) - A light-weight screenshot software tool. [![repo][repo.svg]](https://github.com/greenshot/greenshot)
-- [Ksnip](https://github.com/ksnip/ksnip) - A Qt-based cross-platform screenshot tool that provides many annotation features for your screenshots.
+- [Captura](https://mathewsachin.github.io/Captura/) - Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes. [![repo][repo.svg]](https://github.com/MathewSachin/Captura) ![open][open.svg]
+- [Flameshot](https://flameshot.org/) - Powerful yet simple to use screenshot software. [![repo][repo.svg]](https://github.com/flameshot-org/flameshot) ![open][open.svg]
+- [Fluent Screen Recorder](https://github.com/MarcAnt01/Fluent-Screen-Recorder) - A simple screen recorder built with UWP and featuring Fluent Design. [![repo][repo.svg]](https://github.com/MarcAnt01/Fluent-Screen-Recorder) [![store][store.svg]](https://apps.microsoft.com/store/detail/9MWV79XLFQH7) ![open][open.svg]
+- [gifcap](https://gifcap.dev/) - Capture your screen to a GIF in your browser. [![repo][repo.svg]](https://github.com/joaomoreno/gifcap) ![open][open.svg]
+- [gInk](https://github.com/geovens/gInk) - An easy to use on-screen annotation software inspired by Epic Pen. [![repo][repo.svg]](https://github.com/geovens/gInk) ![open][open.svg]
+- [Greenshot](https://getgreenshot.org/) - A light-weight screenshot software tool. [![repo][repo.svg]](https://github.com/greenshot/greenshot) ![open][open.svg]
+- [Ksnip](https://github.com/ksnip/ksnip) - A Qt-based cross-platform screenshot tool that provides many annotation features for your screenshots. [![repo][repo.svg]](https://github.com/ksnip/ksnip) ![open][open.svg]
 - [LICEcap](https://www.cockos.com/licecap/) - LICEcap simple animated screen capture tool for Windows (gif recorder). [![repo][repo.svg]](https://github.com/justinfrankel/licecap)
-- [LiveDraw](https://github.com/antfu/live-draw) - A tool allows you to draw on screen real-time.
-- [OBS Studio](https://obsproject.com/) - Free and open source software for live streaming and screen recording. [![repo][repo.svg]](https://github.com/obsproject/obs-studio) [![store][store.svg]](https://apps.microsoft.com/store/detail/obs-studio/XPFFH613W8V6LV)
-- [Pensela](https://github.com/weiameili/Pensela) - The Swiss Army Knife of Screen Annotation Tools.
-- [ScreenREC](https://screen-rec.vercel.app/) - A really simple web screen recorder. [![repo][repo.svg]](https://github.com/heysagnik/screenREC)
-- [ScreenToGif](https://www.screentogif.com/) - Screen, webcam, and board recorder with an integrated editor. [![repo][repo.svg]](https://github.com/NickeManarin/ScreenToGif/) [![store][store.svg]](https://apps.microsoft.com/store/detail/9N3SQK8PDS8G)
-- [ShareX](https://getsharex.com/) - A free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. [![repo][repo.svg]](https://github.com/ShareX/ShareX) [![store][store.svg]](https://apps.microsoft.com/store/detail/9NBLGGH4Z1SP)
+- [LiveDraw](https://github.com/antfu/live-draw) - A tool allows you to draw on screen real-time. [![repo][repo.svg]](https://github.com/antfu/live-draw) ![open][open.svg]
+- [OBS Studio](https://obsproject.com/) - Free and open source software for live streaming and screen recording. [![repo][repo.svg]](https://github.com/obsproject/obs-studio) [![store][store.svg]](https://apps.microsoft.com/store/detail/obs-studio/XPFFH613W8V6LV) ![open][open.svg]
+- [Pensela](https://github.com/weiameili/Pensela) - The Swiss Army Knife of Screen Annotation Tools. [![repo][repo.svg]](https://github.com/weiameili/Pensela)
+- [ScreenREC](https://screen-rec.vercel.app/) - A really simple web screen recorder. [![repo][repo.svg]](https://github.com/heysagnik/screenREC) ![open][open.svg]
+- [ScreenToGif](https://www.screentogif.com/) - Screen, webcam, and board recorder with an integrated editor. [![repo][repo.svg]](https://github.com/NickeManarin/ScreenToGif/) [![store][store.svg]](https://apps.microsoft.com/store/detail/9N3SQK8PDS8G) ![open][open.svg]
+- [ShareX](https://getsharex.com/) - A free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. [![repo][repo.svg]](https://github.com/ShareX/ShareX) [![store][store.svg]](https://apps.microsoft.com/store/detail/9NBLGGH4Z1SP) ![open][open.svg]
 - [Snipaste](https://www.snipaste.com/) - A simple but powerful snipping tool. [![store][store.svg]](https://apps.microsoft.com/store/detail/9P1WXPKB68KX)
-- [Streamlabs](https://streamlabs.com/) - Free and open source streaming software built on OBS and Electron. [![repo][repo.svg]](https://github.com/stream-labs/streamlabs-obs)
+- [Streamlabs](https://streamlabs.com/) - Free and open source streaming software built on OBS and Electron. [![repo][repo.svg]](https://github.com/stream-labs/streamlabs-obs) ![open][open.svg]
 
 ### Digital Painting
 
 - [AutoDraw](https://www.autodraw.com/) - An intuitive drawing tool for everyone.
-- [Drawpile](http://drawpile.net/) - A collaborative drawing program. [![repo][repo.svg]](https://github.com/drawpile/Drawpile)
-- [Excalidraw](https://excalidraw.com/) - Virtual whiteboard for sketching hand-drawn like diagrams. [![repo][repo.svg]](https://github.com/excalidraw/excalidraw)
-- [Inkscape](https://inkscape.org/) - A free and open-source vector graphics editor. [![store][store.svg]](https://apps.microsoft.com/store/detail/9PD9BHGLFC7H)
+- [Drawpile](http://drawpile.net/) - A collaborative drawing program. [![repo][repo.svg]](https://github.com/drawpile/Drawpile) ![open][open.svg]
+- [Excalidraw](https://excalidraw.com/) - Virtual whiteboard for sketching hand-drawn like diagrams. [![repo][repo.svg]](https://github.com/excalidraw/excalidraw) ![open][open.svg]
+- [Inkscape](https://inkscape.org/) - A free and open-source vector graphics editor. [![repo][repo.svg]](https://gitlab.com/inkscape/inkscape) [![store][store.svg]](https://apps.microsoft.com/store/detail/9PD9BHGLFC7H) ![open][open.svg]
 - [Krita](https://www.krita.org/) - A free and open source digital painting application. [![repo][repo.svg]](https://github.com/KDE/krita)
-- [Milton](https://www.miltonpaint.com/) - A free and open-source infinite canvas paint program. [![repo][repo.svg]](https://github.com/serge-rgb/milton)
-- [OpenBoard](https://openboard.ch/) - A cross-platform interactive whiteboard application intended for use in a classroom setting. [![repo][repo.svg]](https://github.com/OpenBoard-org/OpenBoard)
+- [Milton](https://www.miltonpaint.com/) - A free and open-source infinite canvas paint program. [![repo][repo.svg]](https://github.com/serge-rgb/milton) ![open][open.svg]
+- [OpenBoard](https://openboard.ch/) - A cross-platform interactive whiteboard application intended for use in a classroom setting. [![repo][repo.svg]](https://github.com/OpenBoard-org/OpenBoard) ![open][open.svg]
 - [Pinta](https://www.pinta-project.com/) - A free, open source program for drawing and image editing. [![repo][repo.svg]](https://github.com/PintaProject/Pinta)
-- [tldraw](https://tldraw.com/) - A tiny little drawing app. [![repo][repo.svg]](https://github.com/tldraw/tldraw)
-- [WBO](https://wbo.ophir.dev/) - Online collaborative Whiteboard that is simple, free, easy to use and to deploy. [![repo][repo.svg]](https://github.com/lovasoa/whitebophir)
+- [tldraw](https://tldraw.com/) - A tiny little drawing app. [![repo][repo.svg]](https://github.com/tldraw/tldraw) ![open][open.svg]
+- [WBO](https://wbo.ophir.dev/) - Online collaborative Whiteboard that is simple, free, easy to use and to deploy. [![repo][repo.svg]](https://github.com/lovasoa/whitebophir) ![open][open.svg]
 
 ### Image Viewers
 
