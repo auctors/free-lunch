@@ -517,71 +517,71 @@
 - [Memex](https://worldbrain.io/) - Browser Extension to full-text search your browsing history & bookmarks. [![repo][repo.svg]](https://github.com/WorldBrain/Memex)
 - [nightTab](https://zombiefox.github.io/nightTab/) - A neutral new tab page accented with a chosen colour. [![repo][repo.svg]](https://github.com/zombieFox/nightTab) ![open][open.svg]
 - [Omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity keyboard. [![repo][repo.svg]](https://github.com/alyssaxuu/omni) ![open][open.svg]
-- [Read Aloud](https://readaloud.app/) - A Text to Speech Voice Reader extension for your browser! [![repo][repo.svg]](https://github.com/ken107/read-aloud)
-- [Screenity](https://github.com/alyssaxuu/screenity) - The most powerful screen recorder & annotation tool for Chrome.
-- [Search by Image](https://github.com/dessant/search-by-image) - A browser extension that makes effortless reverse image searches possible, and comes with support for more than 30 search engines.
-- [Tabliss](https://tabliss.io/) - A beautiful, customisable New Tab page for Firefox and Chrome. [![repo][repo.svg]](https://github.com/joelshepherd/tabliss)
-- [Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web) - Translate your page in real time using Google or Yandex.
-- [uBlock Origin](https://github.com/gorhill/uBlock) - An efficient blocker for Chromium and Firefox. Fast and lean.
-- [Violentmonkey](https://violentmonkey.github.io/) - An open source userscript manager. [![repo][repo.svg]](https://github.com/violentmonkey/violentmonkey)
-- [xBrowserSync](https://www.xbrowsersync.org/) - Free and open source tool for syncing your browser data between browsers and devices whilst maintaining your privacy and anonymity. [![repo][repo.svg]](https://github.com/xBrowserSync)
+- [Read Aloud](https://readaloud.app/) - A Text to Speech Voice Reader extension for your browser! [![repo][repo.svg]](https://github.com/ken107/read-aloud) ![open][open.svg]
+- [Screenity](https://github.com/alyssaxuu/screenity) - The most powerful screen recorder & annotation tool for Chrome. [![repo][repo.svg]](https://github.com/alyssaxuu/screenity) ![open][open.svg]
+- [Search by Image](https://github.com/dessant/search-by-image) - A browser extension that makes effortless reverse image searches possible, and comes with support for more than 30 search engines. [![repo][repo.svg]](https://github.com/dessant/search-by-image) ![open][open.svg]
+- [Tabliss](https://tabliss.io/) - A beautiful, customisable New Tab page for Firefox and Chrome. [![repo][repo.svg]](https://github.com/joelshepherd/tabliss) ![open][open.svg]
+- [Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web) - Translate your page in real time using Google or Yandex. [![repo][repo.svg]](https://github.com/FilipePS/Traduzir-paginas-web) ![open][open.svg]
+- [uBlock Origin](https://github.com/gorhill/uBlock) - An efficient blocker for Chromium and Firefox. Fast and lean. [![repo][repo.svg]](https://github.com/gorhill/uBlock) ![open][open.svg]
+- [Violentmonkey](https://violentmonkey.github.io/) - An open source userscript manager. [![repo][repo.svg]](https://github.com/violentmonkey/violentmonkey) ![open][open.svg]
+- [xBrowserSync](https://www.xbrowsersync.org/) - Free and open source tool for syncing your browser data between browsers and devices whilst maintaining your privacy and anonymity. [![repo][repo.svg]](https://github.com/xBrowserSync) ![open][open.svg]
 
 ## Communication
 
 ### Email
 
-- [AnonAddy](https://anonaddy.com/) - Anonymous Email Forwarding. [![repo][repo.svg]](https://github.com/anonaddy)
-- [Burner.kiwi](https://burner.kiwi/) - No bullshit temporary mail service written in Go. [![repo][repo.svg]](https://github.com/haydenwoodhead/burner.kiwi)
-- [Delta Chat](https://delta.chat/) - Chat over e-mail. [![repo][repo.svg]](https://github.com/deltachat/deltachat-desktop) [![store][store.svg]](https://apps.microsoft.com/store/detail/9PJTXX7HN3PK)
+- [AnonAddy](https://anonaddy.com/) - Anonymous Email Forwarding. [![repo][repo.svg]](https://github.com/anonaddy) ![open][open.svg]
+- [Burner.kiwi](https://burner.kiwi/) - No bullshit temporary mail service written in Go. [![repo][repo.svg]](https://github.com/haydenwoodhead/burner.kiwi) ![open][open.svg]
+- [Delta Chat](https://delta.chat/) - Chat over e-mail. [![repo][repo.svg]](https://github.com/deltachat/deltachat-desktop) [![store][store.svg]](https://apps.microsoft.com/store/detail/9PJTXX7HN3PK) ![open][open.svg]
 - [Guerrilla Mail](https://www.guerrillamail.com/) - A disposable email.
-- [MailDrop](https://maildrop.cc/) - A quick, disposable email. [![repo][repo.svg]](https://gitlab.com/markbeeson/maildrop)
-- [Mailspring](https://getmailspring.com/) - A beautiful, fast and fully open source mail client. [![repo][repo.svg]](https://github.com/Foundry376/Mailspring)
+- [MailDrop](https://maildrop.cc/) - A quick, disposable email. [![repo][repo.svg]](https://gitlab.com/markbeeson/maildrop) ![open][open.svg]
+- [Mailspring](https://getmailspring.com/) - A beautiful, fast and fully open source mail client. [![repo][repo.svg]](https://github.com/Foundry376/Mailspring) ![open][open.svg]
 - [Protonmail](https://proton.me/) - An email provider/service that respects privacy and puts people first. [![repo][repo.svg]](https://github.com/ProtonMail)
-- [SimpleLogin](https://simplelogin.io/) - Receive and send emails anonymously. [![repo][repo.svg]](https://github.com/simple-login)
-- [Thunderbird](https://www.thunderbird.net/) - A free email application that’s easy to set up and customize.
-- [Tutanota](https://tutanota.com/) - A secure email service. [![repo][repo.svg]](https://github.com/tutao/tutanota)
+- [SimpleLogin](https://simplelogin.io/) - Receive and send emails anonymously. [![repo][repo.svg]](https://github.com/simple-login) ![open][open.svg]
+- [Thunderbird](https://www.thunderbird.net/) - A free email application that’s easy to set up and customize. [![repo][repo.svg]](https://github.com/mozilla/releases-comm-central) ![open][open.svg]
+- [Tutanota](https://tutanota.com/) - A secure email service. [![repo][repo.svg]](https://github.com/tutao/tutanota) ![open][open.svg]
 
 ### IM
 
-- [Element](https://element.io/) - Secure and independent communication, connected via Matrix. [![repo][repo.svg]](https://github.com/vector-im/element-desktop)
-- [Ferdium](https://ferdium.org/) - A desktop app that helps you organize how you use your favourite apps by combining them into one application. [![repo][repo.svg]](https://github.com/ferdium/ferdium-app)
-- [Hamsket](https://github.com/TheGoddessInari/hamsket) - Free messaging and emailing app that combines common web applications into one.
+- [Element](https://element.io/) - Secure and independent communication, connected via Matrix. [![repo][repo.svg]](https://github.com/vector-im/element-desktop) ![open][open.svg]
+- [Ferdium](https://ferdium.org/) - A desktop app that helps you organize how you use your favourite apps by combining them into one application. [![repo][repo.svg]](https://github.com/ferdium/ferdium-app) ![open][open.svg]
+- [Hamsket](https://github.com/TheGoddessInari/hamsket) - Free messaging and emailing app that combines common web applications into one. [![repo][repo.svg]](https://github.com/TheGoddessInari/hamsket) ![open][open.svg]
 - [Jitsi Meet](https://meet.jit.si) - Free Jitsi Meet instance, provising state-of-the-art video conferencing. [![repo][repo.svg]](https://github.com/jitsi)
 - [Revolt](http://revolt.chat/) - User-first chat platform built with modern web technologies. [![repo][repo.svg]](https://github.com/revoltchat)
-- [Session](https://getsession.org/) - An end-to-end encrypted messenger. [![repo][repo.svg]](https://github.com/loki-project/session-desktop)
-- [Signal](https://signal.org/) - A messaging app with an unexpected focus on privacy, combined with all the features expected from a modern IM app. [![repo][repo.svg]](https://github.com/signalapp)
+- [Session](https://getsession.org/) - An end-to-end encrypted messenger. [![repo][repo.svg]](https://github.com/loki-project/session-desktop) ![open][open.svg]
+- [Signal](https://signal.org/) - A messaging app with an unexpected focus on privacy, combined with all the features expected from a modern IM app. [![repo][repo.svg]](https://github.com/signalapp) ![open][open.svg]
 
 ### Social Media
 
 - [Glimesh](https://glimesh.tv/) - A next generation live streaming platform built by the community, for the community. [![repo][repo.svg]](https://github.com/Glimesh/glimesh.tv)
 - [LBRY](https://lbry.com/) - A decentralized video sharing network. [![repo][repo.svg]](https://github.com/lbryio)
-- [Lemmy](https://join-lemmy.org/) - A link aggregator / Reddit clone for the fediverse. [![repo][repo.svg]](https://github.com/LemmyNet/lemmy)
-- [Mastodon](https://joinmastodon.org/) - Globally interconnected microblogging community. [![repo][repo.svg]](https://github.com/mastodon/mastodon)
-- [PeerTube](https://joinpeertube.org/) - A free, decentralized and federated video platform. [![repo][repo.svg]](https://github.com/Chocobozzz/PeerTube)
-- [WriteFreely](https://writefreely.org/) - A clean, simple publishing platform made for writers. [![repo][repo.svg]](https://github.com/writefreely/writefreely)
+- [Lemmy](https://join-lemmy.org/) - A link aggregator / Reddit clone for the fediverse. [![repo][repo.svg]](https://github.com/LemmyNet/lemmy) ![open][open.svg]
+- [Mastodon](https://joinmastodon.org/) - Globally interconnected microblogging community. [![repo][repo.svg]](https://github.com/mastodon/mastodon) ![open][open.svg]
+- [PeerTube](https://joinpeertube.org/) - A free, decentralized and federated video platform. [![repo][repo.svg]](https://github.com/Chocobozzz/PeerTube) ![open][open.svg]
+- [WriteFreely](https://writefreely.org/) - A clean, simple publishing platform made for writers. [![repo][repo.svg]](https://github.com/writefreely/writefreely) ![open][open.svg]
 
 ## Downloaders
 
 ### Download Managers
 
-- [AriaNg-Native](http://ariang.mayswind.net/) - A better aria2 desktop frontend than AriaNg, containing all features of AriaNg and more features for desktop. [![repo][repo.svg]](https://github.com/mayswind/AriaNg-Native)
-- [FireDM](https://github.com/firedm/FireDM) - A good open-source internet download manager.
+- [AriaNg-Native](http://ariang.mayswind.net/) - A better aria2 desktop frontend than AriaNg, containing all features of AriaNg and more features for desktop. [![repo][repo.svg]](https://github.com/mayswind/AriaNg-Native) ![open][open.svg]
 - [Free Download Manager](http://freedownloadmanager.org/) - A powerful modern download accelerator and organizer.
 - [JDownloader](https://jdownloader.org/) - A free, open-source download management tool.
-- [Motrix](https://motrix.app/) - A full-featured download manager. [![repo][repo.svg]](https://github.com/agalwood/Motrix)
-- [Persepolis](https://persepolisdm.github.io/) - A download manager & a GUI for Aria2. [![repo][repo.svg]](https://github.com/persepolisdm/persepolis)
-- [XDM](https://xtremedownloadmanager.com/) - Powerfull download accelerator and video downloader. [![repo][repo.svg]](https://github.com/subhra74/xdm)
+- [Motrix](https://motrix.app/) - A full-featured download manager. [![repo][repo.svg]](https://github.com/agalwood/Motrix) ![open][open.svg]
+- [Persepolis](https://persepolisdm.github.io/) - A download manager & a GUI for Aria2. [![repo][repo.svg]](https://github.com/persepolisdm/persepolis) ![open][open.svg]
+- [XDM](https://xtremedownloadmanager.com/) - Powerfull download accelerator and video downloader. [![repo][repo.svg]](https://github.com/subhra74/xdm) ![open][open.svg]
+- ~~[FireDM](https://github.com/firedm/FireDM) - A good open-source internet download manager.
 
 ### Media Downloaders
 
-- [AllTube Download](https://alltubedownload.net) - Web GUI for youtube-dl. [![repo][repo.svg]](https://github.com/Rudloff/alltube)
-- [gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites.
+- [AllTube Download](https://alltubedownload.net) - Web GUI for youtube-dl. [![repo][repo.svg]](https://github.com/Rudloff/alltube) ![open][open.svg]
+- [gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites. [![repo][repo.svg]](https://github.com/mikf/gallery-dl) ![open][open.svg]
 - [HakuNeko](https://hakuneko.download/) - A cross-platform downloader for manga and anime from various websites. [![repo][repo.svg]](https://github.com/manga-download/hakuneko)
-- [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - Desktop utility to download images/videos/music/text from various websites, and more.
-- [Lux](https://github.com/iawia002/lux) - A fast and simple video downloader built with Go.
-- [Media Downloader](https://github.com/mhogomchungu/media-downloader) - A Qt/C++ front end to youtube-dl.
-- [N_m3u8DL-CLI](https://nilaoda.github.io/N_m3u8DL-CLI/) - A command line tool for downloading m3u8. [![repo][repo.svg]](https://github.com/nilaoda/N_m3u8DL-CLI)
-- [Open Video Downloader](https://github.com/jely2002/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Electron and node.js. [![store][store.svg]](https://apps.microsoft.com/store/detail/open-video-downloader/9P53S4T9ZNJ5)
+- [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - Desktop utility to download images/videos/music/text from various websites, and more. [![repo][repo.svg]](https://github.com/KurtBestor/Hitomi-Downloader)
+- [Lux](https://github.com/iawia002/lux) - A fast and simple video downloader built with Go. [![repo][repo.svg]](https://github.com/iawia002/lux) ![open][open.svg]
+- [Media Downloader](https://github.com/mhogomchungu/media-downloader) - A Qt/C++ front end to youtube-dl. [![repo][repo.svg]](https://github.com/mhogomchungu/media-downloader)
+- [N_m3u8DL-CLI](https://nilaoda.github.io/N_m3u8DL-CLI/) - A command line tool for downloading m3u8. [![repo][repo.svg]](https://github.com/nilaoda/N_m3u8DL-CLI) ![open][open.svg]
+- [Open Video Downloader](https://github.com/jely2002/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Electron and node.js. [![repo][repo.svg]](https://github.com/jely2002/youtube-dl-gui) [![store][store.svg]](https://apps.microsoft.com/store/detail/open-video-downloader/9P53S4T9ZNJ5) ![open][open.svg]
 - [SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader ,supports Spotify, Youtube, Gaana, Jio-Saavn and SoundCloud.
 - [Streamlink](https://streamlink.github.io/) - A CLI utility which pipes video streams from various services into a video player. [![repo][repo.svg]](https://github.com/streamlink/streamlink)
 - [Tartube](https://github.com/axcore/tartube) - A GUI front-end for youtube-dl.
