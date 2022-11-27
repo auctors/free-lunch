@@ -581,7 +581,7 @@
 - [Lux](https://github.com/iawia002/lux) - A fast and simple video downloader built with Go. [![repo][repo.svg]](https://github.com/iawia002/lux) ![open][open.svg]
 - [Media Downloader](https://github.com/mhogomchungu/media-downloader) - A Qt/C++ front end to youtube-dl. [![repo][repo.svg]](https://github.com/mhogomchungu/media-downloader)
 - [N_m3u8DL-CLI](https://nilaoda.github.io/N_m3u8DL-CLI/) - A command line tool for downloading m3u8. [![repo][repo.svg]](https://github.com/nilaoda/N_m3u8DL-CLI) ![open][open.svg]
-- [Open Video Downloader](https://github.com/jely2002/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Electron and node.js. [![repo][repo.svg]](https://github.com/jely2002/youtube-dl-gui) [![store][store.svg]](https://apps.microsoft.com/store/detail/open-video-downloader/9P53S4T9ZNJ5) ![open][open.svg]
+- [Open Video Downloader](https://jely2002.github.io/youtube-dl-gui/) - A cross-platform GUI for youtube-dl made in Electron and node.js. [![repo][repo.svg]](https://github.com/jely2002/youtube-dl-gui) [![store][store.svg]](https://apps.microsoft.com/store/detail/open-video-downloader/9P53S4T9ZNJ5) ![open][open.svg]
 - [SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader ,supports Spotify, Youtube, Gaana, Jio-Saavn and SoundCloud.
 - [Streamlink](https://streamlink.github.io/) - A CLI utility which pipes video streams from various services into a video player. [![repo][repo.svg]](https://github.com/streamlink/streamlink)
 - [Tartube](https://github.com/axcore/tartube) - A GUI front-end for youtube-dl.
