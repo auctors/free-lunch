@@ -284,72 +284,72 @@
 - [Kawaii-Player](https://github.com/kanishka-linux/kawaii-player) - Multimedia player, media library manager and portable media server with PC-To-PC casting feature. [![repo][repo.svg]](https://github.com/kanishka-linux/kawaii-player) ![open][open.svg]
 - [MPC-BE](https://sourceforge.net/projects/mpcbe/) - A free and open source audio and video player. [![repo][repo.svg]](https://sourceforge.net/projects/mpcbe/) ![open][open.svg]
 - [MPC-HC](https://github.com/clsid2/mpc-hc) - A free and open-source video and audio player. [![repo][repo.svg]](https://github.com/clsid2/mpc-hc) ![open][open.svg]
-- [mpv.net](https://github.com/stax76/mpv.net) - A modern media player for Windows based on the popular mpv player. [![store][store.svg]](https://apps.microsoft.com/store/detail/9N64SQZTB3LM)
-- [mpv](https://mpv.io/) - A free, open source, and cross-platform media player. [![repo][repo.svg]](https://github.com/mpv-player/mpv)
-- [Pennywise](https://github.com/kamranahmedse/pennywise) - Cross-platform application to open any website or media in a floating window.
-- [QMPlay2](https://github.com/zaps166/QMPlay2) - A video and audio player which can play most formats and codecs.
-- [Rise Media Player](https://github.com/Rise-Software/Rise-Media-Player) - One media player for everything you own or stream.
-- [SMPlayer](https://www.smplayer.info/) - Free Media Player with built-in codecs. [![store][store.svg]](https://apps.microsoft.com/store/detail/9N80Q5M0QXW6)
-- [VLC](https://www.videolan.org/vlc/) - A cross-platform media player software and streaming media server developed by the VideoLAN project. [![repo][repo.svg]](https://github.com/videolan/vlc) [![store][store.svg]](https://apps.microsoft.com/store/detail/vlc/XPDM1ZW6815MQM)
-- [Vodon Pro](https://vodon.gg/) - A video player designed for esports coaches to review footage of players. [![repo][repo.svg]](https://github.com/Rodeoclash/vodon-pro)
+- [mpv.net](https://github.com/stax76/mpv.net) - A modern media player for Windows based on the popular mpv player. [![repo][repo.svg]](https://github.com/mpvnet-player/mpv.net) [![store][store.svg]](https://apps.microsoft.com/store/detail/9N64SQZTB3LM) ![open][open.svg]
+- [mpv](https://mpv.io/) - A free, open source, and cross-platform media player. [![repo][repo.svg]](https://github.com/mpv-player/mpv) ![open][open.svg]
+- [Pennywise](https://github.com/kamranahmedse/pennywise) - Cross-platform application to open any website or media in a floating window. [![repo][repo.svg]](https://github.com/kamranahmedse/pennywise) ![open][open.svg]
+- [QMPlay2](https://github.com/zaps166/QMPlay2) - A video and audio player which can play most formats and codecs. [![repo][repo.svg]](https://github.com/zaps166/QMPlay2) ![open][open.svg]
+- [Rise Media Player](https://github.com/Rise-Software/Rise-Media-Player) - One media player for everything you own or stream. [![repo][repo.svg]](https://github.com/Rise-Software/Rise-Media-Player) ![open][open.svg]
+- [SMPlayer](https://www.smplayer.info/) - Free Media Player with built-in codecs. [![repo][repo.svg]](https://github.com/smplayer-dev/smplayer) [![store][store.svg]](https://apps.microsoft.com/store/detail/9N80Q5M0QXW6) ![open][open.svg]
+- [VLC](https://www.videolan.org/vlc/) - A cross-platform media player software and streaming media server developed by the VideoLAN project. [![repo][repo.svg]](https://github.com/videolan/vlc) [![store][store.svg]](https://apps.microsoft.com/store/detail/vlc/XPDM1ZW6815MQM) ![open][open.svg]
+- [Vodon Pro](https://vodon.gg/) - A video player designed for esports coaches to review footage of players. [![repo][repo.svg]](https://github.com/Rodeoclash/vodon-pro) ![open][open.svg]
 - Media Player - Media Player is designed to make listening to and watching your multimedia content more enjoyable.
 
 ### Video Streaming
 
-- [FreeTube](https://freetubeapp.io/) - An Open Source YouTube app for privacy. [![repo][repo.svg]](https://github.com/FreeTubeApp/FreeTube)
-- [Invidious](https://invidious.io/) - An alternative front-end to YouTube. [![repo][repo.svg]](https://github.com/iv-org/invidious)
+- [FreeTube](https://freetubeapp.io/) - An Open Source YouTube app for privacy. [![repo][repo.svg]](https://github.com/FreeTubeApp/FreeTube) ![open][open.svg]
+- [Invidious](https://invidious.io/) - An alternative front-end to YouTube. [![repo][repo.svg]](https://github.com/iv-org/invidious) ![open][open.svg]
 - [MotionMonkey](https://omega.gg/MotionMonkey) - A semantic video player designed to stream Internet videos from a single query. [![store][store.svg]](https://apps.microsoft.com/store/detail/9N7BZ2P6ZCZT)
-- [Piped](https://piped.kavin.rocks) - An alternative privacy-friendly YouTube frontend which is efficient by design. [![repo][repo.svg]](https://github.com/TeamPiped/Piped)
+- [Piped](https://piped.video/) - An alternative privacy-friendly YouTube frontend which is efficient by design. [![repo][repo.svg]](https://github.com/TeamPiped/Piped) ![open][open.svg]
 - [Popcorn Time](https://popcorntime.app/) - A free BitTorrent client that includes an integrated media player. [![repo][repo.svg]](https://github.com/popcorn-official/popcorn-desktop) 
-- [Streamlink Twitch GUI](https://streamlink.github.io/streamlink-twitch-gui/) - A multi platform Twitch.tv browser for Streamlink. [![repo][repo.svg]](https://github.com/streamlink/streamlink-twitch-gui)
+- [Streamlink Twitch GUI](https://streamlink.github.io/streamlink-twitch-gui/) - A multi platform Twitch.tv browser for Streamlink. [![repo][repo.svg]](https://github.com/streamlink/streamlink-twitch-gui) ![open][open.svg]
 
 ### Watch Videos Together
 
 - [Metastream](https://getmetastream.com/) - Watch streaming media with friends. [![repo][repo.svg]](https://github.com/samuelmaddock/metastream)
-- [OpenTogetherTube](https://opentogethertube.com/) - The easy way to watch videos with your friends. [![repo][repo.svg]](https://github.com/dyc3/opentogethertube)
-- [Syncplay](https://syncplay.pl/) - Syncplay synchronises the position and play state of multiple media players so that the viewers can watch the same thing at the same time. [![repo][repo.svg]](https://github.com/Syncplay/syncplay)
-- [WatchParty](https://www.watchparty.me/) - A website for watching videos together. [![repo][repo.svg]](https://github.com/howardchung/watchparty)
+- [OpenTogetherTube](https://opentogethertube.com/) - The easy way to watch videos with your friends. [![repo][repo.svg]](https://github.com/dyc3/opentogethertube) ![open][open.svg]
+- [Syncplay](https://syncplay.pl/) - Syncplay synchronises the position and play state of multiple media players so that the viewers can watch the same thing at the same time. [![repo][repo.svg]](https://github.com/Syncplay/syncplay) ![open][open.svg]
+- [WatchParty](https://www.watchparty.me/) - A website for watching videos together. [![repo][repo.svg]](https://github.com/howardchung/watchparty) ![open][open.svg]
 
 ### Video Editors
 
-- [Astrofox](https://astrofox.io/) - A motion graphics program that lets turn audio into amazing videos. [![repo][repo.svg]](https://github.com/astrofox-io/astrofox)
-- [av-converter](https://av-converter.com/) - Convert audio/video files to another format. [![repo][repo.svg]](https://github.com/CrypticSignal/av-converter)
+- [Astrofox](https://astrofox.io/) - A motion graphics program that lets turn audio into amazing videos. [![repo][repo.svg]](https://github.com/astrofox-io/astrofox) ![open][open.svg]
+- [av-converter](https://av-converter.com/) - Convert audio/video files to another format. [![repo][repo.svg]](https://github.com/CrypticSignal/av-converter) ![open][open.svg]
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - A color grading and non-linear video editing application.
-- [FFmpeg](https://ffmpeg.org/) - A collection of libraries and tools to process multimedia content such as audio, video, subtitles and related metadata.
+- [FFmpeg](https://ffmpeg.org/) - A collection of libraries and tools to process multimedia content such as audio, video, subtitles and related metadata. [![repo][repo.svg]](https://git.ffmpeg.org/gitweb/ffmpeg.git) ![open][open.svg]
 - [HandBrake](https://handbrake.fr/) - An open-source video transcoder. [![repo][repo.svg]](https://github.com/HandBrake/HandBrake)
 - [Hitfilm Express](https://fxhome.com/product/hitfilm-express) - Free video editing software with professional-grade VFX tools and everything you need to make awesome content, films or gaming videos.
-- [Kdenlive](https://kdenlive.org/) - Free and open source video editor. [![repo][repo.svg]](https://github.com/KDE/kdenlive)
-- [Kinovea](https://www.kinovea.org/) - A video annotation tool designed for motion analysis. [![repo][repo.svg]](https://github.com/Kinovea/Kinovea)
-- [LosslessCut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing.
-- [Mediabits.io](https://app.mediabits.io/) - Mediabits.io lets anyone create engaging videos for their audio, perfect for sharing on social media. [![repo][repo.svg]](https://github.com/MediaBits-io/editor)
-- [MKVToolNix](https://mkvtoolnix.download/) - A set of tools to create, alter and inspect Matroska files under Linux, other Unices and Windows.
-- [Natron](http://natrongithub.github.io/) - Open-source video compositing software. [![repo][repo.svg]](https://github.com/NatronGitHub/Natron)
-- [Olive](https://olivevideoeditor.org/) - Free open-source non-linear video editor. [![repo][repo.svg]](https://github.com/olive-editor/olive)
-- [OpenShot](http://www.openshot.org/) - An award-winning free and open-source video editor. [![repo][repo.svg]](https://github.com/OpenShot/openshot-qt)
-- [Shotcut](https://www.shotcut.org/) - A free, open source, cross-platform video editor. [![repo][repo.svg]](https://github.com/mltframework/shotcut)
-- [StaxRip](https://github.com/staxrip/staxrip) - Video encoding GUI for Windows.
-- [VidCoder](https://vidcoder.net/) - An open-source DVD/Blu-ray ripping and video transcoding application. [![repo][repo.svg]](https://github.com/RandomEngy/VidCoder) [![store][store.svg]](https://apps.microsoft.com/store/detail/9N78DHWZ3DJX)
+- [Kdenlive](https://kdenlive.org/) - Free and open source video editor. [![repo][repo.svg]](https://github.com/KDE/kdenlive) ![open][open.svg]
+- [Kinovea](https://www.kinovea.org/) - A video annotation tool designed for motion analysis. [![repo][repo.svg]](https://github.com/Kinovea/Kinovea) ![open][open.svg]
+- [LosslessCut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing. [![repo][repo.svg]](https://github.com/mifi/lossless-cut) ![open][open.svg]
+- [Mediabits.io](https://app.mediabits.io/) - Mediabits.io lets anyone create engaging videos for their audio, perfect for sharing on social media. [![repo][repo.svg]](https://github.com/MediaBits-io/editor) ![open][open.svg]
+- [MKVToolNix](https://mkvtoolnix.download/) - A set of tools to create, alter and inspect Matroska files under Linux, other Unices and Windows. [![repo][repo.svg]](https://gitlab.com/mbunkus/mkvtoolnix)
+- [Natron](http://natrongithub.github.io/) - Open-source video compositing software. [![repo][repo.svg]](https://github.com/NatronGitHub/Natron) ![open][open.svg]
+- [Olive](https://olivevideoeditor.org/) - Free open-source non-linear video editor. [![repo][repo.svg]](https://github.com/olive-editor/olive) ![open][open.svg]
+- [OpenShot](http://www.openshot.org/) - An award-winning free and open-source video editor. [![repo][repo.svg]](https://github.com/OpenShot/openshot-qt) ![open][open.svg]
+- [Shotcut](https://www.shotcut.org/) - A free, open source, cross-platform video editor. [![repo][repo.svg]](https://github.com/mltframework/shotcut) ![open][open.svg]
+- [StaxRip](https://github.com/staxrip/staxrip) - Video encoding GUI for Windows. [![repo][repo.svg]](https://github.com/staxrip/staxrip) ![open][open.svg]
+- [VidCoder](https://vidcoder.net/) - An open-source DVD/Blu-ray ripping and video transcoding application. [![repo][repo.svg]](https://github.com/RandomEngy/VidCoder) [![store][store.svg]](https://apps.microsoft.com/store/detail/9N78DHWZ3DJX) ![open][open.svg]
 - ~~[Clipchamp](https://clipchamp.com/) - Free online video editor.~~
 
 ### Others
 
-- [DVDStyler](https://www.dvdstyler.org/) - A cross-platform free DVD authoring application.
-- [Go2TV](https://github.com/alexballas/go2tv) - Cast media files to UPnP/DLNA Media Renderers and Smart TVs.
-- [IPTV](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world.
-- [Jellyfin](https://jellyfin.org/) - A personal media server and client. [![repo][repo.svg]](https://github.com/jellyfin)
+- [DVDStyler](https://www.dvdstyler.org/) - A cross-platform free DVD authoring application. ![open][open.svg]
+- [Go2TV](https://github.com/alexballas/go2tv) - Cast media files to UPnP/DLNA Media Renderers and Smart TVs. [![repo][repo.svg]](https://github.com/alexballas/go2tv) ![open][open.svg]
+- [IPTV](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world. [![repo][repo.svg]](https://github.com/iptv-org/iptv)
+- [Jellyfin](https://jellyfin.org/) - A personal media server and client. [![repo][repo.svg]](https://github.com/jellyfin) ![open][open.svg]
 - [Kodi](https://kodi.tv/) - An award-winning free and open source software media player and entertainment hub for digital media for HTPCs (Home theater PCs). [![repo][repo.svg]](https://github.com/xbmc/xbmc) [![store][store.svg]](https://apps.microsoft.com/store/detail/9NBLGGH4T892)
-- [Macast](https://xfangfang.github.io/Macast/) - A menu bar application using mpv as DLNA Media Renderer. [![repo][repo.svg]](https://github.com/xfangfang/Macast)
-- [Mediarepo](https://mediarepo.trivernis.dev/) - A tool for managing media files. [![repo][repo.svg]](https://github.com/Trivernis/mediarepo)
-- [Mini Video Me](https://github.com/maykbrito/mini-video-me) - A small webcam player focused on providing an easy way to add and control your webcam during recordings.
-- [pyTranscriber](https://pytranscriber.github.io/) - An application that can be used to generate automatic transcription / automatic subtitles for audio/video files through a friendly graphical user interface. [![repo][repo.svg]](https://github.com/raryelcostasouza/pyTranscriber)
+- [Macast](https://xfangfang.github.io/Macast/) - A menu bar application using mpv as DLNA Media Renderer. [![repo][repo.svg]](https://github.com/xfangfang/Macast) ![open][open.svg]
+- [Mediarepo](https://mediarepo.trivernis.dev/) - A tool for managing media files. [![repo][repo.svg]](https://github.com/Trivernis/mediarepo) ![open][open.svg]
+- [Mini Video Me](https://maykbrito.github.io/mini-video-me/) - A small webcam player focused on providing an easy way to add and control your webcam during recordings. [![repo][repo.svg]](https://github.com/maykbrito/mini-video-me) ![open][open.svg]
+- [pyTranscriber](https://pytranscriber.github.io/) - An application that can be used to generate automatic transcription / automatic subtitles for audio/video files through a friendly graphical user interface. [![repo][repo.svg]](https://github.com/raryelcostasouza/pyTranscriber) ![open][open.svg]
 - [QPrompt](https://qprompt.app/) - Personal teleprompter software for all video creators. [![repo][repo.svg]](https://github.com/Cuperino/QPrompt)
-- [Radarr](https://radarr.video/) - A movie collection manager for Usenet and BitTorrent users. [![repo][repo.svg]](https://github.com/Radarr/Radarr)
-- [Stash](https://stashapp.cc/) - An organizer for your porn, written in Go. [![repo][repo.svg]](https://github.com/stashapp/stash)
-- [Subliminal](http://subliminal.readthedocs.org/) - A command line tool to search and download subtitles. [![repo][repo.svg]](https://github.com/Diaoul/subliminal)
-- [SubSync](https://subsync.online/) - An automatic movie subtitle synchronization tool. [![repo][repo.svg]](https://github.com/sc0ty/subsync)
-- [Subtitle Edit](https://www.nikse.dk/SubtitleEdit) - A free editor for video subtitles. [![repo][repo.svg]](https://github.com/SubtitleEdit/subtitleedit)
-- [Universal Media Server](https://www.universalmediaserver.com/) - A DLNA, UPnP and HTTP(S) Media Server. [![repo][repo.svg]](https://github.com/UniversalMediaServer/UniversalMediaServer)
-- [Webcamoid](https://webcamoid.github.io/) - A full featured and multiplatform webcam suite. [![repo][repo.svg]](https://github.com/webcamoid/webcamoid)
+- [Radarr](https://radarr.video/) - A movie collection manager for Usenet and BitTorrent users. [![repo][repo.svg]](https://github.com/Radarr/Radarr) ![open][open.svg]
+- [Stash](https://stashapp.cc/) - An organizer for your porn, written in Go. [![repo][repo.svg]](https://github.com/stashapp/stash) ![open][open.svg]
+- [Subliminal](http://subliminal.readthedocs.org/) - A command line tool to search and download subtitles. [![repo][repo.svg]](https://github.com/Diaoul/subliminal) ![open][open.svg]
+- [SubSync](https://subsync.online/) - An automatic movie subtitle synchronization tool. [![repo][repo.svg]](https://github.com/sc0ty/subsync) ![open][open.svg]
+- [Subtitle Edit](https://www.nikse.dk/SubtitleEdit) - A free editor for video subtitles. [![repo][repo.svg]](https://github.com/SubtitleEdit/subtitleedit) ![open][open.svg]
+- [Universal Media Server](https://www.universalmediaserver.com/) - A DLNA, UPnP and HTTP(S) Media Server. [![repo][repo.svg]](https://github.com/UniversalMediaServer/UniversalMediaServer) ![open][open.svg]
+- [Webcamoid](https://webcamoid.github.io/) - A full featured and multiplatform webcam suite. [![repo][repo.svg]](https://github.com/webcamoid/webcamoid) ![open][open.svg]
 
 ## Graphics
 
