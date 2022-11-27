@@ -387,116 +387,116 @@
 
 ### Image Viewers
 
-- [ImageGlass](https://imageglass.org/) - A lightweight, versatile image viewer. [![repo][repo.svg]](https://github.com/d2phap/ImageGlass)
+- [ImageGlass](https://imageglass.org/) - A lightweight, versatile image viewer. [![repo][repo.svg]](https://github.com/d2phap/ImageGlass) ![open][open.svg]
 - [IrfanView](https://www.irfanview.com/) - A very fast, compact and innovative FREEWARE image viewer/converter. [![store][store.svg]](https://apps.microsoft.com/store/detail/9PJZ3BTL5PV6)
-- [NeeView](https://bitbucket.org/neelabo/neeview) - A Free and Open Source, modern and powerful image viewer and a manga/comic reader. [![store][store.svg]](https://apps.microsoft.com/store/detail/9P24Z53HC1JR)
-- [nomacs](https://nomacs.org/) - A free, open source image viewer. [![repo][repo.svg]](https://github.com/nomacs/nomacs)
-- [qimgv](https://github.com/easymodo/qimgv) - Image viewer. Fast, easy to use.
-- [Quick Picture Viewer](https://moduleart.github.io/quick-picture-viewer) - Lightweight, versatile desktop image viewer. [![repo][repo.svg]](https://github.com/ModuleArt/quick-picture-viewer) [![store][store.svg]](https://apps.microsoft.com/store/detail/9PJQQRXSVWR1)
-- [qView](https://interversehq.com/qview/) - Practical and minimal image viewer. [![repo][repo.svg]](https://github.com/jurplel/qView)
+- [NeeView](https://bitbucket.org/neelabo/neeview) - A Free and Open Source, modern and powerful image viewer and a manga/comic reader. [![repo][repo.svg]](https://bitbucket.org/neelabo/neeview/src/master/) [![store][store.svg]](https://apps.microsoft.com/store/detail/9P24Z53HC1JR) ![open][open.svg]
+- [nomacs](https://nomacs.org/) - A free, open source image viewer. [![repo][repo.svg]](https://github.com/nomacs/nomacs) ![open][open.svg]
+- [qimgv](https://github.com/easymodo/qimgv) - Image viewer. Fast, easy to use. [![repo][repo.svg]](https://github.com/easymodo/qimgv) ![open][open.svg]
+- [Quick Picture Viewer](https://moduleart.github.io/quick-picture-viewer) - Lightweight, versatile desktop image viewer. [![repo][repo.svg]](https://github.com/ModuleArt/quick-picture-viewer) [![store][store.svg]](https://apps.microsoft.com/store/detail/9PJQQRXSVWR1) ![open][open.svg]
+- [qView](https://interversehq.com/qview/) - Practical and minimal image viewer. [![repo][repo.svg]](https://github.com/jurplel/qView) ![open][open.svg]
 
 ### Image Editors
 
-- [darktable](https://www.darktable.org/) - An open source photography workflow application and raw developer. [![repo][repo.svg]](https://github.com/darktable-org/darktable)
+- [darktable](https://www.darktable.org/) - An open source photography workflow application and raw developer. [![repo][repo.svg]](https://github.com/darktable-org/darktable) ![open][open.svg]
 - [digiKam](https://www.digikam.org/) - An advanced digital photo management application. [![repo][repo.svg]](https://github.com/KDE/digikam)
-- [Filmulator](https://filmulator.org/) - Simplified raw editing with the power of film. [![repo][repo.svg]](https://github.com/CarVac/filmulator-gui)
+- [Filmulator](https://filmulator.org/) - Simplified raw editing with the power of film. [![repo][repo.svg]](https://github.com/CarVac/filmulator-gui) ![open][open.svg]
 - [FotoSketcher](https://fotosketcher.com/) - Turn your photos into beautiful paintings, sketches or drawings in seconds.
-- [GIMP](https://www.gimp.org/) - A cross-platform image editor.
+- [GIMP](https://www.gimp.org/) - A cross-platform image editor. [![repo][repo.svg]](https://gitlab.gnome.org/GNOME/gimp) [![store][store.svg]](https://apps.microsoft.com/store/detail/gimp/XPDM27W10192Q0) ![open][open.svg]
 - [ImageMagick](https://imagemagick.org/) - A software suite to create, edit, and compose bitmap images. [![repo][repo.svg]](https://github.com/ImageMagick/ImageMagick)
 - [miniPaint](http://viliusle.github.io/miniPaint/) - Online image editor lets you create, edit images using HTML5 technologies. [![repo][repo.svg]](https://github.com/viliusle/miniPaint)
 - [Paint.NET](https://www.getpaint.net/) - Free image and photo editing software.
 - [PhotoDemon](https://photodemon.org/) - A portable photo editor. [![repo][repo.svg]](https://github.com/tannerhelland/PhotoDemon)
-- [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A patch for optimizing GIMP 2.10+ for Adobe Photoshop users.
+- [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A patch for optimizing GIMP 2.10+ for Adobe Photoshop users. [![repo][repo.svg]](https://github.com/Diolinux/PhotoGIMP) ![open][open.svg]
 - [Photopea](https://www.photopea.com/) - Online photo editor.
-- [Pixelitor](https://pixelitor.sourceforge.io/) - A desktop image editor. [![repo][repo.svg]](https://github.com/lbalazscs/Pixelitor)
-- [RawTherapee](http://rawtherapee.com/) - A powerful cross-platform raw photo processing program. [![repo][repo.svg]](https://github.com/Beep6581/RawTherapee)
+- [Pixelitor](https://pixelitor.sourceforge.io/) - A desktop image editor. [![repo][repo.svg]](https://github.com/lbalazscs/Pixelitor) ![open][open.svg]
+- [RawTherapee](http://rawtherapee.com/) - A powerful cross-platform raw photo processing program. [![repo][repo.svg]](https://github.com/Beep6581/RawTherapee) ![open][open.svg]
 
 ### Design Tools
 
-- [Design Editor](https://editor.layerhub.io/) - An open source graphic editor. [![repo][repo.svg]](https://github.com/layerhub-io/react-design-editor)
-- [Penpot](https://penpot.app/) - The Open-Source design & prototyping platform. [![repo][repo.svg]](https://github.com/penpot/penpot)
+- [Design Editor](https://editor.layerhub.io/) - An open source graphic editor. [![repo][repo.svg]](https://github.com/layerhub-io/react-design-editor) ![open][open.svg]
+- [Penpot](https://penpot.app/) - The Open-Source design & prototyping platform. [![repo][repo.svg]](https://github.com/penpot/penpot) ![open][open.svg]
 - [Polotno Studio](https://studio.polotno.dev/) - Free online design editor. [![repo][repo.svg]](https://github.com/polotno-project/polotno-studio)
-- [Screenshot.rocks](https://screenshot.rocks/) - An online tool which allows you to create beautiful mobile & browser mockups from screenshots. [![repo][repo.svg]](https://github.com/daveearley/screenshot.rocks)
+- [Screenshot.rocks](https://screenshot.rocks/) - An online tool which allows you to create beautiful mobile & browser mockups from screenshots. [![repo][repo.svg]](https://github.com/daveearley/screenshot.rocks) ![open][open.svg]
 
 ### Image Optimizers
 
 - [Caesium Image Compressor](https://caesium.app/) - An image compression web app.
-- [Caesium](https://saerasoft.com/caesium) - A cross-platform image compression software. [![repo][repo.svg]](https://github.com/Lymphatus/caesium-image-compressor)
-- [Imagine](https://github.com/meowtec/Imagine) - A desktop app for compression of PNG and JPEG, with a modern and friendly UI.
-- [Squoosh](https://squoosh.app/) - An image compression web app that reduces image sizes through numerous formats. [![repo][repo.svg]](https://github.com/GoogleChromeLabs/squoosh)
+- [Caesium](https://saerasoft.com/caesium) - A cross-platform image compression software. [![repo][repo.svg]](https://github.com/Lymphatus/caesium-image-compressor) ![open][open.svg]
+- [Imagine](https://github.com/meowtec/Imagine) - A desktop app for compression of PNG and JPEG, with a modern and friendly UI. [![repo][repo.svg]](https://github.com/meowtec/Imagine) ![open][open.svg]
+- [Squoosh](https://squoosh.app/) - An image compression web app that reduces image sizes through numerous formats. [![repo][repo.svg]](https://github.com/GoogleChromeLabs/squoosh) ![open][open.svg]
 
 ### Remove Image Background
 
-- [BackgroundRemover](https://backgroundremover.app) - A free web application that lets you Remove Background from images and video. [![repo][repo.svg]](https://github.com/nadermx/backgroundremover)
+- [BackgroundRemover](https://backgroundremover.app) - A free web application that lets you Remove Background from images and video. [![repo][repo.svg]](https://github.com/nadermx/backgroundremover) ![open][open.svg]
 - [BgSub](https://bgsub.com/webapp/) - A website that uses AI technology to automatically remove or replace image backgrounds.
 - [Cleanup.Picture](https://cleanup.pictures/) - A free web application that lets you quickly cleanup or remove objects in any image.
-- [Rembg](https://github.com/danielgatis/rembg) - A command line tool to remove images background.
+- [Rembg](https://github.com/danielgatis/rembg) - A command line tool to remove images background. [![repo][repo.svg]](https://github.com/danielgatis/rembg) ![open][open.svg]
 - ~~[Remove.bg](https://www.remove.bg/) - Remove background from images 100% automatically in 5 seconds without a single click.~~
 
 ### Pixel Editors
 
-- [LibreSprite](https://libresprite.github.io/) - A free and open source program for creating and animating your sprites. [![repo][repo.svg]](https://github.com/LibreSprite/LibreSprite)
-- [Piskel](http://piskelapp.com/) - A simple web-based tool for Spriting and Pixel art. [![repo][repo.svg]](https://github.com/piskelapp/piskel)
-- [Pixelorama](https://orama-interactive.itch.io/pixelorama) - A free & open-source 2D sprite editor. [![repo][repo.svg]](https://github.com/Orama-Interactive/Pixelorama)
-- [PixiEditor](https://pixieditor.net/) - A lightweight pixel art editor. [![repo][repo.svg]](https://github.com/PixiEditor/PixiEditor) [![store][store.svg]](https://apps.microsoft.com/store/detail/9NDDRHS8PBRN)
-- [Shape Shifter](https://shapeshifter.design/) - A web-app that simplifies the creation of icon animations for Android, iOS, and the web. [![repo][repo.svg]](https://github.com/alexjlockwood/ShapeShifter)
+- [LibreSprite](https://libresprite.github.io/) - A free and open source program for creating and animating your sprites. [![repo][repo.svg]](https://github.com/LibreSprite/LibreSprite) ![open][open.svg]
+- [Piskel](http://piskelapp.com/) - A simple web-based tool for Spriting and Pixel art. [![repo][repo.svg]](https://github.com/piskelapp/piskel) ![open][open.svg]
+- [Pixelorama](https://orama-interactive.itch.io/pixelorama) - A free & open-source 2D sprite editor. [![repo][repo.svg]](https://github.com/Orama-Interactive/Pixelorama) ![open][open.svg]
+- [PixiEditor](https://pixieditor.net/) - A lightweight pixel art editor. [![repo][repo.svg]](https://github.com/PixiEditor/PixiEditor) [![store][store.svg]](https://apps.microsoft.com/store/detail/9NDDRHS8PBRN) ![open][open.svg]
+- [Shape Shifter](https://shapeshifter.design/) - A web-app that simplifies the creation of icon animations for Android, iOS, and the web. [![repo][repo.svg]](https://github.com/alexjlockwood/ShapeShifter) ![open][open.svg]
 
 ### 2D and 3D
 
-- [Blender](https://www.blender.org/) - Free and Open Source 3D creation suite. [![store][store.svg]](https://apps.microsoft.com/store/detail/9PP3C07GTVRH)
-- [Blockbench](https://www.blockbench.net/) - A low poly 3D model editor. [![repo][repo.svg]](https://github.com/JannisX11/blockbench)
-- [Enve](https://maurycyliebner.github.io/) - Open-source 2D animation software. [![repo][repo.svg]](https://github.com/MaurycyLiebner/enve)
-- [F3D](https://f3d-app.github.io/f3d/) - A fast and minimalist 3D viewer. [![repo][repo.svg]](https://github.com/f3d-app/f3d)
-- [FreeCAD](https://www.freecadweb.org/) - An open-source parametric 3D modeler made primarily to design real-life objects of any size. [![repo][repo.svg]](https://github.com/FreeCAD/FreeCAD)
-- [MeshLab](http://www.meshlab.net/) - The open source mesh processing system. [![repo][repo.svg]](https://github.com/cnr-isti-vclab/meshlab)
-- [OpenSCAD](https://www.openscad.org/) - The Programmers Solid 3D CAD Modeller. [![repo][repo.svg]](https://github.com/openscad/openscad/)
+- [Blender](https://www.blender.org/) - Free and Open Source 3D creation suite. [![repo][repo.svg]](https://developer.blender.org/diffusion/) [![store][store.svg]](https://apps.microsoft.com/store/detail/9PP3C07GTVRH) ![open][open.svg]
+- [Blockbench](https://www.blockbench.net/) - A low poly 3D model editor. [![repo][repo.svg]](https://github.com/JannisX11/blockbench) ![open][open.svg]
+- [Enve](https://maurycyliebner.github.io/) - Open-source 2D animation software. [![repo][repo.svg]](https://github.com/MaurycyLiebner/enve) ![open][open.svg]
+- [F3D](https://f3d-app.github.io/f3d/) - A fast and minimalist 3D viewer. [![repo][repo.svg]](https://github.com/f3d-app/f3d) ![open][open.svg]
+- [FreeCAD](https://www.freecadweb.org/) - An open-source parametric 3D modeler made primarily to design real-life objects of any size. [![repo][repo.svg]](https://github.com/FreeCAD/FreeCAD) ![open][open.svg]
+- [MeshLab](http://www.meshlab.net/) - The open source mesh processing system. [![repo][repo.svg]](https://github.com/cnr-isti-vclab/meshlab) ![open][open.svg]
+- [OpenSCAD](https://www.openscad.org/) - The Programmers Solid 3D CAD Modeller. [![repo][repo.svg]](https://github.com/openscad/openscad/) ![open][open.svg]
 - [OpenToonz](https://opentoonz.github.io/) - An open-source full-featured 2D animation creation software. [![repo][repo.svg]](https://github.com/opentoonz/opentoonz)
-- [Pencil2D](http://pencil2d.org/) - An easy, intuitive tool to make 2D hand-drawn animations. [![repo][repo.svg]](https://github.com/pencil2d/pencil)
-- [Seamly2D](https://github.com/FashionFreedom/Seamly2D) - Open source patternmaking software.
+- [Pencil2D](http://pencil2d.org/) - An easy, intuitive tool to make 2D hand-drawn animations. [![repo][repo.svg]](https://github.com/pencil2d/pencil) ![open][open.svg]
+- [Seamly2D](https://github.com/FashionFreedom/Seamly2D) - Open source patternmaking software. [![repo][repo.svg]](https://github.com/FashionFreedom/Seamly2D) ![open][open.svg]
 - [Sweet Home 3D](https://www.sweethome3d.com/) - A free interior design application which helps you draw the plan of your house, arrange furniture on it and visit the results in 3D.
-- [Synfig Studio](https://synfig.org/) - A free and open-source 2D animation software. [![repo][repo.svg]](https://github.com/synfig/synfig)
-- [Wick Editor](https://www.wickeditor.com/) - A free and open-source tool for creating games, animations and everything in-between! [![repo][repo.svg]](https://github.com/wicklets/wick-editor)
+- [Synfig Studio](https://synfig.org/) - A free and open-source 2D animation software. [![repo][repo.svg]](https://github.com/synfig/synfig) ![open][open.svg]
+- [Wick Editor](https://www.wickeditor.com/) - A free and open-source tool for creating games, animations and everything in-between! [![repo][repo.svg]](https://github.com/wicklets/wick-editor) ![open][open.svg]
 
 ### VTuber
 
-- [Kalidoface 3D](https://3d.kalidoface.com/) - A web app that brings support for 3D Vtuber avatars. [![repo][repo.svg]](https://github.com/yeemachine/kalidoface-3d)
-- [Kalidoface](https://kalidoface.com/) - Become a virtual character with just your webcam! [![repo][repo.svg]](https://github.com/yeemachine/kalidoface)
-- [SysMocap](https://github.com/xianfei/SysMocap) - A real-time motion capture system for 3D virtual character animating.
-- [Vignette](https://www.vignetteapp.org/) - The open source VTuber software. [![repo][repo.svg]](https://github.com/vignetteapp/vignette)
+- [Kalidoface 3D](https://3d.kalidoface.com/) - A web app that brings support for 3D Vtuber avatars. [![repo][repo.svg]](https://github.com/yeemachine/kalidoface-3d) ![open][open.svg]
+- [Kalidoface](https://kalidoface.com/) - Become a virtual character with just your webcam! [![repo][repo.svg]](https://github.com/yeemachine/kalidoface) ![open][open.svg]
+- [SysMocap](https://github.com/xianfei/SysMocap) - A real-time motion capture system for 3D virtual character animating. [![repo][repo.svg]](https://github.com/xianfei/SysMocap) ![open][open.svg]
+- [Vignette](https://www.vignetteapp.org/) - The open source VTuber software. [![repo][repo.svg]](https://github.com/vignetteapp/vignette) ![open][open.svg]
 
 ### OCR
 
-- [Capture2Text](https://sourceforge.net/projects/capture2text/) - Quickly OCR part of the screen and save resulting text to clipboard.
-- [gImageReader](https://github.com/manisandro/gImageReader) - A simple Gtk/Qt front-end to tesseract-ocr.
+- [Capture2Text](https://sourceforge.net/projects/capture2text/) - Quickly OCR part of the screen and save resulting text to clipboard. [![repo][repo.svg]](https://sourceforge.net/projects/capture2text/files/) ![open][open.svg]
+- [gImageReader](https://github.com/manisandro/gImageReader) - A simple Gtk/Qt front-end to tesseract-ocr. [![repo][repo.svg]](https://github.com/manisandro/gImageReader) ![open][open.svg]
 - [NormCap](https://dynobo.github.io/normcap/) - OCR powered screen-capture tool to capture information instead of images. [![repo][repo.svg]](https://github.com/dynobo/normcap/)
-- [Paperwork](https://openpaper.work/) - Paperwork is a personal document manager. It manages scanned documents and PDFs. [![repo][repo.svg]](https://gitlab.gnome.org/World/OpenPaperwork/paperwork)
+- [Paperwork](https://openpaper.work/) - Paperwork is a personal document manager. It manages scanned documents and PDFs. [![repo][repo.svg]](https://gitlab.gnome.org/World/OpenPaperwork/paperwork) ![open][open.svg]
 
 ### Others
 
-- [Allusion](https://github.com/allusion-app/Allusion) - A free and open source desktop application for managing your visual library.
-- [Anime4KCPP](https://github.com/TianZerL/Anime4KCPP) - A high performance anime upscaler.
-- [Avataaars generator](https://getavataaars.com/) - Simple generator React app for avataaars. [![repo][repo.svg]](https://github.com/fangpenlin/avataaars-generator)
-- [Celestia](https://celestia.space/) - Real-time 3D visualization of space. [![repo][repo.svg]](https://github.com/CelestiaProject/Celestia)
-- [Colorpicker](https://colorpicker.fr/) - A mininal but complete colorpicker desktop app. [![repo][repo.svg]](https://github.com/Toinane/colorpicker)
+- [Allusion](https://github.com/allusion-app/Allusion) - A free and open source desktop application for managing your visual library. [![repo][repo.svg]](https://github.com/allusion-app/Allusion) ![open][open.svg]
+- [Anime4KCPP](https://github.com/TianZerL/Anime4KCPP) - A high performance anime upscaler. [![repo][repo.svg]](https://github.com/TianZerL/Anime4KCPP) ![open][open.svg]
+- [Avataaars generator](https://getavataaars.com/) - Simple generator React app for avataaars. [![repo][repo.svg]](https://github.com/fangpenlin/avataaars-generator) ![open][open.svg]
+- [Celestia](https://celestia.space/) - Real-time 3D visualization of space. [![repo][repo.svg]](https://github.com/CelestiaProject/Celestia) ![open][open.svg]
+- [Colorpicker](https://colorpicker.fr/) - A mininal but complete colorpicker desktop app. [![repo][repo.svg]](https://github.com/Toinane/colorpicker) ![open][open.svg]
 - [Gephi](https://gephi.org/) - Gephi is the leading visualization and exploration software for all kinds of graphs and networks. [![repo][repo.svg]](https://github.com/gephi/gephi)
-- [Graphviz](https://graphviz.org/) - Open source graph visualization software. [![repo][repo.svg]](https://gitlab.com/graphviz/graphviz)
-- [macOS Big Sur - Replacements Icons](https://macosicons.com/) - Replacement icons for popular apps in the style of macOS Big Sur. [![repo][repo.svg]](https://github.com/elrumo/macOS_Big_Sur_icons_replacements)
-- [Personas by Draftbit](https://personas.draftbit.com/) - A delightful avatar generator by the folks at Draftbit. [![repo][repo.svg]](https://github.com/draftbit/avatar-generator)
+- [Graphviz](https://graphviz.org/) - Open source graph visualization software. [![repo][repo.svg]](https://gitlab.com/graphviz/graphviz) ![open][open.svg]
+- [macOS Big Sur - Replacements Icons](https://macosicons.com/) - Replacement icons for popular apps in the style of macOS Big Sur. [![repo][repo.svg]](https://github.com/elrumo/macOS_Big_Sur_icons_replacements) ![open][open.svg]
+- [Personas by Draftbit](https://personas.draftbit.com/) - A delightful avatar generator by the folks at Draftbit. [![repo][repo.svg]](https://github.com/draftbit/avatar-generator) ![open][open.svg]
 - [Stable Diffusion UI](https://stable-diffusion-ui.github.io/) - Provides a browser UI for generating images from text prompts and images. [![repo][repo.svg]](https://github.com/cmdr2/stable-diffusion-ui)
-- [Stellarium](https://stellarium.org/) -  A free open source planetarium for your computer. [![repo][repo.svg]](https://github.com/Stellarium/stellarium)
+- [Stellarium](https://stellarium.org/) -  A free open source planetarium for your computer. [![repo][repo.svg]](https://github.com/Stellarium/stellarium) ![open][open.svg]
 - [Storyboarder](https://wonderunit.com/storyboarder) - Storyboarder makes it easy to visualize a story as fast you can draw stick figures. [![repo][repo.svg]](https://github.com/wonderunit/storyboarder)
-- [Tropy](https://tropy.org/) - Research photo management. [![repo][repo.svg]](https://github.com/tropy/tropy)
-- [Upscayl](https://github.com/upscayl/upscayl) - Free and Open Source AI Image Upscaler.
+- [Tropy](https://tropy.org/) - Research photo management. [![repo][repo.svg]](https://github.com/tropy/tropy) ![open][open.svg]
+- [Upscayl](https://github.com/upscayl/upscayl) - Free and Open Source AI Image Upscaler. [![repo][repo.svg]](https://github.com/upscayl/upscayl) ![open][open.svg]
 
 ## Browsers and Extensions
 
 ### Browsers
 
-- [Brave](https://www.brave.com/) - A fast, private and secure web browser. [![repo][repo.svg]](https://github.com/brave/brave-browser) [![store][store.svg]](https://apps.microsoft.com/store/detail/brave-browser/XP8C9QZMS2PC1T)
-- [Chromium](https://chromium.woolyss.com/) - The free and open-source project behind Google Chrome.
-- [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Get the browser that protects what’s important. [![store][store.svg]](https://apps.microsoft.com/store/detail/9NZVDKPMR9RD)
-- [LibreWolf](https://librewolf.net/) - A fork of Firefox, focused on privacy, security and freedom.
-- [Tor Browser](https://www.torproject.org/) - A web broswer that anonymizes your web traffic using the Tor network.
+- [Brave](https://www.brave.com/) - A fast, private and secure web browser. [![repo][repo.svg]](https://github.com/brave/brave-browser) [![store][store.svg]](https://apps.microsoft.com/store/detail/brave-browser/XP8C9QZMS2PC1T) ![open][open.svg]
+- [Chromium](https://chromium.woolyss.com/) - The free and open-source project behind Google Chrome. [![repo][repo.svg]](https://github.com/chromium/chromium) ![open][open.svg]
+- [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Get the browser that protects what’s important. [![repo][repo.svg]](https://searchfox.org/mozilla-central/source) [![store][store.svg]](https://apps.microsoft.com/store/detail/9NZVDKPMR9RD) ![open][open.svg]
+- [LibreWolf](https://librewolf.net/) - A fork of Firefox, focused on privacy, security and freedom. [![repo][repo.svg]](https://gitlab.com/librewolf-community) ![open][open.svg]
+- [Tor Browser](https://www.torproject.org/) - A web broswer that anonymizes your web traffic using the Tor network. [![repo][repo.svg]](https://github.com/torproject)
 - ~~[Min](https://minbrowser.org/) - A fast, minimal browser that protects your privacy.~~ [![repo][repo.svg]](https://github.com/minbrowser/min)
 
 ### Extensions
