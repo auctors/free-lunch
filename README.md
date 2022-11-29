@@ -1034,60 +1034,60 @@ AngularJS-powered HTML5 Markdown editor. [![repo][repo.svg]](https://github.com/
 
 ### Statistical Analysis
 
-- [GNU PSPP](https://www.gnu.org/software/pspp/) - A program for statistical analysis of sampled data. It is a free as in freedom replacement for the proprietary program SPSS.
-- [gretl](https://gretl.sourceforge.net) - A cross-platform software package for econometric analysis, written in the C programming language.
-- [jamovi](https://www.jamovi.org/) - A free and open statistics package, which is easy to use, and designed to be familiar to users of SPSS. [![repo][repo.svg]](https://github.com/jamovi/jamovi)
-- [JASP](https://jasp-stats.org/) - JASP is an open-source statistics program that is free, friendly, and flexible. [![repo][repo.svg]](https://github.com/jasp-stats/jasp-desktop)
-- [RStudio](https://posit.co/) - RStudio provides open source and enterprise-ready professional software for data science. [![repo][repo.svg]](https://github.com/rstudio/rstudio)
+- [GNU PSPP](https://www.gnu.org/software/pspp/) - A program for statistical analysis of sampled data. It is a free as in freedom replacement for the proprietary program SPSS. [![repo][repo.svg]](https://ftp.snt.utwente.nl/pub/software/gnu/pspp/) ![open][open.svg]
+- [gretl](https://gretl.sourceforge.net) - A cross-platform software package for econometric analysis, written in the C programming language. [![repo][repo.svg]](https://sourceforge.net/p/gretl/git/ci/master/tree/) ![open][open.svg]
+- [jamovi](https://www.jamovi.org/) - A free and open statistics package, which is easy to use, and designed to be familiar to users of SPSS. [![repo][repo.svg]](https://github.com/jamovi/jamovi) ![open][open.svg]
+- [JASP](https://jasp-stats.org/) - JASP is an open-source statistics program that is free, friendly, and flexible. [![repo][repo.svg]](https://github.com/jasp-stats/jasp-desktop) ![open][open.svg]
+- [RStudio](https://posit.co/) - RStudio provides open source and enterprise-ready professional software for data science. [![repo][repo.svg]](https://github.com/rstudio/rstudio) ![open][open.svg]
 
 ### Others
 
 - [adb](https://developer.android.com/studio/releases/platform-tools) - A programming tool used for the debugging of Android-based devices.
-- [DevToys](https://devtoys.app/) - A Swiss Army knife for developers. [![repo][repo.svg]](https://github.com/veler/DevToys) [![store][store.svg]](https://apps.microsoft.com/store/detail/9PGCV4V3BK4W)
+- [DevToys](https://devtoys.app/) - A Swiss Army knife for developers. [![repo][repo.svg]](https://github.com/veler/DevToys) [![store][store.svg]](https://apps.microsoft.com/store/detail/9PGCV4V3BK4W) ![open][open.svg]
 - [freeCodeCamp.org](https://www.freecodecamp.org/) - Learn to code for free with millions of other people around the world. [![repo][repo.svg]](https://github.com/freeCodeCamp/)
 - [massCode](https://masscode.io/) - A free and open source code snippets manager for developers. [![repo][repo.svg]](https://github.com/massCodeIO/massCode)
 - [The Odin Project](https://www.theodinproject.com/) - An open-source curriculum for learning full-stack web development. [![repo][repo.svg]](https://github.com/TheOdinProject)
-- [WinMerge](https://winmerge.org/) - An Open Source differencing and merging tool for Windows. [![repo][repo.svg]](https://github.com/WinMerge/winmerge)
+- [WinMerge](https://winmerge.org/) - An Open Source differencing and merging tool for Windows. [![repo][repo.svg]](https://github.com/WinMerge/winmerge) ![open][open.svg]
 
 ## Utilities
 
 ### Package Managers
 
-- [BCUninstaller](https://www.bcuninstaller.com/) - A free program uninstaller. [![repo][repo.svg]](https://github.com/Klocman/Bulk-Crap-Uninstaller)
-- [Chocolatey GUI](https://github.com/chocolatey/ChocolateyGUI) - A delicious GUI for Chocolatey.
-- [Chocolatey](https://chocolatey.org/) - The package manager for Windows. [![repo][repo.svg]](https://github.com/chocolatey/choco)
-- [Fluent Store](https://github.com/yoshiask/FluentStore) - A unifying frontend for Windows app stores and package managers.
+- [BCUninstaller](https://www.bcuninstaller.com/) - A free program uninstaller. [![repo][repo.svg]](https://github.com/Klocman/Bulk-Crap-Uninstaller) ![open][open.svg]
+- [Chocolatey GUI](https://github.com/chocolatey/ChocolateyGUI) - A delicious GUI for Chocolatey. [![repo][repo.svg]](https://github.com/chocolatey/ChocolateyGUI) ![open][open.svg]
+- [Chocolatey](https://chocolatey.org/) - The package manager for Windows. [![repo][repo.svg]](https://github.com/chocolatey/choco) ![open][open.svg]
+- [Fluent Store](https://github.com/yoshiask/FluentStore) - A unifying frontend for Windows app stores and package managers. [![repo][repo.svg]](https://github.com/yoshiask/FluentStore) ![open][open.svg]
 - [GeekUninstaller](https://geekuninstaller.com/) - A portable software uninstaller.
 - [PortableApps.com](https://portableapps.com/) - A website offering many free, commonly used Windows applications that have been specially packaged for portability.
 - [Scoop](https://scoop.sh/) - A command-line installer for Windows. [![repo][repo.svg]](https://github.com/lukesampson/scoop)
-- [winget](https://github.com/microsoft/winget-cli) - Microsoft's open-source CLI packager manager for Windows. [![store][store.svg]](https://apps.microsoft.com/store/detail/9NBLGGH4NNS1)
-- [winstall](https://winstall.app/) - A web app for browsing and installing Windows Package Manager apps. [![repo][repo.svg]](https://github.com/MehediH/winstall)
+- [winget](https://github.com/microsoft/winget-cli) - Microsoft's open-source CLI packager manager for Windows. [![repo][repo.svg]](https://github.com/microsoft/winget-cli) [![store][store.svg]](https://apps.microsoft.com/store/detail/9NBLGGH4NNS1) ![open][open.svg]
+- [winstall](https://winstall.app/) - A web app for browsing and installing Windows Package Manager apps. [![repo][repo.svg]](https://github.com/MehediH/winstall) ![open][open.svg]
 
 ### Disk Imaging
 
-- [Etcher](https://etcher.io/) - A powerful OS image flasher. [![repo][repo.svg]](https://github.com/balena-io/etcher)
+- [Etcher](https://etcher.io/) - A powerful OS image flasher. [![repo][repo.svg]](https://github.com/balena-io/etcher) ![open][open.svg]
 - [Macrium Reflect Free](https://www.macrium.com/) - The complete backup solution for personal use.
-- [Rufus](https://rufus.ie/) - A utility that helps format and create bootable USB flash drives. [![repo][repo.svg]](https://github.com/pbatard/rufus) [![store][store.svg]](https://apps.microsoft.com/store/detail/9PC3H3V7Q9CH)
+- [Rufus](https://rufus.ie/) - A utility that helps format and create bootable USB flash drives. [![repo][repo.svg]](https://github.com/pbatard/rufus) [![store][store.svg]](https://apps.microsoft.com/store/detail/9PC3H3V7Q9CH) ![open][open.svg]
 - [UNetbootin](http://unetbootin.github.io/) - UNetbootin allows you to create bootable Live USB drives for Ubuntu and other Linux distributions without burning a CD. [![repo][repo.svg]](https://github.com/unetbootin/unetbootin)
-- [UrBackup](http://www.urbackup.org/) - An easy to setup Open Source client/server backup system. [![repo][repo.svg]](https://github.com/uroni)
-- [USBImager](https://gitlab.com/bztsrc/usbimager) - A very minimal GUI app that can write compressed disk images to USB drives.
-- [UUP dump](https://uupdump.net/) - Download UUP files from Windows Update servers with ease. [![repo][repo.svg]](https://github.com/uup-dump)
-- [UUP Media Creator](https://github.com/gus33000/UUPMediaCreator) - An utility to convert Unified Update Platform file sets into Windows Media files. [![store][store.svg]](https://apps.microsoft.com/store/detail/9N1Z0JXB224X)
+- [UrBackup](http://www.urbackup.org/) - An easy to setup Open Source client/server backup system. [![repo][repo.svg]](https://github.com/uroni) ![open][open.svg]
+- [USBImager](https://gitlab.com/bztsrc/usbimager) - A very minimal GUI app that can write compressed disk images to USB drives. [![repo][repo.svg]](https://gitlab.com/bztsrc/usbimager)
+- [UUP dump](https://uupdump.net/) - Download UUP files from Windows Update servers with ease. [![repo][repo.svg]](https://github.com/uup-dump) ![open][open.svg]
+- [UUP Media Creator](https://github.com/gus33000/UUPMediaCreator) - An utility to convert Unified Update Platform file sets into Windows Media files. [![repo][repo.svg]](https://github.com/gus33000/UUPMediaCreator) [![store][store.svg]](https://apps.microsoft.com/store/detail/9N1Z0JXB224X) ![open][open.svg]
 - [Veeam Agent for Microsoft Windows Free](https://www.veeam.com/) & [Veeam Backup & Replication Community Edition](https://www.veeam.com/) - The free backup software to protect virtual, physical and cloud workloads.
-- [Ventoy](https://www.ventoy.net/) - A Multiboot Bootable USB Creation Tool. [![repo][repo.svg]](https://github.com/ventoy/Ventoy)
+- [Ventoy](https://www.ventoy.net/) - A Multiboot Bootable USB Creation Tool. [![repo][repo.svg]](https://github.com/ventoy/Ventoy) ![open][open.svg]
 
 ### File Shredders
 
-- [BleachBit](https://www.bleachbit.org/) - BleachBit cleans files to free disk space and to maintain privacy. [![repo][repo.svg]](https://github.com/bleachbit/bleachbit)
+- [BleachBit](https://www.bleachbit.org/) - BleachBit cleans files to free disk space and to maintain privacy. [![repo][repo.svg]](https://github.com/bleachbit/bleachbit) ![open][open.svg]
 - [Eraser](https://eraser.heidi.ie/) - A secure data removal tool for Windows.
-- [Permadelete](https://developerstree.github.io/permadelete/) - An easy to use and beautiful app for shredding files and folders permanently. [![repo][repo.svg]](https://github.com/DevelopersTree/permadelete) [![store][store.svg]](https://apps.microsoft.com/store/detail/9MVHV99VWL64)
-- [Turbo Delete](https://github.com/XtremeDevX/turbo-delete) - A blazing fast alternative to the default Windows delete.
+- [Permadelete](https://developerstree.github.io/permadelete/) - An easy to use and beautiful app for shredding files and folders permanently. [![repo][repo.svg]](https://github.com/DevelopersTree/permadelete) [![store][store.svg]](https://apps.microsoft.com/store/detail/9MVHV99VWL64) ![open][open.svg]
+- [Turbo Delete](https://github.com/XtremeDevX/turbo-delete) - A blazing fast alternative to the default Windows delete. [![repo][repo.svg]](https://github.com/XtremeDevX/turbo-delete) ![open][open.svg]
 
 ### File Recovery
 
 - [DMDE](https://dmde.com/) - A powerful tool for data searching, editing, and recovery on disks.
-- [TestDisk](https://www.cgsecurity.org/) - A powerful free data recovery software. [![repo][repo.svg]](https://github.com/cgsecurity/testdisk)
-- [Windows File Recovery](https://apps.microsoft.com/store/detail/9N26S50LN705) - A command-line software utility from Microsoft to recover deleted files.
+- [TestDisk](https://www.cgsecurity.org/) - A powerful free data recovery software. [![repo][repo.svg]](https://github.com/cgsecurity/testdisk) ![open][open.svg]
+- [Windows File Recovery](https://apps.microsoft.com/store/detail/9N26S50LN705) - A command-line software utility from Microsoft to recover deleted files. [![store][store.svg]](https://apps.microsoft.com/store/detail/9N26S50LN705)
 
 ### Disk Usage Analyzers
 
@@ -1099,60 +1099,60 @@ AngularJS-powered HTML5 Markdown editor. [![repo][repo.svg]](https://github.com/
 
 - [CrystalDiskInfo](https://crystalmark.info/) - A HDD/SSD utility software which supports a part of USB, Intel RAID and NVMe. [![store][store.svg]](https://apps.microsoft.com/store/detail/crystaldiskinfo/XP8K4RGX25G3GM)
 - [CrystalDiskMark](https://crystalmark.info/) - A simple storage benchmark.
-- [Fan Control](https://github.com/Rem0o/FanControl.Releases) - A focused, highly customizable fan controlling software for Windows.
-- [GSmartControl](https://gsmartcontrol.shaduri.dev/) - Hard disk drive and SSD health inspection tool. [![repo][repo.svg]](https://github.com/ashaduri/gsmartcontrol)
+- [Fan Control](https://github.com/Rem0o/FanControl.Releases) - A focused, highly customizable fan controlling software for Windows. [![repo][repo.svg]](https://github.com/Rem0o/FanControl.Releases)
+- [GSmartControl](https://gsmartcontrol.shaduri.dev/) - Hard disk drive and SSD health inspection tool. [![repo][repo.svg]](https://github.com/ashaduri/gsmartcontrol) ![open][open.svg]
 - [HWiNFO](https://www.hwinfo.com/) - Comprehensive Hardware Analysis, Monitoring and Reporting for Windows and DOS.
-- [Libre Hardware Monitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - A fork of Open Hardware Monitor.
-- [Monitorian](https://github.com/emoacht/Monitorian) - A Windows desktop tool to adjust the brightness of multiple monitors with ease. [![store][store.svg]](https://apps.microsoft.com/store/detail/9NW33J738BL0)
-- [NBFC](https://github.com/hirschmann/nbfc) - A cross-platform fan control service for notebooks.
-- [Open Hardware Monitor](https://openhardwaremonitor.org/) - A free open source software that monitors temperature sensors, fan speeds, voltages, load and clock speeds of a computer.
+- [Libre Hardware Monitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - A fork of Open Hardware Monitor. [![repo][repo.svg]](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) ![open][open.svg]
+- [Monitorian](https://github.com/emoacht/Monitorian) - A Windows desktop tool to adjust the brightness of multiple monitors with ease. [![repo][repo.svg]](https://github.com/emoacht/Monitorian) [![store][store.svg]](https://apps.microsoft.com/store/detail/9NW33J738BL0) ![open][open.svg]
+- [NBFC](https://github.com/hirschmann/nbfc) - A cross-platform fan control service for notebooks. [![repo][repo.svg]](https://github.com/hirschmann/nbfc) ![open][open.svg]
+- [Open Hardware Monitor](https://openhardwaremonitor.org/) - A free open source software that monitors temperature sensors, fan speeds, voltages, load and clock speeds of a computer. [![repo][repo.svg]](https://github.com/openhardwaremonitor/openhardwaremonitor)
 - [Radiograph](https://dev.lepo.co/) - Universal tool for managing your computer. [![store][store.svg]](https://apps.microsoft.com/store/detail/9NH1P86H06CG)
-- [Sidebar Diagnostics](https://github.com/ArcadeRenegade/SidebarDiagnostics) - A simple sidebar for Windows desktop that displays hardware diagnostic information.
-- [Twinkle Tray](https://twinkletray.com/) - Easily manage the brightness of your monitors in Windows from the system tray. [![repo][repo.svg]](https://github.com/xanderfrangos/twinkle-tray) [![store][store.svg]](https://apps.microsoft.com/store/detail/9PLJWWSV01LK)
-- [Winfetch](https://github.com/kiedtl/winfetch) - A command-line system information utility written in PowerShell.
+- [Sidebar Diagnostics](https://github.com/ArcadeRenegade/SidebarDiagnostics) - A simple sidebar for Windows desktop that displays hardware diagnostic information. [![repo][repo.svg]](https://github.com/ArcadeRenegade/SidebarDiagnostics) ![open][open.svg]
+- [Twinkle Tray](https://twinkletray.com/) - Easily manage the brightness of your monitors in Windows from the system tray. [![repo][repo.svg]](https://github.com/xanderfrangos/twinkle-tray) [![store][store.svg]](https://apps.microsoft.com/store/detail/9PLJWWSV01LK) ![open][open.svg]
+- [Winfetch](https://github.com/kiedtl/winfetch) - A command-line system information utility written in PowerShell. [![repo][repo.svg]](https://github.com/kiedtl/winfetch) ![open][open.svg]
 
 ### System Administration
 
-- [NSudo](https://nsudo.m2team.org/) - A system management tool for advanced users to launch programs with full privileges. [![repo][repo.svg]](https://github.com/M2Team/NSudo)
-- [Sysinternals Suite](https://apps.microsoft.com/store/detail/9P7KNL5RWT25) - A bundle of the Sysinternals utilities including Process Explorer, Process Monitor, Sysmon, Autoruns, ProcDump, all of the PsTools, and many more.
-- [System Informer](https://processhacker.sourceforge.io/) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. [![repo][repo.svg]](https://github.com/winsiderss/systeminformer)
+- [NSudo](https://nsudo.m2team.org/) - A system management tool for advanced users to launch programs with full privileges. [![repo][repo.svg]](https://github.com/M2Team/NSudo) ![open][open.svg]
+- [Sysinternals Suite](https://apps.microsoft.com/store/detail/9P7KNL5RWT25) - A bundle of the Sysinternals utilities including Process Explorer, Process Monitor, Sysmon, Autoruns, ProcDump, all of the PsTools, and many more. [![store][store.svg]](https://apps.microsoft.com/store/detail/9P7KNL5RWT25)
+- [System Informer](https://processhacker.sourceforge.io/) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. [![repo][repo.svg]](https://github.com/winsiderss/systeminformer) ![open][open.svg]
 
 ### Window Managers
 
-- [AltSnap](https://github.com/RamonUnch/AltSnap) - Easily drag windows when pressing the alt key.
-- [Amethyst Windows](https://amethystwindows.com/) - Automatic tiling window manager for Windows 10/11. [![repo][repo.svg]](https://github.com/glsorre/amethystwindows)
-- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity. [![store][store.svg]](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD)
-- [RBTray](https://github.com/benbuck/rbtray) - RBTray allows almost any program to be minimized to the system tray by right clicking its minimize button.
-- [SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) - SmartSystemMenu extends system menu of all windows in the system.
-- [workspacer](https://workspacer.org/) - A tiling window manager for Windows. [![repo][repo.svg]](https://github.com/workspacer/workspacer)
+- [AltSnap](https://github.com/RamonUnch/AltSnap) - Easily drag windows when pressing the alt key. [![repo][repo.svg]](https://github.com/RamonUnch/AltSnap) ![open][open.svg]
+- [Amethyst Windows](https://amethystwindows.com/) - Automatic tiling window manager for Windows 10/11. [![repo][repo.svg]](https://github.com/glsorre/amethystwindows) ![open][open.svg]
+- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity. [![repo][repo.svg]](https://github.com/microsoft/PowerToys) [![store][store.svg]](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD) ![open][open.svg]
+- [RBTray](https://github.com/benbuck/rbtray) - RBTray allows almost any program to be minimized to the system tray by right clicking its minimize button. [![repo][repo.svg]](https://github.com/benbuck/rbtray) ![open][open.svg]
+- [SmartSystemMenu](https://github.com/AlexanderPro/SmartSystemMenu) - SmartSystemMenu extends system menu of all windows in the system. [![repo][repo.svg]](https://github.com/AlexanderPro/SmartSystemMenu) ![open][open.svg]
+- [workspacer](https://workspacer.org/) - A tiling window manager for Windows. [![repo][repo.svg]](https://github.com/workspacer/workspacer) ![open][open.svg]
 
 ### Context Menu Managers
 
-- [ContextMenuManager](https://bluepointlilac.github.io/ContextMenuManager) - A program to manage the Windows right-click context menu. [![repo][repo.svg]](https://github.com/BluePointLilac/ContextMenuManager)
-- [Custom Context Menu](https://github.com/ikas-mc/ContextMenuForWindows11) - Add Custom Context Menu For Windows11. [![store][store.svg]](https://apps.microsoft.com/store/detail/9PC7BZZ28G0X)
-- [Shell](https://nilesoft.org/) - Powerful context menu manager for Windows File Explorer. [![repo][repo.svg]](https://github.com/moudey/shell)
+- [ContextMenuManager](https://bluepointlilac.github.io/ContextMenuManager) - A program to manage the Windows right-click context menu. [![repo][repo.svg]](https://github.com/BluePointLilac/ContextMenuManager) ![open][open.svg]
+- [Custom Context Menu](https://github.com/ikas-mc/ContextMenuForWindows11) - Add Custom Context Menu For Windows11. [![repo][repo.svg]](https://github.com/ikas-mc/ContextMenuForWindows11) [![store][store.svg]](https://apps.microsoft.com/store/detail/9PC7BZZ28G0X) ![open][open.svg]
+- [Shell](https://nilesoft.org/) - Powerful context menu manager for Windows File Explorer. [![repo][repo.svg]](https://github.com/moudey/shell) ![open][open.svg]
 
 ### Others
 
-- [AltStore](https://altstore.io/) - An alternative app store for non-jailbroken iOS devices. [![repo][repo.svg]](https://github.com/rileytestut/AltStore)
-- [Barrier](https://github.com/debauchee/barrier) - Open-source KVM software.
-- [CompactGUI](https://github.com/ImminentFate/CompactGUI) - Visual Interface for the Windows 10 Compact Function.
-- [Driver Store Explorer](https://github.com/lostindark/DriverStoreExplorer) - Driver Store Explorer [RAPR] makes it easier to deal with Windows driver store.
-- [FontForge](http://fontforge.org/) - Free (libre) font editor for Windows, Mac OS X and GNU+Linux. [![repo][repo.svg]](https://github.com/fontforge/fontforge)
-- [GestureSign](https://github.com/TransposonY/GestureSign) - A gesture recognition software for Windows tablet.
-- [Key'n'Stroke](https://github.com/Phaiax/Key-n-Stroke) - Displays Keystrokes in an overlay window and visualize mouse clicks.
-- [Keyviz](https://mularahul.github.io/keyviz) - A free and open-source tool to visualize your keystrokes keyboard in real-time. [![repo][repo.svg]](https://github.com/mulaRahul/keyviz)
-- [NVDA](https://www.nvaccess.org/) - The free and open source Screen Reader for Microsoft Windows.
-- [Nyrna](https://nyrna.merritt.codes/) - Suspend games and applications. [![repo][repo.svg]](https://github.com/Merrit/nyrna)
-- [OpenRGB](https://openrgb.org/) - Open source RGB lighting control that doesn't depend on manufacturer software.
-- [Plover](https://www.openstenoproject.org/plover/) - Open source stenotype engine. [![repo][repo.svg]](https://github.com/openstenoproject/plover)
-- [Scanner](https://github.com/simon-knuth/scanner) - An all-in-one scanner app built for the Universal Windows Platform. [![store][store.svg]](https://apps.microsoft.com/store/detail/9N438MZHD3ZF)
-- [Screen Ruler](https://sourceforge.net/projects/screenruler/) - A lightweight and configurable ruler tool for Windows Desktop. [![repo][repo.svg]](https://github.com/Bluegrams/ScreenRuler)
-- [SharpKeys](http://www.randyrants.com/) - A utility that manages a Registry key that allows Windows to remap one key to any other key. [![repo][repo.svg]](https://github.com/randyrants/sharpkeys)
-- [Ten Hands](https://tenhands.app/) - Simplest way to organize and run command-line tasks. [![repo][repo.svg]](https://github.com/saisandeepvaddi/ten-hands)
-- [Universal Android Debloater GUI](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices.
+- [AltStore](https://altstore.io/) - An alternative app store for non-jailbroken iOS devices. [![repo][repo.svg]](https://github.com/rileytestut/AltStore) ![open][open.svg]
+- [Barrier](https://github.com/debauchee/barrier) - Open-source KVM software. [![repo][repo.svg]](https://github.com/debauchee/barrier) ![open][open.svg]
+- [CompactGUI](https://github.com/ImminentFate/CompactGUI) - Visual Interface for the Windows 10 Compact Function. [![repo][repo.svg]](https://github.com/ImminentFate/CompactGUI)
+- [Driver Store Explorer](https://github.com/lostindark/DriverStoreExplorer) - Driver Store Explorer [RAPR] makes it easier to deal with Windows driver store. [![repo][repo.svg]](https://github.com/lostindark/DriverStoreExplorer) ![open][open.svg]
+- [FontForge](http://fontforge.org/) - Free (libre) font editor for Windows, Mac OS X and GNU+Linux. [![repo][repo.svg]](https://github.com/fontforge/fontforge) ![open][open.svg]
+- [GestureSign](https://github.com/TransposonY/GestureSign) - A gesture recognition software for Windows tablet. [![repo][repo.svg]](https://github.com/TransposonY/GestureSign) ![open][open.svg]
+- [Key'n'Stroke](https://github.com/Phaiax/Key-n-Stroke) - Displays Keystrokes in an overlay window and visualize mouse clicks. [![repo][repo.svg]](https://github.com/Phaiax/Key-n-Stroke) ![open][open.svg]
+- [Keyviz](https://mularahul.github.io/keyviz) - A free and open-source tool to visualize your keystrokes keyboard in real-time. [![repo][repo.svg]](https://github.com/mulaRahul/keyviz) ![open][open.svg]
+- [NVDA](https://www.nvaccess.org/) - The free and open source Screen Reader for Microsoft Windows. [![repo][repo.svg]](https://github.com/nvaccess/nvda)
+- [Nyrna](https://nyrna.merritt.codes/) - Suspend games and applications. [![repo][repo.svg]](https://github.com/Merrit/nyrna) ![open][open.svg]
+- [OpenRGB](https://openrgb.org/) - Open source RGB lighting control that doesn't depend on manufacturer software. [![repo][repo.svg]](https://gitlab.com/CalcProgrammer1/OpenRGB) ![open][open.svg]
+- [Plover](https://www.openstenoproject.org/plover/) - Open source stenotype engine. [![repo][repo.svg]](https://github.com/openstenoproject/plover) ![open][open.svg]
+- [Scanner](https://github.com/simon-knuth/scanner) - An all-in-one scanner app built for the Universal Windows Platform. [![repo][repo.svg]](https://github.com/simon-knuth/scanner) [![store][store.svg]](https://apps.microsoft.com/store/detail/9N438MZHD3ZF) ![open][open.svg]
+- [Screen Ruler](https://sourceforge.net/projects/screenruler/) - A lightweight and configurable ruler tool for Windows Desktop. [![repo][repo.svg]](https://github.com/Bluegrams/ScreenRuler) ![open][open.svg]
+- [SharpKeys](http://www.randyrants.com/) - A utility that manages a Registry key that allows Windows to remap one key to any other key. [![repo][repo.svg]](https://github.com/randyrants/sharpkeys) ![open][open.svg]
+- [Ten Hands](https://tenhands.app/) - Simplest way to organize and run command-line tasks. [![repo][repo.svg]](https://github.com/saisandeepvaddi/ten-hands) ![open][open.svg]
+- [Universal Android Debloater GUI](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. [![repo][repo.svg]](https://github.com/0x192/universal-android-debloater) ![open][open.svg]
 - [WinCompose](http://wincompose.info/) - A compose key for Windows. [![repo][repo.svg]](https://github.com/samhocevar/wincompose)
-- [X-Mouse Controls](https://joelpurra.com/projects/X-Mouse_Controls/) - Windows utility to enable or disable active window tracking, raising and also the delay in milliseconds. [![repo][repo.svg]](https://github.com/joelpurra/xmouse-controls)
+- [X-Mouse Controls](https://joelpurra.com/projects/X-Mouse_Controls/) - Windows utility to enable or disable active window tracking, raising and also the delay in milliseconds. [![repo][repo.svg]](https://github.com/joelpurra/xmouse-controls) ![open][open.svg]
 
 ## Privacy and Security
 
@@ -1160,13 +1160,13 @@ AngularJS-powered HTML5 Markdown editor. [![repo][repo.svg]](https://github.com/
 
 - [Freenet](https://freenetproject.org/) - A peer-to-peer platform for censorship-resistant and privacy-respecting publishing and communication.
 - [I2P](https://geti2p.net/) - The Invisible Internet Project (I2P) is a fully encrypted private network layer.
-- [IPFS](https://ipfs.io/) - A peer-to-peer hypermedia protocol to make the web faster, safer, and more open. [![repo][repo.svg]](https://github.com/ipfs/ipfs)
+- [IPFS](https://ipfs.io/) - A peer-to-peer hypermedia protocol to make the web faster, safer, and more open. [![repo][repo.svg]](https://github.com/ipfs/ipfs) ![open][open.svg]
 
 ### Remove EXIF Data
 
-- [ExifCleaner](https://exifcleaner.com/) - Cross-platform desktop GUI app to clean image metadata. [![repo][repo.svg]](https://github.com/szTheory/exifcleaner)
+- [ExifCleaner](https://exifcleaner.com/) - Cross-platform desktop GUI app to clean image metadata. [![repo][repo.svg]](https://github.com/szTheory/exifcleaner) ![open][open.svg]
 - [ExifTool](https://exiftool.org/) - ExifTool is a platform-independent Perl library plus a command-line application for reading, writing and editing meta information in a wide variety of files.
-- [jExifToolGUI](https://hvdwolf.github.io/jExifToolGUI/) - Graphical frontend for the excellent command-line ExifTool by Phil Harvey. [![repo][repo.svg]](https://github.com/hvdwolf/jExifToolGUI)
+- [jExifToolGUI](https://hvdwolf.github.io/jExifToolGUI/) - Graphical frontend for the excellent command-line ExifTool by Phil Harvey. [![repo][repo.svg]](https://github.com/hvdwolf/jExifToolGUI) ![open][open.svg]
 
 ### Encryption Tools
 
