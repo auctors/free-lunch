@@ -570,7 +570,7 @@
 - [Motrix](https://motrix.app/) - A full-featured download manager. [![repo][repo.svg]](https://github.com/agalwood/Motrix) ![open][open.svg]
 - [Persepolis](https://persepolisdm.github.io/) - A download manager & a GUI for Aria2. [![repo][repo.svg]](https://github.com/persepolisdm/persepolis) ![open][open.svg]
 - [XDM](https://xtremedownloadmanager.com/) - Powerfull download accelerator and video downloader. [![repo][repo.svg]](https://github.com/subhra74/xdm) ![open][open.svg]
-- ~~[FireDM](https://github.com/firedm/FireDM) - A good open-source internet download manager.
+- ~~[FireDM](https://github.com/firedm/FireDM) - A good open-source internet download manager.~~
 
 ### Media Downloaders
 
@@ -761,47 +761,47 @@
 ### Clipboard Managers
 
 - [Clipboard Canvas](https://github.com/d2dyno1/ClipboardCanvas) - A tool that helps you be productive, preview multiple files on Infinite Canvas, save storage space with smart Reference Files, and work uninterruptibly with Autopaste. [![repo][repo.svg]](https://github.com/d2dyno1/ClipboardCanvas) [![store][store.svg]](https://apps.microsoft.com/store/detail/9NN2NZG8RLTB) ![open][open.svg]
-- [CopyQ](https://hluk.github.io/CopyQ/) - An advanced clipboard manager with powerful editing and scripting features. [![repo][repo.svg]](https://github.com/hluk/CopyQ)
-- [Ditto](https://ditto-cp.sourceforge.io/) - An extension to the standard windows clipboard. [![store][store.svg]](https://apps.microsoft.com/store/detail/9NBLGGH3ZBJQ)
-- [XClipper](https://kaustubhpatange.github.io/XClipper) - A clipboard manager for Windows & Android which helps to track clipboard activities and makes it easier to interact with them. [![repo][repo.svg]](https://github.com/KaustubhPatange/XClipper)
+- [CopyQ](https://hluk.github.io/CopyQ/) - An advanced clipboard manager with powerful editing and scripting features. [![repo][repo.svg]](https://github.com/hluk/CopyQ) ![open][open.svg]
+- [Ditto](https://ditto-cp.sourceforge.io/) - An extension to the standard windows clipboard. [![repo][repo.svg]](https://github.com/sabrogden/Ditto/tree/master) [![store][store.svg]](https://apps.microsoft.com/store/detail/9NBLGGH3ZBJQ)
+- [XClipper](https://kaustubhpatange.github.io/XClipper) - A clipboard manager for Windows & Android which helps to track clipboard activities and makes it easier to interact with them. [![repo][repo.svg]](https://github.com/KaustubhPatange/XClipper) ![open][open.svg]
 
 ### File Search
 
-- [Cerebro](https://cerebroapp.com/) - Open-source productivity booster with a brain. [![repo][repo.svg]](https://github.com/cerebroapp/cerebro)
-- [dnGrep](https://dngrep.github.io/) - dnGrep allows you to search across files with easy-to-read results. [![repo][repo.svg]](https://github.com/dnGrep/dnGrep)
+- [Cerebro](https://cerebroapp.com/) - Open-source productivity booster with a brain. [![repo][repo.svg]](https://github.com/cerebroapp/cerebro) ![open][open.svg]
+- [dnGrep](https://dngrep.github.io/) - dnGrep allows you to search across files with easy-to-read results. [![repo][repo.svg]](https://github.com/dnGrep/dnGrep) ![open][open.svg]
 - [Everything](https://www.voidtools.com/) - Locate files and folders by name instantly.
-- [EverythingToolbar](https://github.com/stnkl/EverythingToolbar) - Everything integration for the Windows taskbar.
-- [Flow launcher](https://flowlauncher.com/) - Quick file search & app launcher for Windows with community-made plugins. [![repo][repo.svg]](https://github.com/Flow-Launcher/Flow.Launcher)
-- [grepWin](https://tools.stefankueng.com/grepWin.html) - A powerful and fast search tool using regular expressions. [![repo][repo.svg]](https://github.com/stefankueng/grepWin)
-- [Orange](https://0-range.github.io/) - A cross-platform desktop application for searching local files. [![repo][repo.svg]](https://github.com/naaive/orange)
-- [Pinpoint](https://github.com/dkgv/pinpoint) - Keystroke launcher and productivity tool.
-- [Spyglass](https://docs.spyglass.fyi/) - A personal search engine, crawl & index websites/files you want with a simple set of rules. [![repo][repo.svg]](https://github.com/a5huynh/spyglass)
-- [SystemTrayMenu](http://hofknecht.eu/systemtraymenu/) - Browse and open your files easily. [![repo][repo.svg]](https://github.com/Hofknecht/SystemTrayMenu) [![store][store.svg]](https://apps.microsoft.com/store/detail/9N24F8ZBJMT1)
-- [ueli](https://ueli.app/) - A keystroke launcher for Windows and macOS. [![repo][repo.svg]](https://github.com/oliverschwendener/ueli)
+- [EverythingToolbar](https://github.com/stnkl/EverythingToolbar) - Everything integration for the Windows taskbar. [![repo][repo.svg]](https://github.com/stnkl/EverythingToolbar)
+- [Flow launcher](https://flowlauncher.com/) - Quick file search & app launcher for Windows with community-made plugins. [![repo][repo.svg]](https://github.com/Flow-Launcher/Flow.Launcher) ![open][open.svg]
+- [grepWin](https://tools.stefankueng.com/grepWin.html) - A powerful and fast search tool using regular expressions. [![repo][repo.svg]](https://github.com/stefankueng/grepWin) ![open][open.svg]
+- [Orange](https://0-range.github.io/) - A cross-platform desktop application for searching local files. [![repo][repo.svg]](https://github.com/naaive/orange) ![open][open.svg]
+- [Pinpoint](https://github.com/dkgv/pinpoint) - Keystroke launcher and productivity tool. [![repo][repo.svg]](https://github.com/dkgv/pinpoint) ![open][open.svg]
+- [Spyglass](https://docs.spyglass.fyi/) - A personal search engine, crawl & index websites/files you want with a simple set of rules. [![repo][repo.svg]](https://github.com/a5huynh/spyglass) ![open][open.svg]
+- [SystemTrayMenu](http://hofknecht.eu/systemtraymenu/) - Browse and open your files easily. [![repo][repo.svg]](https://github.com/Hofknecht/SystemTrayMenu) [![store][store.svg]](https://apps.microsoft.com/store/detail/9N24F8ZBJMT1) ![open][open.svg]
+- [ueli](https://ueli.app/) - A keystroke launcher for Windows and macOS. [![repo][repo.svg]](https://github.com/oliverschwendener/ueli) ![open][open.svg]
 
 ### Mind Mapping
 
-- [ASCIIFlow](https://asciiflow.com/) - A client-side only web based application for drawing ASCII diagrams. [![repo][repo.svg]](https://github.com/lewish/asciiflow)
+- [ASCIIFlow](https://asciiflow.com/) - A client-side only web based application for drawing ASCII diagrams. [![repo][repo.svg]](https://github.com/lewish/asciiflow) ![open][open.svg]
 - [draw.io](https://app.diagrams.net/) - Free online diagram software.
-- [drawio-desktop](https://www.diagrams.net/) - An open source technology stack for building diagramming applications. [![repo][repo.svg]](https://github.com/jgraph/drawio-desktop) [![store][store.svg]](https://apps.microsoft.com/store/detail/drawio-diagrams/9MVVSZK43QQW)
-- [Gaphor](https://gaphor.org/) - A UML and SysML modeling application written in Python. [![repo][repo.svg]](https://github.com/gaphor/gaphor)
-- [Heimer](https://github.com/juzzlin/Heimer) - A simple cross-platform mind map, diagram, and note-taking tool written in Qt.
-- [mindmaps](https://www.mindmaps.app/) - An open source, offline capable, mind mapping application leveraging HTML5 technologies. [![repo][repo.svg]](https://github.com/drichard/mindmaps)
-- [My Mind](https://my-mind.github.io/) - A web application for creating and managing Mind maps. [![repo][repo.svg]](https://github.com/ondras/my-mind)
-- [Wireflow](https://app.wireflow.co/) - Flow chart collaboration app. [![repo][repo.svg]](https://github.com/vanila-io/wireflow)
+- [drawio-desktop](https://www.diagrams.net/) - An open source technology stack for building diagramming applications. [![repo][repo.svg]](https://github.com/jgraph/drawio-desktop) [![store][store.svg]](https://apps.microsoft.com/store/detail/drawio-diagrams/9MVVSZK43QQW) ![open][open.svg]
+- [Gaphor](https://gaphor.org/) - A UML and SysML modeling application written in Python. [![repo][repo.svg]](https://github.com/gaphor/gaphor) ![open][open.svg]
+- [Heimer](https://github.com/juzzlin/Heimer) - A simple cross-platform mind map, diagram, and note-taking tool written in Qt. [![repo][repo.svg]](https://github.com/juzzlin/Heimer) ![open][open.svg]
+- [mindmaps](https://www.mindmaps.app/) - An open source, offline capable, mind mapping application leveraging HTML5 technologies. [![repo][repo.svg]](https://github.com/drichard/mindmaps) ![open][open.svg]
+- [My Mind](https://my-mind.github.io/) - A web application for creating and managing Mind maps. [![repo][repo.svg]](https://github.com/ondras/my-mind) ![open][open.svg]
+- [Wireflow](https://app.wireflow.co/) - Flow chart collaboration app. [![repo][repo.svg]](https://github.com/vanila-io/wireflow) ![open][open.svg]
 
 ### Office
 
-- [CryptPad](https://cryptpad.fr/) - A collaboration suite that is end-to-end-encrypted and open-source. [![repo][repo.svg]](https://github.com/xwiki-labs/cryptpad)
-- [Grist](https://www.getgrist.com/) - A modern relational spreadsheet. [![repo][repo.svg]](https://github.com/gristlabs/grist-core/)
-- [LibreOffice](https://www.libreoffice.org/) - A free and powerful office suite.
-- [Sozi](http://sozi.baierouge.fr/) - A presentation tool for SVG documents. [![repo][repo.svg]](https://github.com/sozi-projects/Sozi)
+- [CryptPad](https://cryptpad.fr/) - A collaboration suite that is end-to-end-encrypted and open-source. [![repo][repo.svg]](https://github.com/xwiki-labs/cryptpad) ![open][open.svg]
+- [Grist](https://www.getgrist.com/) - A modern relational spreadsheet. [![repo][repo.svg]](https://github.com/gristlabs/grist-core/) ![open][open.svg]
+- [LibreOffice](https://www.libreoffice.org/) - A free and powerful office suite. [![repo][repo.svg]](https://gerrit.libreoffice.org/q/status:open+-is:wip) ![open][open.svg]
+- [Sozi](http://sozi.baierouge.fr/) - A presentation tool for SVG documents. [![repo][repo.svg]](https://github.com/sozi-projects/Sozi) ![open][open.svg]
 - ~~[Google Docs](https://docs.google.com/) - Free online document editor.~~
 - ~~[Microsoft Office Online](https://www.office.com) - Collaborate for free with online versions of Microsoft Word, PowerPoint, Excel, and OneNote.~~
 
 ### Note Taking
 
-- [AppFlowy](https://www.appflowy.io/) - An open-source alternative to Notion. [![repo][repo.svg]](https://github.com/AppFlowy-IO/appflowy)
+- [AppFlowy](https://www.appflowy.io/) - An open-source alternative to Notion. [![repo][repo.svg]](https://github.com/AppFlowy-IO/appflowy) ![open][open.svg]
 - [Athens](https://athensresearch.github.io/athens) - An open-source knowledge graph that helps individuals and organizations solve complex problems by enabling them to capture, compose, and recombine ideas. [![repo][repo.svg]](https://github.com/athensresearch/athens)
 - [Butterfly](https://docs.butterfly.linwood.dev/) - Powerful, minimalistic, cross-platform, opensource note-taking app. [![repo][repo.svg]](https://github.com/LinwoodCloud/Butterfly)
 - [Cryptee](https://crypt.ee/) - A privacy focused, encrypted and secure documents, notes, files and photos service. [![repo][repo.svg]](https://github.com/cryptee)
