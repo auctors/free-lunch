@@ -962,73 +962,73 @@ AngularJS-powered HTML5 Markdown editor. [![repo][repo.svg]](https://github.com/
 ### Virtualization
 
 - [Docker](https://www.docker.com/) - Enterprise-focused container platform for building, sharing, and running any application. [![repo][repo.svg]](https://github.com/docker/for-win)
-- [Magisk on WSA](https://github.com/LSPosed/MagiskOnWSA) - Integrate Magisk root and Google Apps (OpenGApps) into WSA (Windows Subsystem for Android).
-- [Sandboxie](https://sandboxie-plus.com/) - A sandbox-based isolation software for 32-bit and 64-bit Windows NT-based operating systems. [![repo][repo.svg]](https://github.com/sandboxie-plus/Sandboxie)
+- [Sandboxie](https://sandboxie-plus.com/) - A sandbox-based isolation software for 32-bit and 64-bit Windows NT-based operating systems. [![repo][repo.svg]](https://github.com/sandboxie-plus/Sandboxie) ![open][open.svg]
 - [VirtualBox](https://www.virtualbox.org/) - A powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use.
 - [wsa_pacman](https://github.com/alesimula/wsa_pacman) - A GUI package manager and package installer for Windows Subsystem for Android.
-- Hyper-V - Hyper-V is Microsoft's hardware virtualization product.
+- Hyper-V - Hyper-V is Microsoft's hardware virtualization product. [![repo][repo.svg]](https://github.com/alesimula/wsa_pacman) ![open][open.svg]
 - Windows Sandbox - Windows Sandbox provides a lightweight desktop environment to safely run applications in isolation.
 - WSA - Windows Subsystem for Android.
 - WSL - Windows Subsystem for Linux.
+- ~~[Magisk on WSA](https://github.com/LSPosed/MagiskOnWSA) - Integrate Magisk root and Google Apps (OpenGApps) into WSA (Windows Subsystem for Android).~~
 
 ### Remote Desktop
 
 - [Chrome Remote Desktop](https://remotedesktop.google.com/) - The easy way to remotely connect with your home or work computer, or share your screen with others.
-- [Deskreen](https://deskreen.com/) - A desktop app that turns any device with a web browser into a secondary screen for your computer over WiFi. [![repo][repo.svg]](https://github.com/pavlobu/deskreen)
+- [Deskreen](https://deskreen.com/) - A desktop app that turns any device with a web browser into a secondary screen for your computer over WiFi. [![repo][repo.svg]](https://github.com/pavlobu/deskreen) ![open][open.svg]
 - [DWService](https://www.dwservice.net/) - Remotely access your devices from a Web browser.
 - [Microsoft Remote Desktop](https://apps.microsoft.com/store/detail/9WZDNCRFJ3PS) - Use the Microsoft Remote Desktop app to connect to a remote PC or virtual apps and desktops made available by your admin.
-- [Moonlight](https://moonlight-stream.org/) - An open source implementation of NVIDIA's GameStream. [![repo][repo.svg]](https://github.com/moonlight-stream/moonlight-qt)
-- [mRemoteNG](https://mremoteng.org/) - An open source, multi-protocol, tabbed remote connections manager. [![repo][repo.svg]](https://github.com/mRemoteNG/mRemoteNG)
-- [PRemoteM](https://github.com/VShawn/PRemoteM) - A modern personal remote session manager and launcher. [![store][store.svg]](https://apps.microsoft.com/store/detail/9PNMNF92JNFP)
-- [QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software.
-- [RustDesk](https://rustdesk.com/) - Yet another remote desktop software. [![repo][repo.svg]](https://github.com/rustdesk/rustdesk)
-- [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device.
-- [Screego](https://app.screego.net/) - Screego allows you to share your screen with good quality and low latency. [![repo][repo.svg]](https://github.com/screego/server)
+- [Moonlight](https://moonlight-stream.org/) - An open source implementation of NVIDIA's GameStream. [![repo][repo.svg]](https://github.com/moonlight-stream/moonlight-qt) ![open][open.svg]
+- [mRemoteNG](https://mremoteng.org/) - An open source, multi-protocol, tabbed remote connections manager. [![repo][repo.svg]](https://github.com/mRemoteNG/mRemoteNG) ![open][open.svg]
+- [PRemoteM](https://github.com/VShawn/PRemoteM) - A modern personal remote session manager and launcher. [![repo][repo.svg]](https://github.com/VShawn/PRemoteM) [![store][store.svg]](https://apps.microsoft.com/store/detail/9PNMNF92JNFP)
+- [QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software. [![repo][repo.svg]](https://github.com/barry-ran/QtScrcpy) ![open][open.svg]
+- [RustDesk](https://rustdesk.com/) - Yet another remote desktop software. [![repo][repo.svg]](https://github.com/rustdesk/rustdesk) ![open][open.svg]
+- [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device. [![repo][repo.svg]](https://github.com/Genymobile/scrcpy) ![open][open.svg]
+- [Screego](https://app.screego.net/) - Screego allows you to share your screen with good quality and low latency. [![repo][repo.svg]](https://github.com/screego/server) ![open][open.svg]
 - [ScreenTask](https://screentask.me/) - Share your screen across local devices without internet. [![repo][repo.svg]](https://github.com/EslaMx7/ScreenTask)
-- [Sunshine](https://github.com/loki-47-6F-64/sunshine) - Host for Moonlight Streaming Client.
-- [Tailscale](https://tailscale.com/) - A mesh VPN alternative that makes it easy to connect your devices. [![repo][repo.svg]](https://github.com/tailscale/tailscale)
-- [TigerVNC](https://tigervnc.org/) - A free remote desktop software server and client application. [![repo][repo.svg]](https://github.com/TigerVNC/tigervnc)
+- [Sunshine](https://github.com/loki-47-6F-64/sunshine) - Host for Moonlight Streaming Client. [![repo][repo.svg]](https://github.com/loki-47-6F-64/sunshine) ![open][open.svg]
+- [Tailscale](https://tailscale.com/) - A mesh VPN alternative that makes it easy to connect your devices. [![repo][repo.svg]](https://github.com/tailscale/tailscale) ![open][open.svg]
+- [TigerVNC](https://tigervnc.org/) - A free remote desktop software server and client application. [![repo][repo.svg]](https://github.com/TigerVNC/tigervnc) ![open][open.svg]
 - [TightVNC](https://www.tightvnc.com/) - A free remote desktop application.
-- [Veyon](https://veyon.io/) - Cross-platform computer monitoring and classroom management. [![repo][repo.svg]](https://github.com/veyon/veyon)
-- [Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
+- [Veyon](https://veyon.io/) - Cross-platform computer monitoring and classroom management. [![repo][repo.svg]](https://github.com/veyon/veyon) ![open][open.svg]
+- [Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer. [![repo][repo.svg]](https://github.com/H-M-H/Weylus) ![open][open.svg]
 - [ZeroTier](https://www.zerotier.com/) - A smart programmable Ethernet switch for planet Earth. [![repo][repo.svg]](https://github.com/zerotier/ZeroTierOne)
 - Quick Assist - A new app in Windows 10 that enables you to receive or provide assistance over a remote connection.
 
 ### Network Monitors
 
-- [Angry IP Scanner](http://angryip.org/) - Fast and friendly network scanner. [![repo][repo.svg]](https://github.com/angryip/ipscan)
+- [Angry IP Scanner](http://angryip.org/) - Fast and friendly network scanner. [![repo][repo.svg]](https://github.com/angryip/ipscan) ![open][open.svg]
 - [Fiddler](https://www.telerik.com/fiddler) - A Web Debugging Proxy which logs all HTTP(S) traffic between your computer and the Internet.
 - [GlassWire](https://www.glasswire.com/) - A network security monitoring tool and analyzer.
-- [NETworkManager](https://borntoberoot.net/NETworkManager/) - A powerful tool for managing networks and troubleshoot network problems. [![repo][repo.svg]](https://github.com/BornToBeRoot/NETworkManager)
-- [OpenNetMeter](https://github.com/Ashfaaq18/OpenNetMeter) - A simple program to monitor your network/data usage.
-- [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - A network monitoring suspension window software on Windows platform.
-- [Wireshark](https://www.wireshark.org/) - The world’s foremost and widely-used network protocol analyzer.
+- [NETworkManager](https://borntoberoot.net/NETworkManager/) - A powerful tool for managing networks and troubleshoot network problems. [![repo][repo.svg]](https://github.com/BornToBeRoot/NETworkManager) ![open][open.svg]
+- [OpenNetMeter](https://github.com/Ashfaaq18/OpenNetMeter) - A simple program to monitor your network/data usage. [![repo][repo.svg]](https://github.com/Ashfaaq18/OpenNetMeter) ![open][open.svg]
+- [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - A network monitoring suspension window software on Windows platform. [![repo][repo.svg]](https://github.com/zhongyang219/TrafficMonitor)
+- [Wireshark](https://www.wireshark.org/) - The world’s foremost and widely-used network protocol analyzer. [![repo][repo.svg]](https://gitlab.com/wireshark/wireshark) ![open][open.svg]
 
 ### Others
 
-- [LibreSpeed](https://librespeed.org/) - This is a very lightweight Speedtest implemented in Javascript, using XMLHttpRequest and Web Workers. [![repo][repo.svg]](https://github.com/librespeed/speedtest)
-- [SwitchHosts](https://swh.app/) - An App for managing hosts file. [![repo][repo.svg]](https://github.com/oldj/SwitchHosts)
-- [Wifinian](https://github.com/emoacht/Wifinian) - A Windows desktop tool to enable user to actively control Wi-Fi connections. [![store][store.svg]](https://apps.microsoft.com/store/detail/9PNGFQPS4FLH)
+- [LibreSpeed](https://librespeed.org/) - This is a very lightweight Speedtest implemented in Javascript, using XMLHttpRequest and Web Workers. [![repo][repo.svg]](https://github.com/librespeed/speedtest) ![open][open.svg]
+- [SwitchHosts](https://swh.app/) - An App for managing hosts file. [![repo][repo.svg]](https://github.com/oldj/SwitchHosts) ![open][open.svg]
+- [Wifinian](https://github.com/emoacht/Wifinian) - A Windows desktop tool to enable user to actively control Wi-Fi connections. [![repo][repo.svg]](https://github.com/emoacht/Wifinian) [![store][store.svg]](https://apps.microsoft.com/store/detail/9PNGFQPS4FLH) ![open][open.svg]
 
 ## Development
 
 ### Text Editors
 
 - [Brackets](https://brackets.io/) - Brackets is a modern text editor that makes it easy to design in the browser. [![repo][repo.svg]](https://github.com/brackets-cont/brackets)
-- [GNU Emacs](https://www.gnu.org/software/emacs/) - An extensible, customizable, free/libre text editor — and more.
+- [GNU Emacs](https://www.gnu.org/software/emacs/) - An extensible, customizable, free/libre text editor — and more. [![repo][repo.svg]](https://github.com/emacs-mirror/emacs) ![open][open.svg]
 - [Kate](https://kate-editor.org/) - A multi-document text editor. [![store][store.svg]](https://apps.microsoft.com/store/detail/9NWMW7BB59HW)
-- [Lapce](http://lapce.dev/) - Lightning-fast and Powerful Code Editor written in Rust. [![repo][repo.svg]](https://github.com/lapce/lapce)
-- [Lite XL](https://lite-xl.com/) - A lightweight text editor written in Lua. [![repo][repo.svg]](https://github.com/lite-xl/lite-xl)
-- [Notepad++](https://notepad-plus-plus.org/) - A free source code editor and Notepad replacement that supports several languages. [![repo][repo.svg]](https://github.com/notepad-plus-plus/notepad-plus-plus)
-- [Notepads](https://www.notepadsapp.com/) - A modern, lightweight text editor with a minimalist design. [![repo][repo.svg]](https://github.com/JasonStein/Notepads) [![store][store.svg]](https://apps.microsoft.com/store/detail/9NHL4NSC67WM)
-- [Visual Studio Code](https://code.visualstudio.com/) - A free, lightweight, and extensible code editor. [![repo][repo.svg]](https://github.com/microsoft/vscode) [![store][store.svg]](https://apps.microsoft.com/store/detail/visual-studio-code/XP9KHM4BK9FZ7Q)
-- [VSCodium](https://vscodium.com/) - A community-driven, freely-licensed binary distribution of Microsoft’s editor VS Code. [![repo][repo.svg]](https://github.com/VSCodium/vscodium)
+- [Lapce](http://lapce.dev/) - Lightning-fast and Powerful Code Editor written in Rust. [![repo][repo.svg]](https://github.com/lapce/lapce) ![open][open.svg]
+- [Lite XL](https://lite-xl.com/) - A lightweight text editor written in Lua. [![repo][repo.svg]](https://github.com/lite-xl/lite-xl) ![open][open.svg]
+- [Notepad++](https://notepad-plus-plus.org/) - A free source code editor and Notepad replacement that supports several languages. [![repo][repo.svg]](https://github.com/notepad-plus-plus/notepad-plus-plus) ![open][open.svg]
+- [Notepads](https://www.notepadsapp.com/) - A modern, lightweight text editor with a minimalist design. [![repo][repo.svg]](https://github.com/JasonStein/Notepads) [![store][store.svg]](https://apps.microsoft.com/store/detail/9NHL4NSC67WM) ![open][open.svg]
+- [Visual Studio Code](https://code.visualstudio.com/) - A free, lightweight, and extensible code editor. [![repo][repo.svg]](https://github.com/microsoft/vscode) [![store][store.svg]](https://apps.microsoft.com/store/detail/visual-studio-code/XP9KHM4BK9FZ7Q) ![open][open.svg]
+- [VSCodium](https://vscodium.com/) - A community-driven, freely-licensed binary distribution of Microsoft’s editor VS Code. [![repo][repo.svg]](https://github.com/VSCodium/vscodium) ![open][open.svg]
 
 ### Terminal Emulators
 
-- [Fluent Terminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies. [![store][store.svg]](https://apps.microsoft.com/store/detail/9P2KRLMFXF9T)
-- [PowerShell](https://apps.microsoft.com/store/detail/9MZ1SNWT0N5D) - A task-based command-line shell and scripting language built on .NET.
-- [Tabby](https://tabby.sh/) - A highly configurable terminal emulator, SSH and serial client. [![repo][repo.svg]](https://github.com/Eugeny/tabby)
+- [Fluent Terminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies. [![repo][repo.svg]](https://github.com/felixse/FluentTerminal) [![store][store.svg]](https://apps.microsoft.com/store/detail/9P2KRLMFXF9T) ![open][open.svg]
+- [PowerShell](https://apps.microsoft.com/store/detail/9MZ1SNWT0N5D) - A task-based command-line shell and scripting language built on .NET. [![store][store.svg]](https://apps.microsoft.com/store/detail/9MZ1SNWT0N5D)
+- [Tabby](https://tabby.sh/) - A highly configurable terminal emulator, SSH and serial client. [![repo][repo.svg]](https://github.com/Eugeny/tabby) ![open][open.svg]
 - [WindTerm](https://kingtoolbox.github.io/) - A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal. [![repo][repo.svg]](https://github.com/kingToolbox/WindTerm)
 - Windows Terminal - A modern, fast, efficient, powerful, and productive terminal application for users of command-line tools and shells like Command Prompt, PowerShell, and WSL.
 
