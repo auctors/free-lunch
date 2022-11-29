@@ -1170,41 +1170,41 @@ AngularJS-powered HTML5 Markdown editor. [![repo][repo.svg]](https://github.com/
 
 ### Encryption Tools
 
-- [Age](https://age-encryption.org/) - A simple, modern and secure encryption tool. [![repo][repo.svg]](https://github.com/FiloSottile/age)
+- [Age](https://age-encryption.org/) - A simple, modern and secure encryption tool. [![repo][repo.svg]](https://github.com/FiloSottile/age) ![open][open.svg]
 - [Boxcryptor](https://www.boxcryptor.com/) - An easy-to-use encryption software optimized for the cloud.
-- [cppcryptfs](https://github.com/bailey27/cppcryptfs) - An implementation of the gocryptfs encrypted overlay filesystem in C++ for Windows.
-- [Cryptomator](https://cryptomator.org/) - Multi-platform transparent client-side encryption of your files in the cloud. [![repo][repo.svg]](https://github.com/cryptomator/cryptomator)
-- [Gnupg](https://gnupg.org/) - A complete and free implementation of the OpenPGP standard as defined by PGP.
-- [Hat.sh](https://hat.sh/) - Encrypt and Decrypt files securely in your browser. [![repo][repo.svg]](https://github.com/sh-dv/hat.sh)
-- [Horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted horcruxes so that you don't need to remember a passcode.
-- [Kryptor](https://www.kryptor.co.uk/) - A simple, modern, and secure encryption and signing tool that aims to be a better version of age and Minisign. [![repo][repo.svg]](https://github.com/samuel-lucas6/Kryptor)
+- [cppcryptfs](https://github.com/bailey27/cppcryptfs) - An implementation of the gocryptfs encrypted overlay filesystem in C++ for Windows. [![repo][repo.svg]](https://github.com/bailey27/cppcryptfs) ![open][open.svg]
+- [Cryptomator](https://cryptomator.org/) - Multi-platform transparent client-side encryption of your files in the cloud. [![repo][repo.svg]](https://github.com/cryptomator/cryptomator) ![open][open.svg]
+- [Gnupg](https://gnupg.org/) - A complete and free implementation of the OpenPGP standard as defined by PGP. [![repo][repo.svg]](https://git.gnupg.org/cgi-bin/gitweb.cgi?p=gnupg.git) ![open][open.svg]
+- [Hat.sh](https://hat.sh/) - Encrypt and Decrypt files securely in your browser. [![repo][repo.svg]](https://github.com/sh-dv/hat.sh) ![open][open.svg]
+- [Horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted horcruxes so that you don't need to remember a passcode. [![repo][repo.svg]](https://github.com/jesseduffield/horcrux) ![open][open.svg]
+- [Kryptor](https://www.kryptor.co.uk/) - A simple, modern, and secure encryption and signing tool that aims to be a better version of age and Minisign. [![repo][repo.svg]](https://github.com/samuel-lucas6/Kryptor) ![open][open.svg]
 - [Minisign](https://jedisct1.github.io/minisign/) - A dead simple tool to sign files and verify digital signatures. [![repo][repo.svg]](https://github.com/jedisct1/minisign)
-- [OpenStego](https://www.openstego.com/) - An open-source steganography tool. [![repo][repo.svg]](https://github.com/syvaidya/openstego)
-- [Picocrypt](https://evansu.cc/picocrypt) - A very small, very simple, yet very secure encryption tool. [![repo][repo.svg]](https://github.com/HACKERALERT/Picocrypt)
-- [SiriKali](https://mhogomchungu.github.io/sirikali/) - A Qt/C++ GUI front end to sshfs, ecryptfs-simple, cryfs, gocryptfs, securefs, fscrypt and encfs. [![repo][repo.svg]](https://github.com/mhogomchungu/sirikali)
-- [StegCloak](https://stegcloak.surge.sh/) - Hide secrets with invisible characters in plain text securely using passwords. [![repo][repo.svg]](https://github.com/KuroLabs/stegcloak)
-- [VeraCrypt](https://www.veracrypt.fr/) - Disk encryption with strong security based on TrueCrypt. [![repo][repo.svg]](https://github.com/veracrypt/VeraCrypt)
-- Bitlocker - A Microsoft Windows security and encryption feature.
+- [OpenStego](https://www.openstego.com/) - An open-source steganography tool. [![repo][repo.svg]](https://github.com/syvaidya/openstego) ![open][open.svg]
+- [Picocrypt](https://evansu.cc/picocrypt) - A very small, very simple, yet very secure encryption tool. [![repo][repo.svg]](https://github.com/HACKERALERT/Picocrypt) ![open][open.svg]
+- [SiriKali](https://mhogomchungu.github.io/sirikali/) - A Qt/C++ GUI front end to sshfs, ecryptfs-simple, cryfs, gocryptfs, securefs, fscrypt and encfs. [![repo][repo.svg]](https://github.com/mhogomchungu/sirikali) ![open][open.svg]
+- [StegCloak](https://stegcloak.surge.sh/) - Hide secrets with invisible characters in plain text securely using passwords. [![repo][repo.svg]](https://github.com/KuroLabs/stegcloak) ![open][open.svg]
+- [VeraCrypt](https://www.veracrypt.fr/) - Disk encryption with strong security based on TrueCrypt. [![repo][repo.svg]](https://github.com/veracrypt/VeraCrypt) ![open][open.svg]
+- BitLocker - A Microsoft Windows security and encryption feature.
 
 ### Password Managers
 
-- [Bitwarden](https://bitwarden.com/) - An open source password manager. [![repo][repo.svg]](https://github.com/bitwarden/desktop) [![store][store.svg]](https://apps.microsoft.com/store/detail/9PJSDV0VPK04)
-- [Diceware Passphrase Generator](https://www.rempe.us/diceware/) - A tool for generating strong Diceware passwords, with entropy and crack time estimates. [![repo][repo.svg]](https://github.com/grempe/diceware)
-- [KeePassXC](https://keepassxc.org/) - A modern, secure, and open-source password manager that stores and manages your most sensitive information. [![repo][repo.svg]](https://github.com/keepassxreboot/keepassxc)
-- [KeeWeb](https://app.keeweb.info) - This webapp is a browser and desktop password manager compatible with KeePass databases. [![repo][repo.svg]](https://github.com/keeweb/keeweb)
+- [Bitwarden](https://bitwarden.com/) - An open source password manager. [![repo][repo.svg]](https://github.com/bitwarden/desktop) [![store][store.svg]](https://apps.microsoft.com/store/detail/9PJSDV0VPK04) ![open][open.svg]
+- [Diceware Passphrase Generator](https://www.rempe.us/diceware/) - A tool for generating strong Diceware passwords, with entropy and crack time estimates. [![repo][repo.svg]](https://github.com/grempe/diceware) ![open][open.svg]
+- [KeePassXC](https://keepassxc.org/) - A modern, secure, and open-source password manager that stores and manages your most sensitive information. [![repo][repo.svg]](https://github.com/keepassxreboot/keepassxc) ![open][open.svg]
+- [KeeWeb](https://app.keeweb.info) - This webapp is a browser and desktop password manager compatible with KeePass databases. [![repo][repo.svg]](https://github.com/keeweb/keeweb) ![open][open.svg]
 - ~~[LessPass](https://www.lesspass.com/) - A stateless password manager.~~ [![repo][repo.svg]](https://github.com/lesspass/lesspass)
 
 ### System Tweakers
 
 - [O&O ShutUp10++](https://www.oo-software.com/en/shutup10) - Free antispy tool for Windows 10 and 11.
-- [Optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer.
-- [Privatezilla](https://www.builtbybel.com/ms-apps/privatezilla) - Performs a privacy & security check of Windows 10. [![repo][repo.svg]](https://github.com/builtbybel/privatezilla)
-- [ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) - ThisIsWin11 lets you customize Windows 11 all in one place.
+- [Optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer. [![repo][repo.svg]](https://github.com/hellzerg/optimizer) ![open][open.svg]
+- [Privatezilla](https://www.builtbybel.com/ms-apps/privatezilla) - Performs a privacy & security check of Windows 10. [![repo][repo.svg]](https://github.com/builtbybel/privatezilla) ![open][open.svg]
+- [ThisIsWin11](https://github.com/builtbybel/ThisIsWin11) - ThisIsWin11 lets you customize Windows 11 all in one place. [![repo][repo.svg]](https://github.com/builtbybel/ThisIsWin11) ![open][open.svg]
 
 ### Firewalls
 
-- [Portmaster](https://safing.io/) - Monitor all network activity. [![repo][repo.svg]](https://github.com/safing/portmaster)
-- [Simplewall](https://www.henrypp.org/product/simplewall) - Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer. [![repo][repo.svg]](https://github.com/henrypp/simplewall)
+- [Portmaster](https://safing.io/) - Monitor all network activity. [![repo][repo.svg]](https://github.com/safing/portmaster) ![open][open.svg]
+- [Simplewall](https://www.henrypp.org/product/simplewall) - Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer. [![repo][repo.svg]](https://github.com/henrypp/simplewall) ![open][open.svg]
 - Windows Defender Firewall - A stateful host firewall.
 
 ### Others
@@ -1217,26 +1217,26 @@ AngularJS-powered HTML5 Markdown editor. [![repo][repo.svg]](https://github.com/
 - [Personal Security Checklist](https://security-list.js.org/) - A curated checklist of 300+ tips for protecting digital security and privacy. [![repo][repo.svg]](https://github.com/Lissy93/personal-security-checklist)
 - [PRISM Break](https://prism-break.org/) - Privacy/security-oriented software recommendations. [![repo][repo.svg]](https://gitlab.com/prism-break/prism-break)
 - [Privacy Guides](https://privacyguides.org/) - Protect your data against global mass surveillance programs. [![repo][repo.svg]](https://github.com/privacyguides/privacyguides.org)
-- [ProtonVPN](https://protonvpn.com/) - High-speed Swiss VPN that safeguards your privacy. [![repo][repo.svg]](https://github.com/ProtonVPN/win-app)
+- [ProtonVPN](https://protonvpn.com/) - High-speed Swiss VPN that safeguards your privacy. [![repo][repo.svg]](https://github.com/ProtonVPN/win-app) ![open][open.svg]
 - [VirusTotal](https://www.virustotal.com/) - Free online malware detection service for analyzing suspicious files and URLs.
-- [Windscribe](https://windscribe.com/) - Free VPN and Ad Blocker. [![repo][repo.svg]](https://github.com/Windscribe/Desktop-App)
+- [Windscribe](https://windscribe.com/) - Free VPN and Ad Blocker. [![repo][repo.svg]](https://github.com/Windscribe/Desktop-App) ![open][open.svg]
 - Windows Security - Windows 10 and 11 include Windows Security, which provides the latest antivirus protection.
 
 ## Online Services
 
 ### Secret Sharing
 
-- [One-Time Secret](https://onetimesecret.com/) - Keep sensitive info out of your email & chat logs. [![repo][repo.svg]](https://github.com/onetimesecret/onetimesecret)
-- [Password Pusher](https://pwpush.com/) - A dead-simple application to securely communicate passwords over the web. [![repo][repo.svg]](https://github.com/pglombardo/PasswordPusher)
+- [One-Time Secret](https://onetimesecret.com/) - Keep sensitive info out of your email & chat logs. [![repo][repo.svg]](https://github.com/onetimesecret/onetimesecret) ![open][open.svg]
+- [Password Pusher](https://pwpush.com/) - A dead-simple application to securely communicate passwords over the web. [![repo][repo.svg]](https://github.com/pglombardo/PasswordPusher) ![open][open.svg]
 - [PrivateBin](https://privatebin.info/) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. [![repo][repo.svg]](https://github.com/PrivateBin/PrivateBin)
-- [Yopass](https://yopass.se/) - Secure sharing of secrets, passwords and files. [![repo][repo.svg]](https://github.com/jhaals/yopass)
+- [Yopass](https://yopass.se/) - Secure sharing of secrets, passwords and files. [![repo][repo.svg]](https://github.com/jhaals/yopass) ![open][open.svg]
 
 ### URL Shorteners
 
-- [anon.to](https://anon.to/) - An anonymous URL redirector and shortener. [![repo][repo.svg]](https://github.com/bhutanio/anon.to)
-- [Kutt](https://kutt.it) - A modern URL shortener with support for custom domains. [![repo][repo.svg]](https://github.com/thedevs-network/kutt)
-- [Lstu](https://lstu.fr/) - A nice and open source url shortener. [![repo][repo.svg]](https://framagit.org/fiat-tux/hat-softwares/lstu)
-- [ZWS](https://zws.im/) - Shorten URLs using invisible spaces. [![repo][repo.svg]](https://github.com/zws-im/zws)
+- [anon.to](https://anon.to/) - An anonymous URL redirector and shortener. [![repo][repo.svg]](https://github.com/bhutanio/anon.to) ![open][open.svg]
+- [Kutt](https://kutt.it) - A modern URL shortener with support for custom domains. [![repo][repo.svg]](https://github.com/thedevs-network/kutt) ![open][open.svg]
+- [Lstu](https://lstu.fr/) - A nice and open source url shortener. [![repo][repo.svg]](https://framagit.org/fiat-tux/hat-softwares/lstu) ![open][open.svg]
+- [ZWS](https://zws.im/) - Shorten URLs using invisible spaces. [![repo][repo.svg]](https://github.com/zws-im/zws) ![open][open.svg]
 
 ### Survey Tools
 
