@@ -906,27 +906,27 @@ AngularJS-powered HTML5 Markdown editor. [![repo][repo.svg]](https://github.com/
 
 ## Education
 
-- [Anki](https://apps.ankiweb.net/) - Powerful, intelligent flash cards. [![repo][repo.svg]](https://github.com/ankitects/anki)
-- [Avogadro](https://two.avogadro.cc/) - An advanced molecular editor designed for cross-platform use in computational chemistry, molecular modeling, bioinformatics, materials science, and related areas. [![repo][repo.svg]](https://github.com/OpenChemistry/avogadrolibs)
-- [BOINC](https://boinc.berkeley.edu/) - Open-source software for volunteer computing and grid computing. [![repo][repo.svg]](https://github.com/BOINC/boinc)
+- [Anki](https://apps.ankiweb.net/) - Powerful, intelligent flash cards. [![repo][repo.svg]](https://github.com/ankitects/anki) ![open][open.svg]
+- [Avogadro](https://two.avogadro.cc/) - An advanced molecular editor designed for cross-platform use in computational chemistry, molecular modeling, bioinformatics, materials science, and related areas. [![repo][repo.svg]](https://github.com/OpenChemistry/avogadrolibs) ![open][open.svg]
+- [BOINC](https://boinc.berkeley.edu/) - Open-source software for volunteer computing and grid computing. [![repo][repo.svg]](https://github.com/BOINC/boinc) ![open][open.svg]
 - [Coursera](https://www.coursera.org/) - Free and paid courses on a wide variety of subjects from scholastic to technical and more.
-- [Crow Translate](https://crow-translate.github.io/) - A simple and lightweight translator. [![repo][repo.svg]](https://github.com/crow-translate/crow-translate)
+- [Crow Translate](https://crow-translate.github.io/) - A simple and lightweight translator. [![repo][repo.svg]](https://github.com/crow-translate/crow-translate) ![open][open.svg]
 - [DeepL Translator](https://www.deepl.com/translator) - A neural machine translation service.
 - [edX](https://www.edx.org/) - Free online courses by Harvard, MIT.
 - [GCompris](https://gcompris.net) - A high quality educational software suite. [![store][store.svg]](https://apps.microsoft.com/store/detail/9PGXJTCXN8QM)
-- [GeoGebra](https://www.geogebra.org/) - Free digital tools for class activities, graphing, geometry, collaborative whiteboard and more.
-- [GNU Octave](https://www.gnu.org/software/octave/) - A programming language for scientific computing.
+- [GeoGebra](https://www.geogebra.org/) - Free digital tools for class activities, graphing, geometry, collaborative whiteboard and more. [![repo][repo.svg]](https://github.com/geogebra/geogebra)
+- [GNU Octave](https://www.gnu.org/software/octave/) - A programming language for scientific computing. [![repo][repo.svg]](https://hg.octave.org/octave)
 - [Gramps](https://gramps-project.org/) - Research, organize and share your family tree with Gramps.
-- [JabRef](https://www.jabref.org/) - An open-source, cross-platform citation and reference management tool. [![repo][repo.svg]](https://github.com/JabRef/jabref)
+- [JabRef](https://www.jabref.org/) - An open-source, cross-platform citation and reference management tool. [![repo][repo.svg]](https://github.com/JabRef/jabref) ![open][open.svg]
 - [Khan Academy](https://www.khanacademy.org/) - A personalized learning resource for all ages.
-- [LanguageTool](https://languagetool.org/) - Checks your writing in more than 20 languages. [![repo][repo.svg]](https://github.com/languagetool-org/languagetool)
-- [Lingva Translate](https://lingva.ml/) - Alternative front-end for Google Translate. [![repo][repo.svg]](https://github.com/TheDavidDelta/lingva-translate)
-- [Orange Data Mining](https://orangedatamining.com/) - A data mining and visualization toolbox for novice and expert alike. [![repo][repo.svg]](https://github.com/biolab/orange3)
-- [Qalculate!](https://qalculate.github.io/) - A multi-purpose cross-platform desktop calculator. [![repo][repo.svg]](https://github.com/Qalculate/qalculate-gtk)
-- [Qiqqa](http://www.qiqqa.com/) - A free research and reference manager. [![repo][repo.svg]](https://github.com/jimmejardine/qiqqa-open-source)
-- [Scilab](https://www.scilab.org/) - Open source software for numerical computation.
+- [LanguageTool](https://languagetool.org/) - Checks your writing in more than 20 languages. [![repo][repo.svg]](https://github.com/languagetool-org/languagetool) ![open][open.svg]
+- [Lingva Translate](https://lingva.ml/) - Alternative front-end for Google Translate. [![repo][repo.svg]](https://github.com/TheDavidDelta/lingva-translate) ![open][open.svg]
+- [Orange Data Mining](https://orangedatamining.com/) - A data mining and visualization toolbox for novice and expert alike. [![repo][repo.svg]](https://github.com/biolab/orange3) ![open][open.svg]
+- [Qalculate!](https://qalculate.github.io/) - A multi-purpose cross-platform desktop calculator. [![repo][repo.svg]](https://github.com/Qalculate/qalculate-gtk) ![open][open.svg]
+- [Qiqqa](http://www.qiqqa.com/) - A free research and reference manager. [![repo][repo.svg]](https://github.com/jimmejardine/qiqqa-open-source) ![open][open.svg]
+- [Scilab](https://www.scilab.org/) - Open source software for numerical computation. [![repo][repo.svg]](https://github.com/scilab) ![open][open.svg]
 - [Scratch](https://scratch.mit.edu/) - With Scratch, you can program your own interactive stories, games, and animations. [![store][store.svg]](https://apps.microsoft.com/store/detail/9PFGJ25JL6X3)
-- [Tabby](https://github.com/natixco/tabby)- Simple timetable desktop app to track your school schedule.
+- [Tabby](https://github.com/natixco/tabby)- Simple timetable desktop app to track your school schedule. [![repo][repo.svg]](https://github.com/natixco/tabby)
 - [Zotero](https://www.zotero.org/) - A free, easy-to-use tool to help you collect, organize, cite, and share your research sources. [![repo][repo.svg]](https://github.com/zotero/zotero)
 - [ZoteroBib](https://zbib.org/) - ZoteroBib helps you build a bibliography instantly from any computer or device.
 
