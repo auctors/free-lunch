@@ -802,107 +802,107 @@
 ### Note Taking
 
 - [AppFlowy](https://www.appflowy.io/) - An open-source alternative to Notion. [![repo][repo.svg]](https://github.com/AppFlowy-IO/appflowy) ![open][open.svg]
-- [Athens](https://athensresearch.github.io/athens) - An open-source knowledge graph that helps individuals and organizations solve complex problems by enabling them to capture, compose, and recombine ideas. [![repo][repo.svg]](https://github.com/athensresearch/athens)
-- [Butterfly](https://docs.butterfly.linwood.dev/) - Powerful, minimalistic, cross-platform, opensource note-taking app. [![repo][repo.svg]](https://github.com/LinwoodCloud/Butterfly)
-- [Cryptee](https://crypt.ee/) - A privacy focused, encrypted and secure documents, notes, files and photos service. [![repo][repo.svg]](https://github.com/cryptee)
-- [Foam](https://foambubble.github.io/) - A personal knowledge management and sharing system for VSCode. [![repo][repo.svg]](https://github.com/foambubble/foam)
-- [Joplin](https://joplinapp.org/) - A free, open source note taking and to-do application, which can handle a large number of notes organised into notebooks. [![repo][repo.svg]](https://github.com/laurent22/joplin)
-- [Leaflet](https://potatoproject.co/) - POSP official notes application, written in flutter, beautiful, fast and secure. [![repo][repo.svg]](https://github.com/PotatoProject/Leaflet)
-- [linked](https://uselinked.com/) - Daily journaling without distraction. [![repo][repo.svg]](https://github.com/lostdesign/linked)
-- [Logseq](https://logseq.com/) - A privacy-first, open-source platform for knowledge management and collaboration. [![repo][repo.svg]](https://github.com/logseq/logseq)
-- [Lorien](https://github.com/mbrlabs/Lorien) - An infinite canvas drawing/note-taking app that is focused on performance, small savefiles and simplicity.
+- [Athens](https://athensresearch.github.io/athens) - An open-source knowledge graph that helps individuals and organizations solve complex problems by enabling them to capture, compose, and recombine ideas. [![repo][repo.svg]](https://github.com/athensresearch/athens) ![open][open.svg]
+- [Butterfly](https://docs.butterfly.linwood.dev/) - Powerful, minimalistic, cross-platform, opensource note-taking app. [![repo][repo.svg]](https://github.com/LinwoodCloud/Butterfly) ![open][open.svg]
+- [Cryptee](https://crypt.ee/) - A privacy focused, encrypted and secure documents, notes, files and photos service. [![repo][repo.svg]](https://github.com/cryptee) ![open][open.svg]
+- [Foam](https://foambubble.github.io/) - A personal knowledge management and sharing system for VSCode. [![repo][repo.svg]](https://github.com/foambubble/foam) ![open][open.svg]
+- [Joplin](https://joplinapp.org/) - A free, open source note taking and to-do application, which can handle a large number of notes organised into notebooks. [![repo][repo.svg]](https://github.com/laurent22/joplin) ![open][open.svg]
+- [Leaflet](https://potatoproject.co/) - POSP official notes application, written in flutter, beautiful, fast and secure. [![repo][repo.svg]](https://github.com/PotatoProject/Leaflet) ![open][open.svg]
+- [linked](https://uselinked.com/) - Daily journaling without distraction. [![repo][repo.svg]](https://github.com/lostdesign/linked) ![open][open.svg]
+- [Logseq](https://logseq.com/) - A privacy-first, open-source platform for knowledge management and collaboration. [![repo][repo.svg]](https://github.com/logseq/logseq) ![open][open.svg]
+- [Lorien](https://github.com/mbrlabs/Lorien) - An infinite canvas drawing/note-taking app that is focused on performance, small savefiles and simplicity. [![repo][repo.svg]](https://github.com/mbrlabs/Lorien) ![open][open.svg]
 - [Microsoft Journal](https://apps.microsoft.com/store/detail/9N318R854RHH) - A notetaking application that focuses on the inking experience.
-- [Mini Diary](https://github.com/samuelmeuli/mini-diary) - Simple and secure journal app.
-- [Notes](https://www.get-notes.com/) - An open source and cross-platform note-taking app that is both beautiful and powerful. [![repo][repo.svg]](https://github.com/nuttyartist/notes)
-- [Notesnook](https://notesnook.com/) - A fully end-to-end encrypted note taking alternative to Evernote. [![repo][repo.svg]](https://github.com/streetwriters/notesnook)
+- [Mini Diary](https://github.com/samuelmeuli/mini-diary) - Simple and secure journal app. [![repo][repo.svg]](https://github.com/samuelmeuli/mini-diary) ![open][open.svg]
+- [Notes](https://www.get-notes.com/) - An open source and cross-platform note-taking app that is both beautiful and powerful. [![repo][repo.svg]](https://github.com/nuttyartist/notes) ![open][open.svg]
+- [Notesnook](https://notesnook.com/) - A fully end-to-end encrypted note taking alternative to Evernote. [![repo][repo.svg]](https://github.com/streetwriters/notesnook) ![open][open.svg]
 - [Obsidian](https://obsidian.md/) - A powerful knowledge base on top of a local folder of plain text Markdown files.
-- [QOwnNotes](https://www.qownnotes.org/) - A plain-text file notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration. [![repo][repo.svg]](https://github.com/pbek/QOwnNotes)
-- [RedNotebook](https://rednotebook.app/) - A modern desktop journal. [![repo][repo.svg]](https://github.com/jendrikseipp/rednotebook)
-- [SilentNotes](https://www.martinstoeckli.ch/silentnotes) - A simple note taking app which respects your privacy. [![repo][repo.svg]](https://github.com/martinstoeckli/SilentNotes) [![store][store.svg]](https://apps.microsoft.com/store/detail/9P14JXNCRXSK)
+- [QOwnNotes](https://www.qownnotes.org/) - A plain-text file notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration. [![repo][repo.svg]](https://github.com/pbek/QOwnNotes) ![open][open.svg]
+- [RedNotebook](https://rednotebook.app/) - A modern desktop journal. [![repo][repo.svg]](https://github.com/jendrikseipp/rednotebook) ![open][open.svg]
+- [SilentNotes](https://www.martinstoeckli.ch/silentnotes) - A simple note taking app which respects your privacy. [![repo][repo.svg]](https://github.com/martinstoeckli/SilentNotes) [![store][store.svg]](https://apps.microsoft.com/store/detail/9P14JXNCRXSK) ![open][open.svg]
 - [Simplenote](https://simplenote.com/) - The simplest way to keep notes. [![store][store.svg]](https://apps.microsoft.com/store/detail/9NXQQ40LDW3X)
 - [Standard Notes](https://standardnotes.com/) - A free, open-source, and completely encrypted notes app. [![repo][repo.svg]](https://github.com/standardnotes/app)
-- [Trilium Notes](https://github.com/zadam/trilium) - A hierarchical note taking application with focus on building large personal knowledge bases.
-- [Xournal++](https://xournalpp.github.io/) - A handwriting notetaking software with PDF annotation support. [![repo][repo.svg]](https://github.com/xournalpp/xournalpp)
-- [Zettlr](https://www.zettlr.com/) - A Markdown Editor for the 21st century. [![repo][repo.svg]](https://github.com/Zettlr/Zettlr)
+- [Trilium Notes](https://github.com/zadam/trilium) - A hierarchical note taking application with focus on building large personal knowledge bases. [![repo][repo.svg]](https://github.com/zadam/trilium) ![open][open.svg]
+- [Xournal++](https://xournalpp.github.io/) - A handwriting notetaking software with PDF annotation support. [![repo][repo.svg]](https://github.com/xournalpp/xournalpp) ![open][open.svg]
+- [Zettlr](https://www.zettlr.com/) - A Markdown Editor for the 21st century. [![repo][repo.svg]](https://github.com/Zettlr/Zettlr) ![open][open.svg]
 
 ### Writing Tools
 
-- [bibisco](https://bibisco.com/) - An open source application for writing novels. [![repo][repo.svg]](https://github.com/andreafeccomandi/bibisco)
-- [ghostwriter](https://github.com/wereturtle/ghostwriter) - A cross-platform, aesthetic, distraction-free Markdown editor.
-- [KIT Scenarist](https://kitscenarist.ru/en/) - Simple and powerful application for writing screenplays. [![repo][repo.svg]](https://github.com/dimkanovikov/KITScenarist)
-- [Manuskript](http://www.theologeek.ch/manuskript) - A open-source tool for writers. [![repo][repo.svg]](https://github.com/olivierkes/manuskript)
-- [novelWriter](https://novelwriter.io/) - An open source plain text editor designed for writing novels. [![repo][repo.svg]](https://github.com/vkbo/novelWriter)
+- [bibisco](https://bibisco.com/) - An open source application for writing novels. [![repo][repo.svg]](https://github.com/andreafeccomandi/bibisco) ![open][open.svg]
+- [ghostwriter](https://github.com/wereturtle/ghostwriter) - A cross-platform, aesthetic, distraction-free Markdown editor. [![repo][repo.svg]](https://github.com/wereturtle/ghostwriter) ![open][open.svg]
+- [KIT Scenarist](https://kitscenarist.ru/en/) - Simple and powerful application for writing screenplays. [![repo][repo.svg]](https://github.com/dimkanovikov/KITScenarist) ![open][open.svg]
+- [Manuskript](http://www.theologeek.ch/manuskript) - A open-source tool for writers. [![repo][repo.svg]](https://github.com/olivierkes/manuskript) ![open][open.svg]
+- [novelWriter](https://novelwriter.io/) - An open source plain text editor designed for writing novels. [![repo][repo.svg]](https://github.com/vkbo/novelWriter) ![open][open.svg]
 
 ### Markdown Editors
 
-- [Abricotine](http://abricotine.brrd.fr/) - Markdown editor with inline preview. [![repo][repo.svg]](https://github.com/brrd/abricotine)
-- [Dillinger](https://dillinger.io/) - A cloud-enabled, mobile-ready, offline-storage compatible,
-- [MarkText](https://marktext.app/) - A simple and elegant markdown editor. [![repo][repo.svg]](https://github.com/marktext/marktext)
-- [PanWriter](https://panwriter.com/) - Markdown editor with pandoc integration and paginated preview. [![repo][repo.svg]](https://github.com/mb21/panwriter)
-- [StackEdit](https://stackedit.io/) - In-browser Markdown editor. [![repo][repo.svg]](https://github.com/benweet/stackedit)
-AngularJS-powered HTML5 Markdown editor. [![repo][repo.svg]](https://github.com/joemccann/dillinger)
+- [Abricotine](http://abricotine.brrd.fr/) - Markdown editor with inline preview. [![repo][repo.svg]](https://github.com/brrd/abricotine) ![open][open.svg]
+- [Dillinger](https://dillinger.io/) - A cloud-enabled, mobile-ready, offline-storage compatible. [![repo][repo.svg]](https://github.com/joemccann/dillinger) ![open][open.svg]
+- [MarkText](https://marktext.app/) - A simple and elegant markdown editor. [![repo][repo.svg]](https://github.com/marktext/marktext) ![open][open.svg]
+- [PanWriter](https://panwriter.com/) - Markdown editor with pandoc integration and paginated preview. [![repo][repo.svg]](https://github.com/mb21/panwriter) ![open][open.svg]
+- [StackEdit](https://stackedit.io/) - In-browser Markdown editor. [![repo][repo.svg]](https://github.com/benweet/stackedit) ![open][open.svg]
+AngularJS-powered HTML5 Markdown editor. [![repo][repo.svg]](https://github.com/joemccann/dillinger) ![open][open.svg]
 
 ### Task Management
 
-- [Focalboard](https://www.focalboard.com/) - An open source, self-hosted alternative to Trello, Notion, and Asana. [![repo][repo.svg]](https://github.com/mattermost/focalboard) [![store][store.svg]](https://apps.microsoft.com/store/detail/9NLN2T0SX9VF)
-- [Kanban Tasker](https://github.com/hjohnson12/Kanban-Tasker) - A simple personal kanban board. [![store][store.svg]](https://apps.microsoft.com/store/detail/9NMKTDZ3L9LQ)
-- [sleek](https://github.com/ransome1/sleek) - A todo app based on todo.txt. [![store][store.svg]](https://apps.microsoft.com/store/detail/9NWM2WXF60KR)
+- [Focalboard](https://www.focalboard.com/) - An open source, self-hosted alternative to Trello, Notion, and Asana. [![repo][repo.svg]](https://github.com/mattermost/focalboard) [![store][store.svg]](https://apps.microsoft.com/store/detail/9NLN2T0SX9VF) ![open][open.svg]
+- [Kanban Tasker](https://github.com/hjohnson12/Kanban-Tasker) - A simple personal kanban board. [![store][store.svg]](https://apps.microsoft.com/store/detail/9NMKTDZ3L9LQ) ![open][open.svg]
+- [sleek](https://github.com/ransome1/sleek) - A todo app based on todo.txt. [![repo][repo.svg]](https://github.com/ransome1/sleek) [![store][store.svg]](https://apps.microsoft.com/store/detail/9NWM2WXF60KR) ![open][open.svg]
 - [Super Productivity](http://super-productivity.com/) - To-do list & time tracker for programmers & designers. [![store][store.svg]](https://apps.microsoft.com/store/detail/9NHFVG8361TW)
-- [WeekToDo](https://weektodo.me/) - A free minimalist weekly planner app focused on privacy. [![repo][repo.svg]](https://github.com/manuelernestog/weektodo-web)
+- [WeekToDo](https://weektodo.me/) - A free minimalist weekly planner app focused on privacy. [![repo][repo.svg]](https://github.com/manuelernestog/weektodo-web) ![open][open.svg]
 
 ### Time Tracking
 
-- [ActivityWatch](https://activitywatch.net/) - The best free and open-source automated time tracker. [![repo][repo.svg]](https://github.com/ActivityWatch/activitywatch)
-- [Nomie](https://nomie.app/) - Open-source mood and life tracking. [![repo][repo.svg]](https://github.com/open-nomie/nomie5)
-- [Strategr](https://khrykin.github.io/strategr/) - No-Fuss Time Management App. [![repo][repo.svg]](https://github.com/khrykin/StrategrDesktop)
-- [Tockler](https://tockler.io/) - An application that tracks your time by monitoring your active window title and idle time. [![repo][repo.svg]](https://github.com/MayGo/tockler)
+- [ActivityWatch](https://activitywatch.net/) - The best free and open-source automated time tracker. [![repo][repo.svg]](https://github.com/ActivityWatch/activitywatch) ![open][open.svg]
+- [Nomie](https://nomie.app/) - Open-source mood and life tracking. [![repo][repo.svg]](https://github.com/open-nomie/nomie5) ![open][open.svg]
+- [Strategr](https://khrykin.github.io/strategr/) - No-Fuss Time Management App. [![repo][repo.svg]](https://github.com/khrykin/StrategrDesktop) ![open][open.svg]
+- [Tockler](https://tockler.io/) - An application that tracks your time by monitoring your active window title and idle time. [![repo][repo.svg]](https://github.com/MayGo/tockler) ![open][open.svg]
 - ~~[Habitica](https://habitica.com/) - A habit tracker app which treats your goals like a Role Playing Game.~~ [![repo][repo.svg]](https://github.com/HabitRPG/habitica)
 
 ### Others
 
-- [ClickPaste](https://github.com/Collective-Software/ClickPaste) - Windows 10 notification area app in C# that can paste clipboard contents as keystrokes to whatever location you click.
+- [ClickPaste](https://github.com/Collective-Software/ClickPaste) - Windows 10 notification area app in C# that can paste clipboard contents as keystrokes to whatever location you click. [![repo][repo.svg]](https://github.com/Collective-Software/ClickPaste) ![open][open.svg]
 - [Datawrapper](https://datawrapper.de/) - An open source tool helping everyone to create simple, correct and embeddable charts in minutes.
-- [DropPoint](https://droppoint.netlify.app/) - Make drag-and-drop easier using DropPoint. [![repo][repo.svg]](https://github.com/GameGodS3/DropPoint)
-- [KDE Connect](https://kdeconnect.kde.org/) - Enabling communication between all your devices. [![store][store.svg]](https://apps.microsoft.com/store/detail/9N93MRMSXBF0)
-- [Knowledge Canvas](https://github.com/KnowledgeCanvas/knowledge-canvas) - With Knowledge Canvas, you can import almost any digital resource and use it to build your own personal Knowledge Base.
-- [PDF Arranger](https://github.com/pdfarranger/pdfarranger) - Small python-gtk application, which helps the user to merge or split pdf documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface.
-- [PDFsam](https://pdfsam.org/) - A desktop application to extract pages, split, merge, mix and rotate PDF files. [![repo][repo.svg]](https://github.com/torakiki/pdfsam)
-- [QuickLook](https://pooi.moe/QuickLook/) - Bring macOS “Quick Look” feature to Windows. [![repo][repo.svg]](https://github.com/QL-Win/QuickLook) [![store][store.svg]](https://apps.microsoft.com/store/detail/9NV4BS3L1H4S)
-- [RAWGraphs](https://rawgraphs.io/) - An open web tool to create custom vector-based visualizations on top of the amazing d3.js library.
-- [Reactive Resume](https://rxresu.me/) - A free and open source resume builder. [![repo][repo.svg]](https://github.com/AmruthPillai/Reactive-Resume)
-- [Resumake](https://resumake.io/) - A website for automatically generating elegant LaTeX resumes. [![repo][repo.svg]](https://github.com/saadq/resumake.io)
-- [Scribus](https://www.scribus.net/) - An open source desktop publishing software.
-- [TagSpaces](https://www.tagspaces.org/) - An offline, open source, document manager with tagging support. [![repo][repo.svg]](https://github.com/tagspaces/tagspaces)
-- [TeXstudio](https://www.texstudio.org/) - A fully featured LaTeX editor. [![repo][repo.svg]](https://github.com/texstudio-org/texstudio)
+- [DropPoint](https://droppoint.netlify.app/) - Make drag-and-drop easier using DropPoint. [![repo][repo.svg]](https://github.com/GameGodS3/DropPoint) ![open][open.svg]
+- [KDE Connect](https://kdeconnect.kde.org/) - Enabling communication between all your devices. [![repo][repo.svg]](https://invent.kde.org/network/kdeconnect-kde) [![store][store.svg]](https://apps.microsoft.com/store/detail/9N93MRMSXBF0) ![open][open.svg]
+- [Knowledge Canvas](https://github.com/KnowledgeCanvas/knowledge-canvas) - With Knowledge Canvas, you can import almost any digital resource and use it to build your own personal Knowledge Base. [![repo][repo.svg]](https://github.com/KnowledgeCanvas/knowledge-canvas) ![open][open.svg]
+- [PDF Arranger](https://github.com/pdfarranger/pdfarranger) - Small python-gtk application, which helps the user to merge or split pdf documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface. [![repo][repo.svg]](https://github.com/pdfarranger/pdfarranger) ![open][open.svg]
+- [PDFsam](https://pdfsam.org/) - A desktop application to extract pages, split, merge, mix and rotate PDF files. [![repo][repo.svg]](https://github.com/torakiki/pdfsam) ![open][open.svg]
+- [QuickLook](https://pooi.moe/QuickLook/) - Bring macOS “Quick Look” feature to Windows. [![repo][repo.svg]](https://github.com/QL-Win/QuickLook) [![store][store.svg]](https://apps.microsoft.com/store/detail/9NV4BS3L1H4S) ![open][open.svg]
+- [RAWGraphs](https://rawgraphs.io/) - An open web tool to create custom vector-based visualizations on top of the amazing d3.js library. [![repo][repo.svg]](https://github.com/rawgraphs) ![open][open.svg]
+- [Reactive Resume](https://rxresu.me/) - A free and open source resume builder. [![repo][repo.svg]](https://github.com/AmruthPillai/Reactive-Resume) ![open][open.svg]
+- [Resumake](https://resumake.io/) - A website for automatically generating elegant LaTeX resumes. [![repo][repo.svg]](https://github.com/saadq/resumake.io) ![open][open.svg]
+- [Scribus](https://www.scribus.net/) - An open source desktop publishing software. [![repo][repo.svg]](https://sourceforge.net/projects/scribus/files/) ![open][open.svg]
+- [TagSpaces](https://www.tagspaces.org/) - An offline, open source, document manager with tagging support. [![repo][repo.svg]](https://github.com/tagspaces/tagspaces) ![open][open.svg]
+- [TeXstudio](https://www.texstudio.org/) - A fully featured LaTeX editor. [![repo][repo.svg]](https://github.com/texstudio-org/texstudio) ![open][open.svg]
 - Phone Link - Link your Android phone and PC to view and reply to text messages, make and receive calls, view your notifications, and more.
 
 ## Health and Fitness
 
-- [Ambie](https://ambieapp.com/) - The best white noise app on Windows. [![repo][repo.svg]](https://github.com/jenius-apps/ambie) [![store][store.svg]](https://apps.microsoft.com/store/detail/9P07XNM5CHP0)
-- [Eyes Guard](https://github.avestura.dev/EyesGuard) - A Windows application for protecting your eyes when you are working with your PC or Laptop. [![repo][repo.svg]](https://github.com/avestura/EyesGuard) [![store][store.svg]](https://apps.microsoft.com/store/detail/9PHW0XFKZD7J)
+- [Ambie](https://ambieapp.com/) - The best white noise app on Windows. [![repo][repo.svg]](https://github.com/jenius-apps/ambie) [![store][store.svg]](https://apps.microsoft.com/store/detail/9P07XNM5CHP0) ![open][open.svg]
+- [Eyes Guard](https://github.avestura.dev/EyesGuard) - A Windows application for protecting your eyes when you are working with your PC or Laptop. [![repo][repo.svg]](https://github.com/avestura/EyesGuard) [![store][store.svg]](https://apps.microsoft.com/store/detail/9PHW0XFKZD7J) ![open][open.svg]
 - [f.lux](https://justgetflux.com/) - f.lux warms up your screen at night to help you relax and wind down before bed. [![store][store.svg]](https://apps.microsoft.com/store/detail/9N9KDPHV91JT)
-- [LightBulb](https://github.com/Tyrrrz/LightBulb) - An application that reduces eyestrain produced by staring at a computer screen when working late hours.
+- [LightBulb](https://github.com/Tyrrrz/LightBulb) - An application that reduces eyestrain produced by staring at a computer screen when working late hours. [![repo][repo.svg]](https://github.com/Tyrrrz/LightBulb) ![open][open.svg]
 - [OpenStreetMap](https://www.openstreetmap.org/) - A collaborative project to create a free editable map of the world.
-- [Pomatez](https://roldanjr.github.io/pomatez) - An open-source Pomodoro timer application aimed for simplicity and productivity. [![repo][repo.svg]](https://github.com/roldanjr/pomatez)
-- [Pomotroid](https://splode.github.io/pomotroid/) - Simple and visually-pleasing Pomodoro timer. [![repo][repo.svg]](https://github.com/Splode/pomotroid)
-- [QMapShack](https://github.com/Maproom/qmapshack) - An intuitive and efficient tool for route planning and GPS recordings visualization.
-- [Stretchly](https://hovancik.net/stretchly) - The break time reminder app. [![repo][repo.svg]](https://github.com/hovancik/stretchly)
-- [UBPM](https://codeberg.org/LazyT/ubpm) - Manage your blood pressure data on Windows/Linux/macOS.
-- [Workrave](https://www.workrave.org/) - A free program that assists in the recovery and prevention of Repetitive Strain Injury (RSI).
+- [Pomatez](https://roldanjr.github.io/pomatez) - An open-source Pomodoro timer application aimed for simplicity and productivity. [![repo][repo.svg]](https://github.com/roldanjr/pomatez) ![open][open.svg]
+- [Pomotroid](https://splode.github.io/pomotroid/) - Simple and visually-pleasing Pomodoro timer. [![repo][repo.svg]](https://github.com/Splode/pomotroid) ![open][open.svg]
+- [QMapShack](https://github.com/Maproom/qmapshack) - An intuitive and efficient tool for route planning and GPS recordings visualization. [![repo][repo.svg]](https://github.com/Maproom/qmapshack) ![open][open.svg]
+- [Stretchly](https://hovancik.net/stretchly) - The break time reminder app. [![repo][repo.svg]](https://github.com/hovancik/stretchly) ![open][open.svg]
+- [UBPM](https://codeberg.org/LazyT/ubpm) - Manage your blood pressure data on Windows/Linux/macOS. [![repo][repo.svg]](https://codeberg.org/LazyT/ubpm) ![open][open.svg]
+- [Workrave](https://www.workrave.org/) - A free program that assists in the recovery and prevention of Repetitive Strain Injury (RSI). [![repo][repo.svg]](https://github.com/rcaelers/workrave) ![open][open.svg]
 
 ## Personal Finance
 
-- [Budget Badger](https://budgetbadger.io/) - A simple Personal Budgeting cross-platform app built on top of Xamarin.Forms. [![repo][repo.svg]](https://github.com/baywolf-studios/BudgetBadger) [![store][store.svg]](https://apps.microsoft.com/store/detail/budget-badger-expense-tracker/9NPS726FKXTT)
-- [CryptoTracker](https://ismaelestalayo.com/projects/CryptoTracker/) - Simple yet powerful cryptocurrency portfolio tracker designed with simplicity and functionality in mind. [![repo][repo.svg]](https://github.com/ismaelestalayo/CryptoTracker) [![store][store.svg]](https://apps.microsoft.com/store/detail/9N3B47HBVBLC)
-- [Frappe Books](https://frappebooks.com/) - Free Desktop book-keeping software for small businesses and freelancers. [![repo][repo.svg]](https://github.com/frappe/books)
-- [GnuCash](http://www.gnucash.org/) - A personal and small-business finance manager. [![repo][repo.svg]](https://github.com/Gnucash/gnucash)
-- [grocy](https://grocy.info/) - A web-based self-hosted groceries & household management solution for your home. [![repo][repo.svg]](https://github.com/grocy/grocy) [![store][store.svg]](https://apps.microsoft.com/store/detail/9NWB1TRNNKSF)
+- [Budget Badger](https://budgetbadger.io/) - A simple Personal Budgeting cross-platform app built on top of Xamarin.Forms. [![repo][repo.svg]](https://github.com/baywolf-studios/BudgetBadger) [![store][store.svg]](https://apps.microsoft.com/store/detail/budget-badger-expense-tracker/9NPS726FKXTT) ![open][open.svg]
+- [CryptoTracker](https://ismaelestalayo.com/projects/CryptoTracker/) - Simple yet powerful cryptocurrency portfolio tracker designed with simplicity and functionality in mind. [![repo][repo.svg]](https://github.com/ismaelestalayo/CryptoTracker) [![store][store.svg]](https://apps.microsoft.com/store/detail/9N3B47HBVBLC) ![open][open.svg]
+- [Frappe Books](https://frappebooks.com/) - Free Desktop book-keeping software for small businesses and freelancers. [![repo][repo.svg]](https://github.com/frappe/books) ![open][open.svg]
+- [GnuCash](http://www.gnucash.org/) - A personal and small-business finance manager. [![repo][repo.svg]](https://github.com/Gnucash/gnucash) ![open][open.svg]
+- [grocy](https://grocy.info/) - A web-based self-hosted groceries & household management solution for your home. [![repo][repo.svg]](https://github.com/grocy/grocy) [![store][store.svg]](https://apps.microsoft.com/store/detail/9NWB1TRNNKSF) ![open][open.svg]
 - [HomeBank](http://homebank.free.fr/en/) - Free personal finance software, money management for everyone. [![repo][repo.svg]](https://launchpad.net/homebank)
 - [KMyMoney](https://kmymoney.org/) - A cross-platform personal finance manager.
-- [Money Manager Ex](http://moneymanagerex.org/) - A free, open-source, cross-platform, easy-to-use personal finance software. [![repo][repo.svg]](https://github.com/moneymanagerex/moneymanagerex)
-- [Money](https://money.neptuo.com/) - Personal Expense Manager. [![repo][repo.svg]](https://github.com/maraf/Money) [![store][store.svg]](https://apps.microsoft.com/store/detail/9N50XHGW891S)
-- [My Budget](https://github.com/reZach/my-budget) - Free, open source offline cross-platform budgeting solution built with Electron.
-- [rotki](https://rotki.com/) - A portfolio tracking, analytics, accounting and tax reporting application that protects your privacy. [![repo][repo.svg]](https://github.com/rotki/rotki)
+- [Money Manager Ex](http://moneymanagerex.org/) - A free, open-source, cross-platform, easy-to-use personal finance software. [![repo][repo.svg]](https://github.com/moneymanagerex/moneymanagerex) ![open][open.svg]
+- [Money](https://money.neptuo.com/) - Personal Expense Manager. [![repo][repo.svg]](https://github.com/maraf/Money) [![store][store.svg]](https://apps.microsoft.com/store/detail/9N50XHGW891S) ![open][open.svg]
+- [My Budget](https://github.com/reZach/my-budget) - Free, open source offline cross-platform budgeting solution built with Electron. [![repo][repo.svg]](https://github.com/reZach/my-budget) ![open][open.svg]
+- [rotki](https://rotki.com/) - A portfolio tracking, analytics, accounting and tax reporting application that protects your privacy. [![repo][repo.svg]](https://github.com/rotki/rotki) ![open][open.svg]
 
 ## Education
 
