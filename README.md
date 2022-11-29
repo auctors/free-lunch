@@ -926,36 +926,36 @@ AngularJS-powered HTML5 Markdown editor. [![repo][repo.svg]](https://github.com/
 - [Qiqqa](http://www.qiqqa.com/) - A free research and reference manager. [![repo][repo.svg]](https://github.com/jimmejardine/qiqqa-open-source) ![open][open.svg]
 - [Scilab](https://www.scilab.org/) - Open source software for numerical computation. [![repo][repo.svg]](https://github.com/scilab) ![open][open.svg]
 - [Scratch](https://scratch.mit.edu/) - With Scratch, you can program your own interactive stories, games, and animations. [![store][store.svg]](https://apps.microsoft.com/store/detail/9PFGJ25JL6X3)
-- [Tabby](https://github.com/natixco/tabby)- Simple timetable desktop app to track your school schedule. [![repo][repo.svg]](https://github.com/natixco/tabby)
-- [Zotero](https://www.zotero.org/) - A free, easy-to-use tool to help you collect, organize, cite, and share your research sources. [![repo][repo.svg]](https://github.com/zotero/zotero)
+- [Tabby](https://github.com/natixco/tabby)- Simple timetable desktop app to track your school schedule. [![repo][repo.svg]](https://github.com/natixco/tabby) ![open][open.svg]
+- [Zotero](https://www.zotero.org/) - A free, easy-to-use tool to help you collect, organize, cite, and share your research sources. [![repo][repo.svg]](https://github.com/zotero/zotero) ![open][open.svg]
 - [ZoteroBib](https://zbib.org/) - ZoteroBib helps you build a bibliography instantly from any computer or device.
 
 ## Personalization
 
-- [Aerial](https://github.com/OrangeJedi/Aerial) - Apple TV screen saver for Windows.
-- [AlbumPaper](https://github.com/jac0b-w/AlbumPaper) - An app for Windows that will change your desktop wallpaper to the album art of the song you are listening to.
-- [AutoWall](https://github.com/SegoCode/AutoWall) - Live wallpapers on Windows 10/11 using open-source wallpaper engine.
-- [Bibata Cursor](https://github.com/ful1e5/Bibata_Cursor) - Opensource, compact, and material-designed cursor set.
+- [Aerial](https://github.com/OrangeJedi/Aerial) - Apple TV screen saver for Windows. [![repo][repo.svg]](https://github.com/OrangeJedi/Aerial) ![open][open.svg]
+- [AlbumPaper](https://github.com/jac0b-w/AlbumPaper) - An app for Windows that will change your desktop wallpaper to the album art of the song you are listening to. [![repo][repo.svg]](https://github.com/jac0b-w/AlbumPaper) ![open][open.svg]
+- [AutoWall](https://github.com/SegoCode/AutoWall) - Live wallpapers on Windows 10/11 using open-source wallpaper engine. [![repo][repo.svg]](https://github.com/SegoCode/AutoWall) ![open][open.svg]
+- [Bibata Cursor](https://github.com/ful1e5/Bibata_Cursor) - Opensource, compact, and material-designed cursor set. [![repo][repo.svg]](https://github.com/ful1e5/Bibata_Cursor) ![open][open.svg]
 - [Desktop Pet (eSheep)](https://adrianotiger.github.io/desktopPet/) - This project gives you the possibility to add a pet to your desktop. [![repo][repo.svg]](https://github.com/Adrianotiger/desktopPet) [![store][store.svg]](https://apps.microsoft.com/store/detail/esheep-64bit/9MX2V0TQT6RM)
-- [ElevenClock](https://www.somepythonthings.tk/programs/elevenclock/) - Have a customizable clock on your Windows 11 displays. [![repo][repo.svg]](https://github.com/martinet101/ElevenClock) [![store][store.svg]](https://apps.microsoft.com/store/detail/elevenclock/XP89HZ8SVWTT0M)
-- [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows.
-- [Lively Wallpaper](https://livelywallpaper.net/) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers. [![repo][repo.svg]](https://github.com/rocksdanister/lively) [![store][store.svg]](https://apps.microsoft.com/store/detail/9NTM2QC6QWS7)
-- [Mica for Everyone](https://github.com/MicaForEveryone/MicaForEveryone) - A tool to enable backdrop effect on titlebar of win32 apps on Windows 11.
-- [ModernFlyouts](https://modernflyouts-community.github.io/) - A modern Fluent Design replacement for the old Metro themed flyouts present in Windows. [![repo][repo.svg]](https://github.com/ModernFlyouts-Community/ModernFlyouts) [![store][store.svg]](https://apps.microsoft.com/store/detail/9MT60QV066RP)
-- [Open-Shell-Menu](https://github.com/Open-Shell/Open-Shell-Menu) - Classic Shell Reborn.
-- [Rainmeter](https://rainmeter.net/) - Desktop customization tool for Windows. [![repo][repo.svg]](https://github.com/rainmeter/rainmeter)
-- [RoundedTB](https://github.com/torchgm/RoundedTB) - Add margins, rounded corners and segments to your taskbars! [![store][store.svg]](https://apps.microsoft.com/store/detail/9MTFTXSJ9M7F)
-- [RunCat_for_windows](https://github.com/Kyome22/RunCat_for_windows) - A cute running cat animation on your windows taskbar.
-- [ScreenPlay](https://screen-play.app/) - Modern, Cross Plattform, Live Wallpaper, Widgets and AppDrawer! [![repo][repo.svg]](https://gitlab.com/kelteseth/ScreenPlay)
-- [SpaceEye](https://spaceeye.app/) - Make live satellite imagery your desktop background with SpaceEye. [![repo][repo.svg]](https://github.com/KYDronePilot/SpaceEye) [![store][store.svg]](https://apps.microsoft.com/store/detail/9NF3WZ8TT6MN)
-- [Superpaper](https://github.com/hhannine/superpaper) - A cross-platform multi monitor wallpaper manager.
-- [Taskbar Groups](https://github.com/tjackenpacken/taskbar-groups) - Lightweight utility for organizing the taskbar through groups.
-- [TaskbarX](https://chrisandriessen.nl/) - TaskbarX gives you control over the position of your taskbar icons. [![repo][repo.svg]](https://github.com/ChrisAnd1998/TaskbarX)
-- [TaskbarXI](https://chrisandriessen.nl/) - An application written in C++ to modify the Windows 11 Taskbar. [![repo][repo.svg]](https://github.com/ChrisAnd1998/TaskbarXI)
-- [TileIconifier](https://github.com/Jonno12345/TileIconifier) - Creates tiles for most Windows 8.1 and 10 start menu icons.
-- [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - TranslucentTB offers you control over the appearance of your taskbar. [![store][store.svg]](https://apps.microsoft.com/store/detail/9PF4KZ2VN4W9)
-- [Windows Auto Dark Mode](https://github.com/Armin2208/Windows-Auto-Night-Mode) - Switches between the dark and light theme of Windows at scheduled times. [![store][store.svg]](https://apps.microsoft.com/store/detail/auto-dark-mode/XP8JK4HZBVF435)
-- [WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) - WinDynamicDesktop ports the Dynamic Desktop feature from macOS Mojave to Windows 10. [![store][store.svg]](https://apps.microsoft.com/store/detail/9NM8N7DQ3Z5F)
+- [ElevenClock](https://www.somepythonthings.tk/programs/elevenclock/) - Have a customizable clock on your Windows 11 displays. [![repo][repo.svg]](https://github.com/martinet101/ElevenClock) [![store][store.svg]](https://apps.microsoft.com/store/detail/elevenclock/XP89HZ8SVWTT0M) ![open][open.svg]
+- [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows. [![repo][repo.svg]](https://github.com/valinet/ExplorerPatcher) ![open][open.svg]
+- [Lively Wallpaper](https://livelywallpaper.net/) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers. [![repo][repo.svg]](https://github.com/rocksdanister/lively) [![store][store.svg]](https://apps.microsoft.com/store/detail/9NTM2QC6QWS7) ![open][open.svg]
+- [Mica for Everyone](https://github.com/MicaForEveryone/MicaForEveryone) - A tool to enable backdrop effect on titlebar of win32 apps on Windows 11. [![repo][repo.svg]](https://github.com/MicaForEveryone/MicaForEveryone) ![open][open.svg]
+- [ModernFlyouts](https://modernflyouts-community.github.io/) - A modern Fluent Design replacement for the old Metro themed flyouts present in Windows. [![repo][repo.svg]](https://github.com/ModernFlyouts-Community/ModernFlyouts) [![store][store.svg]](https://apps.microsoft.com/store/detail/9MT60QV066RP) ![open][open.svg]
+- [Open-Shell-Menu](https://github.com/Open-Shell/Open-Shell-Menu) - Classic Shell Reborn. [![repo][repo.svg]](https://github.com/Open-Shell/Open-Shell-Menu) ![open][open.svg]
+- [Rainmeter](https://rainmeter.net/) - Desktop customization tool for Windows. [![repo][repo.svg]](https://github.com/rainmeter/rainmeter) ![open][open.svg]
+- [RoundedTB](https://github.com/torchgm/RoundedTB) - Add margins, rounded corners and segments to your taskbars! [![repo][repo.svg]](https://github.com/torchgm/RoundedTB) [![store][store.svg]](https://apps.microsoft.com/store/detail/9MTFTXSJ9M7F) ![open][open.svg]
+- [RunCat_for_windows](https://github.com/Kyome22/RunCat_for_windows) - A cute running cat animation on your windows taskbar. [![repo][repo.svg]](https://github.com/Kyome22/RunCat_for_windows) ![open][open.svg]
+- [ScreenPlay](https://screen-play.app/) - Modern, Cross Plattform, Live Wallpaper, Widgets and AppDrawer! [![repo][repo.svg]](https://gitlab.com/kelteseth/ScreenPlay) ![open][open.svg]
+- [SpaceEye](https://spaceeye.app/) - Make live satellite imagery your desktop background with SpaceEye. [![repo][repo.svg]](https://github.com/KYDronePilot/SpaceEye) [![store][store.svg]](https://apps.microsoft.com/store/detail/9NF3WZ8TT6MN) ![open][open.svg]
+- [Superpaper](https://github.com/hhannine/superpaper) - A cross-platform multi monitor wallpaper manager. [![repo][repo.svg]](https://github.com/hhannine/superpaper) ![open][open.svg]
+- [Taskbar Groups](https://github.com/tjackenpacken/taskbar-groups) - Lightweight utility for organizing the taskbar through groups. [![repo][repo.svg]](https://github.com/tjackenpacken/taskbar-groups) ![open][open.svg]
+- [TaskbarX](https://chrisandriessen.nl/) - TaskbarX gives you control over the position of your taskbar icons. [![repo][repo.svg]](https://github.com/ChrisAnd1998/TaskbarX) ![open][open.svg]
+- [TaskbarXI](https://chrisandriessen.nl/) - An application written in C++ to modify the Windows 11 Taskbar. [![repo][repo.svg]](https://github.com/ChrisAnd1998/TaskbarXI) ![open][open.svg]
+- [TileIconifier](https://github.com/Jonno12345/TileIconifier) - Creates tiles for most Windows 8.1 and 10 start menu icons. [![repo][repo.svg]](https://github.com/Jonno12345/TileIconifier) ![open][open.svg]
+- [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - TranslucentTB offers you control over the appearance of your taskbar. [![repo][repo.svg]](https://github.com/TranslucentTB/TranslucentTB) [![store][store.svg]](https://apps.microsoft.com/store/detail/9PF4KZ2VN4W9) ![open][open.svg]
+- [Windows Auto Dark Mode](https://github.com/Armin2208/Windows-Auto-Night-Mode) - Switches between the dark and light theme of Windows at scheduled times. [![repo][repo.svg]](https://github.com/Armin2208/Windows-Auto-Night-Mode) [![store][store.svg]](https://apps.microsoft.com/store/detail/auto-dark-mode/XP8JK4HZBVF435) ![open][open.svg]
+- [WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) - WinDynamicDesktop ports the Dynamic Desktop feature from macOS Mojave to Windows 10. [![repo][repo.svg]](https://github.com/t1m0thyj/WinDynamicDesktop) [![store][store.svg]](https://apps.microsoft.com/store/detail/9NM8N7DQ3Z5F) ![open][open.svg]
 
 ## Network and Admin
 
