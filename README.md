@@ -1242,28 +1242,28 @@ AngularJS-powered HTML5 Markdown editor. [![repo][repo.svg]](https://github.com/
 
 - [Framadate](https://framadate.org/) - Schedule a meeting or create an opinion poll.
 - [Framaforms](https://framaforms.org) - Design your online surveys easily while respecting your audience.
-- [LimeSurvey](https://www.limesurvey.org/) - The most popular FOSS online survey tool on the web. [![repo][repo.svg]](https://github.com/LimeSurvey/LimeSurvey)
+- [LimeSurvey](https://www.limesurvey.org/) - The most popular FOSS online survey tool on the web. [![repo][repo.svg]](https://github.com/LimeSurvey/LimeSurvey) ![open][open.svg]
 
 ### Search Engines
 
 - [Brave Search](https://search.brave.com/) - The user-first and privacy-focused search engine that uses its own index making it an independent search engine.
 - [DuckDuckGo](https://duckduckgo.com/) - The search engine that doesn't track you.
-- [SearXNG](https://docs.searxng.org/) - Privacy-respecting metasearch engine. [![repo][repo.svg]](https://github.com/searxng/searxng)
-- [Whoogle Search](https://pypi.org/project/whoogle-search/) - A self-hosted, ad-free, privacy-respecting metasearch engine. [![repo][repo.svg]](https://github.com/benbusby/whoogle-search)
+- [SearXNG](https://docs.searxng.org/) - Privacy-respecting metasearch engine. [![repo][repo.svg]](https://github.com/searxng/searxng) ![open][open.svg]
+- [Whoogle Search](https://pypi.org/project/whoogle-search/) - A self-hosted, ad-free, privacy-respecting metasearch engine. [![repo][repo.svg]](https://github.com/benbusby/whoogle-search) ![open][open.svg]
 
 ### Others
 
 - [AlternativeTo](https://alternativeto.net/) - A website which lists alternatives to web-based software, desktop computer software, and mobile apps.
-- [Awesome Fediverse](https://github.com/emilebosch/awesome-fediverse) - A curated, collaborative list of awesome Fediverse resources.
-- [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links.
-- [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - An awesome & curated list of best applications and tools for Windows.
-- [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers.
+- [Awesome Fediverse](https://github.com/emilebosch/awesome-fediverse) - A curated, collaborative list of awesome Fediverse resources. [![repo][repo.svg]](https://github.com/emilebosch/awesome-fediverse)
+- [Awesome Piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links. [![repo][repo.svg]](https://github.com/Igglybuff/awesome-piracy)
+- [Awesome Windows](https://github.com/Awesome-Windows/Awesome) - An awesome & curated list of best applications and tools for Windows. [![repo][repo.svg]](https://github.com/Awesome-Windows/Awesome)
+- [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers. [![repo][repo.svg]](https://github.com/awesome-selfhosted/awesome-selfhosted)
 - [degoogle](https://degoogle.jmoore.dev/) - A huge list of alternatives to Google products. [![repo][repo.svg]](https://github.com/tycrek/degoogle)
 - [Disroot](https://disroot.org/) - A platform providing online services based on principles of freedom, privacy, federation and decentralization.
 - [Framasoft](https://framasoft.org) - A not-for-profit popular educational organization.
 - [Mostly Free Resources for Almost Everyone](https://github.com/chasedooley/mostly-free-resources-for-almost-everyone) - A list of mostly free resources for almost anyone.
-- [Opensource.Builders](https://opensource.builders/) - A website to find and request open-source alternatives to popular software you already use. [![repo][repo.svg]](https://github.com/junaid33/opensource.builders)
-- [Piracy Index](https://piracy.vercel.app/) - This website is a collection of the best digital piracy resources. [![repo][repo.svg]](https://gitlab.com/piracy/piracy)
+- [Opensource.Builders](https://opensource.builders/) - A website to find and request open-source alternatives to popular software you already use. [![repo][repo.svg]](https://github.com/junaid33/opensource.builders) ![open][open.svg]
+- [Piracy Index](https://piracy.vercel.app/) - This website is a collection of the best digital piracy resources. [![repo][repo.svg]](https://gitlab.com/piracy/piracy) ![open][open.svg]
 - [Product Hunt](https://www.producthunt.com/) - A website that lets users share and discover new products.
 - [Slant](https://www.slant.co/) - A product recommendation community with the goal of making it effortless to find the best product, app or game for you.
 - [switching.software](https://switching.software/) - Ethical, easy-to-use and privacy-conscious alternatives to well-known software.
