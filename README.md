@@ -12,11 +12,9 @@
 - ![repository][repo.svg] - Repository
 - ![open][open.svg] - [Open Source](https://opensource.org/licenses/alphabetical) license compliant
 
-**CHANGELOG 2022-11-06:**
+**CHANGELOG 2022-12-11:**
 
-- Added [Tauon Music Box](https://tauonmusicbox.rocks/), [BeepBox](https://beepbox.co/), [SonoBus](https://sonobus.net/), [Spek](http://spek.cc/), [Sonic Visualiser](https://www.sonicvisualiser.org/), [VB-CABLE](https://vb-audio.com/Cable/), [Vodon Pro](https://vodon.gg/), [pyTranscriber](https://pytranscriber.github.io/), [Design Editor](https://editor.layerhub.io/), [Penpot](https://penpot.app/), [Upscayl](https://github.com/upscayl/upscayl), [Stable Diffusion UI](https://stable-diffusion-ui.github.io/), [Tropy](https://tropy.org/), [AntiMicroX](https://github.com/AntiMicroX/antimicroX), [Cockatrice](https://cockatrice.github.io/), [FreeFileSync](https://freefilesync.org/), [Auto Screen Capture](https://autoscreen.sourceforge.io/), [Spyglass](https://docs.spyglass.fyi/), [Gaphor](https://gaphor.org/), [Notes](https://www.get-notes.com/), [ClickPaste](https://github.com/Collective-Software/ClickPaste), [Aerial](https://github.com/OrangeJedi/Aerial), [GNU Emacs](https://www.gnu.org/software/emacs/), [Brackets](https://brackets.io/), [RStudio](https://posit.co/), [gretl](https://gretl.sourceforge.net), [GNU PSPP](https://www.gnu.org/software/pspp/), [jamovi](https://www.jamovi.org/), [JASP](https://jasp-stats.org/), [Keyviz](https://mularahul.github.io/keyviz), [ExifTool](https://exiftool.org/) and [Brave Search](https://search.brave.com/)
-
-- Removed [AnyDesk](https://anydesk.com/) and [Atom](https://atom.io/)
+- Removed [FireDM](https://github.com/firedm/FireDM) and  [Magisk on WSA](https://github.com/LSPosed/MagiskOnWSA)
 
 ## Mirrors
 
@@ -566,7 +564,6 @@
 
 - [Free Download Manager](http://freedownloadmanager.org/) - A powerful modern download accelerator and organizer.
 - [Motrix](https://motrix.app/) - A full-featured download manager. [![repo][repo.svg]](https://github.com/agalwood/Motrix) ![open][open.svg]
-- [FireDM](https://github.com/firedm/FireDM) - A good open-source internet download manager.
 - [JDownloader](https://jdownloader.org/) - A free, open-source download management tool.
 - [XDM](https://xtremedownloadmanager.com/) - Powerfull download accelerator and video downloader. [![repo][repo.svg]](https://github.com/subhra74/xdm) ![open][open.svg]
 - [Persepolis](https://persepolisdm.github.io/) - A download manager & a GUI for Aria2. [![repo][repo.svg]](https://github.com/persepolisdm/persepolis) ![open][open.svg]
@@ -967,7 +964,6 @@ AngularJS-powered HTML5 Markdown editor. [![repo][repo.svg]](https://github.com/
 - WSL - Windows Subsystem for Linux.
 - WSA - Windows Subsystem for Android.
 - [wsa_pacman](https://github.com/alesimula/wsa_pacman) - A GUI package manager and package installer for Windows Subsystem for Android. ![open][open.svg]
-- [Magisk on WSA](https://github.com/LSPosed/MagiskOnWSA) - Integrate Magisk root and Google Apps (OpenGApps) into WSA (Windows Subsystem for Android).
 - Windows Sandbox - Windows Sandbox provides a lightweight desktop environment to safely run applications in isolation.
 - [Sandboxie](https://sandboxie-plus.com/) - A sandbox-based isolation software for 32-bit and 64-bit Windows NT-based operating systems. [![repo][repo.svg]](https://github.com/sandboxie-plus/Sandboxie) ![open][open.svg]
 
