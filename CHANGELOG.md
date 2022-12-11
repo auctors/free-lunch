@@ -1,3 +1,7 @@
+## 2022-12-11
+
+- Removed [FireDM](https://github.com/firedm/FireDM) and  [Magisk on WSA](https://github.com/LSPosed/MagiskOnWSA)
+
 ## 2022-11-06
 
 ### Added
