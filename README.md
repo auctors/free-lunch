@@ -12,11 +12,11 @@
 - ![repository][repo.svg] - Repository
 - ![open][open.svg] - [Open Source](https://opensource.org/licenses/alphabetical) license compliant
 
-**CHANGELOG 2022-12-17:**
+**CHANGELOG 2023-01-07:**
 
-- Added [Buzz](https://github.com/chidiwilliams/buzz), [Mue](https://demo.muetab.com/), [uBlacklist](https://iorate.github.io/ublacklist/), [Unclutter](https://unclutter.lindylearn.io/), [Web Scrobbler](https://web-scrobbler.com/), [Heroic Games Launcher](https://heroicgameslauncher.com/), [Nostlan](https://nostlan.com/), [Pegasus](http://pegasus-frontend.org/), [Motionity](https://motionity.app/), [Converseen](https://converseen.fasterland.net/), [Text Grab](https://github.com/TheJoeFin/Text-Grab), [Lama Cleaner](https://github.com/Sanster/lama-cleaner), [MagiskOnWSA](https://github.com/PeterNjeim/MagiskOnWSA), [MagLit](https://maglit.me/), [Reduced.to](https://reduced.to/), [Alpha Clicker](https://github.com/robiot/AlphaClicker) and [Tabame](https://github.com/Far-Se/tabame)
+- Added [Bespoke Synth](https://www.bespokesynth.com/), [JPEGView](https://github.com/sylikc/jpegview), [Spirit](https://antonyjr.in/spirit), [LaunchyQt](https://launchy.wangzhl.com/), [FanCtrl](https://github.com/lich426/FanCtrl), [WingetUI](https://github.com/marticliment/WingetUI), and [Auto-Editor](https://auto-editor.com/)
 
-- Removed [Memex](https://worldbrain.io/)
+- Removed [Boxcryptor](https://www.boxcryptor.com/)
 
 ## Mirrors
 
@@ -298,6 +298,7 @@
 
 - [AudioStellar](https://audiostellar.xyz/) - Open source data-driven musical instrument for latent sound structure discovery and music experimentation. [![repo][repo.svg]](https://gitlab.com/ayrsd/audiostellar/) ![open][open.svg]
 - [BeepBox](https://beepbox.co/) - An online tool for sketching and sharing instrumental melodies. [![repo][repo.svg]](https://github.com/johnnesky/beepbox) ![open][open.svg]
+- [Bespoke Synth](https://www.bespokesynth.com/) - Bespoke is a software modular synthesizer. [![repo][repo.svg]](https://github.com/BespokeSynth/BespokeSynth/) ![open][open.svg]
 - [Helio Workstation](https://helio.fm/) - One music sequencer for all major platforms, desktop and mobile. [![repo][repo.svg]](https://github.com/helio-fm/helio-workstation) ![open][open.svg]
 - [Jamulus](https://jamulus.io/) - A networked music performance software allowing musicians to rehearse, perform and play in real-time. [![repo][repo.svg]](https://github.com/jamulussoftware/jamulus)
 - [LMMS](https://lmms.io/) - Cross-platform music production software. [![repo][repo.svg]](https://github.com/LMMS/lmms) ![open][open.svg]
@@ -703,7 +704,7 @@
 ### Digital Painting
 
 - [AutoDraw](https://www.autodraw.com/) - An intuitive drawing tool for everyone.
-- [Drawpile](http://drawpile.net/) - A collaborative drawing program. [![repo][repo.svg]](https://github.com/drawpile/Drawpile) ![open][open.svg]
+- [Drawpile](https://drawpile.net/) - A collaborative drawing program. [![repo][repo.svg]](https://github.com/drawpile/Drawpile) ![open][open.svg]
 - [FotoSketcher](https://fotosketcher.com/) - Turn your photos into beautiful paintings, sketches or drawings in seconds.
 - [Inkscape](https://inkscape.org/) - A free and open-source vector graphics editor. [![repo][repo.svg]](https://gitlab.com/inkscape/inkscape) [![store][store.svg]](https://apps.microsoft.com/store/detail/9PD9BHGLFC7H) ![open][open.svg]
 - [Krita](https://www.krita.org/) - A free and open source digital painting application. [![repo][repo.svg]](https://github.com/KDE/krita)
@@ -738,11 +739,12 @@
 
 - [ImageGlass](https://imageglass.org/) - A lightweight, versatile image viewer. [![repo][repo.svg]](https://github.com/d2phap/ImageGlass) ![open][open.svg]
 - [IrfanView](https://www.irfanview.com/) - A very fast, compact and innovative FREEWARE image viewer/converter. [![store][store.svg]](https://apps.microsoft.com/store/detail/9PJZ3BTL5PV6)
+- [JPEGView](https://github.com/sylikc/jpegview) - A lean, fast and highly configurable viewer/editor for JPEG, BMP, PNG, WEBP, TGA, GIF and TIFF images with a minimal GUI. ![open][open.svg]
 - [NeeView](https://bitbucket.org/neelabo/neeview) - A Free and Open Source, modern and powerful image viewer and a manga/comic reader. [![store][store.svg]](https://apps.microsoft.com/store/detail/9P24Z53HC1JR) ![open][open.svg]
-- [nomacs](https://nomacs.org/) - A free, open source image viewer. [![repo][repo.svg]](https://github.com/nomacs/nomacs) ![open][open.svg]
-- [qimgv](https://github.com/easymodo/qimgv) - Image viewer. Fast, easy to use. ![open][open.svg]
 - [Quick Picture Viewer](https://moduleart.github.io/quick-picture-viewer) - Lightweight, versatile desktop image viewer. [![repo][repo.svg]](https://github.com/ModuleArt/quick-picture-viewer) [![store][store.svg]](https://apps.microsoft.com/store/detail/9PJQQRXSVWR1) ![open][open.svg]
+- [nomacs](https://nomacs.org/) - A free, open source image viewer. [![repo][repo.svg]](https://github.com/nomacs/nomacs) ![open][open.svg]
 - [qView](https://interversehq.com/qview/) - Practical and minimal image viewer. [![repo][repo.svg]](https://github.com/jurplel/qView) ![open][open.svg]
+- [qimgv](https://github.com/easymodo/qimgv) - Image viewer. Fast, easy to use. ![open][open.svg]
 
 ### OCR
 
@@ -913,7 +915,7 @@
 - [Open Library](https://openlibrary.org) -  An open, editable library catalog.
 - [Project Gutenberg](https://www.gutenberg.org/) - A library of over 60,000 free eBooks.
 - [Sci-Hub](https://sci-hub.st/) - A shadow library website that provides free access to millions of research papers and books.
-- [ZLibrary](https://b-ok.cc/) - The world's largest ebook library.
+- [ZLibrary](https://singlelogin.me/) - The world's largest ebook library.
 - [Books](https://github.com/learn-anything/books) - Awesome Book Lists.
 - [Mind Expanding Books](https://books.vishnuks.com/) - Books everyone should read! [![repo][repo.svg]](https://github.com/hackerkid/Mind-Expanding-Books)
 
@@ -1015,6 +1017,7 @@
 - [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - TranslucentTB offers you control over the appearance of your taskbar. [![store][store.svg]](https://apps.microsoft.com/store/detail/9PF4KZ2VN4W9) ![open][open.svg]
 - [Desktop Pet (eSheep)](https://adrianotiger.github.io/desktopPet/) - This project gives you the possibility to add a pet to your desktop. [![repo][repo.svg]](https://github.com/Adrianotiger/desktopPet) [![store][store.svg]](https://apps.microsoft.com/store/detail/esheep-64bit/9MX2V0TQT6RM)
 - [RunCat_for_windows](https://github.com/Kyome22/RunCat_for_windows) - A cute running cat animation on your windows taskbar. ![open][open.svg]
+- [Spirit](https://antonyjr.in/spirit) - A modern and hackable desktop mascot. [![repo][repo.svg]](https://github.com/antony-jr/spirit) ![open][open.svg]
 - [Aerial](https://github.com/OrangeJedi/Aerial) - Apple TV screen saver for Windows. ![open][open.svg]
 - [Bibata Cursor](https://github.com/ful1e5/Bibata_Cursor) - Opensource, compact, and material-designed cursor set. ![open][open.svg]
 - [ElevenClock](https://www.somepythonthings.tk/programs/elevenclock/) - Have a customizable clock on your Windows 11 displays. [![repo][repo.svg]](https://github.com/martinet101/ElevenClock) [![store][store.svg]](https://apps.microsoft.com/store/detail/elevenclock/XP89HZ8SVWTT0M) ![open][open.svg]
@@ -1042,7 +1045,6 @@
 
 - Bitlocker - A Microsoft Windows security and encryption feature.
 - [VeraCrypt](https://www.veracrypt.fr/) - Disk encryption with strong security based on TrueCrypt. [![repo][repo.svg]](https://github.com/veracrypt/VeraCrypt) ![open][open.svg]
-- [Boxcryptor](https://www.boxcryptor.com/) - An easy-to-use encryption software optimized for the cloud.
 - [Cryptomator](https://cryptomator.org/) - Multi-platform transparent client-side encryption of your files in the cloud. [![repo][repo.svg]](https://github.com/cryptomator/cryptomator) ![open][open.svg]
 - [Age](https://age-encryption.org/) - A simple, modern and secure encryption tool. [![repo][repo.svg]](https://github.com/FiloSottile/age) ![open][open.svg]
 - [cppcryptfs](https://github.com/bailey27/cppcryptfs) - An implementation of the gocryptfs encrypted overlay filesystem in C++ for Windows. ![open][open.svg]
@@ -1100,7 +1102,7 @@
 - [Alpha Clicker](https://github.com/robiot/AlphaClicker) - Windows Autoclicker with a modern ui. ![open][open.svg]
 - [Auto Screen Capture](https://autoscreen.sourceforge.io/) - Automated screen capture utility. [![repo][repo.svg]](https://github.com/gavinkendall/autoscreen) ![open][open.svg]
 - [AutoActions](https://github.com/Codectory/AutoActions) - Application-based actions to change Windows settings (display, audio) or run any program or action. ![open][open.svg]
-- [AutoHotkey](https://autohotkey.com/) - A free, open source macro-creation and automation software utility that allows users to automate repetitive tasks. [![repo][repo.svg]](https://github.com/Lexikos/AutoHotkey_L) ![open][open.svg]
+- [AutoHotkey](https://autohotkey.com/) - A free, open source macro-creation and automation software utility that allows users to automate repetitive tasks. [![repo][repo.svg]](https://github.com/AutoHotkey/AutoHotkey) ![open][open.svg]
 - [Beeftext](https://beeftext.org/) - A text snippet tool for Windows. [![repo][repo.svg]](https://github.com/xmichelo/Beeftext) ![open][open.svg]
 - [espanso](https://espanso.org/) - A cross-platform Text Expander written in Rust. [![repo][repo.svg]](https://github.com/federico-terzi/espanso) ![open][open.svg]
 - [Macro Deck](https://macrodeck.org/) - A open source software to use your smartphone, tablet or almost any touch screen device with a internet browser as a simple macro pad or even as an powerful automation solution for streaming, gaming, content creation and more. [![repo][repo.svg]](https://github.com/Macro-Deck-org/Macro-Deck) ![open][open.svg]
@@ -1124,10 +1126,11 @@
 - [Spyglass](https://docs.spyglass.fyi/) - A personal search engine, crawl & index websites/files you want with a simple set of rules. [![repo][repo.svg]](https://github.com/a5huynh/spyglass) ![open][open.svg]
 - [Cerebro](https://cerebroapp.com/) - Open-source productivity booster with a brain. [![repo][repo.svg]](https://github.com/cerebroapp/cerebro) ![open][open.svg]
 - [Flow launcher](https://flowlauncher.com/) - Quick file search & app launcher for Windows with community-made plugins. [![repo][repo.svg]](https://github.com/Flow-Launcher/Flow.Launcher) ![open][open.svg]
+- [LaunchyQt](https://launchy.wangzhl.com/) - LaunchyQt is a fork of the keystroke launcher program Launchy but modernized. [![repo][repo.svg]](https://github.com/samsonwang/LaunchyQt) ![open][open.svg]
 - [Pinpoint](https://github.com/dkgv/pinpoint) - Keystroke launcher and productivity tool. ![open][open.svg]
-- [ueli](https://ueli.app/) - A keystroke launcher for Windows and macOS. [![repo][repo.svg]](https://github.com/oliverschwendener/ueli) ![open][open.svg]
 - [SystemTrayMenu](http://hofknecht.eu/systemtraymenu/) - Browse and open your files easily. [![repo][repo.svg]](https://github.com/Hofknecht/SystemTrayMenu) [![store][store.svg]](https://apps.microsoft.com/store/detail/9N24F8ZBJMT1) ![open][open.svg]
 - [Tabame](https://github.com/Far-Se/tabame) - Tabame is an alternative to Windows Taskbar. ![open][open.svg]
+- [ueli](https://ueli.app/) - A keystroke launcher for Windows and macOS. [![repo][repo.svg]](https://github.com/oliverschwendener/ueli) ![open][open.svg]
 - [dnGrep](https://dngrep.github.io/) - dnGrep allows you to search across files with easy-to-read results. [![repo][repo.svg]](https://github.com/dnGrep/dnGrep) ![open][open.svg]
 - [grepWin](https://tools.stefankueng.com/grepWin.html) - A powerful and fast search tool using regular expressions. [![repo][repo.svg]](https://github.com/stefankueng/grepWin) ![open][open.svg]
 
@@ -1282,7 +1285,8 @@ AngularJS-powered HTML5 Markdown editor. [![repo][repo.svg]](https://github.com/
 - [Winfetch](https://github.com/kiedtl/winfetch) - A command-line system information utility written in PowerShell. ![open][open.svg]
 - [Libre Hardware Monitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - A fork of Open Hardware Monitor. ![open][open.svg]
 - [Open Hardware Monitor](https://openhardwaremonitor.org/) - A free open source software that monitors temperature sensors, fan speeds, voltages, load and clock speeds of a computer. [![repo][repo.svg]](https://github.com/openhardwaremonitor/openhardwaremonitor)
-- [Fan Control](https://github.com/Rem0o/FanControl.Releases) - A focused, highly customizable fan controlling software for Windows.
+- [Fan Control](https://getfancontrol.com/) - A focused, highly customizable fan controlling software for Windows. [![repo][repo.svg]](https://github.com/Rem0o/FanControl.Releases)
+- [FanCtrl](https://github.com/lich426/FanCtrl) - FanCtrl is a software that allows you to automatically control the fan speed on your PC. ![open][open.svg]
 - [NBFC](https://github.com/hirschmann/nbfc) - A cross-platform fan control service for notebooks. ![open][open.svg]
 - [Monitorian](https://github.com/emoacht/Monitorian) - A Windows desktop tool to adjust the brightness of multiple monitors with ease. [![store][store.svg]](https://apps.microsoft.com/store/detail/9NW33J738BL0) ![open][open.svg]
 - [Twinkle Tray](https://twinkletray.com/) - Easily manage the brightness of your monitors in Windows from the system tray. [![repo][repo.svg]](https://github.com/xanderfrangos/twinkle-tray) [![store][store.svg]](https://apps.microsoft.com/store/detail/9PLJWWSV01LK) ![open][open.svg]
@@ -1292,8 +1296,9 @@ AngularJS-powered HTML5 Markdown editor. [![repo][repo.svg]](https://github.com/
 - [Chocolatey GUI](https://github.com/chocolatey/ChocolateyGUI) - A delicious GUI for Chocolatey. ![open][open.svg]
 - [Chocolatey](https://chocolatey.org/) - The package manager for Windows. [![repo][repo.svg]](https://github.com/chocolatey/choco) ![open][open.svg]
 - [Scoop](https://scoop.sh/) - A command-line installer for Windows. [![repo][repo.svg]](https://github.com/lukesampson/scoop)
-- [winget](https://github.com/microsoft/winget-cli) - Microsoft's open-source CLI packager manager for Windows. [![store][store.svg]](https://apps.microsoft.com/store/detail/9NBLGGH4NNS1) ![open][open.svg]
 - [Fluent Store](https://github.com/yoshiask/FluentStore) - A unifying frontend for Windows app stores and package managers. ![open][open.svg]
+- [WingetUI](https://github.com/marticliment/WingetUI) - A graphical user interface for Winget and Scoop. ![open][open.svg]
+- [winget](https://github.com/microsoft/winget-cli) - Microsoft's open-source CLI packager manager for Windows. [![store][store.svg]](https://apps.microsoft.com/store/detail/9NBLGGH4NNS1) ![open][open.svg]
 - [winstall](https://winstall.app/) - A web app for browsing and installing Windows Package Manager apps. [![repo][repo.svg]](https://github.com/MehediH/winstall) ![open][open.svg]
 - [PortableApps.com](https://portableapps.com/) - A website offering many free, commonly used Windows applications that have been specially packaged for portability.
 - [BCUninstaller](https://www.bcuninstaller.com/) - A free program uninstaller. [![repo][repo.svg]](https://github.com/Klocman/Bulk-Crap-Uninstaller) ![open][open.svg]
@@ -1328,7 +1333,7 @@ AngularJS-powered HTML5 Markdown editor. [![repo][repo.svg]](https://github.com/
 - [Nyrna](https://nyrna.merritt.codes/) - Suspend games and applications. [![repo][repo.svg]](https://github.com/Merrit/nyrna) ![open][open.svg]
 - [OpenRGB](https://openrgb.org/) - Open source RGB lighting control that doesn't depend on manufacturer software. [![repo][repo.svg]](https://gitlab.com/CalcProgrammer1/OpenRGB) ![open][open.svg]
 - [Plover](https://www.openstenoproject.org/plover/) - Open source stenotype engine. [![repo][repo.svg]](https://github.com/openstenoproject/plover) ![open][open.svg]
-- [Scanner](https://github.com/simon-knuth/scanner) - An all-in-one scanner app built for the Universal Windows Platform. [![store][store.svg]](https://apps.microsoft.com/store/detail/9N438MZHD3ZF) ![open][open.svg]
+- [Scanner](https://simon-knuth.github.io/scanner/index) - An all-in-one scanner app built for the Universal Windows Platform. [![repo][repo.svg]](https://github.com/simon-knuth/scanner) [![store][store.svg]](https://apps.microsoft.com/store/detail/9N438MZHD3ZF) ![open][open.svg]
 - [Screen Ruler](https://sourceforge.net/projects/screenruler/) - A lightweight and configurable ruler tool for Windows Desktop. [![repo][repo.svg]](https://github.com/Bluegrams/ScreenRuler) ![open][open.svg]
 - [SharpKeys](http://www.randyrants.com/) - A utility that manages a Registry key that allows Windows to remap one key to any other key. [![repo][repo.svg]](https://github.com/randyrants/sharpkeys) ![open][open.svg]
 - [Ten Hands](https://tenhands.app/) - Simplest way to organize and run command-line tasks. [![repo][repo.svg]](https://github.com/saisandeepvaddi/ten-hands) ![open][open.svg]
@@ -1363,6 +1368,7 @@ AngularJS-powered HTML5 Markdown editor. [![repo][repo.svg]](https://github.com/
 
 ### Video Editors
 
+- [Auto-Editor](https://auto-editor.com/) - Auto-Editor is a command line application for automatically editing video and audio by analyzing a variety of methods, most notably audio loudness. [![repo][repo.svg]](https://github.com/WyattBlue/auto-editor) ![open][open.svg]
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - A color grading and non-linear video editing application.
 - [Hitfilm Express](https://fxhome.com/product/hitfilm-express) - Free video editing software with professional-grade VFX tools and everything you need to make awesome content, films or gaming videos.
 - [Kdenlive](https://kdenlive.org/) - Free and open source video editor. [![repo][repo.svg]](https://github.com/KDE/kdenlive) ![open][open.svg]
