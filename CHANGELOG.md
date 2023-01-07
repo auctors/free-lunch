@@ -1,3 +1,9 @@
+## 2023-01-07
+
+- Added [Bespoke Synth](https://www.bespokesynth.com/), [JPEGView](https://github.com/sylikc/jpegview), [Spirit](https://antonyjr.in/spirit), [LaunchyQt](https://launchy.wangzhl.com/), [FanCtrl](https://github.com/lich426/FanCtrl), [WingetUI](https://github.com/marticliment/WingetUI), and [Auto-Editor](https://auto-editor.com/)
+
+- Removed [Boxcryptor](https://www.boxcryptor.com/)
+
 ## 2022-12-17
 
 - Added [Buzz](https://github.com/chidiwilliams/buzz), [Mue](https://demo.muetab.com/), [uBlacklist](https://iorate.github.io/ublacklist/), [Unclutter](https://unclutter.lindylearn.io/), [Web Scrobbler](https://web-scrobbler.com/), [Heroic Games Launcher](https://heroicgameslauncher.com/), [Nostlan](https://nostlan.com/), [Pegasus](http://pegasus-frontend.org/), [Motionity](https://motionity.app/), [Converseen](https://converseen.fasterland.net/), [Text Grab](https://github.com/TheJoeFin/Text-Grab), [Lama Cleaner](https://github.com/Sanster/lama-cleaner), [MagiskOnWSA](https://github.com/PeterNjeim/MagiskOnWSA), [MagLit](https://maglit.me/), [Reduced.to](https://reduced.to/), [Alpha Clicker](https://github.com/robiot/AlphaClicker) and [Tabame](https://github.com/Far-Se/tabame)
