@@ -1,6 +1,12 @@
+## 2023-02-18
+
+- Added [Converter NOW](https://converter-now.web.app/), [LocalSend](https://localsend.org/), [OpenDuelyst](https://staging.duelyst.org/), [FastStone Image Viewer](https://www.faststone.org/FSViewerDetail.htm), [AndreaMosaic](https://www.andreaplanet.com/andreamosaic/), [BeautySearch](https://github.com/krlvm/BeautySearch), [ididit!](https://ididit.today/), [PdfScribe](https://github.com/stchan/PdfScribe), [Html5-QRCode](https://scanapp.org/) and [MediaInfo](https://mediaarea.net/en/MediaInfo)
+
+- Removed [AllTube Download](https://alltubedownload.net), [MagiskOnWSA](https://github.com/PeterNjeim/MagiskOnWSA) and [NSudo](https://github.com/m2team/NSudo)
+
 ## 2023-01-07
 
-- Added [Bespoke Synth](https://www.bespokesynth.com/), [JPEGView](https://github.com/sylikc/jpegview), [Spirit](https://antonyjr.in/spirit), [LaunchyQt](https://launchy.wangzhl.com/), [FanCtrl](https://github.com/lich426/FanCtrl), [WingetUI](https://github.com/marticliment/WingetUI), and [Auto-Editor](https://auto-editor.com/)
+- Added [Bespoke Synth](https://www.bespokesynth.com/), [JPEGView](https://github.com/sylikc/jpegview), [Spirit](https://antonyjr.in/spirit), [LaunchyQt](https://launchy.wangzhl.com/), [FanCtrl](https://github.com/lich426/FanCtrl), [WingetUI](https://github.com/marticliment/WingetUI) and [Auto-Editor](https://auto-editor.com/)
 
 - Removed [Boxcryptor](https://www.boxcryptor.com/)
 
@@ -320,3 +326,4 @@
   - Others
     - Added [Ten Hands](https://github.com/saisandeepvaddi/ten-hands)
     - Added [workspacer](https://github.com/workspacer/workspacer)
+
