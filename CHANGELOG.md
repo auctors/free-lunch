@@ -1,3 +1,7 @@
+## 2023-03-12
+
+- Added [muffon](https://muffon.netlify.app/), [WezTerm](https://wezfurlong.org/wezterm/), [SCrawler](https://github.com/AAndyProgram/SCrawler), [Game Jolt](https://gamejolt.com/), [Awesome Privacy](https://github.com/Lissy93/awesome-privacy), [Denaro](https://github.com/nlogozzo/NickvisionMoney) and [Artemis](https://artemis-rgb.com/)
+
 ## 2023-02-18
 
 - Added [Converter NOW](https://converter-now.web.app/), [LocalSend](https://localsend.org/), [OpenDuelyst](https://staging.duelyst.org/), [FastStone Image Viewer](https://www.faststone.org/FSViewerDetail.htm), [AndreaMosaic](https://www.andreaplanet.com/andreamosaic/), [BeautySearch](https://github.com/krlvm/BeautySearch), [ididit!](https://ididit.today/), [PdfScribe](https://github.com/stchan/PdfScribe), [Html5-QRCode](https://scanapp.org/) and [MediaInfo](https://mediaarea.net/en/MediaInfo)

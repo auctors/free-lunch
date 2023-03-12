@@ -12,11 +12,9 @@
 - ![repository][repo.svg] - Repository
 - ![open][open.svg] - [Open Source](https://opensource.org/licenses/) license compliant
 
-**CHANGELOG 2023-02-18:**
+**CHANGELOG 2023-03-12:**
 
-- Added [Converter NOW](https://converter-now.web.app/), [LocalSend](https://localsend.org/), [OpenDuelyst](https://staging.duelyst.org/), [FastStone Image Viewer](https://www.faststone.org/FSViewerDetail.htm), [AndreaMosaic](https://www.andreaplanet.com/andreamosaic/), [BeautySearch](https://github.com/krlvm/BeautySearch), [ididit!](https://ididit.today/), [PdfScribe](https://github.com/stchan/PdfScribe), [Html5-QRCode](https://scanapp.org/) and [MediaInfo](https://mediaarea.net/en/MediaInfo)
-
-- Removed [AllTube Download](https://alltubedownload.net), [MagiskOnWSA](https://github.com/PeterNjeim/MagiskOnWSA) and [NSudo](https://github.com/m2team/NSudo)
+- Added [muffon](https://muffon.netlify.app/), [WezTerm](https://wezfurlong.org/wezterm/), [SCrawler](https://github.com/AAndyProgram/SCrawler), [Game Jolt](https://gamejolt.com/), [Awesome Privacy](https://github.com/Lissy93/awesome-privacy), [Denaro](https://github.com/nlogozzo/NickvisionMoney) and [Artemis](https://artemis-rgb.com/)
 
 ## Mirrors
 
@@ -183,6 +181,7 @@
       <ul>
         <li><a href="#network-monitors">Network Monitors</a></li>
         <li><a href="#remote-desktop">Remote Desktop</a></li>
+        <li><a href="#screen-sharing">Screen Sharing</a></li>
         <li><a href="#virtualization">Virtualization</a></li>
         <li><a href="#others-7">Others</a></li>
       </ul>
@@ -278,11 +277,19 @@
         <li><a href="#disk-usage-analyzers">Disk Usage Analyzers</a></li>
         <li><a href="#file-recovery">File Recovery</a></li>
         <li><a href="#file-shredders">File Shredders</a></li>
-        <li><a href="#hardware-monitoring">Hardware Monitoring</a></li>
+        <li>
+          <a href="#hardware-monitoring">Hardware Monitoring</a>
+          <ul>
+            <li><a href="#fan-control">Fan Control</a></li>
+            <li><a href="#rgb-lighting-control">RGB Lighting Control</a></li>
+            <li><a href="#others-13">Others</a></li>
+          </ul>
+        </li>
         <li><a href="#package-managers">Package Managers</a></li>
+        <li><a href="#screen-dimmers">Screen Dimmers</a></li>
         <li><a href="#system-administration">System Administration</a></li>
         <li><a href="#window-managers">Window Managers</a></li>
-        <li><a href="#others-13">Others</a></li>
+        <li><a href="#others-14">Others</a></li>
       </ul>
     </details>
   </li>
@@ -297,7 +304,7 @@
         <li><a href="#video-players">Video Players</a></li>
         <li><a href="#video-streaming">Video Streaming</a></li>
         <li><a href="#watch-videos-together">Watch Videos Together</a></li>
-        <li><a href="#others-14">Others</a></li>
+        <li><a href="#others-15">Others</a></li>
       </ul>
     </details>
   </li>
@@ -344,6 +351,7 @@
 
 - [Cider](https://cider.sh/) - An open source and community oriented Apple Music client. [![repo][repo.svg]](https://github.com/ciderapp/Cider) ![open][open.svg]
 - [Lofi](https://www.lofi.rocks/) - A mini Spotify player with WebGL visualizations. [![repo][repo.svg]](https://github.com/dvx/lofi) ![open][open.svg]
+- [muffon](https://muffon.netlify.app/) - Music streaming browser. [![repo][repo.svg]](https://github.com/staniel359/muffon) ![open][open.svg]
 - [nuclear](https://nuclear.js.org/) - Streaming music player that finds free music for you. [![repo][repo.svg]](https://github.com/nukeop/nuclear) ![open][open.svg]
 - [Spotube](https://spotube.netlify.app/) - A lightweight free Spotify crossplatform-client which handles playback manually, streams music using Youtube & no Spotify premium account is needed. [![repo][repo.svg]](https://github.com/KRTirtho/spotube)
 - [YouTube Music Desktop App](https://ytmdesktop.app/) - A Desktop App for YouTube Music. [![repo][repo.svg]](https://github.com/ytmdesktop/ytmdesktop)
@@ -528,6 +536,7 @@
 - [Fluent Terminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies. [![store][store.svg]](https://apps.microsoft.com/store/detail/9P2KRLMFXF9T) ![open][open.svg]
 - [PowerShell](https://learn.microsoft.com/en-us/powershell/) - A task-based command-line shell and scripting language built on .NET. [![repo][repo.svg]](https://github.com/PowerShell/PowerShell) [![store][store.svg]](https://apps.microsoft.com/store/detail/9MZ1SNWT0N5D)
 - [Tabby](https://tabby.sh/) - A highly configurable terminal emulator, SSH and serial client. [![repo][repo.svg]](https://github.com/Eugeny/tabby) ![open][open.svg]
+- [WezTerm](https://wezfurlong.org/wezterm/) - GPU-accelerated cross-platform terminal emulator and multiplexer made with Rust. [![repo][repo.svg]](https://github.com/wez/wezterm) ![open][open.svg]
 - [WindTerm](https://kingtoolbox.github.io/) - A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal. [![repo][repo.svg]](https://github.com/kingToolbox/WindTerm)
 - Windows Terminal - A modern, fast, efficient, powerful, and productive terminal application for users of command-line tools and shells like Command Prompt, PowerShell, and WSL.
 
@@ -576,12 +585,13 @@
 - [Tartube](https://github.com/axcore/tartube) - A GUI front-end for youtube-dl. ![open][open.svg]
 - [Video Downloader](https://github.com/mayeaux/videodownloader) - A video and channel downloader that supports 110 websites.
 - [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - An application that lets you download videos from YouTube. ![open][open.svg]
-- [gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites. ![open][open.svg]
 - [HakuNeko](https://hakuneko.download/) - A cross-platform downloader for manga and anime from various websites. [![repo][repo.svg]](https://github.com/manga-download/hakuneko)
 - [N_m3u8DL-CLI](https://nilaoda.github.io/N_m3u8DL-CLI/) - A command line tool for downloading m3u8. [![repo][repo.svg]](https://github.com/nilaoda/N_m3u8DL-CLI) ![open][open.svg]
+- [SCrawler](https://github.com/AAndyProgram/SCrawler) - Media downloader from any sites, including Twitter, Reddit, Instagram, TikTok, PornHub, XHamster, XVIDEOS etc. ![open][open.svg]
 - [SpotiFlyer](https://github.com/Shabinder/SpotiFlyer) - Kotlin Multiplatform Music Downloader ,supports Spotify, Youtube, Gaana, Jio-Saavn and SoundCloud. ![open][open.svg]
 - [Twitch Leecher](https://github.com/Franiac/TwitchLeecher) - An extremely fast and easy to use Twitch VOD downloader. ![open][open.svg]
 - [Ytmdl](https://ytmdl.deepjyoti30.dev/) - A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, Spotify, LastFM, Deezer, Gaana etc. [![repo][repo.svg]](https://github.com/deepjyoti30/ytmdl) ![open][open.svg]
+- [gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites. ![open][open.svg]
 
 ### Torrent Clients
 
@@ -602,7 +612,7 @@
 ### Reference Management
 
 - [JabRef](https://www.jabref.org/) - An open-source, cross-platform citation and reference management tool. [![repo][repo.svg]](https://github.com/JabRef/jabref) ![open][open.svg]
-- [Qiqqa](http://www.qiqqa.com/) - A free research and reference manager. [![repo][repo.svg]](https://github.com/jimmejardine/qiqqa-open-source) ![open][open.svg]
+- [Qiqqa](https://jimmejardine.github.io/qiqqa-open-source-website/) - A free research and reference manager. [![repo][repo.svg]](https://github.com/jimmejardine/qiqqa-open-source) ![open][open.svg]
 - [ZoteroBib](https://zbib.org/) - ZoteroBib helps you build a bibliography instantly from any computer or device.
 - [Zotero](https://www.zotero.org/) - A free, easy-to-use tool to help you collect, organize, cite, and share your research sources. [![repo][repo.svg]](https://github.com/zotero/zotero) ![open][open.svg]
 
@@ -655,7 +665,7 @@
 - [Double Commander](https://doublecmd.sourceforge.io/) - A free cross platform open source file manager with two panels side by side. [![repo][repo.svg]](https://github.com/doublecmd/doublecmd)
 - [Far Manager](https://farmanager.com/) - A program for managing files and archives in Windows operating systems. [![repo][repo.svg]](https://github.com/FarGroup/FarManager) ![open][open.svg]
 - [Files](https://files.community/) - A modern file manager. [![repo][repo.svg]](https://github.com/files-community/Files) [![store][store.svg]](https://apps.microsoft.com/store/detail/9NGHP3DX8HDX) ![open][open.svg]
-- [Sigma File Manager](https://github.com/aleksey-hoffman/sigma-file-manager) - A free, open-source, quickly evolving, modern file manager app.
+- [Sigma File Manager](https://github.com/aleksey-hoffman/sigma-file-manager) - A free, open-source, quickly evolving, modern file manager app. [![store][store.svg]](https://apps.microsoft.com/store/detail/sigma-file-manager/9N7W62ND0NF9)
 - [Xplorer](https://xplorer.space/) - A customizable, modern and cross-platform File Explorer. [![repo][repo.svg]](https://github.com/kimlimjustin/xplorer) ![open][open.svg]
 
 ### File Renamers
@@ -715,6 +725,7 @@
 ### Game Stores
 
 - [GOG GALAXY](https://www.gog.com/) - Truly gamer friendly, DRM-free online gaming platform.
+- [Game Jolt](https://gamejolt.com/) - Game Jolt is one of the largest communities in existence for video games and the millions of people around the world who love them. [![repo][repo.svg]](https://github.com/gamejolt/gamejolt) ![open][open.svg]
 - [itch.io](https://itch.io/) - An online game marketplace and community. [![repo][repo.svg]](https://github.com/itchio/itch) ![open][open.svg]
 
 ### Games
@@ -908,8 +919,6 @@
 
 - [Ambie](https://ambieapp.com/) - The best white noise app on Windows. [![repo][repo.svg]](https://github.com/jenius-apps/ambie) [![store][store.svg]](https://apps.microsoft.com/store/detail/9P07XNM5CHP0) ![open][open.svg]
 - [UBPM](https://codeberg.org/LazyT/ubpm) - Manage your blood pressure data on Windows/Linux/macOS. ![open][open.svg]
-- [f.lux](https://justgetflux.com/) - f.lux warms up your screen at night to help you relax and wind down before bed. [![store][store.svg]](https://apps.microsoft.com/store/detail/9N9KDPHV91JT)
-- [LightBulb](https://github.com/Tyrrrz/LightBulb) - An application that reduces eyestrain produced by staring at a computer screen when working late hours. ![open][open.svg]
 - [Eyes Guard](https://github.avestura.dev/EyesGuard) - A Windows application for protecting your eyes when you are working with your PC or Laptop. [![repo][repo.svg]](https://github.com/avestura/EyesGuard) [![store][store.svg]](https://apps.microsoft.com/store/detail/9PHW0XFKZD7J) ![open][open.svg]
 - [Pomatez](https://roldanjr.github.io/pomatez) - An open-source Pomodoro timer application aimed for simplicity and productivity. [![repo][repo.svg]](https://github.com/roldanjr/pomatez) ![open][open.svg]
 - [Pomotroid](https://splode.github.io/pomotroid/) - Simple and visually-pleasing Pomodoro timer. [![repo][repo.svg]](https://github.com/Splode/pomotroid) ![open][open.svg]
@@ -934,22 +943,25 @@
 
 - [Chrome Remote Desktop](https://remotedesktop.google.com/) - The easy way to remotely connect with your home or work computer, or share your screen with others.
 - [DWService](https://www.dwservice.net/) - Remotely access your devices from a Web browser.
-- Quick Assist - A new app in Windows 10 that enables you to receive or provide assistance over a remote connection.
 - [Microsoft Remote Desktop](https://apps.microsoft.com/store/detail/9WZDNCRFJ3PS) - Use the Microsoft Remote Desktop app to connect to a remote PC or virtual apps and desktops made available by your admin.
-- [TightVNC](https://www.tightvnc.com/) - A free remote desktop application.
-- [TigerVNC](https://tigervnc.org/) - A free remote desktop software server and client application. [![repo][repo.svg]](https://github.com/TigerVNC/tigervnc) ![open][open.svg]
 - [QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software. ![open][open.svg]
-- [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device. ![open][open.svg]
-- [Deskreen](https://deskreen.com/) - A desktop app that turns any device with a web browser into a secondary screen for your computer over WiFi. [![repo][repo.svg]](https://github.com/pavlobu/deskreen) ![open][open.svg]
 - [RustDesk](https://rustdesk.com/) - Yet another remote desktop software. [![repo][repo.svg]](https://github.com/rustdesk/rustdesk) ![open][open.svg]
-- [Screego](https://app.screego.net/) - Screego allows you to share your screen with good quality and low latency. [![repo][repo.svg]](https://github.com/screego/server) ![open][open.svg]
-- [ScreenTask](https://screentask.me/) - Share your screen across local devices without internet. [![repo][repo.svg]](https://github.com/EslaMx7/ScreenTask)
+- [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device. ![open][open.svg]
+- [TigerVNC](https://tigervnc.org/) - A free remote desktop software server and client application. [![repo][repo.svg]](https://github.com/TigerVNC/tigervnc) ![open][open.svg]
+- [TightVNC](https://www.tightvnc.com/) - A free remote desktop application.
+- Quick Assist - A new app in Windows 10 that enables you to receive or provide assistance over a remote connection.
 - [Tailscale](https://tailscale.com/) - A mesh VPN alternative that makes it easy to connect your devices. [![repo][repo.svg]](https://github.com/tailscale/tailscale) ![open][open.svg]
 - [ZeroTier](https://www.zerotier.com/) - A smart programmable Ethernet switch for planet Earth. [![repo][repo.svg]](https://github.com/zerotier/ZeroTierOne)
 - [mRemoteNG](https://mremoteng.org/) - An open source, multi-protocol, tabbed remote connections manager. [![repo][repo.svg]](https://github.com/mRemoteNG/mRemoteNG) ![open][open.svg]
 - [PRemoteM](https://github.com/VShawn/PRemoteM) - A modern personal remote session manager and launcher. [![store][store.svg]](https://apps.microsoft.com/store/detail/9PNMNF92JNFP)
 - [Veyon](https://veyon.io/) - Cross-platform computer monitoring and classroom management. [![repo][repo.svg]](https://github.com/veyon/veyon) ![open][open.svg]
 - [Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer. ![open][open.svg]
+
+### Screen Sharing
+
+- [Deskreen](https://deskreen.com/) - A desktop app that turns any device with a web browser into a secondary screen for your computer over WiFi. [![repo][repo.svg]](https://github.com/pavlobu/deskreen) ![open][open.svg]
+- [Screego](https://app.screego.net/) - Screego allows you to share your screen with good quality and low latency. [![repo][repo.svg]](https://github.com/screego/server) ![open][open.svg]
+- [ScreenTask](https://screentask.me/) - Share your screen across local devices without internet. [![repo][repo.svg]](https://github.com/EslaMx7/ScreenTask)
 
 ### Virtualization
 
@@ -1009,12 +1021,13 @@
 
 ### Privacy and Security Guides
 
-- [Privacy Guides](https://privacyguides.org/) - Protect your data against global mass surveillance programs. [![repo][repo.svg]](https://github.com/privacyguides/privacyguides.org)
-- [PRISM Break](https://prism-break.org/) - Privacy/security-oriented software recommendations. [![repo][repo.svg]](https://gitlab.com/prism-break/prism-break)
-- [EFF](https://www.eff.org/) - The leading nonprofit defending digital privacy, free speech, and innovation.
-- [Awesome Privacy](https://github.com/pluja/awesome-privacy) - List of free, open source and privacy respecting services and alternatives to privative services.
-- [Personal Security Checklist](https://security-list.js.org/) - A curated checklist of 300+ tips for protecting digital security and privacy. [![repo][repo.svg]](https://github.com/Lissy93/personal-security-checklist)
 - [Anonymous Planet](https://anonymousplanet.org/) - The comprehensive guide for online anonymity and OpSec. [![repo][repo.svg]](https://github.com/Anon-Planet/thgtoa)
+- [Awesome Privacy](https://awesome-privacy.xyz/) - A curated list of privacy & security-focused software and services. [![repo][repo.svg]](https://github.com/Lissy93/awesome-privacy)
+- [Awesome Privacy](https://github.com/pluja/awesome-privacy) - List of free, open source and privacy respecting services and alternatives to privative services.
+- [EFF](https://www.eff.org/) - The leading nonprofit defending digital privacy, free speech, and innovation.
+- [Personal Security Checklist](https://security-list.js.org/) - A curated checklist of 300+ tips for protecting digital security and privacy. [![repo][repo.svg]](https://github.com/Lissy93/personal-security-checklist)
+- [PRISM Break](https://prism-break.org/) - Privacy/security-oriented software recommendations. [![repo][repo.svg]](https://gitlab.com/prism-break/prism-break)
+- [Privacy Guides](https://privacyguides.org/) - Protect your data against global mass surveillance programs. [![repo][repo.svg]](https://github.com/privacyguides/privacyguides.org)
 
 ### Search Engines
 
@@ -1062,6 +1075,7 @@
 ## Personal Finance
 
 - [Budget Badger](https://budgetbadger.io/) - A simple Personal Budgeting cross-platform app built on top of Xamarin.Forms. [![repo][repo.svg]](https://github.com/baywolf-studios/BudgetBadger) [![store][store.svg]](https://apps.microsoft.com/store/detail/budget-badger-expense-tracker/9NPS726FKXTT) ![open][open.svg]
+- [Denaro](https://github.com/nlogozzo/NickvisionMoney) - A personal finance manager. [![store][store.svg]](https://apps.microsoft.com/store/detail/nickvision-denaro/9NJD9Q23NFGH) ![open][open.svg]
 - [GnuCash](http://www.gnucash.org/) - A personal and small-business finance manager. [![repo][repo.svg]](https://github.com/Gnucash/gnucash) ![open][open.svg]
 - [HomeBank](http://homebank.free.fr/en/) - Free personal finance software, money management for everyone. [![repo][repo.svg]](https://launchpad.net/homebank)
 - [KMyMoney](https://kmymoney.org/) - A cross-platform personal finance manager.
@@ -1371,20 +1385,28 @@ AngularJS-powered HTML5 Markdown editor. [![repo][repo.svg]](https://github.com/
 
 ### Hardware Monitoring
 
+#### Fan Control
+
+- [Fan Control](https://getfancontrol.com/) - A focused, highly customizable fan controlling software for Windows. [![repo][repo.svg]](https://github.com/Rem0o/FanControl.Releases)
+- [FanCtrl](https://github.com/lich426/FanCtrl) - FanCtrl is a software that allows you to automatically control the fan speed on your PC. ![open][open.svg]
+- [NBFC](https://github.com/hirschmann/nbfc) - A cross-platform fan control service for notebooks. ![open][open.svg]
+
+#### RGB Lighting Control
+
+- [Artemis](https://artemis-rgb.com/) - Provides advanced unified lighting across many different brands RGB peripherals. [![repo][repo.svg]](https://github.com/Artemis-RGB/Artemis) ![open][open.svg]
+- [OpenRGB](https://openrgb.org/) - Open source RGB lighting control that doesn't depend on manufacturer software. [![repo][repo.svg]](https://gitlab.com/CalcProgrammer1/OpenRGB) ![open][open.svg]
+
+#### Others
+
 - [CrystalDiskInfo](https://crystalmark.info/) - A HDD/SSD utility software which supports a part of USB, Intel RAID and NVMe. [![store][store.svg]](https://apps.microsoft.com/store/detail/crystaldiskinfo/XP8K4RGX25G3GM)
 - [CrystalDiskMark](https://crystalmark.info/) - A simple storage benchmark.
 - [GSmartControl](https://gsmartcontrol.shaduri.dev/) - Hard disk drive and SSD health inspection tool. [![repo][repo.svg]](https://github.com/ashaduri/gsmartcontrol) ![open][open.svg]
 - [HWiNFO](https://www.hwinfo.com/) - Comprehensive Hardware Analysis, Monitoring and Reporting for Windows and DOS.
+- [Libre Hardware Monitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - A fork of Open Hardware Monitor. ![open][open.svg]
+- [Open Hardware Monitor](https://openhardwaremonitor.org/) - A free open source software that monitors temperature sensors, fan speeds, voltages, load and clock speeds of a computer. [![repo][repo.svg]](https://github.com/openhardwaremonitor/openhardwaremonitor)
 - [Radiograph](https://dev.lepo.co/) - Universal tool for managing your computer. [![store][store.svg]](https://apps.microsoft.com/store/detail/9NH1P86H06CG)
 - [Sidebar Diagnostics](https://github.com/ArcadeRenegade/SidebarDiagnostics) - A simple sidebar for Windows desktop that displays hardware diagnostic information. ![open][open.svg]
 - [Winfetch](https://github.com/kiedtl/winfetch) - A command-line system information utility written in PowerShell. ![open][open.svg]
-- [Libre Hardware Monitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor) - A fork of Open Hardware Monitor. ![open][open.svg]
-- [Open Hardware Monitor](https://openhardwaremonitor.org/) - A free open source software that monitors temperature sensors, fan speeds, voltages, load and clock speeds of a computer. [![repo][repo.svg]](https://github.com/openhardwaremonitor/openhardwaremonitor)
-- [Fan Control](https://getfancontrol.com/) - A focused, highly customizable fan controlling software for Windows. [![repo][repo.svg]](https://github.com/Rem0o/FanControl.Releases)
-- [FanCtrl](https://github.com/lich426/FanCtrl) - FanCtrl is a software that allows you to automatically control the fan speed on your PC. ![open][open.svg]
-- [NBFC](https://github.com/hirschmann/nbfc) - A cross-platform fan control service for notebooks. ![open][open.svg]
-- [Monitorian](https://github.com/emoacht/Monitorian) - A Windows desktop tool to adjust the brightness of multiple monitors with ease. [![store][store.svg]](https://apps.microsoft.com/store/detail/9NW33J738BL0) ![open][open.svg]
-- [Twinkle Tray](https://twinkletray.com/) - Easily manage the brightness of your monitors in Windows from the system tray. [![repo][repo.svg]](https://github.com/xanderfrangos/twinkle-tray) [![store][store.svg]](https://apps.microsoft.com/store/detail/9PLJWWSV01LK) ![open][open.svg]
 
 ### Package Managers
 
@@ -1398,6 +1420,13 @@ AngularJS-powered HTML5 Markdown editor. [![repo][repo.svg]](https://github.com/
 - [PortableApps.com](https://portableapps.com/) - A website offering many free, commonly used Windows applications that have been specially packaged for portability.
 - [BCUninstaller](https://www.bcuninstaller.com/) - A free program uninstaller. [![repo][repo.svg]](https://github.com/Klocman/Bulk-Crap-Uninstaller) ![open][open.svg]
 - [GeekUninstaller](https://geekuninstaller.com/) - A portable software uninstaller.
+
+### Screen Dimmers
+
+- [f.lux](https://justgetflux.com/) - f.lux warms up your screen at night to help you relax and wind down before bed. [![store][store.svg]](https://apps.microsoft.com/store/detail/9N9KDPHV91JT)
+- [LightBulb](https://github.com/Tyrrrz/LightBulb) - An application that reduces eyestrain produced by staring at a computer screen when working late hours. ![open][open.svg]
+- [Monitorian](https://github.com/emoacht/Monitorian) - A Windows desktop tool to adjust the brightness of multiple monitors with ease. [![store][store.svg]](https://apps.microsoft.com/store/detail/9NW33J738BL0) ![open][open.svg]
+- [Twinkle Tray](https://twinkletray.com/) - Easily manage the brightness of your monitors in Windows from the system tray. [![repo][repo.svg]](https://github.com/xanderfrangos/twinkle-tray) [![store][store.svg]](https://apps.microsoft.com/store/detail/9PLJWWSV01LK) ![open][open.svg]
 
 ### System Administration
 
@@ -1426,7 +1455,6 @@ AngularJS-powered HTML5 Markdown editor. [![repo][repo.svg]](https://github.com/
 - [Keyviz](https://mularahul.github.io/keyviz) - A free and open-source tool to visualize your keystrokes keyboard in real-time. [![repo][repo.svg]](https://github.com/mulaRahul/keyviz) ![open][open.svg]
 - [NVDA](https://www.nvaccess.org/) - The free and open source Screen Reader for Microsoft Windows. [![repo][repo.svg]](https://github.com/nvaccess/nvda)
 - [Nyrna](https://nyrna.merritt.codes/) - Suspend games and applications. [![repo][repo.svg]](https://github.com/Merrit/nyrna) ![open][open.svg]
-- [OpenRGB](https://openrgb.org/) - Open source RGB lighting control that doesn't depend on manufacturer software. [![repo][repo.svg]](https://gitlab.com/CalcProgrammer1/OpenRGB) ![open][open.svg]
 - [Plover](https://www.openstenoproject.org/plover/) - Open source stenotype engine. [![repo][repo.svg]](https://github.com/openstenoproject/plover) ![open][open.svg]
 - [Scanner](https://simon-knuth.github.io/scanner/index) - An all-in-one scanner app built for the Universal Windows Platform. [![repo][repo.svg]](https://github.com/simon-knuth/scanner) [![store][store.svg]](https://apps.microsoft.com/store/detail/9N438MZHD3ZF) ![open][open.svg]
 - [Screen Ruler](https://sourceforge.net/projects/screenruler/) - A lightweight and configurable ruler tool for Windows Desktop. [![repo][repo.svg]](https://github.com/Bluegrams/ScreenRuler) ![open][open.svg]
@@ -1553,4 +1581,3 @@ AngularJS-powered HTML5 Markdown editor. [![repo][repo.svg]](https://github.com/
 [open.svg]: icons/open.svg
 [repo.svg]: icons/repo.svg
 [store.svg]: icons/store.svg
-
