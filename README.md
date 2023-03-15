@@ -658,6 +658,7 @@
 - [Convertio](https://convertio.co) - Easy tool to convert files online.
 - [Dangerzone](https://dangerzone.rocks/) - Take potentially dangerous PDFs, office documents, or images and convert them to a safe PDF. [![repo][repo.svg]](https://github.com/firstlookmedia/dangerzone) ![open][open.svg]
 - [File Converter](https://file-converter.org/) - A very simple tool which allows you to convert and compress one or several file(s) using the context menu of windows explorer. [![repo][repo.svg]](https://github.com/Tichau/FileConverter) ![open][open.svg]
+- [freetools.site](https://freetools.site/) - Free online tools, convert or edit documents, images, audio and video.
 - [Pandoc](https://pandoc.org/) - Universal markup converter. [![repo][repo.svg]](https://github.com/jgm/pandoc)
 
 ### File Managers
