@@ -1117,7 +1117,7 @@
 
 - [BeautySearch](https://github.com/krlvm/BeautySearch) - Windows 10+ Search Window appearance tweaker. ![open][open.svg]
 - [Bibata Cursor](https://github.com/ful1e5/Bibata_Cursor) - Opensource, compact, and material-designed cursor set. ![open][open.svg]
-- [ElevenClock](https://www.somepythonthings.tk/programs/elevenclock/) - Have a customizable clock on your Windows 11 displays. [![repo][repo.svg]](https://github.com/martinet101/ElevenClock) [![store][store.svg]](https://apps.microsoft.com/store/detail/elevenclock/XP89HZ8SVWTT0M) ![open][open.svg]
+- [ElevenClock](https://www.marticliment.com/elevenclock/) - Have a customizable clock on your Windows 11 displays. [![repo][repo.svg]](https://github.com/martinet101/ElevenClock) [![store][store.svg]](https://apps.microsoft.com/store/detail/elevenclock/XP89HZ8SVWTT0M) ![open][open.svg]
 - [ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows. ![open][open.svg]
 - [Mica for Everyone](https://github.com/MicaForEveryone/MicaForEveryone) - A tool to enable backdrop effect on titlebar of win32 apps on Windows 11. ![open][open.svg]
 - [ModernFlyouts](https://modernflyouts-community.github.io/) - A modern Fluent Design replacement for the old Metro themed flyouts present in Windows. [![repo][repo.svg]](https://github.com/ModernFlyouts-Community/ModernFlyouts) [![store][store.svg]](https://apps.microsoft.com/store/detail/9MT60QV066RP) ![open][open.svg]
