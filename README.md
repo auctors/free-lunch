@@ -1048,6 +1048,7 @@
 - [Framadate](https://framadate.org/) - Schedule a meeting or create an opinion poll.
 - [Framaforms](https://framaforms.org) - Design your online surveys easily while respecting your audience.
 - [LimeSurvey](https://www.limesurvey.org/) - The most popular FOSS online survey tool on the web. [![repo][repo.svg]](https://github.com/LimeSurvey/LimeSurvey) ![open][open.svg]
+- [Tapform](https://tapform.com) - Free and unlimited forms for anything.
 
 ### URL Shorteners
 
