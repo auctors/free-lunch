@@ -665,6 +665,7 @@
 - [Double Commander](https://doublecmd.sourceforge.io/) - A free cross platform open source file manager with two panels side by side. [![repo][repo.svg]](https://github.com/doublecmd/doublecmd)
 - [Far Manager](https://farmanager.com/) - A program for managing files and archives in Windows operating systems. [![repo][repo.svg]](https://github.com/FarGroup/FarManager) ![open][open.svg]
 - [Files](https://files.community/) - A modern file manager. [![repo][repo.svg]](https://github.com/files-community/Files) [![store][store.svg]](https://apps.microsoft.com/store/detail/9NGHP3DX8HDX) ![open][open.svg]
+- [FreeCommander](https://freecommander.com/) - An easy-to-use alternative to the standard windows file manager.
 - [Sigma File Manager](https://github.com/aleksey-hoffman/sigma-file-manager) - A free, open-source, quickly evolving, modern file manager app. [![store][store.svg]](https://apps.microsoft.com/store/detail/sigma-file-manager/9N7W62ND0NF9)
 - [Xplorer](https://xplorer.space/) - A customizable, modern and cross-platform File Explorer. [![repo][repo.svg]](https://github.com/kimlimjustin/xplorer) ![open][open.svg]
 
@@ -1530,7 +1531,7 @@ AngularJS-powered HTML5 Markdown editor. [![repo][repo.svg]](https://github.com/
 - [Piped](https://piped.video/) - An alternative privacy-friendly YouTube frontend which is efficient by design. [![repo][repo.svg]](https://github.com/TeamPiped/Piped) ![open][open.svg]
 - [Streamlink Twitch GUI](https://streamlink.github.io/streamlink-twitch-gui/) - A multi platform Twitch.tv browser for Streamlink. ![open][open.svg]
 - [MotionMonkey](https://omega.gg/MotionMonkey) - A semantic video player designed to stream Internet videos from a single query. [![store][store.svg]](https://apps.microsoft.com/store/detail/9N7BZ2P6ZCZT)
-- [Popcorn Time](https://popcorntime.app/) - A free BitTorrent client that includes an integrated media player. [![repo][repo.svg]](https://github.com/popcorn-official/popcorn-desktop) 
+- [Popcorn Time](https://popcorntime.app/) - A free BitTorrent client that includes an integrated media player. [![repo][repo.svg]](https://github.com/popcorn-official/popcorn-desktop)
 
 ### Watch Videos Together
 
