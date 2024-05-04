@@ -1,3 +1,11 @@
+## 2024-05-04
+
+- Added [AFFiNE](https://affine.pro/), [FreeCommander](https://freecommander.com/), [SimpleX](https://simplex.chat/), [DISMTools](https://github.com/CodingWonders/DISMTools), [Proton Drive](https://proton.me/drive), [Ente Auth](https://auth.ente.io/), [ONLYOFFICE](https://www.onlyoffice.com/), [Gopeed](https://gopeed.com/), [Typst](https://typst.app/), [Mullvad Browser](https://mullvad.net/en/browser), [Rnote](https://rnote.flxzt.net/), [Pympress](https://cimbali.github.io/pympress/), [Sniffnet](https://sniffnet.net/), [Winpilot](https://builtbybel.com/blog/bloatynosy-is-now-winpilot), [Sidebery](https://github.com/mbnuqw/sidebery), [Xpano](https://krupkat.github.io/xpano/), [Moosync](https://moosync.app/), [MindForger](https://www.mindforger.com/), [Musicpod](https://github.com/ubuntu-flutter-community/musicpod), [Alexandria](https://github.com/btpf/Alexandria), [Podman](https://podman.io/), [Monkeytype](https://monkeytype.com/), [FxSound](https://www.fxsound.com/), [Reor](https://reorproject.org/), [Lan Mouse](https://github.com/feschber/lan-mouse), [mobslide](https://thewh1teagle.github.io/mobslide.web), [YouTube Music](https://th-ch.github.io/youtube-music/), [Screenbox](https://github.com/huynhsontung/Screenbox), [PikaTorrent](https://www.pikatorrent.com/), [Gyroflow](https://gyroflow.xyz/), [Anytype](https://anytype.io/), [Lively Weather](https://rocksdanister.com/weather), [FluentWeather](https://github.com/Gabboxl/FluentWeather), [NAPS2](https://www.naps2.com/), [Firefox Relay](https://relay.firefox.com/), [Oh My Posh](https://ohmyposh.dev/) and [Audio Share](https://github.com/mkckr0/audio-share)
+
+- Replaced [Universal Android Debloater GUI](https://github.com/0x192/universal-android-debloater) by [Universal Android Debloater Next Generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation)
+
+- Removed [ThisIsWin11](https://github.com/builtbybel/ThisIsWin11), [Radiograph](https://dev.lepo.co/), [Leaflet](https://potatoproject.co/), [FileSend](https://filesend.standardnotes.org/), [Design Editor](https://editor.layerhub.dev/), [Abricotine](http://abricotine.brrd.fr/), [CryptoTracker](https://ismaelestalayo.com/projects/CryptoTracker/), and [LANDrop](https://github.com/LANDrop/LANDrop)
+
 ## 2023-03-12
 
 - Added [muffon](https://muffon.netlify.app/), [WezTerm](https://wezfurlong.org/wezterm/), [SCrawler](https://github.com/AAndyProgram/SCrawler), [Game Jolt](https://gamejolt.com/), [Awesome Privacy](https://github.com/Lissy93/awesome-privacy), [Denaro](https://github.com/nlogozzo/NickvisionMoney) and [Artemis](https://artemis-rgb.com/)
@@ -330,4 +338,3 @@
   - Others
     - Added [Ten Hands](https://github.com/saisandeepvaddi/ten-hands)
     - Added [workspacer](https://github.com/workspacer/workspacer)
-
