@@ -1212,7 +1212,8 @@
 
 - ❤️ [O&O ShutUp10++](https://www.oo-software.com/en/shutup10) - Free antispy tool for Windows 10 and 11.
 - [Optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer. ![open][open.svg]
-- [Privatezilla](https://www.builtbybel.com/ms-apps/privatezilla) - Performs a privacy & security check of Windows 10. [![repo][repo.svg]](https://github.com/builtbybel/privatezilla) ![open][open.svg]
+- [privacy.sexy](https://privacy.sexy/) - Tool to enforce privacy & security best-practices on Windows, macOS and Linux. [![repo][repo.svg]](https://github.com/undergroundwires/privacy.sexy) ![open][open.svg]
+- [Privatezilla](https://www.builtbybel.com/apps/privatezilla) - Performs a privacy & security check of Windows 10. [![repo][repo.svg]](https://github.com/builtbybel/privatezilla) ![open][open.svg]
 - [Winpilot](https://builtbybel.com/blog/bloatynosy-is-now-winpilot) - Your everyday Windows companion. [![repo][repo.svg]](https://github.com/builtbybel/Winpilot) ![open][open.svg]
 
 ### VPN
