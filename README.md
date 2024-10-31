@@ -560,6 +560,7 @@
 ### Text Editors
 
 - [Brackets](https://brackets.io/) - Brackets is a modern text editor that makes it easy to design in the browser. [![repo][repo.svg]](https://github.com/brackets-cont/brackets)
+- [CodeLobster](https://codelobster.com/) - A handy code editor with special support for all popular frameworks
 - [GNU Emacs](https://www.gnu.org/software/emacs/) - An extensible, customizable, free/libre text editor — and more. [![repo][repo.svg]](https://github.com/emacs-mirror/emacs) ![open][open.svg]
 - ❤️ [Kate](https://kate-editor.org/) - A multi-document text editor. [![store][store.svg]](https://apps.microsoft.com/store/detail/9NWMW7BB59HW)
 - [Lapce](http://lapce.dev/) - Lightning-fast and Powerful Code Editor written in Rust. [![repo][repo.svg]](https://github.com/lapce/lapce) ![open][open.svg]
