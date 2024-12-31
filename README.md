@@ -665,7 +665,7 @@
 
 ### Translators
 
-- [Crow Translate](https://apps.kde.org/crowtranslate/) - A simple and lightweight translator. [![repo](https://invent.kde.org/office/crow-translate) ![open][open.svg]
+- [Crow Translate](https://apps.kde.org/crowtranslate/) - A simple and lightweight translator. [![repo][repo.svg]](https://invent.kde.org/office/crow-translate) ![open][open.svg]
 - [DeepL Translator](https://www.deepl.com/translator) - A neural machine translation service.
 - [GoldenDict-ng](https://xiaoyifang.github.io/goldendict-ng/) - The Next Generation GoldenDict. [![repo][repo.svg]](https://github.com/xiaoyifang/goldendict-ng) - ![open][open.svg]
 - [GoldenDict](http://goldendict.org/) - A feature-rich dictionary lookup program. [![repo][repo.svg]](https://github.com/goldendict/goldendict) ![open][open.svg]
