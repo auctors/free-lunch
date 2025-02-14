@@ -405,6 +405,7 @@
 
 ### Others
 
+- [EarQuiz Frequencies](https://earquiz.org/EQ_Frequencies/) - Software for technical ear training on equalization.  [![repo][repo.svg]](https://github.com/Gdalik/EarQuiz_Frequencies) ![open][open.svg]
 - [AirConnect](https://github.com/philippe44/AirConnect) - Use AirPlay to stream to UPnP/Sonos & Chromecast devices.
 - [AirPodsDesktop](https://github.com/SpriteOvO/AirPodsDesktop) - AirPods desktop user experience enhancement program. ![open][open.svg]
 - [Audio Band](https://github.com/AudioBand/AudioBand) - Display and control songs from the Windows taskbar. ![open][open.svg]
