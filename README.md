@@ -744,6 +744,8 @@
 - ❤️ [ShareDrop](https://www.sharedrop.io/) - Easy P2P file transfer powered by WebRTC. [![repo][repo.svg]](https://github.com/szimek/sharedrop) ![open][open.svg]
 - ❤️ [Snapdrop](https://snapdrop.net) - A Progressive Web App for local file sharing. [![repo][repo.svg]](https://github.com/RobinLinus/snapdrop) ![open][open.svg]
 - [libcimbar](https://cimbar.org/) - Optimized implementation for color-icon-matrix barcodes. [![repo][repo.svg]](https://github.com/sz3/libcimbar) ![open][open.svg]
+- [send.hrzn](https://send.hrzn.cool/) - Simple, private, E2E file sharing.
+- [0x0](https://0x0.st/) - Temporary file hoster, made for terminals. [![repo][repo.svg]](https://git.0x0.st/mia/0x0) ![open][open.svg]
 
 ### LAN File Sharing
 
