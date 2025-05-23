@@ -16,11 +16,9 @@
 
 **CHANGELOG 2024-12-31:**
 
-- Added [KoboldCpp](https://github.com/LostRuins/koboldcpp), [GPT4All](https://nomic.ai/gpt4all), [Jan](https://jan.ai/), [Stability Matrix](https://lykos.ai/), [Fooocus](https://github.com/lllyasviel/Fooocus), [ntfy](https://ntfy.sh/), [Input Leap](https://github.com/input-leap/input-leap), [Deskflow](https://deskflow.org/), [TagStudio](https://docs.tagstud.io/), [AB Download Manager](https://abdownloadmanager.com/), [cobalt](https://cobalt.tools/), [Wealthfolio](https://wealthfolio.app/), [Portfolio Performance](http://www.portfolio-performance.info/), [Seelen UI](https://github.com/eythaann/Seelen-UI), [Proton Calendar](https://proton.me/calendar), [Tuta Calendar](https://tuta.com/calendar), [Seki](https://github.com/shrimqy/Seki), [PDF4QT](https://jakubmelka.github.io/), [Signature PDF](https://pdf.24eme.fr/), [Stirling-PDF](https://stirlingpdf.com/), [Fastfetch](https://github.com/fastfetch-cli/fastfetch), [Kando](https://kando.menu/), [Pulsar](https://pulsar-edit.dev/), [Heynote](https://heynote.com/), [Saber](https://saber.adil.hanney.org/), [Lotti](https://github.com/matthiasn/lotti), [barcodrod.io](https://barcodrod.io/), [GoldenDict](http://goldendict.org/), [GoldenDict-ng](https://xiaoyifang.github.io/goldendict-ng/), [GitButler](https://gitbutler.com/), [Gitnuro](https://gitnuro.com/), [GlazeWM](https://github.com/glzr-io/glazewm), [komorebi](https://lgug2z.github.io/komorebi/), [FCast](https://gitlab.futo.org/videostreaming/fcast), [AdGuard Temp Mail](https://adguard.com/en/adguard-temp-mail/overview.html), [Wino Mail](https://www.winomail.app/), [Ente Photos](https://ente.io/), [uBO Lite](https://github.com/uBlockOrigin/uBOL-home), [Siril](https://siril.org/), [Anna’s Archive](https://annas-archive.org/), [Kanata](https://github.com/jtroo/kanata), [LabPlot](https://labplot.kde.org/), [Open TV](https://github.com/Fredolx/open-tv), [XPipe](https://xpipe.io/), [Fort Firewall](https://github.com/tnodir/fort), [Topgrade](https://github.com/topgrade-rs/topgrade), [Rescuezilla](https://rescuezilla.com/) and [GParted](https://gparted.org/)
+- Added [ChaiNNer](https://chainner.app/), [Clara](https://claraverse.netlify.app/), [Vibe](https://thewh1teagle.github.io/vibe/), [ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook), [Photon](https://photondev.netlify.app/), [Quick Share](https://www.android.com/better-together/quick-share-app/), [Mozhi](https://codeberg.org/aryak/mozhi), [MultiOS-USB](https://github.com/Mexit/MultiOS-USB), [NetBird](https://netbird.io/), [Grayjay](https://grayjay.app/desktop/), [Materialious](https://materialio.us/), [LLPlayer](https://llplayer.com/), [Beaver Notes](https://www.beavernotes.com/), [VNote](https://app.vnote.fun/), [RyTuneX](https://rayenghanmi.github.io/rytunex), [Readest](https://readest.com/), [Alacritty](https://alacritty.org/), [Awesome Win11](https://windows12.glitch.me/), [Harden Windows Security](https://hotcakex.github.io/), [Mate Engine](https://github.com/shinyflvre/Mate-Engine), [InputShare](https://inputshare.github.io/), [quiver](https://q.uiver.app/), [FeedFlow](https://www.feedflow.dev/), [Ciyue](https://mumulhl.eu.org/Ciyue/), [LRCGET](https://github.com/tranxuanthang/lrcget), [Clipboard](https://getclipboard.app/), [Rememory](https://github.com/hpavlo/Rememory), [PasteBar](https://www.pastebar.app/), [Harper](https://writewithharper.com/), [PairDrop](https://pairdrop.net/), [FreeShow](https://freeshow.app/), [Flexify](https://flexify.presley.nz/), [delightful fediverse apps](https://codeberg.org/fediverse/delightful-fediverse-apps), [shadPS4](https://shadps4.net/), [Dolphin](https://dolphin-emu.org/), [Proton Pass](https://proton.me/pass), [Brisk](https://github.com/BrisklyDev/brisk), [Varia](https://giantpinkrobots.github.io/varia/), [Hurry Curry!](https://hurrycurry.metamuffin.org/), [FastStream](https://faststream.online/), [Bananas Screen Sharing](https://getbananas.net/), [FileKey](https://filekey.app/), [IT Tools](https://it-tools.tech/), [Vecto3d](https://vecto3d.xyz/), [MAZANOKE](https://mazanoke.com/), [Bonjourr](https://bonjourr.fr/), [Nushell](https://www.nushell.sh/), [Helix](https://helix-editor.com/) and [GParted](https://gparted.org/)
 
-- Replaced [Trilium Notes](https://github.com/zadam/trilium) by [TriliumNext Notes](https://github.com/TriliumNext/Notes)
-
-- Removed [RoundedTB](https://github.com/torchgm/RoundedTB), [Raven Reader](https://github.com/hello-efficiency-inc/raven-reader), [Open Hardware Monitor](https://openhardwaremonitor.org/), [Bypass Paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome), [av-converter](https://av-converter.com/), [Awesome Windows](https://github.com/Awesome-Windows/Awesome), [Slant](https://www.slant.co/) and [Hitfilm Express](https://fxhome.com/product/hitfilm-express)
+- Removed [AudiobookSuite](https://gitlab.com/HammelGammel/AudiobookSuite), [ShareDrop](https://www.sharedrop.io/), [Snapdrop](https://snapdrop.net), [CPOD](https://github.com/z-------------/CPod), [Microsoft Remote Desktop](https://apps.microsoft.com/store/detail/9WZDNCRFJ3PS), [Reduced.to](https://github.com/origranot/reduced.to), [Mini Diary](https://github.com/samuelmeuli/mini-diary), [Captura](https://github.com/MathewSachin/Captura) and [Athens](https://github.com/athensresearch/athens)
 
 ## Mirrors
 
@@ -56,6 +54,16 @@
       <ul>
         <li><a href="#cloud-storage">Cloud Storage</a></li>
         <li><a href="#others-1">Others</a></li>
+      </ul>
+    </details>
+  </li>
+  <li>
+    <details>
+      <summary><a href="#books-and-readers">Books and Readers</a></summary>
+      <ul>
+        <li><a href="#books">Books</a></li>
+        <li><a href="#ebook-readers">Ebook Readers</a></li>
+        <li><a href="#rss-readers">RSS Readers</a></li>
       </ul>
     </details>
   </li>
@@ -152,6 +160,7 @@
     <details>
       <summary><a href="#games-and-tools">Games and Tools</a></summary>
       <ul>
+        <li><a href="#game-emulators">Game Emulators</a></li>
         <li><a href="#game-launchers">Game Launchers</a></li>
         <li><a href="#game-stores">Game Stores</a></li>
         <li><a href="#games">Games</a></li>
@@ -193,17 +202,9 @@
         <li><a href="#network-monitors">Network Monitors</a></li>
         <li><a href="#remote-desktop">Remote Desktop</a></li>
         <li><a href="#screen-sharing">Screen Sharing</a></li>
+        <li><a href="#virtual-lan">Virtual LAN</a></li>
         <li><a href="#virtualization">Virtualization</a></li>
         <li><a href="#others-7">Others</a></li>
-      </ul>
-    </details>
-  </li>
-  <li>
-    <details>
-      <summary><a href="#news-and-books">News and Books</a></summary>
-      <ul>
-        <li><a href="#books">Books</a></li>
-        <li><a href="#news">News</a></li>
       </ul>
     </details>
   </li>
@@ -330,6 +331,8 @@
 
 ## Artificial Intelligence
 
+- [ChaiNNer](https://chainner.app/) - A node-based image processing GUI aimed at making chaining image processing tasks easy and customizable. [![repo][repo.svg]](https://github.com/chaiNNer-org/chaiNNer) ![open][open.svg]
+- [Clara](https://claraverse.netlify.app/) - Your Fully Local AI Superstack — Not Just Another Chat UI. [![repo][repo.svg]](https://github.com/badboysm890/ClaraVerse)
 - [Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating. ![open][open.svg]
 - [GPT4All](https://nomic.ai/gpt4all) - GPT4All runs large language models (LLMs) privately on everyday desktops & laptops. [![repo][repo.svg]](https://github.com/nomic-ai/gpt4all) ![open][open.svg]
 - [Jan](https://jan.ai/) - An open source alternative to ChatGPT that runs 100% offline on your computer. [![repo][repo.svg]](https://github.com/janhq/jan) ![open][open.svg]
@@ -358,7 +361,6 @@
 - [Musicpod](https://github.com/ubuntu-flutter-community/musicpod) - Music, radio, television and podcast player for Ubuntu, Windows, MacOs and Android. ![open][open.svg]
 - [Strawberry Music Player](https://www.strawberrymusicplayer.org/) - A music player and music collection organizer. [![repo][repo.svg]](https://github.com/strawberrymusicplayer/strawberry) ![open][open.svg]
 - [Tauon Music Box](https://tauonmusicbox.rocks/) - The desktop music player from the future! [![repo][repo.svg]](https://github.com/Taiko2k/TauonMusicBox) ![open][open.svg]
-- [CPOD](https://github.com/z-------------/CPod) - A simple, beautiful podcast app. ![open][open.svg]
 
 ### Music Production
 
@@ -410,6 +412,8 @@
 - [Audio Band](https://github.com/AudioBand/AudioBand) - Display and control songs from the Windows taskbar. ![open][open.svg]
 - [AudioPlaybackConnector](https://github.com/ysc3839/AudioPlaybackConnector) - Bluetooth audio playback (A2DP Sink) connector for Windows 10 2004+. ![open][open.svg]
 - [Buzz](https://github.com/chidiwilliams/buzz) - Transcribe and translate audio offline on your personal computer. ![open][open.svg]
+- [Vibe](https://thewh1teagle.github.io/vibe/) - Transcribe audio / video offline using OpenAI Whisper. [![repo][repo.svg]](https://github.com/thewh1teagle/vibe) ![open][open.svg]
+- [ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Convert ebooks to audiobooks with chapters and metadata using dynamic AI models and voice cloning. Supports 1,107+ languages!
 - [Carla](https://kx.studio/carla) - A fully-featured audio plugin host, with support for many audio drivers and plugin formats. [![repo][repo.svg]](https://github.com/falkTX/Carla) ![open][open.svg]
 - [Figaro](https://github.com/symphonly/figaro) - Real-time open-source voice modification program & sound board. ![open][open.svg]
 - [Friture](https://friture.org/) - An application to visualize and analyze live audio data in real-time. [![store][store.svg]](https://apps.microsoft.com/store/detail/9PH4BL3F5Q2H) ![open][open.svg]
@@ -428,6 +432,7 @@
 - [Audio Share](https://github.com/mkckr0/audio-share) - Audio Share can share Windows/Linux computer's audio to Android phone over network, so your phone becomes the speaker of computer. ![open][open.svg]
 - [swyh-rs](https://github.com/dheijl/swyh-rs) - Stream What You Hear written in rust, inspired by SWYH. ![open][open.svg]
 - [VB-CABLE](https://vb-audio.com/Cable/) - VB-CABLE is a virtual audio device working as virtual audio cable.
+- [LRCGET](https://github.com/tranxuanthang/lrcget) - Utility for mass-downloading LRC synced lyrics for your offline music library. ![open][open.svg]
 
 ## Backup and Sync
 
@@ -445,15 +450,51 @@
 
 - [Cyberduck](https://cyberduck.io/) - A libre FTP, SFTP, WebDAV, S3, Backblaze B2, Azure & OpenStack Swift browser. [![repo][repo.svg]](https://github.com/iterate-ch/cyberduck) ![open][open.svg]
 - [Duplicacy](https://duplicacy.com/) - A new generation cloud backup tool. [![repo][repo.svg]](https://github.com/gilbertchen/duplicacy)
-- [Duplicati](https://github.com/duplicati/duplicati) -  Store securely encrypted backups in the cloud! ![open][open.svg]
+- [Duplicati](https://github.com/duplicati/duplicati) - Store securely encrypted backups in the cloud! ![open][open.svg]
 - [FreeFileSync](https://freefilesync.org/) - Folder comparison and synchronization software that creates and manages backup copies of all your important files.
 - [Kopia](https://kopia.io/) - A simple, cross-platform tool for managing encrypted backups in the cloud. [![repo][repo.svg]](https://github.com/kopia/kopia) ![open][open.svg]
 - ❤️ [Rclone](https://rclone.org/) - A command-line program to sync files and directories to and from different cloud storage providers. [![repo][repo.svg]](https://github.com/rclone/rclone) ![open][open.svg]
 - [restic](https://restic.net/) - Fast, secure, efficient backup program. [![repo][repo.svg]](https://github.com/restic/restic) ![open][open.svg]
 - ❤️ [Syncthing](https://syncthing.net/) - A continuous file synchronization program. [![repo][repo.svg]](https://github.com/syncthing/syncthing) ![open][open.svg]
 - ❤️ [ChoEazyCopy](https://github.com/Cinchoo/ChoEazyCopy) - Simple and powerful RoboCopy GUI. ![open][open.svg]
-- [Ultracopier](https://ultracopier.first-world.info/) - Ultracopier acts as a replacement for files copy dialogs. [![repo][repo.svg]](https://github.com/alphaonex86/Ultracopier) ![open][open.svg]
+- [Ultracopier](https://github.com/alphaonex86/Ultracopier) - Ultracopier acts as a replacement for files copy dialogs. ![open][open.svg]
 - [Ludusavi](https://github.com/mtkennerly/ludusavi) - A tool for backing up your PC video game save data. ![open][open.svg]
+
+## Books and Readers
+
+### Books
+
+- [Anna’s Archive](https://annas-archive.org/) - The largest truly open library in human history.
+- [Internet Archive](https://archive.org/) - A non-profit library of millions of free books, movies, software, music, websites, and more.
+- [Library Genesis](https://libgen.is/) - A file-sharing based shadow library website.
+- [Open Library](https://openlibrary.org) - An open, editable library catalog.
+- [Project Gutenberg](https://www.gutenberg.org/) - A library of over 60,000 free eBooks.
+- [Sci-Hub](https://sci-hub.st/) - A shadow library website that provides free access to millions of research papers and books.
+- [ZLibrary](https://z-library.sk/) - The world's largest ebook library.
+- [Books](https://github.com/learn-anything/books) - Awesome Book Lists.
+- [Mind Expanding Books](https://books.vishnuks.com/) - Books everyone should read! [![repo][repo.svg]](https://github.com/hackerkid/Mind-Expanding-Books)
+
+### Ebook Readers
+
+- ❤️ [Okular](https://okular.kde.org/) - A universal document viewer. [![store][store.svg]](https://apps.microsoft.com/store/detail/9N41MSQ1WNM8)
+- [Sumatra PDF](http://www.sumatrapdfreader.org/) - A free PDF, eBook (ePub, Mobi), XPS, DjVu, CHM, Comic Book (CBZ and CBR) viewer. [![repo][repo.svg]](https://github.com/sumatrapdfreader/sumatrapdf)
+- [Sioyek](https://sioyek.info/) - A PDF viewer designed for reading research papers and technical books. [![repo][repo.svg]](https://github.com/ahrm/sioyek) ![open][open.svg]
+- [Alexandria](https://github.com/btpf/Alexandria) - A minimalistic cross-platform eBook reader built with Tauri, Epub.js, and Typescript. ![open][open.svg]
+- [calibre](https://calibre-ebook.com/) - An e-book manager. [![repo][repo.svg]](https://github.com/kovidgoyal/calibre) ![open][open.svg]
+- [Koodo Reader](https://koodoreader.com/) - A modern ebook manager and reader. [![repo][repo.svg]](https://github.com/troyeguo/koodo-reader) ![open][open.svg]
+- [Readest](https://readest.com/) - An open-source ebook reader designed for immersive and deep reading experiences. [![repo][repo.svg]](https://github.com/readest/readest) ![open][open.svg]
+- [Thorium Reader](https://www.edrlab.org/software/thorium-reader/) - The best free reading application for EPUB, PDF and DAISY 3 ebooks, audiobooks and digital comics. [![repo][repo.svg]](https://github.com/edrlab/thorium-reader) [![store][store.svg]](https://apps.microsoft.com/store/detail/9NFZP1G7M2SC) ![open][open.svg]
+- [YACReader](https://www.yacreader.com/) - Yet another comic reader. [![repo][repo.svg]](https://github.com/YACReader/yacreader) ![open][open.svg]
+- [Libation](https://github.com/rmcrackan/Libation) - Audible audiobook manager. ![open][open.svg]
+- [Sigil](https://github.com/Sigil-Ebook/Sigil) - A multi-platform EPUB ebook editor. ![open][open.svg]
+- [Kiwix](https://www.kiwix.org) - An offline reader for online content like Wikipedia, Project Gutenberg, or TED Talks. [![repo][repo.svg]](https://github.com/kiwix/kiwix-desktop) [![store][store.svg]](https://apps.microsoft.com/store/detail/9P8SLZ4J979J) ![open][open.svg]
+
+### RSS Readers
+
+- [FeedFlow](https://www.feedflow.dev/) - A minimalistic RSS Reader available on Android, iOS, macOS, Windows and Linux. [![repo][repo.svg]](https://github.com/prof18/feed-flow) ![open][open.svg]
+- [Fluent Reader](https://hyliu.me/fluent-reader/) - Modern desktop RSS reader. [![repo][repo.svg]](https://github.com/yang991178/fluent-reader) [![store][store.svg]](https://apps.microsoft.com/store/detail/9P71FC94LRH8) ![open][open.svg]
+- [QuiteRSS](https://github.com/QuiteRSS/quiterss) - Free news feeds reader. ![open][open.svg]
+- [RSS Guard](https://github.com/martinrotter/rssguard) - Feed reader which supports RSS/ATOM/JSON and many web-based feed services. ![open][open.svg]
 
 ## Browsers and Extensions
 
@@ -471,9 +512,10 @@
 
 #### New Tab Page
 
+- [Bonjourr](https://bonjourr.fr/) - Minimalist & lightweight startpage inspired by iOS. [![repo][repo.svg]](https://github.com/victrme/Bonjourr) ![open][open.svg]
 - [Mue](https://demo.muetab.com/) - Fast, open and free-to-use new tab page for modern browsers. [![repo][repo.svg]](https://github.com/mue/mue) ![open][open.svg]
-- [nightTab](https://zombiefox.github.io/nightTab/) - A neutral new tab page accented with a chosen colour. [![repo][repo.svg]](https://github.com/zombieFox/nightTab) ![open][open.svg]
 - [Tabliss](https://tabliss.io/) - A beautiful, customisable New Tab page for Firefox and Chrome. [![repo][repo.svg]](https://github.com/joelshepherd/tabliss) ![open][open.svg]
+- [nightTab](https://zombiefox.github.io/nightTab/) - A neutral new tab page accented with a chosen colour. [![repo][repo.svg]](https://github.com/zombieFox/nightTab) ![open][open.svg]
 
 #### Privacy Extensions
 
@@ -497,6 +539,7 @@
 - ❤️ [Automa](https://www.automa.site/) - A chrome extension for automating your browser by connecting blocks. [![repo][repo.svg]](https://github.com/AutomaApp/automa)
 - [BetterViewer](https://github.com/Ademking/BetterViewer) - A replacement for the image viewing mode built into Firefox and Chrome-based web browsers. ![open][open.svg]
 - ❤️ [Dark Reader](https://darkreader.org/) - Dark Reader analyzes web pages and aims to reduce eyestrain while browsing the web. [![repo][repo.svg]](https://github.com/darkreader/darkreader) ![open][open.svg]
+- [FastStream](https://faststream.online/) - Stream videos without buffering in the browser. [![repo][repo.svg]](https://github.com/Andrews54757/FastStream) ![open][open.svg]
 - [Gesturefy](https://github.com/Robbendebiene/Gesturefy) - A customizable Firefox mouse gesture add-on with a variety of different commands. ![open][open.svg]
 - [Marinara](https://github.com/schmich/marinara) - A time management assistant for Chrome that follows the Pomodoro Technique. ![open][open.svg]
 - ❤️ [Omni](https://github.com/alyssaxuu/omni) - The all-in-one tool to supercharge your productivity keyboard. ![open][open.svg]
@@ -505,7 +548,7 @@
 - [Search by Image](https://github.com/dessant/search-by-image) - A browser extension that makes effortless reverse image searches possible, and comes with support for more than 30 search engines. ![open][open.svg]
 - ❤️ [Translate Web Pages](https://github.com/FilipePS/Traduzir-paginas-web) - Translate your page in real time using Google or Yandex. ![open][open.svg]
 - [uBlacklist](https://iorate.github.io/ublacklist/) - Blocks specific sites from appearing in Google search results. [![repo][repo.svg]](https://github.com/iorate/ublacklist) ![open][open.svg]
-- [Unclutter](https://unclutter.lindylearn.io/) - A modern reader mode and article library for your browser. [![repo][repo.svg]](https://github.com/lindylearn/unclutter) ![open][open.svg]
+- [Unclutter](https://github.com/lindylearn/unclutter) - A modern reader mode and article library for your browser. ![open][open.svg]
 - ❤️ [Violentmonkey](https://violentmonkey.github.io/) - An open source userscript manager. [![repo][repo.svg]](https://github.com/violentmonkey/violentmonkey) ![open][open.svg]
 - [Web Scrobbler](https://web-scrobbler.com/) - Web Scrobbler helps online music listeners to scrobble their playback history. [![repo][repo.svg]](https://github.com/web-scrobbler/web-scrobbler) ![open][open.svg]
 
@@ -570,7 +613,9 @@
 
 ### Terminal Emulators
 
+- [Alacritty](https://alacritty.org/) - A cross-platform, OpenGL terminal emulator. [![repo][repo.svg]](https://github.com/alacritty/alacritty) ![open][open.svg]
 - [Fluent Terminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies. [![store][store.svg]](https://apps.microsoft.com/store/detail/9P2KRLMFXF9T) ![open][open.svg]
+- [Nushell](https://www.nushell.sh/) - A new type of shell. [![repo][repo.svg]](https://github.com/nushell/nushell) ![open][open.svg]
 - [PowerShell](https://learn.microsoft.com/en-us/powershell/) - A task-based command-line shell and scripting language built on .NET. [![repo][repo.svg]](https://github.com/PowerShell/PowerShell) [![store][store.svg]](https://apps.microsoft.com/store/detail/9MZ1SNWT0N5D)
 - [Rio terminal](https://raphamorim.io/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. [![repo][repo.svg]](https://github.com/raphamorim/rio) ![open][open.svg]
 - [Tabby](https://tabby.sh/) - A highly configurable terminal emulator, SSH and serial client. [![repo][repo.svg]](https://github.com/Eugeny/tabby) ![open][open.svg]
@@ -583,9 +628,10 @@
 
 - [Brackets](https://brackets.io/) - Brackets is a modern text editor that makes it easy to design in the browser. [![repo][repo.svg]](https://github.com/brackets-cont/brackets)
 - [GNU Emacs](https://www.gnu.org/software/emacs/) - An extensible, customizable, free/libre text editor — and more. [![repo][repo.svg]](https://github.com/emacs-mirror/emacs) ![open][open.svg]
+- [Helix](https://helix-editor.com/) - A post-modern modal text editor. [![repo][repo.svg]](https://github.com/helix-editor/helix) ![open][open.svg]
 - [Heynote](https://heynote.com/) - A dedicated scratchpad for developers. [![repo][repo.svg]](https://github.com/heyman/heynote) ![open][open.svg]
 - ❤️ [Kate](https://kate-editor.org/) - A multi-document text editor. [![store][store.svg]](https://apps.microsoft.com/store/detail/9NWMW7BB59HW)
-- [Lapce](http://lapce.dev/) - Lightning-fast and Powerful Code Editor written in Rust. [![repo][repo.svg]](https://github.com/lapce/lapce) ![open][open.svg]
+- [Lapce](https://lap.dev/lapce/) - Lightning-fast and Powerful Code Editor written in Rust. [![repo][repo.svg]](https://github.com/lapce/lapce) ![open][open.svg]
 - [Lite XL](https://lite-xl.com/) - A lightweight text editor written in Lua. [![repo][repo.svg]](https://github.com/lite-xl/lite-xl) ![open][open.svg]
 - ❤️ [Notepad++](https://notepad-plus-plus.org/) - A free source code editor and Notepad replacement that supports several languages. [![repo][repo.svg]](https://github.com/notepad-plus-plus/notepad-plus-plus) ![open][open.svg]
 - ❤️ [Notepads](https://www.notepadsapp.com/) - A modern, lightweight text editor with a minimalist design. [![repo][repo.svg]](https://github.com/JasonStein/Notepads) [![store][store.svg]](https://apps.microsoft.com/store/detail/9NHL4NSC67WM) ![open][open.svg]
@@ -597,6 +643,7 @@
 
 - ❤️ [adb](https://developer.android.com/studio/releases/platform-tools) - A programming tool used for the debugging of Android-based devices.
 - ❤️ [DevToys](https://devtoys.app/) - A Swiss Army knife for developers. [![repo][repo.svg]](https://github.com/veler/DevToys) [![store][store.svg]](https://apps.microsoft.com/store/detail/9PGCV4V3BK4W) ![open][open.svg]
+- [IT Tools](https://it-tools.tech/) - Collection of handy online tools for developers, with great UX. [![repo][repo.svg]](https://github.com/CorentinTh/it-tools) ![open][open.svg]
 - [GitButler](https://gitbutler.com/) - Git branch management tool, built from the ground up for modern workflows. [![repo][repo.svg]](https://github.com/gitbutlerapp/gitbutler) ![open][open.svg]
 - [Gitnuro](https://gitnuro.com/) - A FOSS Git multiplatform client for newbies and pros. [![repo][repo.svg]](https://github.com/JetpackDuba/Gitnuro) ![open][open.svg]
 - [massCode](https://masscode.io/) - A free and open source code snippets manager for developers. [![repo][repo.svg]](https://github.com/massCodeIO/massCode)
@@ -610,11 +657,13 @@
 
 - [AB Download Manager](https://abdownloadmanager.com/) - A Download Manager that speeds up your downloads. [![repo][repo.svg]](https://github.com/amir1376/ab-download-manager) ![open][open.svg]
 - [AriaNg-Native](http://ariang.mayswind.net/) - A better aria2 desktop frontend than AriaNg, containing all features of AriaNg and more features for desktop. [![repo][repo.svg]](https://github.com/mayswind/AriaNg-Native) ![open][open.svg]
+- [Brisk](https://github.com/BrisklyDev/brisk) - Ultra-fast, modern download manager for desktop. ![open][open.svg]
 - [Free Download Manager](http://freedownloadmanager.org/) - A powerful modern download accelerator and organizer.
 - [Gopeed](https://gopeed.com/) - A modern download manager that supports all platforms. [![repo][repo.svg]](https://github.com/GopeedLab/gopeed) ![open][open.svg]
 - [JDownloader](https://jdownloader.org/) - A free, open-source download management tool.
 - [Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager. ![open][open.svg]
 - [Persepolis](https://persepolisdm.github.io/) - A download manager & a GUI for Aria2. [![repo][repo.svg]](https://github.com/persepolisdm/persepolis) ![open][open.svg]
+- [Varia](https://giantpinkrobots.github.io/varia/) - Download manager that supports regular downloads, torrents and videos. [![repo][repo.svg]](https://github.com/giantpinkrobots/varia) ![open][open.svg]
 - [XDM](https://xtremedownloadmanager.com/) - Powerfull download accelerator and video downloader. [![repo][repo.svg]](https://github.com/subhra74/xdm) ![open][open.svg]
 
 ### Media Downloaders
@@ -665,11 +714,13 @@
 
 ### Translators
 
+- [Ciyue](https://mumulhl.eu.org/Ciyue/) - A simple mdict dictionary with Android/Windows/Linux support. [![repo][repo.svg]](https://github.com/mumu-lhl/Ciyue) ![open][open.svg]
 - [Crow Translate](https://apps.kde.org/crowtranslate/) - A simple and lightweight translator. [![repo][repo.svg]](https://invent.kde.org/office/crow-translate) ![open][open.svg]
 - [DeepL Translator](https://www.deepl.com/translator) - A neural machine translation service.
 - [GoldenDict-ng](https://xiaoyifang.github.io/goldendict-ng/) - The Next Generation GoldenDict. [![repo][repo.svg]](https://github.com/xiaoyifang/goldendict-ng) ![open][open.svg]
 - [GoldenDict](http://goldendict.org/) - A feature-rich dictionary lookup program. [![repo][repo.svg]](https://github.com/goldendict/goldendict) ![open][open.svg]
 - [Lingva Translate](https://lingva.ml/) - Alternative front-end for Google Translate. [![repo][repo.svg]](https://github.com/TheDavidDelta/lingva-translate) ![open][open.svg]
+- [Mozhi](https://codeberg.org/aryak/mozhi) - Mozhi is an alternative-frontend for many translation engines. ![open][open.svg]
 
 ### Others
 
@@ -682,6 +733,7 @@
 - [GeoGebra](https://www.geogebra.org/) - Free digital tools for class activities, graphing, geometry, collaborative whiteboard and more. [![repo][repo.svg]](https://github.com/geogebra/geogebra)
 - [Gramps](https://gramps-project.org/) - Research, organize and share your family tree with Gramps.
 - [LanguageTool](https://languagetool.org/) - Checks your writing in more than 20 languages. [![repo][repo.svg]](https://github.com/languagetool-org/languagetool) ![open][open.svg]
+- [Harper](https://writewithharper.com/) - Offline, privacy-first grammar checker. [![repo][repo.svg]](https://github.com/Automattic/harper) ![open][open.svg]
 - [Monkeytype](https://monkeytype.com/) - The most customizable typing website with a minimalistic design and a ton of features. [![repo][repo.svg]](https://github.com/monkeytypegame/monkeytype) ![open][open.svg]
 - [LabPlot](https://labplot.kde.org/) - FREE, open source and cross-platform Data Visualization and Analysis software accessible to everyone and trusted by professionals. [![store][store.svg]](https://apps.microsoft.com/detail/9ngxfc68925l) ![open][open.svg]
 - [Orange Data Mining](https://orangedatamining.com/) - A data mining and visualization toolbox for novice and expert alike. [![repo][repo.svg]](https://github.com/biolab/orange3) ![open][open.svg]
@@ -734,24 +786,25 @@
 ### File Sharing Web Apps
 
 - [Lufi](https://alt.framasoft.org/en/framadrop/) - Anonymous file sharing services with temporary storage. [![repo][repo.svg]](https://framagit.org/fiat-tux/hat-softwares/lufi) ![open][open.svg]
-- ❤️ [Send](https://send.vis.ee/) -  Simple, private file sharing. [![repo][repo.svg]](https://github.com/timvisee/send) ![open][open.svg]
+- ❤️ [Send](https://send.vis.ee/) - Simple, private file sharing. [![repo][repo.svg]](https://github.com/timvisee/send) ![open][open.svg]
 - ❤️ [Tresorit Send](https://send.tresorit.com) - Send big files up to 5 GB securely.
 - [Wormhole](https://wormhole.app/) - Simple, private file sharing.
 - [SwissTransfer](https://www.swisstransfer.com) - Send files up to 50 GB free of charge.
 - [pic.infini](https://pic.infini.fr/) - A free and anonymous image hosting service.
 - [Blaze](https://blaze.vercel.app/) - A P2P file sharing web app. [![repo][repo.svg]](https://github.com/blenderskool/blaze) ![open][open.svg]
 - [FilePizza](https://file.pizza/) - Peer-to-peer file transfers in your browser. [![repo][repo.svg]](https://github.com/kern/filepizza)
-- ❤️ [ShareDrop](https://www.sharedrop.io/) - Easy P2P file transfer powered by WebRTC. [![repo][repo.svg]](https://github.com/szimek/sharedrop) ![open][open.svg]
-- ❤️ [Snapdrop](https://snapdrop.net) - A Progressive Web App for local file sharing. [![repo][repo.svg]](https://github.com/RobinLinus/snapdrop) ![open][open.svg]
+- [PairDrop](https://pairdrop.net/) - Local file sharing in your web browser. [![repo][repo.svg]](https://github.com/schlagmichdoch/PairDrop) ![open][open.svg]
 - [libcimbar](https://cimbar.org/) - Optimized implementation for color-icon-matrix barcodes. [![repo][repo.svg]](https://github.com/sz3/libcimbar) ![open][open.svg]
 
 ### LAN File Sharing
 
 - ❤️ OpenSSH - Windows Optional Features. OpenSSH is a complete implementation of the SSH protocol (version 2) for secure remote login, command execution and file transfer.
 - [Flying Carpet](https://github.com/spieglt/FlyingCarpet) - Wireless, encrypted file transfer over automatically configured ad hoc networking. ![open][open.svg]
-- ❤️ [LocalSend](https://localsend.org/) - An open source cross-platform alternative to AirDrop. [![repo][repo.svg]](https://github.com/localsend/localsend) [![store][store.svg]](https://apps.microsoft.com/store/detail/localsend/9NCB4Z0TZ6RR) ![open][open.svg]
+- ❤️ [LocalSend](https://localsend.org/) - An open source cross-platform alternative to AirDrop. [![repo][repo.svg]](https://github.com/localsend/localsend) ![open][open.svg]
+- [Photon](https://photondev.netlify.app/) - A cross-platform file-transfer application built using flutter. [![repo][repo.svg]](https://github.com/abhi16180/photon) ![open][open.svg]
+- [Quick Share](https://www.android.com/better-together/quick-share-app/) - With Quick Share, quickly transfer photos, videos, documents, audio files or entire folders between your Android device and Windows desktops and laptops.
 - [SFTPGo](https://sftpgo.com/) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support. [![repo][repo.svg]](https://github.com/drakkan/sftpgo) ![open][open.svg]
-- ❤️ [Sharik](https://github.com/marchellodev/sharik) - An open-source, cross-platform solution for sharing files via Wi-Fi or Mobile Hotspot. [![store][store.svg]](https://apps.microsoft.com/store/detail/9NGCLB7JSPR9) ![open][open.svg]
+- [Sharik](https://github.com/marchellodev/sharik) - An open-source, cross-platform solution for sharing files via Wi-Fi or Mobile Hotspot. [![store][store.svg]](https://apps.microsoft.com/store/detail/9NGCLB7JSPR9) ![open][open.svg]
 - ❤️ [WinSCP](https://winscp.net/) - A popular free SFTP and FTP client for Windows. [![repo][repo.svg]](https://github.com/winscp/winscp) ![open][open.svg]
 - ❤️ [Winpinator](https://winpinator.swisz.cz/) - Send and receive files across a local network. [![repo][repo.svg]](https://github.com/swiszczoo/winpinator) ![open][open.svg]
 - [miniserve](https://github.com/svenstaro/miniserve) - A CLI tool to serve files and dirs over HTTP. ![open][open.svg]
@@ -767,13 +820,18 @@
 
 ## Games and Tools
 
+### Game Emulators
+
+- [Dolphin](https://dolphin-emu.org/) - A GameCube and Wii Emulator. [![repo][repo.svg]](https://github.com/dolphin-emu/dolphin) ![open][open.svg]
+- [RetroArch](https://www.retroarch.com/) - A frontend for emulators, game engines and media players. [![repo][repo.svg]](https://github.com/libretro/RetroArch) ![open][open.svg]
+- [shadPS4](https://shadps4.net/) - PlayStation 4 emulator for Windows, Linux and macOS written in C++. [![repo][repo.svg]](https://github.com/shadps4-emu/shadPS4) ![open][open.svg]
+
 ### Game Launchers
 
 - [Heroic Games Launcher](https://heroicgameslauncher.com/) - A Native GOG and Epic Games Launcher for Linux, Windows and Mac. [![repo][repo.svg]](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) ![open][open.svg]
 - [Nostlan](https://quinton-ashley.github.io/nostlan-web/) - Nostlan is a game launcher for emulators! [![repo][repo.svg]](https://github.com/quinton-ashley/nostlan) ![open][open.svg]
 - [Pegasus](http://pegasus-frontend.org/) - A cross platform, customizable graphical frontend for launching emulators and managing your game collection. [![repo][repo.svg]](https://github.com/mmatyas/pegasus-frontend) ![open][open.svg]
 - [Playnite](https://playnite.link/) - An open source video game library manager and launcher with support for 3rd party libraries like Steam, GOG, Origin, Battle.net and Uplay. [![repo][repo.svg]](https://github.com/JosefNemec/Playnite) ![open][open.svg]
-- [RetroArch](https://www.retroarch.com/) - A frontend for emulators, game engines and media players. [![repo][repo.svg]](https://github.com/libretro/RetroArch) ![open][open.svg]
 
 ### Game Stores
 
@@ -788,6 +846,7 @@
 - [Cockatrice](https://cockatrice.github.io/) - A cross-platform virtual tabletop for multiplayer card games. [![repo][repo.svg]](https://github.com/Cockatrice/Cockatrice) ![open][open.svg]
 - [Endless Sky](https://endless-sky.github.io/) - A space exploration and combat game similar to Escape Velocity. [![repo][repo.svg]](https://github.com/endless-sky/endless-sky) ![open][open.svg]
 - [FlightGear](https://www.flightgear.org/) - An open-source flight simulator.
+- [Hurry Curry!](https://hurrycurry.metamuffin.org/) - A cooperative 3D multiplayer game about cooking. [![repo][repo.svg]](https://codeberg.org/hurrycurry/hurrycurry) ![open][open.svg]
 - [Lichess](https://lichess.org/) - The complete chess experience, play and compete with friends and others around the world. [![repo][repo.svg]](https://github.com/lichess-org)
 - [Mindustry](https://mindustrygame.github.io/) - A sandbox tower defense game written in Java. [![repo][repo.svg]](https://github.com/Anuken/Mindustry) ![open][open.svg]
 - [Minetest](https://www.minetest.net/) - An open source voxel game engine. [![repo][repo.svg]](https://github.com/minetest)
@@ -834,6 +893,7 @@
 - [Penpot](https://penpot.app/) - The Open-Source design & prototyping platform. [![repo][repo.svg]](https://github.com/penpot/penpot) ![open][open.svg]
 - [Polotno Studio](https://studio.polotno.dev/) - Free online design editor. [![repo][repo.svg]](https://github.com/polotno-project/polotno-studio)
 - [Screenshot.rocks](https://screenshot.rocks/) - An online tool which allows you to create beautiful mobile & browser mockups from screenshots. [![repo][repo.svg]](https://github.com/daveearley/screenshot.rocks) ![open][open.svg]
+- [Vecto3d](https://vecto3d.xyz/) - A super simple tool to convert your SVG's to 3D models. [![repo][repo.svg]](https://github.com/lakshaybhushan/vecto3d) ![open][open.svg]
 
 ### Digital Painting
 
@@ -849,7 +909,7 @@
 ### Image Editors
 
 - [Converseen](https://converseen.fasterland.net/) - A batch image converter and resizer. [![repo][repo.svg]](https://github.com/Faster3ck/Converseen) ![open][open.svg]
-- ❤️ [GIMP](https://www.gimp.org/) - A cross-platform image editor. [![repo][repo.svg]](https://gitlab.gnome.org/GNOME/gimp) [![store][store.svg]](https://apps.microsoft.com/store/detail/gimp/XPDM27W10192Q0) ![open][open.svg]
+- ❤️ [GIMP](https://www.gimp.org/) - A cross-platform image editor. [![repo][repo.svg]](https://gitlab.gnome.org/GNOME/gimp) [![store][store.svg]](https://apps.microsoft.com/detail/9pnsjclxdz0v) ![open][open.svg]
 - ❤️ [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A patch for optimizing GIMP 2.10+ for Adobe Photoshop users. ![open][open.svg]
 - [ImageMagick](https://imagemagick.org/) - A software suite to create, edit, and compose bitmap images. [![repo][repo.svg]](https://github.com/ImageMagick/ImageMagick)
 - ❤️ [Paint.NET](https://www.getpaint.net/) - Free image and photo editing software.
@@ -869,6 +929,7 @@
 - [Caesium Image Compressor](https://caesium.app/) - An image compression web app.
 - [Caesium](https://saerasoft.com/caesium) - A cross-platform image compression software. [![repo][repo.svg]](https://github.com/Lymphatus/caesium-image-compressor) ![open][open.svg]
 - ❤️ [Imagine](https://github.com/meowtec/Imagine) - A desktop app for compression of PNG and JPEG, with a modern and friendly UI. ![open][open.svg]
+- [MAZANOKE](https://mazanoke.com/) - A self-hosted local image optimizer that runs in your browser. [![repo][repo.svg]](https://github.com/civilblur/mazanoke) ![open][open.svg]
 - ❤️ [Squoosh](https://squoosh.app/) - An image compression web app that reduces image sizes through numerous formats. [![repo][repo.svg]](https://github.com/GoogleChromeLabs/squoosh) ![open][open.svg]
 
 ### Image Viewers
@@ -917,7 +978,6 @@
 
 ### Screen Recorders
 
-- ❤️ [Captura](https://mathewsachin.github.io/Captura/) - Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes. [![repo][repo.svg]](https://github.com/MathewSachin/Captura) ![open][open.svg]
 - ❤️ [Fluent Screen Recorder](https://github.com/MarcAnt01/Fluent-Screen-Recorder) - A simple screen recorder built with UWP and featuring Fluent Design. [![store][store.svg]](https://apps.microsoft.com/store/detail/9MWV79XLFQH7) ![open][open.svg]
 - ❤️ [OBS Studio](https://obsproject.com/) - Free and open source software for live streaming and screen recording. [![repo][repo.svg]](https://github.com/obsproject/obs-studio) [![store][store.svg]](https://apps.microsoft.com/store/detail/obs-studio/XPFFH613W8V6LV) ![open][open.svg]
 - [ScreenREC](https://screen-rec.vercel.app/) - A really simple web screen recorder. [![repo][repo.svg]](https://github.com/heysagnik/screenREC) ![open][open.svg]
@@ -963,7 +1023,7 @@
 - [Colorpicker](https://colorpicker.fr/) - A mininal but complete colorpicker desktop app. [![repo][repo.svg]](https://github.com/Toinane/colorpicker) ![open][open.svg]
 - [Gephi](https://gephi.org/) - Gephi is the leading visualization and exploration software for all kinds of graphs and networks. [![repo][repo.svg]](https://github.com/gephi/gephi)
 - [Graphviz](https://graphviz.org/) - Open source graph visualization software. [![repo][repo.svg]](https://gitlab.com/graphviz/graphviz) ![open][open.svg]
-- [Stellarium](https://stellarium.org/) -  A free open source planetarium for your computer. [![repo][repo.svg]](https://github.com/Stellarium/stellarium) ![open][open.svg]
+- [Stellarium](https://stellarium.org/) - A free open source planetarium for your computer. [![repo][repo.svg]](https://github.com/Stellarium/stellarium) ![open][open.svg]
 - [Storyboarder](https://wonderunit.com/storyboarder) - Storyboarder makes it easy to visualize a story as fast you can draw stick figures. [![repo][repo.svg]](https://github.com/wonderunit/storyboarder)
 - [Tropy](https://tropy.org/) - Research photo management. [![repo][repo.svg]](https://github.com/tropy/tropy) ![open][open.svg]
 - [Avataaars generator](https://getavataaars.com/) - Simple generator React app for avataaars. [![repo][repo.svg]](https://github.com/fangpenlin/avataaars-generator) ![open][open.svg]
@@ -973,12 +1033,13 @@
 ## Health and Fitness
 
 - [Ambie](https://ambieapp.com/) - The best white noise app on Windows. [![repo][repo.svg]](https://github.com/jenius-apps/ambie) [![store][store.svg]](https://apps.microsoft.com/store/detail/9P07XNM5CHP0) ![open][open.svg]
+- [Flexify](https://flexify.presley.nz/) - The fastest Gym Tracking App. [![repo][repo.svg]](https://github.com/brandonp2412/Flexify) ![open][open.svg]
 - [UBPM](https://codeberg.org/LazyT/ubpm) - Manage your blood pressure data on Windows/Linux/macOS. ![open][open.svg]
-- [Eyes Guard](https://github.avestura.dev/EyesGuard) - A Windows application for protecting your eyes when you are working with your PC or Laptop. [![repo][repo.svg]](https://github.com/avestura/EyesGuard) [![store][store.svg]](https://apps.microsoft.com/store/detail/9PHW0XFKZD7J) ![open][open.svg]
+- [Eyes Guard](https://github.avestura.dev/EyesGuard) - A Windows application for protecting your eyes when you are working with your PC or Laptop. [![repo][repo.svg]](https://github.com/avestura/EyesGuard) ![open][open.svg]
 - [Pomatez](https://zidoro.github.io/pomatez/) - An open-source Pomodoro timer application aimed for simplicity and productivity. [![repo][repo.svg]](https://github.com/zidoro/pomatez/) ![open][open.svg]
 - [Pomotroid](https://splode.github.io/pomotroid/) - Simple and visually-pleasing Pomodoro timer. [![repo][repo.svg]](https://github.com/Splode/pomotroid) ![open][open.svg]
 - [Stretchly](https://hovancik.net/stretchly) - The break time reminder app. [![repo][repo.svg]](https://github.com/hovancik/stretchly) ![open][open.svg]
-- [Workrave](https://www.workrave.org/) - A free program that assists in the recovery and prevention of Repetitive Strain Injury (RSI). [![repo][repo.svg]](https://github.com/rcaelers/workrave) ![open][open.svg]
+- [Workrave](https://workrave.org/) - A free program that assists in the recovery and prevention of Repetitive Strain Injury (RSI). [![repo][repo.svg]](https://github.com/rcaelers/workrave) ![open][open.svg]
 - [OpenStreetMap](https://www.openstreetmap.org/) - A collaborative project to create a free editable map of the world.
 - [QMapShack](https://github.com/Maproom/qmapshack) - An intuitive and efficient tool for route planning and GPS recordings visualization. ![open][open.svg]
 
@@ -999,25 +1060,29 @@
 
 - [Chrome Remote Desktop](https://remotedesktop.google.com/) - The easy way to remotely connect with your home or work computer, or share your screen with others.
 - [DWService](https://www.dwservice.net/) - Remotely access your devices from a Web browser.
-- [Microsoft Remote Desktop](https://apps.microsoft.com/store/detail/9WZDNCRFJ3PS) - Use the Microsoft Remote Desktop app to connect to a remote PC or virtual apps and desktops made available by your admin.
+- Quick Assist - A new app in Windows 10 that enables you to receive or provide assistance over a remote connection.
 - [QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software. ![open][open.svg]
 - [RustDesk](https://rustdesk.com/) - Yet another remote desktop software. [![repo][repo.svg]](https://github.com/rustdesk/rustdesk) ![open][open.svg]
 - ❤️ [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device. ![open][open.svg]
 - [TigerVNC](https://tigervnc.org/) - A free remote desktop software server and client application. [![repo][repo.svg]](https://github.com/TigerVNC/tigervnc) ![open][open.svg]
 - [TightVNC](https://www.tightvnc.com/) - A free remote desktop application.
-- Quick Assist - A new app in Windows 10 that enables you to receive or provide assistance over a remote connection.
-- [Tailscale](https://tailscale.com/) - A mesh VPN alternative that makes it easy to connect your devices. [![repo][repo.svg]](https://github.com/tailscale/tailscale) ![open][open.svg]
-- [ZeroTier](https://www.zerotier.com/) - A smart programmable Ethernet switch for planet Earth. [![repo][repo.svg]](https://github.com/zerotier/ZeroTierOne)
 - [mRemoteNG](https://mremoteng.org/) - An open source, multi-protocol, tabbed remote connections manager. [![repo][repo.svg]](https://github.com/mRemoteNG/mRemoteNG) ![open][open.svg]
-- [PRemoteM](https://github.com/VShawn/PRemoteM) - A modern personal remote session manager and launcher. [![store][store.svg]](https://apps.microsoft.com/store/detail/9PNMNF92JNFP)
+- [1Remote](https://github.com/1Remote/1Remote) - A modern personal remote session manager and launcher. [![store][store.svg]](https://apps.microsoft.com/store/detail/9PNMNF92JNFP)
 - [Veyon](https://veyon.io/) - Cross-platform computer monitoring and classroom management. [![repo][repo.svg]](https://github.com/veyon/veyon) ![open][open.svg]
 - [Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer. ![open][open.svg]
 
 ### Screen Sharing
 
+- [Bananas Screen Sharing](https://getbananas.net/) - A simple and easy-to-use screen sharing tool for Mac, Windows, and Linux. [![repo][repo.svg]](https://github.com/mistweaverco/bananas) ![open][open.svg]
 - [Deskreen](https://deskreen.com/) - A desktop app that turns any device with a web browser into a secondary screen for your computer over WiFi. [![repo][repo.svg]](https://github.com/pavlobu/deskreen) ![open][open.svg]
 - [Screego](https://app.screego.net/) - Screego allows you to share your screen with good quality and low latency. [![repo][repo.svg]](https://github.com/screego/server) ![open][open.svg]
 - ❤️ [ScreenTask](https://screentask.me/) - Share your screen across local devices without internet. [![repo][repo.svg]](https://github.com/EslaMx7/ScreenTask)
+
+### Virtual LAN
+
+- [NetBird](https://netbird.io/) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. [![repo][repo.svg]](https://github.com/netbirdio/netbird)
+- [Tailscale](https://tailscale.com/) - A mesh VPN alternative that makes it easy to connect your devices. [![repo][repo.svg]](https://github.com/tailscale/tailscale)
+- [ZeroTier](https://www.zerotier.com/) - A smart programmable Ethernet switch for planet Earth. [![repo][repo.svg]](https://github.com/zerotier/ZeroTierOne)
 
 ### Virtualization
 
@@ -1037,38 +1102,6 @@
 - [SwitchHosts](https://switchhosts.vercel.app/) - An App for managing hosts file. [![repo][repo.svg]](https://github.com/oldj/SwitchHosts) ![open][open.svg]
 - [Wifinian](https://github.com/emoacht/Wifinian) - A Windows desktop tool to enable user to actively control Wi-Fi connections. [![store][store.svg]](https://apps.microsoft.com/store/detail/9PNGFQPS4FLH) ![open][open.svg]
 - [XPipe](https://xpipe.io/) - A new type of shell connection hub and remote file manager that allows you to access your entire server infrastructure from your local machine. [![repo][repo.svg]](https://github.com/xpipe-io/xpipe) [![store][store.svg]](https://apps.microsoft.com/detail/xp9kk2pj9jdq6g) ![open][open.svg]
-
-## News and Books
-
-### Books
-
-- ❤️ [Okular](https://okular.kde.org/) - A universal document viewer. [![store][store.svg]](https://apps.microsoft.com/store/detail/9N41MSQ1WNM8)
-- [Sumatra PDF](http://www.sumatrapdfreader.org/) - A free PDF, eBook (ePub, Mobi), XPS, DjVu, CHM, Comic Book (CBZ and CBR) viewer. [![repo][repo.svg]](https://github.com/sumatrapdfreader/sumatrapdf)
-- [Sioyek](https://sioyek.info/) - A PDF viewer designed for reading research papers and technical books. [![repo][repo.svg]](https://github.com/ahrm/sioyek) ![open][open.svg]
-- [Alexandria](https://github.com/btpf/Alexandria) - A minimalistic cross-platform eBook reader built with Tauri, Epub.js, and Typescript. ![open][open.svg]
-- [calibre](https://calibre-ebook.com/) - An e-book manager. [![repo][repo.svg]](https://github.com/kovidgoyal/calibre) ![open][open.svg]
-- [Koodo Reader](https://koodoreader.com/) - A modern ebook manager and reader. [![repo][repo.svg]](https://github.com/troyeguo/koodo-reader) ![open][open.svg]
-- [Thorium Reader](https://www.edrlab.org/software/thorium-reader/) - The best free reading application for EPUB, PDF and DAISY 3 ebooks, audiobooks and digital comics. [![repo][repo.svg]](https://github.com/edrlab/thorium-reader) [![store][store.svg]](https://apps.microsoft.com/store/detail/9NFZP1G7M2SC) ![open][open.svg]
-- [YACReader](https://www.yacreader.com/) - Yet another comic reader. [![repo][repo.svg]](https://github.com/YACReader/yacreader) ![open][open.svg]
-- [AudiobookSuite](https://gitlab.com/HammelGammel/AudiobookSuite) - A WPF application with the goal of providing an easy to use local audiobook library and player for modern Windows systems. ![open][open.svg]
-- [Libation](https://github.com/rmcrackan/Libation) - Audible audiobook manager. ![open][open.svg]
-- [Sigil](https://github.com/Sigil-Ebook/Sigil) - A multi-platform EPUB ebook editor. ![open][open.svg]
-- [Kiwix](https://www.kiwix.org) -  An offline reader for online content like Wikipedia, Project Gutenberg, or TED Talks. [![repo][repo.svg]](https://github.com/kiwix/kiwix-desktop) [![store][store.svg]](https://apps.microsoft.com/store/detail/9P8SLZ4J979J) ![open][open.svg]
-- [Anna’s Archive](https://annas-archive.org/) - The largest truly open library in human history.
-- [Internet Archive](https://archive.org/) -  A non-profit library of millions of free books, movies, software, music, websites, and more.
-- [Library Genesis](https://libgen.is/) - A file-sharing based shadow library website.
-- [Open Library](https://openlibrary.org) -  An open, editable library catalog.
-- [Project Gutenberg](https://www.gutenberg.org/) - A library of over 60,000 free eBooks.
-- [Sci-Hub](https://sci-hub.st/) - A shadow library website that provides free access to millions of research papers and books.
-- [ZLibrary](https://z-library.sk/) - The world's largest ebook library.
-- [Books](https://github.com/learn-anything/books) - Awesome Book Lists.
-- [Mind Expanding Books](https://books.vishnuks.com/) - Books everyone should read! [![repo][repo.svg]](https://github.com/hackerkid/Mind-Expanding-Books)
-
-### News
-
-- [Fluent Reader](https://hyliu.me/fluent-reader/) - Modern desktop RSS reader. [![repo][repo.svg]](https://github.com/yang991178/fluent-reader) [![store][store.svg]](https://apps.microsoft.com/store/detail/9P71FC94LRH8) ![open][open.svg]
-- [QuiteRSS](https://github.com/QuiteRSS/quiterss) - Free news feeds reader. ![open][open.svg]
-- [RSS Guard](https://github.com/martinrotter/rssguard) - Feed reader which supports RSS/ATOM/JSON and many web-based feed services. ![open][open.svg]
 
 ## Online Services
 
@@ -1113,7 +1146,6 @@
 - ❤️ [Kutt](https://kutt.it) - A modern URL shortener with support for custom domains. [![repo][repo.svg]](https://github.com/thedevs-network/kutt) ![open][open.svg]
 - [Lstu](https://lstu.fr/) - A nice and open source url shortener. [![repo][repo.svg]](https://framagit.org/fiat-tux/hat-softwares/lstu) ![open][open.svg]
 - [MagLit](https://maglit.me/) - Privacy Respecting Encrypted Link Shortener with Password Protection and Torrent Magnet Links support. [![repo][repo.svg]](https://github.com/NayamAmarshe/MagLit) ![open][open.svg]
-- [Reduced.to](https://reduced.to/) - Free Modern URL Reducer. [![repo][repo.svg]](https://github.com/origranot/reduced.to) ![open][open.svg]
 - [ZWS](https://zws.im/) - Shorten URLs using invisible spaces. [![repo][repo.svg]](https://github.com/zws-im/zws) ![open][open.svg]
 
 ### Others
@@ -1127,6 +1159,7 @@
 - [Piracy Index](https://piracy.vercel.app/) - This website is a collection of the best digital piracy resources. [![repo][repo.svg]](https://gitlab.com/piracy/piracy) ![open][open.svg]
 - [degoogle](https://tycrek.github.io/degoogle/) - A huge list of alternatives to Google products. [![repo][repo.svg]](https://github.com/tycrek/degoogle)
 - [Awesome Fediverse](https://github.com/emilebosch/awesome-fediverse) - A curated, collaborative list of awesome Fediverse resources.
+- [delightful fediverse apps](https://codeberg.org/fediverse/delightful-fediverse-apps) - A curated list of server applications with support for the ActivityPub protocol (Fediverse network) and related standards.
 - ❤️ [Awesome-Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers.
 
 ## Personal Finance
@@ -1150,6 +1183,7 @@
 ### Desktop Mascot
 
 - [Desktop Pet (eSheep)](https://adrianotiger.github.io/desktopPet/) - This project gives you the possibility to add a pet to your desktop. [![repo][repo.svg]](https://github.com/Adrianotiger/desktopPet) [![store][store.svg]](https://apps.microsoft.com/store/detail/esheep-64bit/9MX2V0TQT6RM)
+- [Mate Engine](https://github.com/shinyflvre/Mate-Engine) - A free Desktop Mate alternative with a lightweight interface and custom VRM support, though with more features.
 - [RunCat_for_windows](https://github.com/Kyome22/RunCat_for_windows) - A cute running cat animation on your windows taskbar. ![open][open.svg]
 - [Spirit](https://antonyjr.in/spirit) - A modern and hackable desktop mascot. [![repo][repo.svg]](https://github.com/antony-jr/spirit) ![open][open.svg]
 
@@ -1166,7 +1200,7 @@
 - [AutoWall](https://github.com/SegoCode/AutoWall) - Live wallpapers on Windows 10/11 using open-source wallpaper engine. ![open][open.svg]
 - ❤️ [Lively Wallpaper](https://rocksdanister.com/lively) - Free and open-source software that allows users to set animated desktop wallpapers and screensavers. [![repo][repo.svg]](https://github.com/rocksdanister/lively) [![store][store.svg]](https://apps.microsoft.com/store/detail/9NTM2QC6QWS7) ![open][open.svg]
 - [ScreenPlay](https://screen-play.app/) - Modern, Cross Plattform, Live Wallpaper, Widgets and AppDrawer! [![repo][repo.svg]](https://gitlab.com/kelteseth/ScreenPlay) ![open][open.svg]
-- [SpaceEye](https://github.com/KYDronePilot/SpaceEye) - Make live satellite imagery your desktop background with SpaceEye. [![store][store.svg]](https://apps.microsoft.com/store/detail/9NF3WZ8TT6MN) ![open][open.svg]
+- [SpaceEye](https://github.com/KYDronePilot/SpaceEye) - Make live satellite imagery your desktop background with SpaceEye. ![open][open.svg]
 - [Superpaper](https://github.com/hhannine/superpaper) - A cross-platform multi monitor wallpaper manager. ![open][open.svg]
 - [WinDynamicDesktop](https://github.com/t1m0thyj/WinDynamicDesktop) - WinDynamicDesktop ports the Dynamic Desktop feature from macOS Mojave to Windows 10. [![store][store.svg]](https://apps.microsoft.com/store/detail/9NM8N7DQ3Z5F) ![open][open.svg]
 
@@ -1216,6 +1250,7 @@
 - ❤️ [cppcryptfs](https://github.com/bailey27/cppcryptfs) - An implementation of the gocryptfs encrypted overlay filesystem in C++ for Windows. ![open][open.svg]
 - ❤️ [Cryptomator](https://cryptomator.org/) - Multi-platform transparent client-side encryption of your files in the cloud. [![repo][repo.svg]](https://github.com/cryptomator/cryptomator) ![open][open.svg]
 - ❤️ [Gnupg](https://gnupg.org/) - A complete and free implementation of the OpenPGP standard as defined by PGP. ![open][open.svg]
+- [FileKey](https://filekey.app/) - FileKey is an offline web app that lets you quickly encrypt and share files using passkeys. [![repo][repo.svg]](https://github.com/RockwellShah/filekey) ![open][open.svg]
 - [Hat.sh](https://hat.sh/) - Encrypt and Decrypt files securely in your browser. [![repo][repo.svg]](https://github.com/sh-dv/hat.sh) ![open][open.svg]
 - [Horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted horcruxes so that you don't need to remember a passcode. ![open][open.svg]
 - [Kryptor](https://www.kryptor.co.uk/) - A simple, modern, and secure encryption and signing tool that aims to be a better version of age and Minisign. [![repo][repo.svg]](https://github.com/samuel-lucas6/Kryptor) ![open][open.svg]
@@ -1227,7 +1262,7 @@
 
 - [Fort Firewall](https://github.com/tnodir/fort) - Fort Firewall for Windows. ![open][open.svg]
 - ❤️ [Portmaster](https://safing.io/) - Monitor all network activity. [![repo][repo.svg]](https://github.com/safing/portmaster) ![open][open.svg]
-- ❤️ [Simplewall](https://www.henrypp.org/product/simplewall) - Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer. [![repo][repo.svg]](https://github.com/henrypp/simplewall) ![open][open.svg]
+- ❤️ [Simplewall](https://github.com/henrypp/simplewall) - Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer. ![open][open.svg]
 - Windows Defender Firewall - A stateful host firewall.
 
 ### Password Managers
@@ -1235,6 +1270,7 @@
 - ❤️ [Bitwarden](https://bitwarden.com/) - An open source password manager. [![repo][repo.svg]](https://github.com/bitwarden/desktop) [![store][store.svg]](https://apps.microsoft.com/store/detail/9PJSDV0VPK04) ![open][open.svg]
 - ❤️ [KeePassXC](https://keepassxc.org/) - A modern, secure, and open-source password manager that stores and manages your most sensitive information. [![repo][repo.svg]](https://github.com/keepassxreboot/keepassxc) [![store][store.svg]](https://apps.microsoft.com/store/detail/keepassxc/XP8K2L36VP0QMB) ![open][open.svg]
 - [KeeWeb](https://app.keeweb.info) - This webapp is a browser and desktop password manager compatible with KeePass databases. [![repo][repo.svg]](https://github.com/keeweb/keeweb) ![open][open.svg]
+- [Proton Pass](https://proton.me/pass) - Free password manager with identity protection. [![repo][repo.svg]](https://github.com/protonpass/) ![open][open.svg]
 - ❤️ [Ente Auth](https://auth.ente.io/) - An end-to-end encrypted, cross platform and free app for storing your 2FA codes with cloud backups. [![repo][repo.svg]](https://github.com/ente-io/ente) ![open][open.svg]
 - [Diceware Passphrase Generator](https://www.rempe.us/diceware/) - A tool for generating strong Diceware passwords, with entropy and crack time estimates. [![repo][repo.svg]](https://github.com/grempe/diceware) ![open][open.svg]
 - ~~[LessPass](https://www.lesspass.com/) - A stateless password manager.~~ [![repo][repo.svg]](https://github.com/lesspass/lesspass)
@@ -1249,8 +1285,11 @@
 
 - [O&O ShutUp10++](https://www.oo-software.com/en/shutup10) - Free antispy tool for Windows 10 and 11.
 - [Optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer. ![open][open.svg]
-- [Privatezilla](https://www.builtbybel.com/ms-apps/privatezilla) - Performs a privacy & security check of Windows 10. [![repo][repo.svg]](https://github.com/builtbybel/privatezilla) ![open][open.svg]
-- [Winpilot](https://builtbybel.com/blog/bloatynosy-is-now-winpilot) - Your everyday Windows companion. [![repo][repo.svg]](https://github.com/builtbybel/Winpilot) ![open][open.svg]
+- [Privatezilla](https://github.com/builtbybel/privatezilla) - Performs a privacy & security check of Windows 10. ![open][open.svg]
+- [Bloatynosy](https://github.com/builtbybel/Bloatynosy) - Your everyday Windows companion. ![open][open.svg]
+- [RyTuneX](https://rayenghanmi.github.io/rytunex) - Your one-stop solution for enhancing Windows 10 and 11. Built with precision, designed for performance. [![repo][repo.svg]](https://github.com/rayenghanmi/RyTuneX) ![open][open.svg]
+- [Awesome Win11](https://windows12.glitch.me/) - Windows 11 Settings, Tweaks, Scripts. [![repo][repo.svg]](https://github.com/awesome-windows11/windows11)
+- [Harden Windows Security](https://hotcakex.github.io/) - Harden Windows Safely, Securely, Only With Official Microsoft Methods. [![repo][repo.svg]](https://github.com/HotCakeX/Harden-Windows-Security)
 
 ### VPN
 
@@ -1272,7 +1311,7 @@
 - ❤️ [AutoHotkey](https://autohotkey.com/) - A free, open source macro-creation and automation software utility that allows users to automate repetitive tasks. [![repo][repo.svg]](https://github.com/AutoHotkey/AutoHotkey) ![open][open.svg]
 - ❤️ [Beeftext](https://beeftext.org/) - A text snippet tool for Windows. [![repo][repo.svg]](https://github.com/xmichelo/Beeftext) ![open][open.svg]
 - ❤️ [espanso](https://espanso.org/) - A cross-platform Text Expander written in Rust. [![repo][repo.svg]](https://github.com/federico-terzi/espanso) ![open][open.svg]
-- [Macro Deck](https://macrodeck.org/) - A open source software to use your smartphone, tablet or almost any touch screen device with a internet browser as a simple macro pad or even as an powerful automation solution for streaming, gaming, content creation and more. [![repo][repo.svg]](https://github.com/Macro-Deck-org/Macro-Deck) ![open][open.svg]
+- [Macro Deck](https://macro-deck.app/) - A open source software to use your smartphone, tablet or almost any touch screen device with a internet browser as a simple macro pad or even as an powerful automation solution for streaming, gaming, content creation and more. [![repo][repo.svg]](https://github.com/Macro-Deck-org/Macro-Deck) ![open][open.svg]
 - [Mouse Jiggler](https://github.com/arkane-systems/mousejiggler) - A very simple piece of software whose sole function is to "fake" mouse input to Windows, and jiggle the mouse pointer back and forth. ![open][open.svg]
 - [Power Automate](https://apps.microsoft.com/store/detail/9NFTCH6J7FHV) - Power Automate allows you to automate web and desktop applications on your Windows desktop by mimicking the user interface actions like clicks, and keyboard input.
 - [Shutdown Timer Classic](https://github.com/lukaslangrock/ShutdownTimerClassic) - Pick a time and let your computer shutdown itself. [![store][store.svg]](https://apps.microsoft.com/store/detail/9NTDG6C9BTTW) ![open][open.svg]
@@ -1285,9 +1324,12 @@
 
 ### Clipboard Managers
 
+- [Clipboard](https://getclipboard.app/) - A utility that lets you cut, copy, and paste text and files on any PC. [![repo][repo.svg]](github.com/Slackadays/Clipboard) ![open][open.svg]
 - [Clipboard Canvas](https://github.com/d2dyno1/ClipboardCanvas) - A tool that helps you be productive, preview multiple files on Infinite Canvas, save storage space with smart Reference Files, and work uninterruptibly with Autopaste. [![store][store.svg]](https://apps.microsoft.com/store/detail/9NN2NZG8RLTB) ![open][open.svg]
 - ❤️ [CopyQ](https://hluk.github.io/CopyQ/) - An advanced clipboard manager with powerful editing and scripting features. [![repo][repo.svg]](https://github.com/hluk/CopyQ) ![open][open.svg]
 - ❤️ [Ditto](https://ditto-cp.sourceforge.io/) - An extension to the standard windows clipboard. [![repo][repo.svg]](https://github.com/sabrogden/Ditto) [![store][store.svg]](https://apps.microsoft.com/store/detail/9NBLGGH3ZBJQ)
+- [PasteBar](https://www.pastebar.app/) - Limitless, Free Clipboard Manager for Mac and Windows. [![repo][repo.svg]](https://github.com/PasteBar/PasteBarApp)
+- [Rememory](https://github.com/hpavlo/Rememory) - A powerful clipboard manager that supercharges your productivity by saving everything you copy. ![open][open.svg]
 - [XClipper](https://kaustubhpatange.github.io/XClipper) - A clipboard manager for Windows & Android which helps to track clipboard activities and makes it easier to interact with them. [![repo][repo.svg]](https://github.com/KaustubhPatange/XClipper) ![open][open.svg]
 
 ### File Search
@@ -1295,14 +1337,13 @@
 - ❤️ [Everything](https://www.voidtools.com/) - Locate files and folders by name instantly.
 - ❤️ [EverythingToolbar](https://github.com/stnkl/EverythingToolbar) - Everything integration for the Windows taskbar.
 - [Orange](https://0-range.github.io/) - A cross-platform desktop application for searching local files. [![repo][repo.svg]](https://github.com/naaive/orange) ![open][open.svg]
-- [Spyglass](https://docs.spyglass.fyi/) - A personal search engine, crawl & index websites/files you want with a simple set of rules. [![repo][repo.svg]](https://github.com/a5huynh/spyglass) ![open][open.svg]
+- [Spyglass](https://docs.spyglass.fyi/) - A personal search engine, crawl & index websites/files you want with a simple set of rules. [![repo][repo.svg]](https://github.com/spyglass-search/spyglass) ![open][open.svg]
 - ❤️ [dnGrep](https://dngrep.github.io/) - dnGrep allows you to search across files with easy-to-read results. [![repo][repo.svg]](https://github.com/dnGrep/dnGrep) ![open][open.svg]
 - ❤️ [grepWin](https://tools.stefankueng.com/grepWin.html) - A powerful and fast search tool using regular expressions. [![repo][repo.svg]](https://github.com/stefankueng/grepWin) ![open][open.svg]
 
 ### Journaling
 
 - [linked](https://uselinked.com/) - Daily journaling without distraction. [![repo][repo.svg]](https://github.com/lostdesign/linked) ![open][open.svg]
-- ❤️ [Mini Diary](https://github.com/samuelmeuli/mini-diary) - Simple and secure journal app. [![repo][repo.svg]](https://github.com/samuelmeuli/mini-diary) ![open][open.svg]
 - [RedNotebook](https://rednotebook.app/) - A modern desktop journal. [![repo][repo.svg]](https://github.com/jendrikseipp/rednotebook) ![open][open.svg]
 
 ### Markdown Editors
@@ -1335,15 +1376,16 @@ AngularJS-powered HTML5 Markdown editor. [![repo][repo.svg]](https://github.com/
 - [SilentNotes](https://www.martinstoeckli.ch/silentnotes) - A simple note taking app which respects your privacy. [![repo][repo.svg]](https://github.com/martinstoeckli/SilentNotes) [![store][store.svg]](https://apps.microsoft.com/store/detail/9P14JXNCRXSK) ![open][open.svg]
 - ❤️ [Standard Notes](https://standardnotes.com/) - A free, open-source, and completely encrypted notes app. [![repo][repo.svg]](https://github.com/standardnotes/app)
 - [Simplenote](https://simplenote.com/) - The simplest way to keep notes. [![store][store.svg]](https://apps.microsoft.com/store/detail/9NXQQ40LDW3X)
-- ❤️ [AppFlowy](https://www.appflowy.io/) - An open-source alternative to Notion. [![repo][repo.svg]](https://github.com/AppFlowy-IO/appflowy) ![open][open.svg]
-- [Athens](https://athensresearch.github.io/athens) - An open-source knowledge graph that helps individuals and organizations solve complex problems by enabling them to capture, compose, and recombine ideas. [![repo][repo.svg]](https://github.com/athensresearch/athens) ![open][open.svg]
+- [AppFlowy](https://www.appflowy.io/) - An open-source alternative to Notion. [![repo][repo.svg]](https://github.com/AppFlowy-IO/appflowy) ![open][open.svg]
+- [Beaver Notes](https://beavernotes.com/) - A privacy-focused note-taking application for macOS, Windows and GNU/Linux. [![repo][repo.svg]](https://github.com/Beaver-Notes/Beaver-Notes) ![open][open.svg]
 - [Foam](https://foambubble.github.io/) - A personal knowledge management and sharing system for VSCode. [![repo][repo.svg]](https://github.com/foambubble/foam) ![open][open.svg]
 - ❤️ [Logseq](https://logseq.com/) - A privacy-first, open-source platform for knowledge management and collaboration. [![repo][repo.svg]](https://github.com/logseq/logseq) ![open][open.svg]
-- [Notes](https://www.get-notes.com/) - An open source and cross-platform note-taking app that is both beautiful and powerful. [![repo][repo.svg]](https://github.com/nuttyartist/notes) ![open][open.svg]
+- [Notes](https://www.notes-foss.com/) - An open source and cross-platform note-taking app that is both beautiful and powerful. [![repo][repo.svg]](https://github.com/nuttyartist/notes) ![open][open.svg]
 - ❤️ [Obsidian](https://obsidian.md/) - A powerful knowledge base on top of a local folder of plain text Markdown files.
-- [Reor](https://reorproject.org/) - Self-organizing AI note-taking app that runs models locally. [![repo][repo.svg]](https://github.com/reorproject/reor) ![open][open.svg]
 - ❤️ [QOwnNotes](https://www.qownnotes.org/) - A plain-text file notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration. [![repo][repo.svg]](https://github.com/pbek/QOwnNotes) ![open][open.svg]
+- [Reor](https://reorproject.org/) - Self-organizing AI note-taking app that runs models locally. [![repo][repo.svg]](https://github.com/reorproject/reor) ![open][open.svg]
 - ❤️ [TriliumNext Notes](https://github.com/TriliumNext/Notes) - A hierarchical note taking application with focus on building large personal knowledge bases. ![open][open.svg]
+- [VNote](https://app.vnote.fun/) - A pleasant note-taking platform in native C++. [![repo][repo.svg]](https://github.com/vnotex/vnote) ![open][open.svg]
 - ❤️ [Zettlr](https://www.zettlr.com/) - A Markdown Editor for the 21st century. [![repo][repo.svg]](https://github.com/Zettlr/Zettlr) ![open][open.svg]
 - [Butterfly](https://docs.butterfly.linwood.dev/) - Powerful, minimalistic, cross-platform, opensource note-taking app. [![repo][repo.svg]](https://github.com/LinwoodCloud/Butterfly) ![open][open.svg]
 - [Lorien](https://github.com/mbrlabs/Lorien) - An infinite canvas drawing/note-taking app that is focused on performance, small savefiles and simplicity. ![open][open.svg]
@@ -1358,9 +1400,10 @@ AngularJS-powered HTML5 Markdown editor. [![repo][repo.svg]](https://github.com/
 - [Grist](https://www.getgrist.com/) - A modern relational spreadsheet. [![repo][repo.svg]](https://github.com/gristlabs/grist-core/) ![open][open.svg]
 - ❤️ [LibreOffice](https://www.libreoffice.org/) - A free and powerful office suite. [![repo][repo.svg]](https://git.libreoffice.org/core) [![repo][repo.svg]](https://github.com/ONLYOFFICE) ![open][open.svg]
 - [ONLYOFFICE](https://www.onlyoffice.com/) - A powerful online editor for text documents, spreadsheets, presentations, forms and PDF for the platform you use. ![open][open.svg]
-- [mobslide](https://thewh1teagle.github.io/mobslide.web) - Turn your smartphone into presentation remote controller. [![repo][repo.svg]](https://github.com/thewh1teagle/mobslide) ![open][open.svg]
+- [FreeShow](https://freeshow.app/) - A dynamic, user-friendly, and open-source presenter built for all of your presentations. [![repo][repo.svg]](https://github.com/ChurchApps/FreeShow) ![open][open.svg]
 - [Pympress](https://cimbali.github.io/pympress/) - A simple yet powerful PDF reader designed for dual-screen presentations. [![repo][repo.svg]](https://github.com/Cimbali/pympress) ![open][open.svg]
 - [Sozi](http://sozi.baierouge.fr/) - A presentation tool for SVG documents. [![repo][repo.svg]](https://github.com/sozi-projects/Sozi) ![open][open.svg]
+- [mobslide](https://thewh1teagle.github.io/mobslide.web) - Turn your smartphone into presentation remote controller. [![repo][repo.svg]](https://github.com/thewh1teagle/mobslide) ![open][open.svg]
 - ~~[Google Docs](https://docs.google.com/) - Free online document editor.~~
 - ~~[Microsoft Office Online](https://www.office.com) - Collaborate for free with online versions of Microsoft Word, PowerPoint, Excel, and OneNote.~~
 
@@ -1370,7 +1413,7 @@ AngularJS-powered HTML5 Markdown editor. [![repo][repo.svg]](https://github.com/
 - [PDF4QT](https://jakubmelka.github.io/) - Open source PDF editor. [![repo][repo.svg]](https://github.com/JakubMelka/PDF4QT) [![store][store.svg]](https://apps.microsoft.com/detail/9nr60gq66fcd) ![open][open.svg]
 - [PDFsam](https://pdfsam.org/) - A desktop application to extract pages, split, merge, mix and rotate PDF files. [![repo][repo.svg]](https://github.com/torakiki/pdfsam) ![open][open.svg]
 - [Signature PDF](https://pdf.24eme.fr/) - Free open-source web software for signing PDFs (alone or with others) and also organize pages, edit medata and compress pdf. [![repo][repo.svg]](https://github.com/24eme/signaturepdf) ![open][open.svg]
-- [Stirling-PDF](https://stirlingpdf.com/) -  Locally hosted web application that allows you to perform various operations on PDF files. [![repo][repo.svg]](https://github.com/Stirling-Tools/Stirling-PDF) ![open][open.svg]
+- [Stirling-PDF](https://stirlingpdf.com/) - Locally hosted web application that allows you to perform various operations on PDF files. [![repo][repo.svg]](https://github.com/Stirling-Tools/Stirling-PDF) ![open][open.svg]
 
 ### Task Management
 
@@ -1386,7 +1429,7 @@ AngularJS-powered HTML5 Markdown editor. [![repo][repo.svg]](https://github.com/
 - [Lotti](https://github.com/matthiasn/lotti) - Lotti helps you track habits, behavior, any data about yourself, in complete privacy. ![open][open.svg]
 - [Nomie](https://nomie.app/) - Open-source mood and life tracking. [![repo][repo.svg]](https://github.com/open-nomie/nomie5) ![open][open.svg]
 - [Strategr](https://khrykin.github.io/strategr/) - No-Fuss Time Management App. [![repo][repo.svg]](https://github.com/khrykin/StrategrDesktop) ![open][open.svg]
-- [Tockler](https://maygo.github.io/tockler/) - An application that tracks your time by monitoring your active window title and idle time. [![repo][repo.svg]](https://github.com/MayGo/tockler) ![open][open.svg]
+- [Tockler](https://tockler.trimatech.dev/) - An application that tracks your time by monitoring your active window title and idle time. [![repo][repo.svg]](https://github.com/MayGo/tockler) ![open][open.svg]
 - [ididit!](https://ididit.today/) - The procrastination friendly habit tracker. [![repo][repo.svg]](https://github.com/Jinjinov/Ididit) [![store][store.svg]](https://apps.microsoft.com/store/detail/ididit/9P5L0K28XWM3) ![open][open.svg]
 - ~~[Habitica](https://habitica.com/) - A habit tracker app which treats your goals like a Role Playing Game.~~ [![repo][repo.svg]](https://github.com/HabitRPG/habitica)
 
@@ -1397,10 +1440,11 @@ AngularJS-powered HTML5 Markdown editor. [![repo][repo.svg]](https://github.com/
 
 ### Writing Tools
 
-- [bibisco](https://bibisco.com/) - An open source application for writing novels. [![repo][repo.svg]](https://github.com/andreafeccomandi/bibisco) ![open][open.svg]
-- [ghostwriter](https://github.com/wereturtle/ghostwriter) - A cross-platform, aesthetic, distraction-free Markdown editor. ![open][open.svg]
 - [KIT Scenarist](https://kitscenarist.ru/en/) - Simple and powerful application for writing screenplays. [![repo][repo.svg]](https://github.com/dimkanovikov/KITScenarist) ![open][open.svg]
 - [Manuskript](http://www.theologeek.ch/manuskript) - A open-source tool for writers. [![repo][repo.svg]](https://github.com/olivierkes/manuskript) ![open][open.svg]
+- [Writing Tools](https://github.com/theJayTea/WritingTools) - Writing Tools is an Apple Intelligence-inspired application for Windows, Linux, and macOS that supercharges your writing with an AI LLM (cloud-based or local).
+- [bibisco](https://bibisco.com/) - An open source application for writing novels. [![repo][repo.svg]](https://github.com/andreafeccomandi/bibisco) ![open][open.svg]
+- [ghostwriter](https://github.com/wereturtle/ghostwriter) - A cross-platform, aesthetic, distraction-free Markdown editor. ![open][open.svg]
 - [novelWriter](https://novelwriter.io/) - An open source plain text editor designed for writing novels. [![repo][repo.svg]](https://github.com/vkbo/novelWriter) ![open][open.svg]
 
 ### Others
@@ -1408,6 +1452,7 @@ AngularJS-powered HTML5 Markdown editor. [![repo][repo.svg]](https://github.com/
 - [PdfScribe](https://github.com/stchan/PdfScribe) - A PDF virtual printer for 64-bit Windows / .NET 4.8 or later. ![open][open.svg]
 - [Scribus](https://www.scribus.net/) - An open source desktop publishing software. [![repo][repo.svg]](https://sourceforge.net/projects/scribus/) ![open][open.svg]
 - [TeXstudio](https://www.texstudio.org/) - A fully featured LaTeX editor. [![repo][repo.svg]](https://github.com/texstudio-org/texstudio) ![open][open.svg]
+- [quiver](https://q.uiver.app/) - A modern commutative diagram editor for the web. [![repo][repo.svg]](https://github.com/varkor/quiver) ![open][open.svg]
 - [Typst](https://typst.app/) - A new markup-based typesetting system that is powerful and easy to learn. [![repo][repo.svg]](https://github.com/typst/typst) ![open][open.svg]
 - [Datawrapper](https://datawrapper.de/) - An open source tool helping everyone to create simple, correct and embeddable charts in minutes.
 - [RAWGraphs](https://rawgraphs.io/) - An open web tool to create custom vector-based visualizations on top of the amazing d3.js library. [![repo][repo.svg]](https://github.com/rawgraphs) ![open][open.svg]
@@ -1415,7 +1460,7 @@ AngularJS-powered HTML5 Markdown editor. [![repo][repo.svg]](https://github.com/
 - [Resumake](https://resumake.io/) - A website for automatically generating elegant LaTeX resumes. [![repo][repo.svg]](https://github.com/saadq/resumake.io) ![open][open.svg]
 - ❤️ [KDE Connect](https://kdeconnect.kde.org/) - Enabling communication between all your devices. [![repo][repo.svg]](https://invent.kde.org/network/kdeconnect-kde) [![store][store.svg]](https://apps.microsoft.com/store/detail/9N93MRMSXBF0) ![open][open.svg]
 - Phone Link - Link your Android phone and PC to view and reply to text messages, make and receive calls, view your notifications, and more.
-- [Seki](https://github.com/shrimqy/Seki) - Phone Link / KDE Connect alternative with Notification Mirroring, Screen Mirroring, Clipboard Sync, File Transfer, Media Control. [![store][store.svg]](https://apps.microsoft.com/detail/9pjv6d1jpg0h) ![open][open.svg]
+- [Sefirah](https://github.com/shrimqy/Sefirah) - Phone Link / KDE Connect alternative with Notification Mirroring, Screen Mirroring, Clipboard Sync, File Transfer, Media Control. [![store][store.svg]](https://apps.microsoft.com/detail/9pjv6d1jpg0h) ![open][open.svg]
 - [ntfy](https://ntfy.sh/) - A simple HTTP-based pub-sub notification service. [![repo][repo.svg]](https://github.com/binwiederhier/ntfy) ![open][open.svg]
 - [ClickPaste](https://github.com/Collective-Software/ClickPaste) - Windows 10 notification area app in C# that can paste clipboard contents as keystrokes to whatever location you click. ![open][open.svg]
 - [DropPoint](https://droppoint.netlify.app/) - Make drag-and-drop easier using DropPoint. [![repo][repo.svg]](https://github.com/GameGodS3/DropPoint) ![open][open.svg]
@@ -1450,6 +1495,7 @@ AngularJS-powered HTML5 Markdown editor. [![repo][repo.svg]](https://github.com/
 - ❤️ [Rufus](https://rufus.ie/) - A utility that helps format and create bootable USB flash drives. [![repo][repo.svg]](https://github.com/pbatard/rufus) [![store][store.svg]](https://apps.microsoft.com/store/detail/9PC3H3V7Q9CH) ![open][open.svg]
 - [UNetbootin](http://unetbootin.github.io/) - UNetbootin allows you to create bootable Live USB drives for Ubuntu and other Linux distributions without burning a CD. [![repo][repo.svg]](https://github.com/unetbootin/unetbootin)
 - [USBImager](https://gitlab.com/bztsrc/usbimager) - A very minimal GUI app that can write compressed disk images to USB drives.
+- [MultiOS-USB](https://github.com/Mexit/MultiOS-USB) - Boot operating systems directly from ISO/WIM images. ![open][open.svg]
 - [Ventoy](https://www.ventoy.net/) - A Multiboot Bootable USB Creation Tool. [![repo][repo.svg]](https://github.com/ventoy/Ventoy) ![open][open.svg]
 - [UUP dump](https://uupdump.net/) - Download UUP files from Windows Update servers with ease. [![repo][repo.svg]](https://git.uupdump.net/uup-dump) ![open][open.svg]
 - [UUP Media Creator](https://github.com/gus33000/UUPMediaCreator) - An utility to convert Unified Update Platform file sets into Windows Media files. [![store][store.svg]](https://apps.microsoft.com/store/detail/9N1Z0JXB224X) ![open][open.svg]
@@ -1502,6 +1548,7 @@ AngularJS-powered HTML5 Markdown editor. [![repo][repo.svg]](https://github.com/
 - [Barrier](https://github.com/debauchee/barrier) - Open-source KVM software. ![open][open.svg]
 - [Deskflow](https://deskflow.org/) - A free and open source keyboard and mouse sharing app. [![repo][repo.svg]](https://github.com/deskflow/deskflow) ![open][open.svg]
 - [Input Leap](https://github.com/input-leap/input-leap) - Open-source KVM software. ![open][open.svg]
+- [InputShare](https://inputshare.github.io/) - Seamlessly share your computer's keyboard, mouse and clipboard with Android device using InputShare. [![repo][repo.svg]](https://github.com/InputShare/InputShare) ![open][open.svg]
 - [Lan Mouse](https://github.com/feschber/lan-mouse) - Mouse & keyboard sharing via LAN. ![open][open.svg]
 
 ### Package Managers
@@ -1549,7 +1596,7 @@ AngularJS-powered HTML5 Markdown editor. [![repo][repo.svg]](https://github.com/
 - [FontForge](http://fontforge.org/) - Free (libre) font editor for Windows, Mac OS X and GNU+Linux. [![repo][repo.svg]](https://github.com/fontforge/fontforge) ![open][open.svg]
 - [GestureSign](https://github.com/TransposonY/GestureSign) - A gesture recognition software for Windows tablet. ![open][open.svg]
 - [barcodrod.io](https://barcodrod.io/) - A free, modern barcode and QR code toolkit for Windows. [![repo][repo.svg]](https://github.com/MarkHopper24/barcodrod.io) [![store][store.svg]](https://apps.microsoft.com/detail/9phmxnx36szz) ![open][open.svg]
-- [Html5-QRCode](https://scanapp.org/) -  A cross platform HTML5 QR code reader. [![repo][repo.svg]](https://github.com/mebjas/html5-qrcode) ![open][open.svg]
+- [Html5-QRCode](https://scanapp.org/) - A cross platform HTML5 QR code reader. [![repo][repo.svg]](https://github.com/mebjas/html5-qrcode) ![open][open.svg]
 - [Key'n'Stroke](https://github.com/Phaiax/Key-n-Stroke) - Displays Keystrokes in an overlay window and visualize mouse clicks. ![open][open.svg]
 - [Keyviz](https://mularahul.github.io/keyviz) - A free and open-source tool to visualize your keystrokes keyboard in real-time. [![repo][repo.svg]](https://github.com/mulaRahul/keyviz) ![open][open.svg]
 - [NVDA](https://www.nvaccess.org/) - The free and open source Screen Reader for Microsoft Windows. [![repo][repo.svg]](https://github.com/nvaccess/nvda)
@@ -1599,7 +1646,7 @@ AngularJS-powered HTML5 Markdown editor. [![repo][repo.svg]](https://github.com/
 - ❤️ [Shotcut](https://www.shotcut.org/) - A free, open source, cross-platform video editor. [![repo][repo.svg]](https://github.com/mltframework/shotcut) ![open][open.svg]
 - [StaxRip](https://github.com/staxrip/staxrip) - Video encoding GUI for Windows. ![open][open.svg]
 - [Kinovea](https://www.kinovea.org/) - A video annotation tool designed for motion analysis. [![repo][repo.svg]](https://github.com/Kinovea/Kinovea) ![open][open.svg]
-- [MKVToolNix](https://mkvtoolnix.download/) - A set of tools to create, alter and inspect Matroska files under Linux, other Unices and Windows. [![repo][repo.svg]](https://gitlab.com/mbunkus/mkvtoolnix)
+- [MKVToolNix](https://mkvtoolnix.download/) - A set of tools to create, alter and inspect Matroska files under Linux, other Unices and Windows. [![repo][repo.svg]](https://codeberg.org/mbunkus/mkvtoolnix)
 - [Natron](http://natrongithub.github.io/) - Open-source video compositing software. [![repo][repo.svg]](https://github.com/NatronGitHub/Natron) ![open][open.svg]
 - ❤️ [Astrofox](https://astrofox.io/) - A motion graphics program that lets turn audio into amazing videos. [![repo][repo.svg]](https://github.com/astrofox-io/astrofox) ![open][open.svg]
 - [Mediabits.io](https://app.mediabits.io/) - Mediabits.io lets anyone create engaging videos for their audio, perfect for sharing on social media. [![repo][repo.svg]](https://github.com/MediaBits-io/editor) ![open][open.svg]
@@ -1609,7 +1656,7 @@ AngularJS-powered HTML5 Markdown editor. [![repo][repo.svg]](https://github.com/
 
 - ❤️ Media Player - Media Player is designed to make listening to and watching your multimedia content more enjoyable.
 - [Rise Media Player](https://github.com/Rise-Software/Rise-Media-Player) - One media player for everything you own or stream. ![open][open.svg]
-- [MPC-BE](https://sourceforge.net/projects/mpcbe/) - A free and open source audio and video player. ![open][open.svg]
+- [MPC-BE](https://github.com/Aleksoid1978/MPC-BE) - A free and open source audio and video player. ![open][open.svg]
 - ❤️ [MPC-HC](https://github.com/clsid2/mpc-hc) - A free and open-source video and audio player. ![open][open.svg]
 - ❤️ [mpv.net](https://github.com/stax76/mpv.net) - A modern media player for Windows based on the popular mpv player. [![store][store.svg]](https://apps.microsoft.com/store/detail/9N64SQZTB3LM) ![open][open.svg]
 - [mpv](https://mpv.io/) - A free, open source, and cross-platform media player. [![repo][repo.svg]](https://github.com/mpv-player/mpv) ![open][open.svg]
@@ -1617,8 +1664,9 @@ AngularJS-powered HTML5 Markdown editor. [![repo][repo.svg]](https://github.com/
 - [VLC](https://www.videolan.org/vlc/) - A cross-platform media player software and streaming media server developed by the VideoLAN project. [![repo][repo.svg]](https://github.com/videolan/vlc) [![store][store.svg]](https://apps.microsoft.com/store/detail/vlc/XPDM1ZW6815MQM) ![open][open.svg]
 - [GridPlayer](https://github.com/vzhd1701/gridplayer) - Simple VLC-based media player that can play multiple videos at the same time. ![open][open.svg]
 - [Kawaii-Player](https://github.com/kanishka-linux/kawaii-player) - Multimedia player, media library manager and portable media server with PC-To-PC casting feature. ![open][open.svg]
-- [Screenbox](https://github.com/huynhsontung/Screenbox) -  LibVLC-based media player for the Universal Windows Platform. [![store][store.svg]](https://www.microsoft.com/store/apps/9NTSNMSVCB5L) ![open][open.svg]
+- [LLPlayer](https://llplayer.com/) - The media player for language learning, with dual subtitles, AI-generated subtitles, real-time translation, and more! [![repo][repo.svg]](https://github.com/umlx5h/LLPlayer) ![open][open.svg]
 - [QMPlay2](https://github.com/zaps166/QMPlay2) - A video and audio player which can play most formats and codecs. ![open][open.svg]
+- [Screenbox](https://github.com/huynhsontung/Screenbox) - LibVLC-based media player for the Universal Windows Platform. [![store][store.svg]](https://www.microsoft.com/store/apps/9NTSNMSVCB5L) ![open][open.svg]
 - [IPTVnator](https://iptvnator.vercel.app/) - A video player application that provides support for the playback of IPTV playlists (m3u, m3u8). [![repo][repo.svg]](https://github.com/4gray/iptvnator) ![open][open.svg]
 - [Open TV](https://github.com/Fredolx/open-tv) - Ultra-fast, simple and powerful cross-platform IPTV app. [![store][store.svg]](https://apps.microsoft.com/detail/9pbwx3rkr1qx) ![open][open.svg]
 - [Vodon Pro](https://github.com/Rodeoclash/vodon-pro) - A video player designed for esports coaches to review footage of players. ![open][open.svg]
@@ -1627,6 +1675,8 @@ AngularJS-powered HTML5 Markdown editor. [![repo][repo.svg]](https://github.com/
 ### Video Streaming
 
 - ❤️ [FreeTube](https://freetubeapp.io/) - An Open Source YouTube app for privacy. [![repo][repo.svg]](https://github.com/FreeTubeApp/FreeTube) ![open][open.svg]
+- [Grayjay](https://grayjay.app/desktop/) - Grayjay combines video content from multiple platforms, such as YouTube, PeerTube, Twitch, and others, into one app, removing the need to switch between different platforms.
+- [Materialious](https://materialio.us/) - Materialious is a privacy respecting frontend for YouTube built ontop of Invidious. [![repo][repo.svg]](https://github.com/Materialious/Materialious) ![open][open.svg]
 - [Invidious](https://invidious.io/) - An alternative front-end to YouTube. [![repo][repo.svg]](https://github.com/iv-org/invidious) ![open][open.svg]
 - ❤️ [Piped](https://piped.video/) - An alternative privacy-friendly YouTube frontend which is efficient by design. [![repo][repo.svg]](https://github.com/TeamPiped/Piped) ![open][open.svg]
 - [Streamlink Twitch GUI](https://streamlink.github.io/streamlink-twitch-gui/) - A multi platform Twitch.tv browser for Streamlink. ![open][open.svg]
