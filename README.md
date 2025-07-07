@@ -627,6 +627,7 @@
 ### Text Editors
 
 - [Brackets](https://brackets.io/) - Brackets is a modern text editor that makes it easy to design in the browser. [![repo][repo.svg]](https://github.com/brackets-cont/brackets)
+- [CodeLobster](https://codelobster.com/) - A handy code editor with special support for all popular frameworks
 - [GNU Emacs](https://www.gnu.org/software/emacs/) - An extensible, customizable, free/libre text editor — and more. [![repo][repo.svg]](https://github.com/emacs-mirror/emacs) ![open][open.svg]
 - [Helix](https://helix-editor.com/) - A post-modern modal text editor. [![repo][repo.svg]](https://github.com/helix-editor/helix) ![open][open.svg]
 - [Heynote](https://heynote.com/) - A dedicated scratchpad for developers. [![repo][repo.svg]](https://github.com/heyman/heynote) ![open][open.svg]
