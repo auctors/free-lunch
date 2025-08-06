@@ -361,6 +361,7 @@
 - [Musicpod](https://github.com/ubuntu-flutter-community/musicpod) - Music, radio, television and podcast player for Ubuntu, Windows, MacOs and Android. ![open][open.svg]
 - [Strawberry Music Player](https://www.strawberrymusicplayer.org/) - A music player and music collection organizer. [![repo][repo.svg]](https://github.com/strawberrymusicplayer/strawberry) ![open][open.svg]
 - [Tauon Music Box](https://tauonmusicbox.rocks/) - The desktop music player from the future! [![repo][repo.svg]](https://github.com/Taiko2k/TauonMusicBox) ![open][open.svg]
+- [Nora Music Player](https://noramusic.netlify.app/) - An elegant music player built using Electron and React.[![repo][repo.svg]](https://github.com/Sandakan/Nora) ![open][open.svg]
 
 ### Music Production
 
