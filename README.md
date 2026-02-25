@@ -1323,6 +1323,7 @@
 
 ### Clipboard Managers
 
+- [Beetroot](https://max.nardit.com/beetroot) - A clipboard manager for Windows with AI text transforms and native OCR extraction. [![repo][repo.svg]](https://github.com/mnardit/beetroot-releases)
 - [Clipboard](https://getclipboard.app/) - A utility that lets you cut, copy, and paste text and files on any PC. [![repo][repo.svg]](github.com/Slackadays/Clipboard) ![open][open.svg]
 - [Clipboard Canvas](https://github.com/d2dyno1/ClipboardCanvas) - A tool that helps you be productive, preview multiple files on Infinite Canvas, save storage space with smart Reference Files, and work uninterruptibly with Autopaste. [![store][store.svg]](https://apps.microsoft.com/store/detail/9NN2NZG8RLTB) ![open][open.svg]
 - ❤️ [CopyQ](https://hluk.github.io/CopyQ/) - An advanced clipboard manager with powerful editing and scripting features. [![repo][repo.svg]](https://github.com/hluk/CopyQ) ![open][open.svg]
