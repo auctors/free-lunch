@@ -565,6 +565,7 @@
 
 #### Email Forwarding Services
 
+- [anon.li Alias](https://anon.li/alias) - Hide your email with free PGP encryption & reply support. [![repo][repo.svg]](https://github.com/anondotli/anon.li) ![open][open.svg]
 - ❤️ [AnonAddy](https://anonaddy.com/) - Anonymous Email Forwarding. [![repo][repo.svg]](https://github.com/anonaddy) ![open][open.svg]
 - ❤️ [Firefox Relay](https://relay.firefox.com/) - Keep your email safe from hackers and trackers. [![repo][repo.svg]](https://github.com/mozilla/fx-private-relay) ![open][open.svg]
 - ❤️ [SimpleLogin](https://simplelogin.io/) - Receive and send emails anonymously. [![repo][repo.svg]](https://github.com/simple-login) ![open][open.svg]
@@ -785,6 +786,7 @@
 
 ### File Sharing Web Apps
 
+- [anon.li Drop](https://anon.li/drop) - End-to-end encrypted file sharing with AES-256-GCM. Send files up to 250GB with a 30 day expiry.
 - [Lufi](https://alt.framasoft.org/en/framadrop/) - Anonymous file sharing services with temporary storage. [![repo][repo.svg]](https://framagit.org/fiat-tux/hat-softwares/lufi) ![open][open.svg]
 - ❤️ [Send](https://github.com/timvisee/send) - Simple, private file sharing. ![open][open.svg]
 - ❤️ [Tresorit Send](https://send.tresorit.com) - Send big files up to 5 GB securely.
