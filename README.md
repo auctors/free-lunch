@@ -380,7 +380,7 @@
 - [Cider](https://cider.sh/) - An open source and community oriented Apple Music client. [![repo][repo.svg]](https://github.com/ciderapp/Cider) ![open][open.svg]
 - [Lofi](https://www.lofi.rocks/) - A mini Spotify player with WebGL visualizations. [![repo][repo.svg]](https://github.com/dvx/lofi) ![open][open.svg]
 - [muffon](https://muffon.netlify.app/) - Music streaming browser. [![repo][repo.svg]](https://github.com/staniel359/muffon) ![open][open.svg]
-- ❤️ [nuclear](https://nuclear.js.org/) - Streaming music player that finds free music for you. [![repo][repo.svg]](https://github.com/nukeop/nuclear) ![open][open.svg]
+- ❤️ [nuclear](https://nuclearplayer.com/) - Streaming music player that finds free music for you. [![repo][repo.svg]](https://github.com/nukeop/nuclear) ![open][open.svg]
 - [Spotube](https://spotube.krtirtho.dev/) - A lightweight free Spotify crossplatform-client which handles playback manually, streams music using Youtube & no Spotify premium account is needed. [![repo][repo.svg]](https://github.com/KRTirtho/spotube)
 - [YouTube Music Desktop](https://ytmdesktop.app/) - A Desktop App for YouTube Music.
 - [YouTube Music](https://th-ch.github.io/youtube-music/) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader). [![repo][repo.svg]](https://github.com/th-ch/youtube-music) ![open][open.svg]
