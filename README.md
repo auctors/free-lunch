@@ -943,6 +943,7 @@
 - [qimgv](https://github.com/easymodo/qimgv) - Image viewer. Fast, easy to use. ![open][open.svg]
 - [Quick Picture Viewer](https://moduleart.github.io/quick-picture-viewer) - Lightweight, versatile desktop image viewer. [![repo][repo.svg]](https://github.com/ModuleArt/quick-picture-viewer) [![store][store.svg]](https://apps.microsoft.com/store/detail/9PJQQRXSVWR1) ![open][open.svg]
 - [qView](https://interversehq.com/qview/) - Practical and minimal image viewer. [![repo][repo.svg]](https://github.com/jurplel/qView) ![open][open.svg]
+- [WobblePic](https://wobblepic.com) - An image viewer with soft-body physics that lets you wobble photos like rubber.
 
 ### OCR
 
