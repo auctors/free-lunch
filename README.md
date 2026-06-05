@@ -1108,6 +1108,7 @@
 ### App Discovery Services
 
 - ❤️ [AlternativeTo](https://alternativeto.net/) - A website which lists alternatives to web-based software, desktop computer software, and mobile apps.
+- [Offline Installer Setup](https://offlineinstallersetup.com/) - A directory of offline/standalone installers for popular Windows software, listing official download sources, versions and silent-install switches.
 - [Product Hunt](https://www.producthunt.com/) - A website that lets users share and discover new products.
 
 ### Privacy and Security Guides
