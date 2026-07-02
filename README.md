@@ -917,6 +917,7 @@
 - [Pixelitor](https://pixelitor.sourceforge.io/) - A desktop image editor. [![repo][repo.svg]](https://github.com/lbalazscs/Pixelitor) ![open][open.svg]
 - [miniPaint](http://viliusle.github.io/miniPaint/) - Online image editor lets you create, edit images using HTML5 technologies. [![repo][repo.svg]](https://github.com/viliusle/miniPaint)
 - ❤️ [Photopea](https://www.photopea.com/) - Online photo editor.
+- [igly.ai](https://igly.ai) - AI image editor for background removal, inpainting, upscaling, and generative fill.
 - [Siril](https://siril.org/) - The Siril image processing software for amateur astronomy. [![repo][repo.svg]](https://gitlab.com/free-astro/siril) ![open][open.svg]
 - [Xpano](https://krupkat.github.io/xpano/) - ![open][open.svg]Automated photo stiching tool. [![repo][repo.svg]](https://github.com/krupkat/xpano) [![store][store.svg]](https://apps.microsoft.com/store/detail/9PGQ5X33L0SC) ![open][open.svg]
 - ❤️ [darktable](https://www.darktable.org/) - An open source photography workflow application and raw developer. [![repo][repo.svg]](https://github.com/darktable-org/darktable) ![open][open.svg]
