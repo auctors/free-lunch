@@ -1327,6 +1327,7 @@
 - [Clipboard Canvas](https://github.com/d2dyno1/ClipboardCanvas) - A tool that helps you be productive, preview multiple files on Infinite Canvas, save storage space with smart Reference Files, and work uninterruptibly with Autopaste. [![store][store.svg]](https://apps.microsoft.com/store/detail/9NN2NZG8RLTB) ![open][open.svg]
 - ❤️ [CopyQ](https://hluk.github.io/CopyQ/) - An advanced clipboard manager with powerful editing and scripting features. [![repo][repo.svg]](https://github.com/hluk/CopyQ) ![open][open.svg]
 - ❤️ [Ditto](https://ditto-cp.sourceforge.io/) - An extension to the standard windows clipboard. [![repo][repo.svg]](https://github.com/sabrogden/Ditto) [![store][store.svg]](https://apps.microsoft.com/store/detail/9NBLGGH3ZBJQ)
+- [NeatCopy](https://stonell1.github.io/neatcopy-website/) - A Windows tray clipboard text processor with local cleanup rules and LLM prompts. [![repo][repo.svg]](https://github.com/StoneLL1/NeatCopy) ![open][open.svg]
 - [PasteBar](https://www.pastebar.app/) - Limitless, Free Clipboard Manager for Mac and Windows. [![repo][repo.svg]](https://github.com/PasteBar/PasteBarApp)
 - [Rememory](https://github.com/hpavlo/Rememory) - A powerful clipboard manager that supercharges your productivity by saving everything you copy. ![open][open.svg]
 - [XClipper](https://kaustubhpatange.github.io/XClipper) - A clipboard manager for Windows & Android which helps to track clipboard activities and makes it easier to interact with them. [![repo][repo.svg]](https://github.com/KaustubhPatange/XClipper) ![open][open.svg]
