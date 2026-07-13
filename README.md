@@ -1412,6 +1412,7 @@ AngularJS-powered HTML5 Markdown editor. [![repo][repo.svg]](https://github.com/
 - [PDF4QT](https://jakubmelka.github.io/) - Open source PDF editor. [![repo][repo.svg]](https://github.com/JakubMelka/PDF4QT) [![store][store.svg]](https://apps.microsoft.com/detail/9nr60gq66fcd) ![open][open.svg]
 - [PDFsam](https://pdfsam.org/) - A desktop application to extract pages, split, merge, mix and rotate PDF files. [![repo][repo.svg]](https://github.com/torakiki/pdfsam) ![open][open.svg]
 - [Signature PDF](https://pdf.24eme.fr/) - Free open-source web software for signing PDFs (alone or with others) and also organize pages, edit medata and compress pdf. [![repo][repo.svg]](https://github.com/24eme/signaturepdf) ![open][open.svg]
+- [Slay PDF](https://slaypdf.com/) - Free open-source local browser PDF editor for splitting, merging, signing, resizing, posterising and editing PDFs without server uploads. [![repo][repo.svg]](https://github.com/emileakbarzadeh/slay-pdf) ![open][open.svg]
 - [Stirling-PDF](https://stirlingpdf.com/) - Locally hosted web application that allows you to perform various operations on PDF files. [![repo][repo.svg]](https://github.com/Stirling-Tools/Stirling-PDF) ![open][open.svg]
 
 ### Task Management
