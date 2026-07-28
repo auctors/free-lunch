@@ -795,6 +795,7 @@
 - [FilePizza](https://file.pizza/) - Peer-to-peer file transfers in your browser. [![repo][repo.svg]](https://github.com/kern/filepizza)
 - [PairDrop](https://pairdrop.net/) - Local file sharing in your web browser. [![repo][repo.svg]](https://github.com/schlagmichdoch/PairDrop) ![open][open.svg]
 - [libcimbar](https://cimbar.org/) - Optimized implementation for color-icon-matrix barcodes. [![repo][repo.svg]](https://github.com/sz3/libcimbar) ![open][open.svg]
+- [8ma Quick Transfer](https://t.8ma.co/en/?from=github-free-lunch) - Free browser-to-browser P2P file and folder transfer with no sign-up or installation.
 
 ### LAN File Sharing
 
