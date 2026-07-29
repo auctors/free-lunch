@@ -1634,6 +1634,7 @@ AngularJS-powered HTML5 Markdown editor. [![repo][repo.svg]](https://github.com/
 - ❤️ [HandBrake](https://handbrake.fr/) - An open-source video transcoder. [![repo][repo.svg]](https://github.com/HandBrake/HandBrake)
 - ❤️ [LosslessCut](https://mifi.no/losslesscut/) - The swiss army knife of lossless video/audio editing. [![repo][repo.svg]](https://github.com/mifi/lossless-cut) [![store][store.svg]](https://apps.microsoft.com/store/detail/losslesscut/9P30LSR4705L) ![open][open.svg]
 - [VidCoder](https://vidcoder.net/) - An open-source DVD/Blu-ray ripping and video transcoding application. [![repo][repo.svg]](https://github.com/RandomEngy/VidCoder) [![store][store.svg]](https://apps.microsoft.com/store/detail/9N78DHWZ3DJX) ![open][open.svg]
+- [Video Size Reducer](https://videosizereducer.org/) - A browser-based tool that compresses MP4 videos to a target file size, processing the file locally without uploading it.
 
 ### Video Editors
 
