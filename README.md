@@ -909,6 +909,7 @@
 ### Image Editors
 
 - [Converseen](https://converseen.fasterland.net/) - A batch image converter and resizer. [![repo][repo.svg]](https://github.com/Faster3ck/Converseen) ![open][open.svg]
+- [Emote Resizer](https://emoteresize.com) - A browser-based batch resizer that exports one image into every Twitch, Discord, 7TV and Slack emote, badge and sticker size, including animated GIFs.
 - ❤️ [GIMP](https://www.gimp.org/) - A cross-platform image editor. [![repo][repo.svg]](https://gitlab.gnome.org/GNOME/gimp) [![store][store.svg]](https://apps.microsoft.com/detail/9pnsjclxdz0v) ![open][open.svg]
 - ❤️ [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A patch for optimizing GIMP 2.10+ for Adobe Photoshop users. ![open][open.svg]
 - [ImageMagick](https://imagemagick.org/) - A software suite to create, edit, and compose bitmap images. [![repo][repo.svg]](https://github.com/ImageMagick/ImageMagick)
