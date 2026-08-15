@@ -1279,6 +1279,7 @@
 - ❤️ [ExifCleaner](https://exifcleaner.com/) - Cross-platform desktop GUI app to clean image metadata. [![repo][repo.svg]](https://github.com/szTheory/exifcleaner) ![open][open.svg]
 - [ExifTool](https://exiftool.org/) - ExifTool is a platform-independent Perl library plus a command-line application for reading, writing and editing meta information in a wide variety of files.
 - [jExifToolGUI](https://hvdwolf.github.io/jExifToolGUI/) - Graphical frontend for the excellent command-line ExifTool by Phil Harvey. [![repo][repo.svg]](https://github.com/hvdwolf/jExifToolGUI) ![open][open.svg]
+- [MetaClean](https://github.com/Moresyl/metaclean) - Offline desktop app for inspecting and removing metadata from images, Office documents, PDFs, and text files. [![repo][repo.svg]](https://github.com/Moresyl/metaclean) ![open][open.svg]
 
 ### System Tweakers
 
