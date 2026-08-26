@@ -928,6 +928,7 @@
 
 - [Caesium Image Compressor](https://caesium.app/) - An image compression web app.
 - [Caesium](https://saerasoft.com/caesium) - A cross-platform image compression software. [![repo][repo.svg]](https://github.com/Lymphatus/caesium-image-compressor) ![open][open.svg]
+- [Compress Image to Target Size](https://abox.tools/compress-image/) - A browser image compressor that takes the file size you need and finds the quality that fits under it. Nothing is uploaded. [![repo][repo.svg]](https://github.com/A-Box-of-Tools/website) ![open][open.svg]
 - ❤️ [Imagine](https://github.com/meowtec/Imagine) - A desktop app for compression of PNG and JPEG, with a modern and friendly UI. ![open][open.svg]
 - [MAZANOKE](https://mazanoke.com/) - A self-hosted local image optimizer that runs in your browser. [![repo][repo.svg]](https://github.com/civilblur/mazanoke) ![open][open.svg]
 - ❤️ [Squoosh](https://squoosh.app/) - An image compression web app that reduces image sizes through numerous formats. [![repo][repo.svg]](https://github.com/GoogleChromeLabs/squoosh) ![open][open.svg]
