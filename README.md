@@ -333,6 +333,7 @@
 
 - [ChaiNNer](https://chainner.app/) - A node-based image processing GUI aimed at making chaining image processing tasks easy and customizable. [![repo][repo.svg]](https://github.com/chaiNNer-org/chaiNNer) ![open][open.svg]
 - [Clara](https://claraverse.netlify.app/) - Your Fully Local AI Superstack — Not Just Another Chat UI. [![repo][repo.svg]](https://github.com/badboysm890/ClaraVerse)
+- [Codex Quota Overlay](https://github.com/cpys/codex-quota-overlay) - Independent Windows tray utility that displays Codex quota limits, reset countdowns, pace and forecast context, and a local quota center. [![repo][repo.svg]](https://github.com/cpys/codex-quota-overlay) ![open][open.svg]
 - [Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating. ![open][open.svg]
 - [GPT4All](https://nomic.ai/gpt4all) - GPT4All runs large language models (LLMs) privately on everyday desktops & laptops. [![repo][repo.svg]](https://github.com/nomic-ai/gpt4all) ![open][open.svg]
 - [Jan](https://jan.ai/) - An open source alternative to ChatGPT that runs 100% offline on your computer. [![repo][repo.svg]](https://github.com/janhq/jan) ![open][open.svg]
