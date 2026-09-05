@@ -1456,6 +1456,7 @@ AngularJS-powered HTML5 Markdown editor. [![repo][repo.svg]](https://github.com/
 - [Datawrapper](https://datawrapper.de/) - An open source tool helping everyone to create simple, correct and embeddable charts in minutes.
 - [RAWGraphs](https://rawgraphs.io/) - An open web tool to create custom vector-based visualizations on top of the amazing d3.js library. [![repo][repo.svg]](https://github.com/rawgraphs) ![open][open.svg]
 - [Reactive Resume](https://rxresu.me/) - A free and open source resume builder. [![repo][repo.svg]](https://github.com/AmruthPillai/Reactive-Resume) ![open][open.svg]
+- [ResumeAI](https://withresumeai.com/) - Free ATS checker + AI resume builder; State of ATS 2026 (738 employers / 704 portal-verified).
 - [Resumake](https://resumake.io/) - A website for automatically generating elegant LaTeX resumes. [![repo][repo.svg]](https://github.com/saadq/resumake.io) ![open][open.svg]
 - ❤️ [KDE Connect](https://kdeconnect.kde.org/) - Enabling communication between all your devices. [![repo][repo.svg]](https://invent.kde.org/network/kdeconnect-kde) [![store][store.svg]](https://apps.microsoft.com/store/detail/9N93MRMSXBF0) ![open][open.svg]
 - Phone Link - Link your Android phone and PC to view and reply to text messages, make and receive calls, view your notifications, and more.
