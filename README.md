@@ -932,6 +932,8 @@
 - [MAZANOKE](https://mazanoke.com/) - A self-hosted local image optimizer that runs in your browser. [![repo][repo.svg]](https://github.com/civilblur/mazanoke) ![open][open.svg]
 - ❤️ [Squoosh](https://squoosh.app/) - An image compression web app that reduces image sizes through numerous formats. [![repo][repo.svg]](https://github.com/GoogleChromeLabs/squoosh) ![open][open.svg]
 
+- [AVIFCrate](https://avifcrate.com/) - Convert AVIF images to JPG/JPEG directly in your browser, with local private processing, bulk export, quality controls and 12-bit support.
+
 ### Image Viewers
 
 - ❤️ [FastStone Image Viewer](https://www.faststone.org/FSViewerDetail.htm) - A fast, stable, user-friendly image browser, converter and editor.
