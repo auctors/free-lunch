@@ -680,6 +680,7 @@
 - [Tartube](https://github.com/axcore/tartube) - A GUI front-end for youtube-dl. ![open][open.svg]
 - [Video Downloader](https://github.com/mayeaux/videodownloader) - A video and channel downloader that supports 110 websites.
 - [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - An application that lets you download videos from YouTube. ![open][open.svg]
+- [Video Downloader for PowerToys Run](https://github.com/ruslanlap/PowerToysRun-VideoDownloader) - Download videos from YouTube and 1000+ sites straight from the PowerToys Run launcher (Alt+Space, `dl <url>`). [![repo][repo.svg]](https://github.com/ruslanlap/PowerToysRun-VideoDownloader) ![open][open.svg]
 - [HakuNeko](https://hakuneko.download/) - A cross-platform downloader for manga and anime from various websites. [![repo][repo.svg]](https://github.com/manga-download/hakuneko)
 - [N_m3u8DL-CLI](https://nilaoda.github.io/N_m3u8DL-CLI/) - A command line tool for downloading m3u8. [![repo][repo.svg]](https://github.com/nilaoda/N_m3u8DL-CLI) ![open][open.svg]
 - [SCrawler](https://github.com/AAndyProgram/SCrawler) - Media downloader from any sites, including Twitter, Reddit, Instagram, TikTok, PornHub, XHamster, XVIDEOS etc. ![open][open.svg]
