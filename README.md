@@ -687,6 +687,7 @@
 - [Twitch Leecher](https://github.com/Franiac/TwitchLeecher) - An extremely fast and easy to use Twitch VOD downloader. ![open][open.svg]
 - [Ytmdl](https://ytmdl.deepjyoti30.dev/) - A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, Spotify, LastFM, Deezer, Gaana etc. [![repo][repo.svg]](https://github.com/deepjyoti30/ytmdl) ![open][open.svg]
 - [gallery-dl](https://github.com/mikf/gallery-dl) - Command-line program to download image galleries and collections from several image hosting sites. ![open][open.svg]
+- [Riplox](https://xniperbuilds.com/riplox-desktop/) - A video downloader that also takes links shared from your phone. [![repo][repo.svg]](https://github.com/xniperbuilds/riplox-desktop) ![open][open.svg]
 
 ### Torrent Clients
 
