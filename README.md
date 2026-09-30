@@ -644,6 +644,7 @@
 - ❤️ [adb](https://developer.android.com/studio/releases/platform-tools) - A programming tool used for the debugging of Android-based devices.
 - ❤️ [DevToys](https://devtoys.app/) - A Swiss Army knife for developers. [![repo][repo.svg]](https://github.com/veler/DevToys) [![store][store.svg]](https://apps.microsoft.com/store/detail/9PGCV4V3BK4W) ![open][open.svg]
 - [IT Tools](https://it-tools.tech/) - Collection of handy online tools for developers, with great UX. [![repo][repo.svg]](https://github.com/CorentinTh/it-tools) ![open][open.svg]
+- [Text Reverse](https://www.textreverse.io/) - Reverse, flip, or write text backwards in the browser — free, no sign-up.
 - [GitButler](https://gitbutler.com/) - Git branch management tool, built from the ground up for modern workflows. [![repo][repo.svg]](https://github.com/gitbutlerapp/gitbutler) ![open][open.svg]
 - [Gitnuro](https://gitnuro.com/) - A FOSS Git multiplatform client for newbies and pros. [![repo][repo.svg]](https://github.com/JetpackDuba/Gitnuro) ![open][open.svg]
 - [massCode](https://masscode.io/) - A free and open source code snippets manager for developers. [![repo][repo.svg]](https://github.com/massCodeIO/massCode)
