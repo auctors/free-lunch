@@ -1038,6 +1038,7 @@
 - [Eyes Guard](https://github.avestura.dev/EyesGuard) - A Windows application for protecting your eyes when you are working with your PC or Laptop. [![repo][repo.svg]](https://github.com/avestura/EyesGuard) ![open][open.svg]
 - [Pomatez](https://zidoro.github.io/pomatez/) - An open-source Pomodoro timer application aimed for simplicity and productivity. [![repo][repo.svg]](https://github.com/zidoro/pomatez/) ![open][open.svg]
 - [Pomotroid](https://splode.github.io/pomotroid/) - Simple and visually-pleasing Pomodoro timer. [![repo][repo.svg]](https://github.com/Splode/pomotroid) ![open][open.svg]
+- [Awayra](https://awayra.github.io/AWAYRA-WPF/) - Offline Windows break reminder with separate eye and movement schedules and guided breaks. [![repo][repo.svg]](https://github.com/AWAYRA/AWAYRA-WPF) ![open][open.svg]
 - [Stretchly](https://hovancik.net/stretchly) - The break time reminder app. [![repo][repo.svg]](https://github.com/hovancik/stretchly) ![open][open.svg]
 - [Workrave](https://workrave.org/) - A free program that assists in the recovery and prevention of Repetitive Strain Injury (RSI). [![repo][repo.svg]](https://github.com/rcaelers/workrave) ![open][open.svg]
 - [OpenStreetMap](https://www.openstreetmap.org/) - A collaborative project to create a free editable map of the world.
