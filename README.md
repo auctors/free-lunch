@@ -762,6 +762,7 @@
 - ❤️ [Dangerzone](https://dangerzone.rocks/) - Take potentially dangerous PDFs, office documents, or images and convert them to a safe PDF. [![repo][repo.svg]](https://github.com/firstlookmedia/dangerzone) ![open][open.svg]
 - ❤️ [File Converter](https://file-converter.org/) - A very simple tool which allows you to convert and compress one or several file(s) using the context menu of windows explorer. [![repo][repo.svg]](https://github.com/Tichau/FileConverter) ![open][open.svg]
 - ❤️ [Pandoc](https://pandoc.org/) - Universal markup converter. [![repo][repo.svg]](https://github.com/jgm/pandoc)
+- [FileOnTap HEIC to PNG](https://fileontap.com/heic-to-png/) - Free browser-based HEIC to PNG converter, files never uploaded.
 
 ### File Managers
 
