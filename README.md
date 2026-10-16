@@ -580,6 +580,7 @@
 - [Burner.kiwi](https://burner.kiwi/) - No bullshit temporary mail service written in Go. [![repo][repo.svg]](https://github.com/haydenwoodhead/burner.kiwi) ![open][open.svg]
 - [Guerrilla Mail](https://www.guerrillamail.com/) - A disposable email.
 - [MailDrop](https://maildrop.cc/) - A quick, disposable email. [![repo][repo.svg]](https://gitlab.com/markbeeson/maildrop) ![open][open.svg]
+- [TempMail10min](https://temp-mail10min.online/) - Free disposable temporary email with 5, 10, 15, and 30-minute auto-destruct inboxes for fast OTP verification.
 
 ### IM
 
