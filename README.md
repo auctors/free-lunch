@@ -1294,6 +1294,7 @@
 
 - [ProtonVPN](https://protonvpn.com/) - High-speed Swiss VPN that safeguards your privacy. [![repo][repo.svg]](https://github.com/ProtonVPN/win-app) ![open][open.svg]
 - [Windscribe](https://windscribe.com/) - Free VPN and Ad Blocker. [![repo][repo.svg]](https://github.com/Windscribe/Desktop-App) ![open][open.svg]
+- [Zephyron](https://github.com/NineUPFLOW/Zephyron) - Traffic router that sends each app through Zapret desync, a sing-box tunnel or direct. [![repo][repo.svg]](https://github.com/NineUPFLOW/Zephyron) ![open][open.svg]
 
 ### Others
 
