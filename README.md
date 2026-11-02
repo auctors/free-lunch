@@ -1455,6 +1455,7 @@ AngularJS-powered HTML5 Markdown editor. [![repo][repo.svg]](https://github.com/
 - [Typst](https://typst.app/) - A new markup-based typesetting system that is powerful and easy to learn. [![repo][repo.svg]](https://github.com/typst/typst) ![open][open.svg]
 - [Datawrapper](https://datawrapper.de/) - An open source tool helping everyone to create simple, correct and embeddable charts in minutes.
 - [RAWGraphs](https://rawgraphs.io/) - An open web tool to create custom vector-based visualizations on top of the amazing d3.js library. [![repo][repo.svg]](https://github.com/rawgraphs) ![open][open.svg]
+- [JobEmerge](https://www.jobemerge.work) - AI career copilot with a job-fit test, resume translation in 19 languages, and a Markdown resume editor.
 - [Reactive Resume](https://rxresu.me/) - A free and open source resume builder. [![repo][repo.svg]](https://github.com/AmruthPillai/Reactive-Resume) ![open][open.svg]
 - [Resumake](https://resumake.io/) - A website for automatically generating elegant LaTeX resumes. [![repo][repo.svg]](https://github.com/saadq/resumake.io) ![open][open.svg]
 - ❤️ [KDE Connect](https://kdeconnect.kde.org/) - Enabling communication between all your devices. [![repo][repo.svg]](https://invent.kde.org/network/kdeconnect-kde) [![store][store.svg]](https://apps.microsoft.com/store/detail/9N93MRMSXBF0) ![open][open.svg]
