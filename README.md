@@ -1284,6 +1284,7 @@
 
 - [O&O ShutUp10++](https://www.oo-software.com/en/shutup10) - Free antispy tool for Windows 10 and 11.
 - [Optimizer](https://github.com/hellzerg/optimizer) - The finest Windows Optimizer. ![open][open.svg]
+- [PC Tweaker](https://pctweaker.app/) - Windows 10/11 audio diagnostics and tuning with supported setting restoration. 48 Free controls without an account; optional paid Pro. [![repo][repo.svg]](https://github.com/AurelioAvila/pc-tweaker-app)
 - [Privatezilla](https://github.com/builtbybel/privatezilla) - Performs a privacy & security check of Windows 10. ![open][open.svg]
 - [Bloatynosy](https://github.com/builtbybel/Bloatynosy) - Your everyday Windows companion. ![open][open.svg]
 - [RyTuneX](https://rayenghanmi.github.io/rytunex) - Your one-stop solution for enhancing Windows 10 and 11. Built with precision, designed for performance. [![repo][repo.svg]](https://github.com/rayenghanmi/RyTuneX) ![open][open.svg]
