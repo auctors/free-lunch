@@ -1457,6 +1457,7 @@ AngularJS-powered HTML5 Markdown editor. [![repo][repo.svg]](https://github.com/
 - [RAWGraphs](https://rawgraphs.io/) - An open web tool to create custom vector-based visualizations on top of the amazing d3.js library. [![repo][repo.svg]](https://github.com/rawgraphs) ![open][open.svg]
 - [Reactive Resume](https://rxresu.me/) - A free and open source resume builder. [![repo][repo.svg]](https://github.com/AmruthPillai/Reactive-Resume) ![open][open.svg]
 - [Resumake](https://resumake.io/) - A website for automatically generating elegant LaTeX resumes. [![repo][repo.svg]](https://github.com/saadq/resumake.io) ![open][open.svg]
+- [ResumeInvited](https://resumeinvited.com/) - A free browser resume builder with local drafts and PDF or Word export.
 - ❤️ [KDE Connect](https://kdeconnect.kde.org/) - Enabling communication between all your devices. [![repo][repo.svg]](https://invent.kde.org/network/kdeconnect-kde) [![store][store.svg]](https://apps.microsoft.com/store/detail/9N93MRMSXBF0) ![open][open.svg]
 - Phone Link - Link your Android phone and PC to view and reply to text messages, make and receive calls, view your notifications, and more.
 - [Sefirah](https://github.com/shrimqy/Sefirah) - Phone Link / KDE Connect alternative with Notification Mirroring, Screen Mirroring, Clipboard Sync, File Transfer, Media Control. [![store][store.svg]](https://apps.microsoft.com/detail/9pjv6d1jpg0h) ![open][open.svg]
