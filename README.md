@@ -1472,6 +1472,8 @@ AngularJS-powered HTML5 Markdown editor. [![repo][repo.svg]](https://github.com/
 - [Cerebro](https://cerebroapp.com/) - Open-source productivity booster with a brain. [![repo][repo.svg]](https://github.com/cerebroapp/cerebro) ![open][open.svg]
 - [Flow launcher](https://flowlauncher.com/) - Quick file search & app launcher for Windows with community-made plugins. [![repo][repo.svg]](https://github.com/Flow-Launcher/Flow.Launcher) ![open][open.svg]
 - [Kando](https://kando.menu/) - The Cross-Platform Pie Menu. [![repo][repo.svg]](https://github.com/kando-menu/kando) ![open][open.svg]
+- [LatchLayout](https://github.com/stanczykwyatt/latchlayout) - Windows 11 workspace launcher with configurable hold triggers, browser profiles, URLs, and saved display layouts (preview). ![open][open.svg]
+
 - [LaunchyQt](https://github.com/samsonwang/LaunchyQt) - LaunchyQt is a fork of the keystroke launcher program Launchy but modernized. ![open][open.svg]
 - [Pinpoint](https://github.com/dkgv/pinpoint) - Keystroke launcher and productivity tool. ![open][open.svg]
 - ❤️ [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity. [![store][store.svg]](https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD) ![open][open.svg]
