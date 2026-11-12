@@ -674,6 +674,7 @@
 - [You-Get](https://you-get.org/) - A tiny command-line utility to download media contents (videos, audios, images) from the Web. [![repo][repo.svg]](https://github.com/soimort/you-get) ![open][open.svg]
 - [youtube-dl](http://ytdl-org.github.io/youtube-dl/) - Command-line program to download videos from YouTube.com and other video sites. [![repo][repo.svg]](https://github.com/ytdl-org/youtube-dl)
 - ❤️ [YT-DLP](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes.
+- [HellDownloader](https://github.com/ArkadyYum/HellDownloader) - A browser extension and native host for downloading videos up to 4K/8K 60fps from YouTube, TikTok, Reddit, Twitch, and 1,800+ websites. ![open][open.svg]
 - [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader) - Desktop utility to download images/videos/music/text from various websites, and more.
 - [Media Downloader](https://github.com/mhogomchungu/media-downloader) - A Qt/C++ front end to youtube-dl.
 - [Open Video Downloader](https://jely2002.github.io/youtube-dl-gui/) - A cross-platform GUI for youtube-dl made in Electron and node.js. [![repo][repo.svg]](https://github.com/jely2002/youtube-dl-gui) [![store][store.svg]](https://apps.microsoft.com/store/detail/open-video-downloader/9P53S4T9ZNJ5) ![open][open.svg]
