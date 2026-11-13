@@ -1429,6 +1429,7 @@ AngularJS-powered HTML5 Markdown editor. [![repo][repo.svg]](https://github.com/
 - [Nomie](https://nomie.app/) - Open-source mood and life tracking. [![repo][repo.svg]](https://github.com/open-nomie/nomie5) ![open][open.svg]
 - [Strategr](https://khrykin.github.io/strategr/) - No-Fuss Time Management App. [![repo][repo.svg]](https://github.com/khrykin/StrategrDesktop) ![open][open.svg]
 - [Tockler](https://tockler.trimatech.dev/) - An application that tracks your time by monitoring your active window title and idle time. [![repo][repo.svg]](https://github.com/MayGo/tockler) ![open][open.svg]
+- [WorkTimer](https://zddhhh.github.io/worktimer-subscribe/) - Transparent desktop countdown for flexible work hours (arrive window → leave time). [![repo][repo.svg]](https://github.com/zddhhh/work-timer) ![open][open.svg]
 - [ididit!](https://ididit.today/) - The procrastination friendly habit tracker. [![repo][repo.svg]](https://github.com/Jinjinov/Ididit) [![store][store.svg]](https://apps.microsoft.com/store/detail/ididit/9P5L0K28XWM3) ![open][open.svg]
 - ~~[Habitica](https://habitica.com/) - A habit tracker app which treats your goals like a Role Playing Game.~~ [![repo][repo.svg]](https://github.com/HabitRPG/habitica)
 
